@@ -1,0 +1,1549 @@
+--- TRANG 0 ---
+# Công ty Cổ phần Vincom Retail 
+
+Báo cáo tài chính hợp nhất giữa niên độ
+Quý III năm 2025
+
+--- TRANG 1 ---
+# Công ty Cổ phần Vincom Retail 
+
+## MỤC LỤC
+
+Trang
+Thông tin chung ..... 1
+Báo cáo của Ban Giám đốc ..... 2
+Bảng cân đối kế toán hợp nhất giữa niên độ ..... $3-4$
+Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ ..... $5-6$
+Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ ..... $7-8$
+Thuyết minh báo cáo tài chính hợp nhất giữa niên độ ..... $9-40$
+Phụ lục - Giải trình biến động kết quả kinh doanh so với kỳ trước ..... $41-42$
+
+--- TRANG 2 ---
+# Công ty Cổ phần Vincom Retail 
+
+THÔNG TIN CHUNG
+
+## CÔNG TY
+
+Công ty Cổ phần Vincom Retail ("Công ty"), trước đây là Công ty TNHH Vincom Retail, được thành lập theo Giấy chứng nhận đăng ký kinh doanh số 0105850244 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp ngày 11 tháng 4 năm 2012. Vào ngày 14 tháng 5 năm 2013, Công ty được cấp Giấy chứng nhận đăng ký kinh doanh sửa đổi lần thứ 2 , theo đó Công ty đã chuyển đổi thành công ty cổ phần và đổi tên thành Công ty Cổ phần Vincom Retail. Công ty sau đó cũng nhận được các Giấy chứng nhận đăng ký doanh nghiệp sửa đổi với lần gần nhất là lần thứ 27 được cấp ngày 06 tháng 06 năm 2025 .
+
+Cổ phiếu của Công ty đã được chính thức giao dịch tại Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh từ ngày 6 tháng 11 năm 2017.
+
+Hoạt động chính trong kỳ hiện tại của Công ty là đầu tư, phát triển các trung tâm thương mại để cho thuê và các bất động sản để bán.
+
+Công ty có trụ sở chính tại Tòa nhà văn phòng Symphony, Đường Chu Huy Mãn, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Thành phố Hà Nội, Việt Nam.
+
+## HỘI ĐÔNG QUÂN TRỊ
+
+Các thành viên Hội đồng Quản trị trong kỳ và vào ngày lập báo cáo này như sau:
+
+Bà Trần Mai Hoa
+Chủ tịch
+Ông Nguyễn Thế Anh
+Thành viên
+Ông Nguyễn Hoài Nam
+Thành viên
+Ông Sanjay Vinayak
+Thành viên độc lập
+Ông Fong, Ming Huang Ernest Thành viên độc lập
+
+## BAN GIÁM ĐỐC
+
+Các thành viên Ban Giám đốc trong kỳ và vào ngày lập báo cáo này như sau:
+Bà Phạm Thị Thu Hiền
+Tổng Giám đốc
+Ông Nguyễn Duy Khánh
+Phó Tổng Giám đốc
+Bà Phạm Thị Ngọc Hà
+Giám đốc Tài chính
+
+## BAN KIÊM SOÁT
+
+Các thành viên Ban kiểm soát trong kỳ và vào ngày lập báo cáo này như sau:
+Ông Nguyễn Thành Trung
+Trưởng ban
+Bà Nguyễn Hoàng Mây
+Thành viên
+Bà Nguyễn Việt Hà Lan
+Thành viên
+
+## NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong kỳ và đến ngày lập báo cáo này là bà Trần Mai Hoa, bà Phạm Thị Thu Hiền và ông Trương Đức Dũng.
+
+Bà Phạm Thị Ngọc Hà được người đại diện theo pháp luật của Công ty ủy quyền kỳ báo cáo tài chính của Công ty theo Giấy Ủy quyền số 91/2024/GUQ-VCR ngày 04 tháng 06 năm 2024.
+
+--- TRANG 3 ---
+# Công ty Cổ phần Vincom Retail
+
+## BÁO CÁO CỦA BAN GIÁM ĐỐC
+
+Ban Giám đốc Công ty Cổ phần Vincom Retail ("Công ty") trình bày báo cáo này và báo cáo tài chính hợp nhất giữa niên độ của Công ty và các công ty con cho Quỹ III năm 2025.
+
+## TRÁCH NHIỆM CỦA BAN GIÁM ĐỐC ĐỐI VỚI BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ
+
+Ban Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất giữa niên độ cho từng giai đoạn tài chính phản ánh trung thực và hợp lý tình hình tài chính hợp nhất giữa niên độ, kết quả hoạt động kinh doanh hợp nhất giữa niên độ và tình hình lưu chuyển tiền tệ hợp nhất giữa niên độ của Công ty và các công ty con trong kỳ. Trong quá trình lập báo cáo tài chính hợp nhất giữa niên độ này, Ban Giám đốc cần phải:
+
+- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+- nêu rõ các chuẩn mực kế toán áp dụng cho Công ty và các công ty con có được tuân thủ hay không và tất cả những sai lệch trọng yếu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất; và
+- lập báo cáo tài chính hợp nhất trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Công ty và các công ty con sẽ tiếp tục hoạt động.
+
+Ban Giám đốc chịu trách nhiệm đảm bảo việc các sổ sách kế toán thích hợp được lưu giữ để phản ánh tình hình tài chính hợp nhất giữa niên độ của Công ty và các công ty con, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các sổ sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Công ty và các công ty con và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và những vi phạm khác.
+
+Ban Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất giữa niên độ kèm theo.
+
+## CÔNG BỎ CỦA BAN GIÁM ĐỐC
+
+Theo ý kiến của Ban Giám đốc, báo cáo tài chính hợp nhất giữa niên độ kèm theo phản ánh trung thực và hợp lý tình hình tài chính hợp nhất giữa niên độ của Công ty và các công ty con vào ngày 30 tháng 09 năm 2025, kết quả hoạt động kinh doanh hợp nhất giữa niên độ và tình hình lưu chuyển tiền tệ hợp nhất giữa niên độ cho kỳ hoạt động kết thúc cùng ngày, phù hợp với các Chuẩn mực kế toán Việt Nam, Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ.
+
+![img-0.jpeg](img-0.jpeg)
+
+Phạm Thị Ngọc Hà
+Giám đốc Tài chính
+
+Hà Nội, Việt Nam
+
+Ngày 28 tháng 10 năm 2025
+
+--- TRANG 4 ---
+# Công ty Cổ phần Vincom Retail
+
+## BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIỆN ĐỘ ngày 30 tháng 09 năm 2025
+
+### Đơn vị tỉnh: Triệu VND
+
+|  Mã số | TÀI SẢN | Thuyết
+minh | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- | --- | --- |
+|  100 | **A. TÀI SẢN NGẮN HẠN** |  | 13.768.246 | 12.312.424  |
+|  110 | **I. Tiền và các khoản tương đương tiền** | 4 | 2.808.595 | 2.884.680  |
+|  111 | 1. Tiền |  | 608.595 | 2.884.680  |
+|  112 | 2. Các khoản tương đương tiền |  | 2.200.000 |   |
+|  120 | **II. Đầu tư ngân hạn** |  | 1.134.172 | 125.918  |
+|  123 | 1. Đầu tư nâng cấp đến ngày đào hạn | 5 | 1.134.172 | 125.918  |
+|  130 | **III. Các khoản phải thu ngân hạn** |  | 3.756.420 | 2.016.405  |
+|  131 | 1. Phải thu ngân hạn của khách hàng | 6.1 | 1.452.512 | 1.674.317  |
+|  132 | 2. Trả trước cho người bán ngân hạn | 6.2 | 1.244.041 | 94.909  |
+|  136 | 3. Phải thu ngân hạn khác | 7 | 1.563.908 | 710.589  |
+|  137 | 4. Dự phóng phải thu ngân hạn khó đói | 6.1 | (504.041) | (463.410)  |
+|  140 | **IV. Hàng tồn kho** | 8 | 267.655 | 295.010  |
+|  141 | 1. Hàng tồn kho |  | 267.655 | 295.010  |
+|  150 | **V. Tài sản ngân hạn khác** |  | 5.801.404 | 6.990.411  |
+|  151 | 1. Chi phí trả trước ngân hạn | 9 | 87.844 | 83.717  |
+|  152 | 2. Thuế GTGT được khấu trừ |  | 195.019 | 51.975  |
+|  153 | 3. Thuế và các khoản khác phải thu Nhà nước |  | 1.946 | 721  |
+|  155 | 4. Tài sản ngân hạn khác | 10 | 5.516.595 | 6.853.998  |
+|  200 | **B. TÀI SẢN DÀI HẠN** |  | 47.496.447 | 42.913.731  |
+|  210 | **I. Các khoản phải thu dài hạn** |  | 17.267 | 19.258  |
+|  216 | 1. Phải thu dài hạn khác | 7 | 17.267 | 19.258  |
+|  220 | **II. Tài sản cố định** |  | 238.338 | 221.394  |
+|  221 | 1. Tài sản cố định hữu hình | 11 | 226.431 | 202.635  |
+|  222 | Nguyên giả |  | 525.349 | 479.991  |
+|  223 | Giá trị khấu hao lũy kế |  | (298.918) | (277.356)  |
+|  227 | 2. Tài sản cố định vô hình | 12 | 11.907 | 18.759  |
+|  228 | Nguyên giả |  | 88.566 | 88.456  |
+|  229 | Giá trị hao mòn lũy kế |  | (76.659) | (69.697)  |
+|  230 | **III. Bất động sản đầu tư** | 13 | 27.288.938 | 27.084.397  |
+|  231 | 1. Nguyên giả |  | 39.499.549 | 38.354.003  |
+|  232 | 2. Giá trị hao mòn lũy kế |  | (12.210.611) | (11.269.606)  |
+|  240 | **IV. Tài sản dở dang dài hạn** |  | 288.701 | 801.624  |
+|  242 | 1. Chi phí xây dựng cơ bản dở dang | 14 | 288.701 | 801.624  |
+|  260 | **V. Tài sản dài hạn khác** |  | 19.663.203 | 14.787.058  |
+|  261 | 1. Chi phí trả trước dài hạn | 9 | 437.158 | 433.005  |
+|  262 | 2. Tài sản thuế thu nhập hoãn lại |  | 505.352 | 106.787  |
+|  268 | 3. Tài sản dài hạn khác | 10 | 18.715.911 | 14.197.937  |
+|  269 | 4. Lợi thế thương mại | 15 | 4.782 | 49.329  |
+|  270 | **TỔNG CỘNG TÀI SẢN** |  | 61.264.693 | 55.226.155  |
+
+--- TRANG 5 ---
+# Công ty Cổ phần Vincom Retail
+
+## BÔNG CÂN ĐỔI KẾ TOÁN HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)
+
+### ngày 30 tháng 09 năm 2025
+
+#### Đơn vị tỉnh: Triệu VND
+
+|  Mã số | NGUỒN VÔN | Thuyết
+minh | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- | --- | --- |
+|  300 | C. NỢ PHẢI TRẢ |  | 15.554.965 | 13.303.514  |
+|  310 | I. Nợ ngắn hạn |  | 8.346.821 | 5.920.740  |
+|  311 | 1. Phải trả người bán ngắn hạn | 16 | 539.237 | 461.938  |
+|  312 | 2. Người mua trả tiền trước ngắn hạn | 17 | 184.478 | 184.770  |
+|  313 | 3. Thuê và các khoản phải nộp Nhà nước | 18 | 1.613.413 | 1.135.316  |
+|  314 | 4. Phải trả người lao động |  | - | 245  |
+|  315 | 5. Chi phí phải trả ngắn hạn | 19 | 1.225.664 | 1.123.855  |
+|  318 | 6. Doanh thu chưa thực hiện ngắn hạn | 21 | 37.906 | 32.655  |
+|  319 | 7. Phải trả ngắn hạn khác | 20 | 4.721.734 | 968.841  |
+|  320 | 8. Vay và nợ ngắn hạn | 22.1 | 21.875 | 2.009.752  |
+|  321 | 9. Dự phòng phải trả ngắn hạn |  | 1.909 | 1.812  |
+|  322 | 10. Quỹ khen thưởng, phúc lợi |  | 605 | 1.556  |
+|  330 | II. Nợ dài hạn |  | 7.208.144 | 7.382.774  |
+|  336 | 1. Doanh thu chưa thực hiện dài hạn | 21 | 122.682 | 126.557  |
+|  337 | 2. Phải trả dài hạn khác | 20 | 633.264 | 4.663.323  |
+|  338 | 3. Vay và nợ dài hạn | 22.2 | 6.383.723 | 2.523.103  |
+|  341 | 4. Thuê thu nhập hoãn lại phải trả |  | 68.475 | 69.791  |
+|  400 | D. VÔN CHỦ SỞ HỮU |  | 45.709.728 | 41.922.641  |
+|  410 | I. Vốn chủ sở hữu | 23 | 45.709.728 | 41.922.641  |
+|  411 | 1. Vốn cổ phần đã phát hành |  | 23.288.184 | 23.288.184  |
+|  411a | - Cổ phần phổ thông có quyền biểu quyết |  | 23.288.184 | 23.288.184  |
+|  412 | 2. Thặng dư vốn cổ phần |  | 46.983 | 46.983  |
+|  415 | 3. Cổ phiếu quỹ |  | (1.954.258) | (1.954.258)  |
+|  420 | 4. Quỹ khác thuộc vốn chủ sở hữu |  | (53.137) | (53.137)  |
+|  421 | 5. Lợi nhuận sau thuế chưa phân phối |  | 24.381.594 | 20.594.507  |
+|  421a | - Lợi nhuận sau thuế chưa phân phối đến cuối năm trước |  | 20.594.507 | 16.498.727  |
+|  421b | - Lợi nhuận sau thuế chưa phân phối năm nay |  | 3.787.087 | 4.095.780  |
+|  429 | 6. Lợi ích cổ đông không kiểm soát |  | 362 | 362  |
+|  440 | TÔNG CỘNG NGUỒN VÔN |  | 61.264.693 | 55.226.155  |
+
+Nguyễn Thanh Hoài
+
+Người lập
+
+Nguyễn Thị Lan Hương
+
+Kế toán trưởng
+
+Phạm Thị Ngọc Hà
+
+Giám đốc Tài chính
+
+Ngày 28 tháng 10 năm 2025
+
+--- TRANG 6 ---
+# Công ty Cổ phần Vincom Retail
+
+BÁO CÁO KÉT QUÁ KINH DOANH HỢP NHÁT GIỮA NIÊN Độ Quý III năm 2025
+
+Đơn vị tỉnh: Triệu VND
+
+|  Mã số | CHÍ TIÊU | Thuyết
+minh | Quý III năm
+2025 | Quý III năm 2024 | Cho giai đoạn tài
+chính 9 tháng kết
+thúc ngày 30 tháng
+09 năm 2025 | Cho giai đoạn tài
+chính 9 tháng kết
+thúc ngày 30 tháng
+09 năm 2024  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  01 | 1. Doanh thu bán hàng và cung cấp dịch vụ | 24.1 | 2.251 .000 | 2.077 .717 | 6.525 .054 | 6.810 .958  |
+|  02 | 2. Các khoản giảm trừ doanh thu | 24.1 | - | - | - | -  |
+|  10 | 3. Doanh thu thuần về bán hàng và cung cấp dịch vụ | 24.1 | 2.251 .000 | 2.077 .717 | 6.525 .054 | 6.810 .958  |
+|  11 | 4. Giá vốn hàng bán và dịch vụ cung cấp | 25 | (1.113.974) | (988.433) | (3.003.497) | (3.257.024)  |
+|  20 | 5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ |  | 1.137 .026 | 1.089 .284 | 3.521 .557 | 3.553 .934  |
+|  21 | 6. Doanh thu hoạt động tài chính | 24.2 | 802.498 | 383.179 | 2.104 .265 | 1.238 .508  |
+|  22 | 7. Chi phí tài chính | 26 | (350.332) | (243.840) | (861.631) | (563.070)  |
+|  23 | Trong đó: Chi phí lãi vay |  | (171.677) | (107.378) | (443.048) | (313.700)  |
+|  25 | 8. Chi phí bán hàng | 27 | (47.042) | (77.171) | (155.745) | (197.158)  |
+|  26 | 9. Chi phí quản lý doanh nghiệp | 27 | (93.927) | (170.379) | (319.933) | (473.226)  |
+|  30 | 10. Lợi nhuận thuần từ hoạt động kinh doanh |  | 1.448 .223 | 981.073 | 4.288 .513 | 3.558 .988  |
+|  31 | 11. Thu nhập khác |  | 278.128 | 139.796 | 491.623 | 261.791  |
+|  32 | 12. Chi phí khác |  | (4.903) | (2.123) | (37.672) | (57.776)  |
+|  40 | 13. Lãi từ hoạt động khác |  | 273.225 | 137.673 | 453.951 | 204.015  |
+
+--- TRANG 7 ---
+# Công ty Cổ phần Vincom Retail
+
+## BÁO CÁO KẾT QUẢ KINH DOANH HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)
+
+### Quý III năm 2025
+
+**Đơn vị tỉnh:** Triệu VND
+
+|  Mã số | Chỉ Tiểu | Thuyết minh | Quý III năm 2025 | Quý III năm 2024 | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2025 | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2024  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  50 | 14. Tổng lợi nhuận kế toán trước thuế |  | 1.721.448 | 1.118.746 | 4.742.464 | 3.763.003  |
+|  51 | 15. Chi phí thuế TNDN hiện hành | 28 | (344.960) | (239.107) | (1.355.259) | (801.706)  |
+|  52 | 16. (Chi phí)/Thu nhập thuế TNDN hoàn lại | 28 | (58) | 26.761 | 399.882 | 49.151  |
+|  60 | 17. Lợi nhuận sau thuế TNDN |  | 1.376.430 | 906.400 | 3.787.087 | 3.010.448  |
+|  61 | 18. Lợi nhuận sau thuế của công ty mẹ |  | 1.376.430 | 906.400 | 3.787.087 | 3.010.448  |
+|  62 | 19. Lợi nhuận sau thuế thuộc về các cổ đông không kiểm soát |  | - | - | - | -  |
+
+Nguyễn Thanh Hoài
+Người lập
+
+Nguyễn Thị Lan Hương
+Kế toán trưởng
+
+Tham Thị Ngọc Hà
+Giám đốc Tài chính
+
+Ngày 28 tháng 10 năm 2025
+
+--- TRANG 8 ---
+# Công ty Cổ phần Vincom Retail
+
+## BÃO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT GIỮA NIỆN ĐỘ
+
+### Quý III năm 2025
+
+#### Đơn vị tỉnh: Triệu VND
+
+|  Mã số | CHÍ TIÊU | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2025 | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2024  |
+| --- | --- | --- | --- |
+|  01 | **Lợi nhuận trước thuế**
+*Điều chỉnh cho các khoản:*
+Khẩu hao tài sản cố định hữu hình, bất động sản đầu tư và hao mòn tài sản cố định vô hình (bao gồm phân bổ lợi thế thương mại và phân bổ tiền đất) | 4.742.464 | 3.763.003  |
+|  02 | Các khoản dự phòng
+Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ | 1.034.075 | 1.025.413  |
+|  03 | Lãi từ hoạt động đầu tư
+Chi phí lãi vay và chi phí phát hành | 40.728 | 184.880  |
+|  04 | **Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động** | 92.006 | 24.193  |
+|  05 | Thay đổi các khoản phải thu
+Thay đổi hàng tồn kho | (2.104.257)
+507.899 | (1.244.918)
+418.611  |
+|  06 | Thay đổi các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp) | 4.312.915 | 4.171.182  |
+|  07 | Thay đổi chi phí trả trước
+Tiền lãi vay đã trả | (4.300.408)
+27.355 | (6.137.288)
+388.747  |
+|  08 | Thuế thu nhập doanh nghiệp đã nộp
+**Lưu chuyển tiền thuần từ hoạt động kinh doanh** | 427.400 | 2.975.094  |
+|  09 | **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ**
+Tiền chi để mua sắm, xây dựng tài sản cố định (TSCĐ) và các tài sản dài hạn khác | (884.030) | (1.849.074)  |
+|  10 | Tiền thu do thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác | 1.015 | 10.799  |
+|  11 | Tiền chi cho vay, mua các công cụ nợ của đơn vị khác | (1.012.023) | (2.913.206)  |
+|  12 | Tiền thu hồi cho vay, bán lại công cụ nợ của đơn vị khác | 4.369 | 3.865.560  |
+|  13 | Tiền chi đầu tư góp vốn vào đơn vị khác (trừ đi tiền thu về) | - | (352)  |
+|  14 | Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia | 951.974 | 464.598  |
+|  15 | **Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư** | (938.695) | (421.675)  |
+
+--- TRANG 9 ---
+# Công ty Cổ phần Vincom Retail
+
+## BÃO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)
+
+### Quý III năm 2025
+
+#### Đơn vị tỉnh: Triệu VND
+
+|  Mã số | CHÍ TIÊU | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2025 | Cho giai đoạn tài chính 9 tháng kết thúc ngày 30 tháng 09 năm 2024  |
+| --- | --- | --- | --- |
+|  31 | **III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH** |  |   |
+|   | Tiền thu từ phát hành cổ phiếu, nhận góp vốn của chủ sở hữu | - | 362  |
+|  33 | Tiền thu từ đi vay | 6.272.960 | (700)  |
+|  34 | Tiền trả nợ gốc vay | (4.445.580) | -  |
+|  35 | Tiền chi trả nợ gốc thuê tài chính | (17.117) | (16.048)  |
+|  40 | Lưu chuyển tiền thuần từ hoạt động tài chính | 1.810.263 | (16.386)  |
+|  50 | Lưu chuyển tiền và tương đương tiền thuần trong kỳ | (76.085) | (674.670)  |
+|  60 | Tiền và tương đương tiền đầu kỳ | 2.884.680 | 4.101.549  |
+|  70 | Tiền và tương đương tiền cuối kỳ | 2.808.595 | 3.426.879  |
+
+Nguyễn Thanh Hoài, Người lập
+
+Nguyễn Thị Lan Hương, Kế toán trưởng
+
+Phạm Thị Ngọc Hà, Giám đốc Tài chính
+
+Ngày 28 tháng 10 năm 2025
+
+--- TRANG 10 ---
+# Công ty Cổ phần Vincom Retail
+
+## 1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Vincom Retail ("Công ty"), trước đây là Công ty TNHH Vincom Retail, được thành lập theo Giấy chứng nhận đăng ký kinh doanh số 0105850244 do Sở Kế hoạch và Đầu tư thành phố Hà Nội cấp ngày 11 tháng 4 năm 2012. Vào ngày 14 tháng 5 năm 2013, Công ty được cấp Giấy chứng nhận đăng ký kinh doanh sửa đổi lần thứ 2, theo đó Công ty đã chuyển đổi thành công ty cổ phần và đổi tên thành Công ty Cổ phần Vincom Retail. Công ty sau đó cũng nhận được các Giấy chứng nhận đăng ký doanh nghiệp sửa đổi với lần gần nhất là lần thứ 27 được cấp ngày 06 tháng 06 năm 2025.
+
+Cổ phiếu của Công ty đã được chính thức giao dịch tại Sở Giao dịch Chứng khoán thành phố Hồ Chí Minh từ ngày 6 tháng 11 năm 2017.
+
+Hoạt động chính trong kỳ hiện tại của Công ty là đầu tư, phát triển các trung tâm thương mại để cho thuê và các bất động sản để bán.
+
+Chu kỳ sản xuất kinh doanh của hoạt động phát triển và chuyển nhượng bất động sản của Công ty bắt đầu từ thời điểm xin giấy phép đầu tư, thực hiện giải phóng mặt bằng, xây dựng cơ bản cho đến thời điểm hoàn thiện dự án, do vậy, chu kỳ sản xuất kinh doanh của hoạt động chuyển nhượng bất động sản của Công ty thông thường là từ 12 tháng đến 36 tháng. Chu kỳ sản xuất, kinh doanh của các hoạt động khác của Công ty thông thường là trong vòng 12 tháng.
+
+Công ty có trụ sở chính tại Tòa nhà văn phòng Symphony, Đường Chu Huy Mãn, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Thành phố Hà Nội, Việt Nam.
+
+Số lượng nhân viên của Công ty và các công ty con tại ngày 30 tháng 09 năm 2025 là 1.601 nhân viên (ngày 31 tháng 12 năm 2024: 2.480 nhân viên).
+
+## Cơ cấu tổ chức
+
+Vào ngày 30 tháng 09 năm 2025, Công ty có các công ty con như sau:
+
+|  STT | Tên công ty | Tỷ lệ biểu quyết (\%) | Tỷ lệ lợi ích (\%) | Trụ sở chính | Hoạt động chính  |
+| --- | --- | --- | --- | --- | --- |
+|  1 | Công ty TNHH Vận hành Vincom Retail | 100,00 | 100,00 | Tòa nhà Symphony, Đường Chu Huy Mãn, Phường Phúc Lợi, Thành phố Hà Nội | Cho thuê mặt bằng bán lẻ và kinh doanh bất động sản  |
+|  2 | Công ty TNHH Vincom Retail Landmark 81 | 100,00 | 100,00 | Tầng 20A, Tòa nhà Vincom Center Đồng Khởi, 72 Lê Thánh Tông, Phường Sài Gòn, Thành phố Hồ Chí Minh, | Cho thuê mặt bằng bán lẻ và kinh doanh bất động sản  |
+|  3 | Công ty TNHH Bất động sản Vincom NCT | 99,99 | 99,99 | Số 54A Nguyễn Chí Thanh, Phường Láng, Thành phố Hà Nội, Việt Nam | Cho thuê mặt bằng bán lẻ và kinh doanh bất động sản  |
+
+Tại ngày 11 tháng 09 năm 2025, Công ty TNHH Đầu tư và Phát triển Suối Hoa, công ty con của Công ty, đã được sáp nhập vào Công ty TNHH Vận hành Vincom Retail.
+
+--- TRANG 11 ---
+# 2. CƠ SỞ TRÌNH BẢY 
+
+### 2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Công ty và các công ty con được trình bày bằng đồng Việt Nam ("VND") và được lập phù hợp với Chế độ kế toán doanh nghiệp Việt Nam và Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 02 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+Theo đó, báo cáo tài chính hợp nhất được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+### 2.2 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán được áp dụng của Công ty và các công ty con là Nhật ký chung.
+
+### 2.3 Kỳ kế toán năm
+
+Kỳ kế toán năm của Công ty và các công ty con bắt đầu từ ngày 01 tháng 01 và kết thúc ngày 31 tháng 12 .
+
+Báo cáo tài chính hợp nhất giữa niên độ kèm theo được lập cho kỳ hoạt động 9 tháng kết thúc ngày 30 tháng 09 năm 2025.
+
+### 2.4 Đơn vị tiền tệ sử dụng trong kế toán
+
+Đơn vị tiền tệ sử dụng trong kế toán của Công ty là đồng Việt Nam ("VND"). Cho mục đích trình bày báo cáo tài chính hợp nhất cho Quý III năm 2025 này, các số liệu được làm tròn đến hàng triệu và trình bày theo đơn vị triệu đồng Việt Nam ("triệu VND").
+
+### 2.5 Cơ sở hợp nhất
+
+Báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Công ty và các công ty con cho giai đoạn tài chính kết thúc ngày 30 tháng 09 năm 2025.
+
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Công ty nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Công ty chấm dứt quyền kiểm soát đối với công ty con.
+
+Báo cáo tài chính của Công ty và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán và được áp dụng các chính sách kế toán một cách thống nhất.
+
+--- TRANG 12 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo)
+Quý III năm 2025
+2. CƠ SỞ TRÌNH BÀY (tiếp theo)
+2.5 Cơ sở hợp nhất (tiếp theo)
+
+Số dư các tài khoản trên bảng cân đối kế toán giữa Công ty và các công ty con và giữa các công ty con, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+Lợi ích của các cố đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Công ty và được trình bày riêng biệt trên báo cáo kết quả hoạt động kinh doanh hợp nhất và được trình bày riêng biệt trong phần vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất .
+
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU
+
+# 3.1 Tiền và các khoản tương đương tiền 
+
+Tiền và các khoản tương đương tiền bao gồm tiền gửi ngân hàng, tiền đang chuyển, các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+### 3.2 Hàng tồn kho
+
+Hàng tồn kho bất động sản
+Bất động sản được xây dựng để bán hoặc để cho thuê dài hạn đáp ứng được điều kiện ghi nhận doanh thu một lần trong quá trình hoạt động bình thường của Công ty và các công ty con, không phải để cho thuê hoặc chờ tăng giá, được ghi nhận là hàng hóa bất động sản theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá thành của thành phầm bất động sản bao gồm:
+
+- Chi phí tiền sử dụng đất, tiền thuê đất, và các chi phí phát triển đất;
+- Chi phí xây dựng trả cho nhà thầu; và
+- Chi phí lãi vay, chi phí tư vấn, thiết kế, chi phí san lấp, đến bù giải phóng mặt bằng, phí tư vấn, thuế chuyển nhượng đất, chi phí quản lý xây dựng chung, và các chi phí liên quan khác.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho bất động sản trong điều kiện kinh doanh bình thường, dựa trên giá thị trường vào ngày báo cáo, và trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Giá vốn của hàng tồn kho bất động sản đã bán được ghi nhận trên báo cáo kết quả hoạt động kinh doanh hợp nhất dựa trên các chi phí trực tiếp tạo thành bất động sản đó và chi phí chung được phân bố theo các tiêu thức phù hợp.
+
+Hàng tồn kho khác
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí và điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+--- TRANG 13 ---
+# Công ty Cổ phần Vincom Retail 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo)
+Quý III năm 2025
+Công ty và các công ty con áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho, giá trị của hàng tồn kho được xác định theo phương pháp bình quân gia quyển.
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHÚ YÉU (tiếp theo)
+
+### 3.2 Hàng tồn kho (tiếp theo)
+
+Dự phòng giảm giá hàng tồn kho
+Dự phòng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tốn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với nguyên vật liệu, thành phẩm, hàng hoá tồn kho thuộc quyền sở hữu của Công ty và các công ty con dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc giai đoạn tài chính. Sở tăng hoặc giảm khoản dự phòng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+### 3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất theo giá trị ghi sổ các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ dự phòng được lập cho các khoản phải thu khó đòi.
+
+Dự phòng nợ phải thu khó đòi thể hiện phần giá trị của các khoản phải thu mà Công ty và các công ty con dự kiến không có khả năng thu hồi tại ngày kết thúc giai đoạn tài chính. Tăng hoặc giảm sổ dư tài khoản dự phòng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+### 3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến.
+
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản, và chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+### 3.5 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+Tài sản theo hợp đồng thuê tài chính được vốn hóa trên bảng cân đối kế toán hợp nhất tại thời điểm khởi đầu thuê tài sản theo giá trị thấp hơn giữa giá trị hợp lý của tài sản thuê và giá trị hiện tại của khoản thanh toán tiền thuê tối thiểu. Khoản tiền gốc trong các khoản thanh toán tiền thuê trong tương lai theo hợp đồng thuê tài chính được hạch toán như khoản nợ phải trả. Khoản tiền lãi trong các khoản thanh toán tiền thuê được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong suốt thời gian thuê tài sản theo lãi suất cố định trên sổ dư còn lại của khoản nợ thuê tài chính phải trả.
+
+--- TRANG 14 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) 
+
+### 3.5 Thuê tài sản (tiếp theo)
+
+Tài sản thuê tài chính đã được vốn hóa được trích khẩu hao theo phương pháp khẩu hao đường thẳng theo thời gian ngắn hơn giữa thời gian hữu dụng ước tính và thời hạn thuê tài sản, nếu không chắc chắn là bên thuê sẽ được chuyển giao quyền sở hữu tài sản khi hết hạn hợp đồng thuê.
+
+Các tài sản thuê tài chính của Công ty và các công ty con đang được ghi nhận trên chỉ tiêu bất động sản đâu tư thuộc bằng cân đối kế toán hợp nhất.
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+Chi phí trực tiếp ban đầu phát sinh trong quá trình đàm phán ký hợp đồng được ghi nhận vào chi phí trong kỳ khi phát sinh hoặc phân bổ dẫn vào chi phí trong suốt thời hạn cho thuê phù hợp với việc ghi nhận doanh thu từ cho thuê tương ứng. Tài sản theo hợp đồng cho thuê hoạt động được ghi nhận là bất động sản đâu tư trên bằng cân đối kế toán hợp nhất giữa niên độ.
+
+### 3.6 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sẵn sàng hoạt động như dự kiến. Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản, và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất.
+
+### 3.7 Khẩu hao và hao mòn
+
+Khẩu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+Nhà cửa và vật kiến trúc
+Máy móc và thiết bị
+Thiết bị văn phòng
+Phần mềm máy tính
+Tài sản cố định khác
+
+5 - 50 năm
+2 - 15 năm
+3 - 15 năm
+3 - 8 năm
+3 - 15 năm
+
+--- TRANG 15 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.8 Bất động sản đả̉u tư
+
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kể.
+
+Nguyên giá bất động sản đầu tư bao gồm các chi phí bằng tiền hoặc giá trị hợp lý của các tài sản mà Công ty và các công ty con bỏ ra để mua hoặc để xây dựng và phát triển bất động sản đầu tư tính đến thời điểm hoàn thành việc mua hoặc việc xây dựng bất động sản đầu tư đó. Công ty và các công ty con ghi nhận bất động sản đầu tư được mua trên báo cáo tài chính hợp nhất kể từ thời điểm Công ty và các công ty con nhận chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản đầu tư từ bên chuyển giao tài sản, không phụ thuộc vào hình thức của hợp đồng mua hoặc thời điểm chuyển giao hồ sơ pháp lý liên quan đến quyền sở hữu tài sản.
+
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán vào giá trị còn lại của bất động sản đầu tư khi Công ty và các công ty con có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+
+Quyền sử dụng đất được ghi nhận là bất động sản đầu tư bao gồm quyền sử dụng đất có thời hạn và quyền sử dụng đất lâu dài được cấp cho Công ty nhằm mục đích phát triển các bất động sản đầu tư. Quyền sử dụng đất có thời hạn đó được trích khẩu hao trong suốt thời hạn được cấp phép. Quyền sử dụng đất lâu dài không tính hao mòn.
+
+Khẩu hao bất động sản đầu tư được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản như sau:
+
+Quyền sử dụng đất, nhà cửa và vật kiến trúc
+$5-50$ năm
+Máy móc và thiết bị
+$3-25$ năm
+Quyền sử dụng đất lâu dài được ghi nhận là bất động sản đầu tư căn cứ trên giấy chứng nhận quyền sử dụng đất được cấp bởi các cơ quan có thẩm quyền và không tính hao mòn.
+
+Bất động sản đầu tư không còn được trình bày trong bảng cân đối kể toán hợp nhất sau khi đã bán hoặc sau khi bất động sản đầu tư đã không còn được sử dụng và xét thấy không thu được lợi ích kinh tế trong tương lai từ việc thanh lý bất động sản đầu tư đó. Chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của bất động sản đầu tư được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất trong kỳ thanh lý.
+
+Việc chuyển từ bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho thành bất động sản đầu tư chỉ khi có sự thay đổi về mục đích sử dụng như trường hợp chủ sở hữu chấm dứt sử dụng tài sản đó và bắt đầu cho bên khác thuê hoạt động hoặc khi kết thúc giai đoạn xây dựng. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hay hàng tồn kho chỉ khi có sự thay đổi về mục đích sử dụng như các trường hợp chủ sở hữu bắt đầu sử dụng tài sản này hoặc bắt đầu triển khai cho mục đích bán. Việc chuyển từ bất động sản đầu tư sang bất động sản chủ sở hữu sử dụng hoặc hàng tồn kho không làm thay đổi nguyên giá hay giá trị còn lại của bất động sản tại ngày chuyển đổi.
+
+Công ty và các công ty con cũng tham gia góp vốn để hợp tác đầu tư xây dựng và phát triển các trung tâm thương mại. Theo các thỏa thuận hợp tác đầu tư Công ty có quyền kiểm soát trung tâm thương mại tại thời điểm Công ty và các công ty con nhận bán giao trung tâm thương mại từ bên đối tác để vận hành hoạt động kinh doanh. Công ty và các công ty con sẽ ghi nhận bất động sản đầu tư trên bảng cân đối kể toán hợp nhất tại thời điểm Công ty và các công ty con nhận bán giao tài sản để vận hành và khai thác.
+
+--- TRANG 16 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.9 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty và các công ty con.
+
+Chi phí đi vay được hạch toán như chi phí phát sinh trong kỳ ngoại trừ các khoản chi phí đi vay liên quan trực tiếp đến việc mua sắm, xây dựng hoặc hình thành một tài sản cụ thể cần có một thời gian đủ dài để có thể đưa vào sử dụng theo mục đích định trước hoặc để bán được vốn hóa vào nguyên giá của tài sản đó.
+
+### 3.10 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngần hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.
+
+Chi phí trả trước dài hạn bao gồm chi phí thuê đắt dài hạn trả trước được ghi nhận theo Thông tư số 45/2013/TT-BTC, tiền thuê mặt bằng trả trước theo hợp đồng thuê hoạt động, chi phí trước hoạt động, công cụ dụng cụ xuất dùng và các chi phí trả trước khác mang lại lợi ích kinh tế trong khoảng thời gian trên một năm.
+
+### 3.11 Hợp nhất kinh doanh và lợi thế thương mại
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản đã mua, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh đều ghi nhận theo giá trị hợp lý tại ngày hợp nhất kinh doanh.
+
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với phần sở hữu của bên mua trong giá trị hợp lý thuần của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiềm tàng đã ghi nhận. Trong trường hợp giá phí hợp nhất kinh doanh thấp hơn phần sở hữu của bên mua đối với giá trị hợp lý của tài sản thuần của bên bị mua, khoản chênh lệch này được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất . Sau khi ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng giá gốc trừ đi hao mòn lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính không quá mười (10) năm. Định kỳ, Công ty đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn số phân bổ hàng năm thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong kỳ phát sinh.
+
+## Mua tài sản và hợp nhất kinh doanh
+
+Công ty và các công ty con mua các công ty sở hữu dự án bất động sản. Tại thời điểm mua, Công ty sẽ xác định liệu việc mua công ty con có phải là giao dịch hợp nhất kinh doanh hay không. Giao dịch này được coi là hoạt động hợp nhất kinh doanh nếu công ty con có các hoạt động kinh doanh.
+
+Nếu việc mua lại công ty con không phải là giao dịch hợp nhất kinh doanh, giao dịch đó được hạch toán như là một giao dịch mua một nhóm các tài sản và nợ phải trả. Giá phí mua được phân bổ vào các tài sản và nợ phải trả dựa trên giá trị hợp lý tương ứng của các tài sản và nợ phải trả, và không có lợi thế thương mại hay thuế hoãn lại được ghi nhận.
+
+--- TRANG 17 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.11 Hợp nhất kinh doanh và lợi thế thương mại (tiếp theo)
+
+Hợp nhất kinh doanh giữa các doanh nghiệp cùng dưới sự kiểm soát chung.
+Giao dịch hợp nhất kinh doanh được thực hiện giữa các doanh nghiệp cùng dưới sự kiểm soát chung được thực hiện như sau:
+
+- Tài sản và nợ của các đơn vị được hợp nhất theo giá trị ghi sổ tại ngày hợp nhất;
+- Không có lợi thế thương mại phát sinh từ giao dịch hợp nhất;
+- Báo cáo kết quả hoạt động kinh doanh hợp nhất phản ánh kết quả hoạt động kinh doanh từ thời điểm hợp nhất; và
+- Chênh lệch giữa giá phí hợp nhất và tài sản thuần của bên bị hợp nhất được ghi nhận vào vốn chủ sở hữu.
+
+Trường hợp Công ty thoái vốn mất quyền kiểm soát trong công ty con trước kia được hợp nhất kinh doanh dưới sự kiểm soát chung, phần chênh lệch ghi nhận vào vốn chủ sở hữu giữa giá phí hợp nhất và tài sản thuần của công ty con tại ngày mua sẽ được phân loại lại vào lợi nhuận sau thuế chưa phân phối tại ngày thoái vốn.
+
+### 3.12 Đầu tư nắm giữ đến ngày đáo hạn
+
+Các khoản đầu tư nắm giữ đến ngày đáo hạn được ghi nhận theo giá gốc. Sau ghi nhận ban đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị của khoản đầu tư nếu phát sinh được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất và giảm trừ trực tiếp giá trị đầu tư.
+
+### 3.13 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty và các công ty con đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+Các khoản phải trả nhà thầu xây dựng cho các dự án bất động sản được ghi nhận theo biên bản nghiệm thu khối lượng giữa hai bên, không phụ thuộc vào việc Công ty và các công ty con đã nhận được hóa đơn của nhà thầu xây dựng hay chưa.
+
+### 3.14 Các khoản dự phòng
+
+Công ty và các công ty con ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đới) là kết quả của một sự kiện đã xảy ra trong quá khứ. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Công ty và các công ty con có thể đưa ra được một ước tính đáng tin cậy về giá trị của nghĩa vụ nợ đó. Nếu ảnh hưởng về giá trị thời gian của tiền là trọng yếu thì giá trị của một khoản dự phòng cần được chiết khấu về giá trị hiện tại sử dụng tỷ lệ chiết khấu là tỷ lệ trước thuế và phản ảnh rõ những rủi ro cụ thể của khoản nợ đó. Khi giá trị của khoản dự phòng được chiết khấu, phần tăng lên theo thời gian của khoản dự phòng được ghi nhận là chi phí tài chính.
+
+Chi phí liên quan đến các khoản dự phòng được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất .
+
+Dự phòng chi phí bảo hành cho căn hộ và nhà phố thương mại
+Công ty và các công ty con ước tính chi phí dự phòng bảo hành dựa trên doanh thu và các thông tin hiện có về chi phí sửa chữa của các căn hộ và nhà phố thương mại đã bán trong quá khứ.
+
+--- TRANG 18 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.15 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Công ty và các công ty con (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty và các công ty con dự kiến giao dịch; và
+- Giao dịch góp vốn hoặc nhận vốn góp được hạch toán theo tỷ giá mua ngoại tệ của ngân hàng nơi Công ty và các công ty con mở tài khoản để nhận vốn của nhà đầu tư.
+
+Tại ngày kết thúc giai đoạn tài chính, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bảng cân đối kế toán hợp nhất theo nguyên tắc sau:
+
+- Các khoản mục tiền tệ được phân loại là tài sản được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Công ty và các công ty con thường xuyên có giao dịch; và
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Công ty và các công ty con thường xuyên có giao dịch.
+
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong kỳ và chênh lệch do đánh giá lại sổ dự tiền tệ có gốc ngoại tệ cuối kỳ được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất .
+
+### 3.16 Cố phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Công ty và các công ty con mua lại (cố phiếu quỹ) được ghi nhận theo nguyên giá trừ vào vốn chủ sở hữu. Công ty và các công ty con không ghi nhận các khoản lãi/(lỗ) khi mua, bán, tái phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+### 3.17 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rẻ) có thể được chia cho các nhà đầu tư sau khi được Đại hội đồng cổ đông phê duyệt và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+### 3.18 Người mua trả triển trước
+
+Các khoản tiền khách hàng ứng trước để mua nhà ở, căn hộ trong tương lai mà chưa đủ điều kiện để được ghi nhận là doanh thu trong kỳ được phản ánh trong tài khoản "Người mua trả tiền trước" trên bảng cân đối kế toán hợp nhất.
+
+### 3.19 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty và các công ty con có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu.
+
+--- TRANG 19 ---
+# 3. TÓM TÁT CÁC CHÍNH SÁCH KÉ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.19 Ghi nhận doanh thu (tiếp theo)
+
+Doanh thu chuyển nhượng bất động sản
+Doanh thu chuyển nhượng bất động sản được ghi nhận khi phần lớn các rủi ro và lợi ích gắn liền với quyền sở hữu bất động sản được chuyển giao cho người mua. Đối với giao dịch bán hàng nhiều cầu phần làm phát sinh nghĩa vụ của người bán ở thời điểm trong tương lai, doanh thu ghi nhận là giá trị hợp lý của các khoản đã thu hoặc sẽ thu trừ đi giá trị hợp lý cho phần nghĩa vụ chưa được thực hiện.
+Doanh thu chuyển nhượng bất động sản cũng bao gồm doanh thu ghi nhận một lần từ việc cho thuê dài hạn bất động sản. Trường hợp thời gian cho thuê chiếm trên $90 \%$ thời gian sử dụng hữu ích của tài sản, Công ty và các công ty con lựa chọn phương pháp ghi nhận doanh thu một lần đối với toàn bộ số tiền cho thuê nhận trước nếu thỏa mãn đồng thời các điều kiện sau:
+
+- Bên đi thuê không có quyền hủy ngang hợp đồng thuê và doanh nghiệp cho thuê không có nghĩa vụ phải trả lại số tiền đã nhận trước trong mọi trường hợp và dưới mọi hình thức;
+- Số tiền nhận trước từ việc cho thuê không nhỏ hơn $90 \%$ tổng số tiền cho thuê dự kiến thu được theo hợp đồng trong suốt thời hạn cho thuê và bên đi thuê phải thanh toán toàn bộ số tiền thuê trong vòng 12 tháng kể từ thời điểm khởi đầu thuê tài sản;
+- Hầu như toàn bộ rủi ro và lợi ích gắn liền với quyền sở hữu tài sản thuê đã chuyển giao cho bên đi thuê; và
+- Doanh nghiệp cho thuê phải ước tính được tương đối đầy đủ giá vốn của hoạt động cho thuê.
+
+
+## Doanh thu cho thuê bất động sản đầu tư
+
+Doanh thu cho thuê được ghi nhận theo phương pháp đường thẳng trong suốt thời gian cho thuê, không phụ thuộc vào phương thức thanh toán, trừ khi áp dụng phương pháp tính khác hợp lý hơn.
+
+## Doanh thu cung cấp dịch vụ
+
+Doanh thu liên quan đến hoạt động khu vui chơi giải trí, hoạt động quản lý, môi giới cho thuê trung tâm thương mại và các dịch vụ có liên quan khác được ghi nhận khi dịch vụ được cung cấp và kết quả hợp đồng có thể được xác định một cách chắc chắn, doanh thu sẽ được ghi nhận dựa vào mức độ hoàn thành công việc.
+
+Thu nhập từ hoạt động chuyển nhượng vốn
+Thu nhập từ hoạt động chuyển nhượng vốn được xác định là phần chênh lệch giữa giá bán và giá vốn của khoản đầu tư. Thu nhập này được ghi nhận vào ngày hoàn tất giao dịch.
+
+## Tiền lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+## Cố tức
+
+Cố tức được ghi nhận là doanh thu khi quyền lợi được nhận cố tức của Công ty và các công ty con với tư cách là nhà đầu tư được xác lập.
+
+--- TRANG 20 ---
+# 3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo) 
+
+### 3.20 Thuế
+
+Thuế thu nhập hiện hành
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến được thu hồi từ hoặc phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán năm.
+Thuế thu nhập hiện hành được ghi nhận vào kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thắng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Công ty và các công ty con chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Công ty và các công ty con có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty và các công ty con dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+## Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính hợp nhất .
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ:
+
+- Thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+- Các chênh lệch tạm thời chịu thuế gần liễn với các khoản đầu tư vào các công ty con, công ty liên kết và các khoản vốn góp liên doanh khi Công ty có khả năng kiểm soát thời gian hoàn nhập khoản chênh lệnh tạm thời và chắc chắn khoản chênh lệch tạm thời sẽ không được hoàn nhập trong tương lai có thể dự đoán.
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khẩu trừ, giá trị được khẩu trừ chuyển sang các kỳ sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khẩu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ:
+- Tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán và lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch; và
+- Đối với các chênh lệch tạm thời được khẩu trừ phát sinh từ các khoản đầu tư vào các công ty con, công ty liên kết và các khoản vốn góp liên doanh, tài sản thuế thu nhập hoãn lại được ghi nhận khi chắc chắn là chênh lệnh tạm thời sẽ được hoàn nhập trong tương lai có thể dự đoán được và có lợi nhuận chịu thuế để sử dụng được khoản chênh lệch tạm thời đó.
+Giá trị ghi sổ của tài sản thuế thu nhập hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi sổ của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập hoãn lại chưa được ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ hoạt động và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+--- TRANG 21 ---
+# 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo) 
+
+### 3.20 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho giai đoạn tài chính khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán năm.
+
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty và các công ty con chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi Công ty và các công ty con có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả này liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế:
+
+- Đối với cùng một đơn vị chịu thuế; hoặc
+- Công ty và các công ty con dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần hoặc thu hồi tài sản đồng thời với việc thanh toán nợ phải trả trong từng kỳ tương lai khi các khoản trọng yếu của thuế thu nhập hoãn lại phải trả hoặc tài sản thuế thu nhập hoãn lại được thanh toán hoặc thu hồi.
+
+
+### 3.21 Chi phí phát hành
+
+Chi phí giao dịch liên quan đến việc phát hành khoản vay được phân bổ dẫn vào báo cáo kết quả hoạt động kinh doanh hợp nhất phù hợp với kỳ hạn của khoản vay theo phương pháp đường thẳng. Tại thời điểm ghi nhận ban đầu, chi phí phát hành khoản vay được ghi giảm vào phần nợ gốc của khoản vay.
+
+### 3.22 Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty và các công ty con nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và các công ty con và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình mật thiết của các cá nhân được coi là liên quan.
+
+--- TRANG 22 ---
+THUYẾT MINH BÁO CÁO TÁI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025 4. TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIÊN
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Tiền gửi ngân hàng | 608.292 | 2.884 .567  |
+|  Tiền đang chuyển | 303 | 113  |
+|  Các khoản tương đương tiền (i) | 2.200 .000 | -  |
+|  TÔNG CỘNG | 2.808 .595 | 2.884 .680  |
+
+(i) Tại ngày 30 tháng 09 năm 2025, các khoản tương đương tiền là tiền gửi có kỳ hạn gốc dưới 03 tháng tại các ngân hàng với lãi suất là $4,75 \% /$ năm đến $5,25 \% /$ năm. 5. ĐẦU TƯ NĂM GIỮ ĐẾN NGÀY ĐÁO HẠN
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Tiền gửi có kỳ hạn (i) | 129.038 | 125.918  |
+|  Chứng chỉ tiền gửi (ii) | 1.005 .134 | -  |
+|  TÔNG CỘNG | 1.134 .172 | 125.918  |
+
+Đầu tư nắm giữ đến ngày đáo hạn ngắn hạn cuối kỳ bao gồm: (i) Các khoản tiền gửi có kỳ hạn gốc trên 3 tháng và kỳ hạn còn lại dưới 12 tháng và hưởng lãi suất trong khoảng từ $4,5 \% /$ năm đến $6,7 \% /$ năm (ngày 31 tháng 12 năm 2024: từ $2,3 \% /$ năm đến $6,2 \% /$ năm); (ii) Các khoản chứng chỉ tiền gửi hưởng lãi suất $5,25 \% /$ năm.
+
+--- TRANG 23 ---
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo) Quý III năm 2025
+
+# 6. PHẢI THU NGẮN HẠN KHÁCH HÀNG VÀ TRẢ TRƯỚC CHO NGƯỜI BÁN NGẮN HẠN
+
+## 6.1 Phải thu ngân hạn của khách hàng
+
+### Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Phải thu từ cho thuê bất động sản đầu tư và cung cấp dịch vụ liên quan | 1.215.641 | 1.462.412  |
+|  Phải thu từ chuyển nhượng bất động sản | 192.802 | 195.585  |
+|  Phải thu khác | 44.069 | 16.320  |
+|  **TỔNG CỘNG** | **1.452.512** | **1.674.317**  |
+|  **Trong đó:** |  |   |
+|  Phải thu ngân hạn từ khách hàng | 1.194.469 | 1.191.335  |
+|  Phải thu ngân hạn từ bên liên quan (Thuyết minh số 29) | 258.043 | 482.982  |
+|  Dự phóng phải thu ngân hạn khô đôi | (504.041) | (463.410)  |
+
+## 6.2 Trả trước cho người bán ngân hạn
+
+### Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Trả trước cho người bán hoạt động chuyển nhượng bất động sản (i) | 1.184.412 | -  |
+|  Trả trước cho người bán hoạt động xây dựng và hoạt động khác | 59.629 | 94.909  |
+|  **TỔNG CỘNG** | **1.244.041** | **94.909**  |
+|  **Trong đó:** |  |   |
+|  Trả trước cho người bán ngân hạn | 55.325 | 91.864  |
+|  Trả trước cho bên liên quan ngân hạn (Thuyết minh số 29) | 1.188.716 | 3.045  |
+
+(i) Số dư cuối kỳ là khoản trả trước cho một công ty liên quan để nhận chuyển nhượng một phần dự án bất động sản là hàng tồn kho để bán.
+
+--- TRANG 24 ---
+# Công ty Cổ phần Vincom Retail
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo)**
+
+**Quý III năm 2025**
+
+## 7. PHÁI THU KHÁC
+
+**Đơn vị tính:** Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  **Ngắn hạn:** |  |   |
+|  Lãi phải thu từ các khoản tiền gửi ngân hàng, đặt cọc | 781.523 | 370.631  |
+|  Phải thu về hợp tác đầu tư | 387.987 | 132.489  |
+|  Phải thu các khoản chi hội | 50.286 | 39.082  |
+|  Phải thu ngân hạn khác | 344.112 | 168.387  |
+|  **TỔNG CỘNG** | 1.563.908 | 710.589  |
+|  **Trong đó:** |  |   |
+|  Phải thu khác từ các bên khác | 312.090 | 111.378  |
+|  Phải thu khác từ các bên liên quan (Thuyết minh số 29) | 1.251.818 | 599.211  |
+|  **Dài hạn:** |  |   |
+|  Phải thu dài hạn khác | 17.267 | 19.258  |
+|  **TỔNG CỘNG** | 17.267 | 19.258  |
+
+## 8. HÀNG TÔN KHO
+
+**Đơn vị tính:** Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|   | Giá gốc | Dự phóng  |
+|  Thành phẩm bất động sản (i) | 259.577 | -  |
+|  Hàng tồn kho khác | 8.078 | -  |
+|  **TỔNG CỘNG** | 267.655 | -  |
+
+(i) Chủ yếu bao gồm chi phí xây dựng và phát triển các hạng mục nhà phố thương mại và nhà ở xã hội để bán.
+
+## 9. CHI PHÍ TRẢ TRƯỚC
+
+**Đơn vị tính:** Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  **Ngắn hạn:** |  |   |
+|  Chi phí bán hàng liên quan đến bất động sản chưa bán giao | 20.254 | 28.471  |
+|  Chi phí trả trước ngân hạn khác | 67.590 | 55.246  |
+|  **TỔNG CỘNG** | 87.844 | 83.717  |
+|  **Dài hạn:** |  |   |
+|  Chi phí thuê mặt bằng trả trước cho các bên liên quan (Thuyết minh số 29) | 293.089 | 302.375  |
+|  Chi phí sửa chữa lớn | 112.502 | 97.876  |
+|  Chi phí trả trước dài hạn khác | 31.567 | 32.754  |
+|  **TỔNG CỘNG** | 437.158 | 433.005  |
+
+--- TRANG 25 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025
+
+# 10. TÀI SẢN KHÁC
+
+Đơn vị tỉnh: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Ngắn hạn: |  |   |
+|  Đặt cọc cho các bên liên quan cho mục đích kinh doanh (Thuyết minh số 29) (i) | 4.183.168 | 5.479.698  |
+|  Đặt cọc cho các bên liên quan cho mục đích đầu tư (Thuyết minh số 29) (ii) | 1.333.427 | -  |
+|  Đặt cọc cho bên khác cho mục đích kinh doanh (i) | - | 1.374.300  |
+|  TỔNG CỘNG | 5.516.595 | 6.853.998  |
+|  Dài hạn: |  |   |
+|  Đặt cọc cho các bên liên quan cho mục đích đầu tư (Thuyết minh số 29) (ii) | 11.043.496 | 14.197.937  |
+|  Đặt cọc cho các bên liên quan cho mục đích kinh doanh (Thuyết minh số 29) (i) | 6.200.000 | -  |
+|  Đặt cọc cho các bên khác cho mục đích đầu tư (ii) | 1.472.415 | -  |
+|  TỔNG CỘNG | 18.715.911 | 14.197.937  |
+
+(i) Số dư cuối kỳ là các khoản đặt cọc cho các bên liên quan và đối tác để nhận chuyển nhượng một phần của một số dự án bất động sản là hàng tồn kho để bán.
+
+(ii) Số dư cuối kỳ là các khoản đặt cọc cho một số công ty liên quan và bên thứ ba ("các đối tác đầu tư") cho mục đích hợp tác đầu tư và kinh doanh cầu phần TTTM của một số dự án bất động sản theo các thỏa thuận và hợp đồng hợp tác đầu tư và kinh doanh dự án. Theo các thỏa thuận này, các đối tác đầu tư đã cam kết chuyển nhượng các dự án TTTM hoặc trao quyền ưu tiên mua các TTTM cho Công ty và các công ty con theo giá bán đủ bù đắp các chi phí đầu tư đã phát sinh. Lãi suất của các khoản đặt cọc từ 10%/năm đến 13%/năm.
+
+--- TRANG 26 ---
+# Công ty Cổ phần Vincom Retail
+
+## B09a-DN/HN
+
+### THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT GIỮA NIÊN ĐỘ (tiếp theo)
+
+Quý III năm 2025
+
+#### 11. TÀI SẢN CÓ ĐỊNH HỮU HÌNH
+
+*Đơn vị tính: Triệu VND*
+
+|   | Nhà cửa và
+vật kiến trúc | Máy móc, thiết bị | Thiết bị
+văn phòng | Tài sản
+cổ định khác | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- |
+|  **Nguyên giả:** |  |  |  |  |   |
+|  Số đầu kỳ | 115.231 | 314.336 | 27.499 | 22.925 | 479.591  |
+|  - Tăng trong kỳ | - | 51.181 | - | - | 51.181  |
+|  - Thanh lý, nhượng bán | (2.356) | (3.066) | - | (401) | (5.823)  |
+|  Số cuối kỳ | 112.875 | 362.451 | 27.499 | 22.524 | 525.349  |
+|  **Giá trị khẩu hao lũy kế:** |  |  |  |  |   |
+|  Số đầu kỳ | 32.224 | 205.334 | 22.797 | 17.001 | 277.356  |
+|  - Khẩu hao trong kỳ | 2.763 | 20.338 | 1.832 | 1.750 | 26.683  |
+|  - Thanh lý, nhượng bán | (2.356) | (2.405) | - | (360) | (5.121)  |
+|  Số cuối kỳ | 32.631 | 223.267 | 24.629 | 18.391 | 298.918  |
+|  **Giá trị còn lại:** |  |  |  |  |   |
+|  Số đầu kỳ | 83.007 | 109.002 | 4.702 | 5.924 | 202.635  |
+|  Số cuối kỳ | 80.244 | 139.184 | 2.870 | 4.133 | 226.431  |
+
+--- TRANG 27 ---
+# 12. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+Đơn vị tỉnh: Triệu VND Phần mềm máy tính
+
+|  Nguyên giá: |  |  |   |
+| --- | --- | --- | --- |
+|  Số đầu kỳ |  |  | 88.456  |
+|  - Tăng trong kỳ |  |  | 110  |
+|  Số cuối kỳ |  |  | 88.566  |
+|  Giá trị hao mòn lũy kể: |  |  |   |
+|  Số đầu kỳ |  |  | 69.697  |
+|  - Hao mòn trong kỳ |  |  | 6.962  |
+|  Số cuối kỳ |  |  | 76.659  |
+|  Giá trị còn lại: |  |  |   |
+|  Số đầu kỳ |  |  | 18.759  |
+|  Số cuối kỳ |  |  | 11.907  |
+
+1. BÁT ĐỘNG SẢN ĐẦU TƯ
+
+Đơn vị tỉnh: Triệu VND
+
+|   | Quyển sử dụng
+đất, nhà cửa,
+vật kiến trúc | Máy móc, thiết bị | Tổng cộng  |
+| --- | --- | --- | --- |
+|  Nguyên giá: |  |  |   |
+|  Số đầu kỳ | 31.334 .614 | 7.019 .389 | 38.354 .003  |
+|  - Xây dựng cơ bản hoàn
+thành | 985.927 | 163.253 | 1.149 .180  |
+|  - Thanh lý | - | (607) | (607)  |
+|  - Khác | 27.885 | (30.912) | (3.027)  |
+|  Số cuối kỳ | 32.348 .426 | 7.151 .123 | 39.499 .549  |
+|  Giá trị hao mòn lũy kể: |  |  |   |
+|  Số đầu kỳ | 6.634 .817 | 4.634 .789 | 11.269 .606  |
+|  - Khẩu hao trong kỳ | 594.379 | 361.504 | 955.883  |
+|  - Thanh lý | - | (286) | (286)  |
+|  - Khác | (1.112) | (13.480) | (14.592)  |
+|  Số cuối kỳ | 7.228 .084 | 4.982 .527 | 12.210 .611  |
+|  Giá trị còn lại: |  |  |   |
+|  Số đầu kỳ | 24.699 .797 | 2.384 .600 | 27.084 .397  |
+|  Số cuối kỳ | 25.120 .342 | 2.168 .596 | 27.288 .938  |
+
+Bất động sản đầu tư của Công ty và các công ty con chủ yếu bao gồm tài sản là các TTTM do Công ty và các công ty con sở hữu và vận hành hoạt động cho thuế mặt bằng và cung cấp các dịch vụ liên quan.
+
+Chi tiết về việc sử dụng các bất động sản đầu tư làm tài sản thế chấp cho các khoản vay của Công ty và các công ty con được trình bày như Thuyết minh số 22.
+
+Các khoản doanh thu và chi phí hoạt động liên quan đến bất động sản đầu tư được trình bày trong Thuyết minh số 24.3.
+
+--- TRANG 28 ---
+# 14. CHI PHÍ XÂY DỰNG CƠ BẢN DỜ DANG
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Dự án Khách sạn Bắc Ninh | - | 411.937  |
+|  Dự án Vincom Plaza Biên Hòa 2 | 135.650 | 135.650  |
+|  Dự án Vincom Plaza Đông Hà Quảng Trị | 41.954 | 68.931  |
+|  Các dự án khác | 111.097 | 185.106  |
+|  TÔNG CỘNG | 288.701 | 801.624  |
+
+1. LỢI THÉ THƯƠNG MẠI
+
+Đơn vị tính: Triệu VND
+
+|   | Lợi thế thương mại từ hợp nhất |  |  |   |
+| --- | --- | --- | --- | --- |
+|   | Công ty TNHH
+MTV Vincom
+Center Long Biên
+(i) | Công ty Cổ phần
+Đầu tư Thương mại
+Dịch vụ Khánh Gia
+(i) | Công ty Cổ
+phần Đầu tư
+An Phong (i) | Tổng cộng  |
+|  Nguyên giá: |  |  |  |   |
+|  Số đầu kỳ | 33.000 | 210.288 | 482.549 | 725.837  |
+|  Số cuối kỳ | 33.000 | 210.288 | 482.549 | 725.837  |
+|  Phân bổ lũy |  |  |  |   |
+|  kể: |  |  |  |   |
+|  Số đầu kỳ | 33.000 | 201.932 | 441.576 | 676.508  |
+|  Phân bổ trong | - | 8.356 | 36.191 | 44.547  |
+|  kỳ |  |  |  |   |
+|  Số cuối kỳ | 33.000 | 210.288 | 477.767 | 721.055  |
+|  Giá trị còn lại: |  |  |  |   |
+|  Số đầu kỳ | - | 8.356 | 40.973 | 49.329  |
+|  Số cuối kỳ | - | - | 4.782 | 4.782  |
+
+(i) Các công ty này đã được sáp nhập vào Công ty TNHH Vận hành Vincom Retail.
+
+1. PHẢI TRẢ NGƯỜI BẢN NGẮN HẠN
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Phải trả cho người bán | 226.605 | 160.103  |
+|  Phải trả cho các bên liên quan | 312.632 | 301.835  |
+|  (Thuyết minh số 29) | 539.237 | 461.938  |
+|  TÔNG CỘNG |  |   |
+
+--- TRANG 29 ---
+# Công ty Cổ phần Vincom Retail
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN Độ (tiếp theo)**
+
+**Quý III năm 2025**
+
+## 17. NGƯỜI MUA TRẢ TIÊN TRƯỚC NGĂN HẠN
+
+**Đơn vị tỉnh: Triệu VND**
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Trả trước theo các hợp đồng chuyển nhượng bất động sản để bán | 77.069 | 137.105  |
+|  Trả trước từ khách thuê cho thuê bất động sản đầu tư và cung cấp dịch vụ liên quan | 67.645 | 25.308  |
+|  Trả trước từ người mua khác | 39.764 | 22.357  |
+|  **TỔNG CỘNG** | **184.478** | **184.770**  |
+
+## 18. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
+
+**Đơn vị tỉnh: Triệu VND**
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Thuế thu nhập doanh nghiệp | 1.340.979 | 1.062.279  |
+|  Thuế giá trị gia tăng | 253.887 | 56.455  |
+|  Thuế thu nhập cá nhân | 16.342 | 6.652  |
+|  Thuế và các khoản phải nộp khác | 2.205 | 9.930  |
+|  **TỔNG CỘNG** | **1.613.413** | **1.135.316**  |
+
+## 19. CHI PHÍ PHẢI TRẢ NGĂN HẠN
+
+**Đơn vị tỉnh: Triệu VND**
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Chi phí xây dựng trích trước | 295.797 | 286.803  |
+|  Chi phí lãi vay phải trả | 240.278 | 149.062  |
+|  Chi phí bán hàng trích trước | 61.304 | 42.830  |
+|  Các khoản chi phí phải trả khác | 628.285 | 645.160  |
+|  **TỔNG CỘNG** | **1.225.664** | **1.123.855**  |
+|  **Trong đó:** |  |   |
+|  Chi phí phải trả cho các bên khác | 1.159.116 | 1.068.482  |
+|  Chi phí phải trả cho các bên liên quan (Thuyết minh số 29) | 66.548 | 55.373  |
+
+--- TRANG 30 ---
+THUYÊT MINH BÁO CÁO TÁI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo) Quý III năm 2025
+
+# 20. PHÁI TRÁ KHÁC
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Ngắn hạn: |  |   |
+|  Nhận đặt cọc theo hợp đồng hợp tác kinh doanh (i) | 3.300 .000 | -  |
+|  Nhận đặt cọc thuê mặt bằng trung tâm thương mại | 999.158 | 579.088  |
+|  Nhận đặt cọc từ khách hàng mua bất động sản | 192.455 | 197.102  |
+|  Kinh phí bảo trì các căn hộ đã bàn giao | 128.737 | 126.457  |
+|  Nhận đặt cọc thi công mặt bằng | 56.197 | 50.106  |
+|  Phải trả khác | 45.187 | 16.088  |
+|  TÔNG CỘNG | 4.721 .734 | 968.841  |
+|  Trong đó: |  |   |
+|  Phải trả ngắn hạn cho các bên khác | 4.692 .116 | 921.609  |
+|  Phải trả ngắn hạn khác cho các bên liên quan (Thuyết minh số 29) | 29.618 | 47.232  |
+|  Dài hạn: |  |   |
+|  Nhận đặt cọc thuê mặt bằng trung tâm thương mại | 1.594 .127 | 1.522 .768  |
+|  Trừ: Nhận đặt cọc thuê mặt bằng TTTM phải hoàn trả trong vòng 12 tháng tới (Trình bày ở Ngắn hạn) | (999.158) | (579.088)  |
+|  Nhận đặt cọc theo hợp đồng hợp tác kinh doanh | - | 3.681 .342  |
+|  Phải trả khác | 38.295 | 38.301  |
+|  TÔNG CỘNG | 633.264 | 4.663 .323  |
+|  Trong đó: |  |   |
+|  Phải trả dài hạn cho các bên khác | 614.279 | 4.247 .974  |
+|  Phải trả dài hạn khác cho các bên liên quan (Thuyết minh số 29) | 18.985 | 415.349  |
+
+(i) Số dư cuối kỳ phản ánh các khoản tiền nhận từ các đối tác theo hợp đồng hợp tác kinh doanh trung tâm thương mại.
+
+## 21. DOANH THU CHƯA THỰC HIỆN
+
+Đơn vị tính: Triệu VND
+
+|   | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Doanh thu chưa thực hiện ngắn hạn | 37.906 | 32.655  |
+|  Doanh thu chưa thực hiện dài hạn | 122.682 | 126.557  |
+|  TÔNG CỘNG | 160.588 | 159.212  |
+|  Trong đó: |  |   |
+|  Doanh thu chưa thực hiện từ các bên liên quan (Thuyết minh số 29) | 46.161 | 47.874  |
+|  Doanh thu chưa thực hiện từ các bên khác | 114.427 | 111.338  |
+
+Doanh thu chưa thực hiện chủ yếu bao gồm khoản tiền nhận trước từ các khách hàng ký hợp đồng thuê mặt bằng tại các TTTM của Công ty và các công ty con.
+
+--- TRANG 31 ---
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo) Quý III năm 2025
+
+# 22. VAY VÀ NỢ
+
+### 22.1 Vay và nợ ngần hạn
+
+|   |  |  |  | Đơn vị tính: Triệu VND  |
+| --- | --- | --- | --- | --- |
+|   |  | Tại 30/09/2025 |  | Tại 31/12/2024  |
+|   | Thuyết
+minh | Giá trị Sổ có khả năng
+trả nợ |  | Giá trị Sổ có khả năng
+trả nợ  |
+|  Trái phiếu doanh nghiệp
+dài hạn đến hạn trả | (i) | - | - | 1.988.427  |
+|  Nợ dài hạn đến hạn trả
+khác từ bên liên quan | 29 | 21.875 | 21.875 | 21.325  |
+|  TÔNG CỘNG |  | 21.875 | 21.875 | 2.009.752  |
+
+(i) Khoản trái phiếu này đã được Công ty tất toán vào ngày 26 tháng 08 năm 2025.
+
+### 22.2 Vay và nợ dài hạn
+
+|   |  |  |  | Đơn vị tính: Triệu VND  |
+| --- | --- | --- | --- | --- |
+|   |  | Tại 30/09/2025 |  | Tại 31/12/2024  |
+|   | Thuyết
+minh | Giá trị Sổ có khả năng
+trả nợ |  | Giá trị Sổ có khả năng
+trả nợ  |
+|  Khoản vay dài hạn | (i) | 6.212.431 | 6.212.431 | 2.350.771  |
+|  Nợ dài hạn khác từ bên
+liên quan | 29 | 171.292 | 171.292 | 172.332  |
+|  TÔNG CỘNG |  | 6.383.723 | 6.383.723 | 2.523.103  |
+
+(i) Bao gồm:
+
+|  Đơn vị cho vay | Tại 30/09/2025
+(Triệu VND) | Ngày
+đảo hạn | Lãi suất | Tài sản
+đảm bảo  |
+| --- | --- | --- | --- | --- |
+|  Ngân hàng Thương mại Cổ
+phần Kỹ thương Việt Nam | 2.060.000 | Tháng 8
+năm 2028 | Lãi suất thả nồi,
+lãi suất trong năm
+là 7,68%/năm | (*)  |
+|  Deutsche Bank AG,
+Singapore Branch | 4.152.431 | Tháng 7
+năm 2028 | 9%/năm | (*)  |
+|  TÔNG CỘNG | 6.212.431 |  |  |   |
+
+(*) Các khoản vay này được đảm bảo bằng tài sản gắn liền với đất của một trung tâm thương mại được sở hữu bởi một công ty con.
+
+--- TRANG 32 ---
+# Công ty Cổ phần Vincom Retail
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT GIỮA NIÊN ĐỘ (tiếp theo)**
+
+**Quý III năm 2025**
+
+## 23. VÔN CHỦ SỞ HỮU
+
+### 23.1 Tình hình tăng giảm nguồn vốn chủ sở hữu
+
+**Đơn vị tỉnh:** Triệu VND
+
+|   | Cổ phần phổ thông có quyền biểu quyết | Thặng dư vốn cổ phần | Cổ phiếu quỹ | Lợi nhuận sau thuế chưa phân phối | Quỹ khác thuộc vốn chủ sở hữu | Lợi ích của cổ đông không kiểm soát | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  **Cho kỳ hoạt động 9 tháng kết thúc ngày 30 tháng 09 năm 2024** |  |  |  |  |  |  |   |
+|  Số đầu kỳ | 23.288.184 | 46.983 | (1.954.258) | 16.475.788 | (53.137) | 23.293 | 37.826.853  |
+|  - Lợi nhuận thuần trong kỳ | - | - | - | 3.010.448 | - | - | 3.010.448  |
+|  - Biến động khác | - | - | - | 22.938 | - | (22.929) | 9  |
+|  Số cuối kỳ | 23.288.184 | 46.983 | (1.954.258) | 19.509.174 | (53.137) | 364 | 40.837.310  |
+|  **Cho kỳ hoạt động 9 tháng kết thúc ngày 30 tháng 09 năm 2025** |  |  |  |  |  |  |   |
+|  Số đầu kỳ | 23.288.184 | 46.983 | (1.954.258) | 20.594.507 | (53.137) | 362 | 41.922.641  |
+|  - Lợi nhuận thuần trong kỳ | - | - | - | 3.787.087 | - | - | 3.787.087  |
+|  Số cuối kỳ | 23.288.184 | 46.983 | (1.954.258) | 24.381.594 | (53.137) | 362 | 45.709.728  |
+
+--- TRANG 33 ---
+# Công ty Cổ phần Vincom Retail
+
+## B09a-DN/HN
+
+### THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT GIỮA NIỀN ĐỘ (tiếp theo)
+
+#### Quý III năm 2025
+
+#### 23. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+#### 23.2 Cổ phiếu
+
+|   | Tại 30/09/2025 |  | Tại 31/12/2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Số lượng | Giá trị Triệu VND | Số lượng | Giá trị Triệu VND  |
+|  Cổ phiếu đăng ký và đã phát hành |  |  |  |   |
+|  Cổ phiếu phổ thông | 2.328.818.410 | 23.288.184 | 2.328.818.410 | 23.288.184  |
+|  Cổ phiếu ưu đãi | - | - | - | -  |
+|  Tổng cộng | 2.328.818.410 | 23.288.184 | 2.328.818.410 | 23.288.184  |
+|  Cổ phiếu đang lưu hành |  |  |  |   |
+|  Cổ phiếu phổ thông | 2.272.318.410 | 22.723.184 | 2.272.318.410 | 22.723.184  |
+|  Cổ phiếu ưu đãi | - | - | - | -  |
+|  Tổng cộng | 2.272.318.410 | 22.723.184 | 2.272.318.410 | 22.723.184  |
+
+Mệnh giá cho mỗi cổ phiếu đang lưu hành là 10.000VND/cổ phiếu (ngày 31 tháng 12 năm 2024: 10.000VND/cổ phiếu).
+
+#### 24. DOANH THU
+
+##### 24.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+*Đơn vị tính: Triệu VND*
+
+|   | Quý III năm 2025 | Quý III năm 2024  |
+| --- | --- | --- |
+|  Tổng doanh thu | 2.251.000 | 2.077.717  |
+|  Trong đó: |  |   |
+|  Doanh thu cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan | 2.123.581 | 1.983.292  |
+|  Doanh thu chuyển nhượng bất động sản | 54.775 | 35.587  |
+|  Doanh thu cung cấp dịch vụ khác | 72.644 | 58.838  |
+|  Các khoản giảm trừ doanh thu | - | -  |
+|  Doanh thu thuần | 2.251.000 | 2.077.717  |
+|  Trong đó: |  |   |
+|  Doanh thu chủ yếu với các bên liên quan | 497.121 | 335.450  |
+|  Doanh thu với các bên khác | 1.753.879 | 1.742.267  |
+
+##### 24.2 Doanh thu hoạt động tài chính
+
+*Đơn vị tính: Triệu VND*
+
+|   | Quý III năm 2025 | Quý III năm 2024  |
+| --- | --- | --- |
+|  Lãi tiền gửi, cho vay và đặt cọc | 802.498 | 383.175  |
+|  Lãi chênh lệch tỷ giá | - | 4  |
+|  Tổng cộng | 802.498 | 383.179  |
+
+--- TRANG 34 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo) Quý III năm 2025 24. DOANH THU (tiếp theo) 24.3 Doanh thu và chi phí liên quan đến bất động sản đầu tư
+
+Đơn vị tính: Triệu VND
+
+|   | Quý III năm 2025 | Quý III năm 2024  |
+| --- | --- | --- |
+|  Thu nhập từ cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan | 2.123 .581 | 1.983 .292  |
+|  Chi phí hoạt động kinh doanh trực tiếp của các bất động sản đầu tư tạo thu nhập cho thuê trong kỳ | 1.011 .166 | 917.375  |
+
+1. GIÁ VÔN HÀNG BẢN VÀ DỊCH VỤ CUNG CÁP
+
+Đơn vị tính: Triệu VND
+
+|   | Quý III năm 2025 | Quý III năm 2024  |
+| --- | --- | --- |
+|  Giá vốn cho thuê bất động sản đầu tư và cung cấp các dịch vụ liên quan | 1.011 .166 | 917.375  |
+|  Giá vốn chuyển nhượng bất động sản | 31.847 | 19.846  |
+|  Giá vốn cung cấp dịch vụ khác | 70.961 | 51.212  |
+|  TÔNG CỘNG | 1.113 .974 | 988.433  |
+
+1. CHI PHÍ TÀI CHÍNH
+
+Đơn vị tính: Triệu VND
+
+|   | Quý III năm 2025 | Quý III năm 2024  |
+| --- | --- | --- |
+|  Chi phí lãi vay | 171.677 | 107.378  |
+|  Chi phí phát hành liên quan | 36.559 | 32.528  |
+|  Lỗ chênh lệch tỷ giá | 35.831 | 24.915  |
+|  Chi phí tài chính khác | 106.265 | 79.019  |
+|  TÔNG CỘNG | 350.332 | 243.840  |
+
+--- TRANG 35 ---
+# 27. CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIĘP 
+
+Đơn vị tỉnh: Triệu VND
+
+|  | Quý III năm 2025 | Quý III năm 2024 |
+| :--: | :--: | :--: |
+| Chi phí bán hàng | 47.042 | 77.171 |
+| Chi phí nhân viên | 11.650 | 16.927 |
+| Chi phí tư vấn bán hàng, hoa hồng và môi giới | 13.402 | 11.570 |
+| Chi phí marketing | 19.675 | 45.477 |
+| Chi phí khấu hao và hao mòn | 908 | 1.445 |
+| Chi phí khác | 1.407 | 1.752 |
+| Chi phí quản lý doanh nghiệp | 93.927 | 170.379 |
+| Chi phí nhân viên | 30.625 | 31.407 |
+| Chi phí khấu hao và hao mòn | 13.347 | 19.011 |
+| Chi phí dự phòng | 4.151 | 68.021 |
+| Chi phí dịch vụ mua ngoài | 11.488 | 17.995 |
+| Phí quản lý | 31.965 | 29.095 |
+| Chi phí quản lý doanh nghiệp khác | 2.351 | 4.850 |
+| TÔNG CỘNG | 140.969 | 247.550 |
+
+## 28. THUẾ THU NHẬP DOANH NGHIĘP
+
+Thuế suất thuế thu nhập doanh nghiệp ("TNDN") áp dụng cho Công ty và các công ty con trong Quý III năm 2025 là 20\% lợi nhuận chịu thuế (Quý III năm 2024: thuế suất là 20\%).
+
+Các báo cáo thuế của Công ty và các công ty con sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+Đơn vị tỉnh: Triệu VND
+
+|  | Quý III năm 2025 | Quý III năm 2024 |
+| :--: | :--: | :--: |
+| Chi phí thuế TNDN hiện hành | 344.960 | 239.107 |
+| (Thu nhập)/Chi phí thuế TNDN hoãn lại | 58 | $(26.761)$ |
+| TÔNG CỘNG | 345.018 | 212.346 |
+
+--- TRANG 36 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025
+
+# 29. NGHIỆP VỤ VÀ SÓ DƯ VỚI CÁC BÊN LIÊN QUAN 
+
+Danh sách các bên liên quan có giao dịch và số dư chủ yếu trong kỳ này và kỳ trước:
+
+## Bên liên quan
+
+Tập đoàn Vingroup - Công ty CP
+Công ty CP Vinhomes
+Công ty CP Đầu tư và Phát triển Sinh Thái
+Công ty CP Vinpearl
+Công ty CP Tư vấn Đầu tư và Đầu tư Việt Nam
+Công ty CP Đô thị Du lịch Cần Giờ
+Công ty CP Vinschool
+Công ty CP Đầu tư Xây dựng Thái Sơn
+Công ty TNHH Đầu tư và Phát triển Đô thị Gia Lâm
+Công ty CP Sản xuất và Kinh doanh VinFast
+Công ty TNHH Kinh doanh Thương mại và Dịch vụ VinFast
+Công ty CP Phát triển Thành Phố Xanh
+VinFast Trading \& Investment Pte. Ltd
+Công ty CP Di chuyển xanh và thông minh GSM
+Công ty TNHH dịch vụ vận tải sinh thái VinBus
+Công ty TNHH Dịch vụ bảo vệ Vincom
+Công ty CP Đầu tư Phát triển BĐS Trường Thịnh
+Công ty CP Trung tâm hội chợ triển lãm Việt Nam
+Công ty Cổ phần VinWonders Nha Trang
+
+## Mối quan hệ
+
+Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+Bên liên quan của Cổ đông
+
+--- TRANG 37 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025 29. NGHIỆP VỤ VÀ SÓ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Những giao dịch trọng yếu của Công ty và các công ty con với các bên liên quan:
+
+Đơn vị tính: Triệu VND
+
+|   | Từ ngày 01/01/2025 đến ngày 30/09/2025 | $\begin{gathered} \text { Từ ngày } \ 01 / 01 / 2024 \text { đến } \ \text { ngày } 30 / 09 / 2024 \end{gathered}$  |
+| --- | --- | --- |
+|  Doanh thu cung cấp dịch vụ và cho thuê TTTM |  |   |
+|  Công ty CP Vinhomes | 249.153 | 288.937  |
+|  Công ty CP Vinpearl | 186.855 | 138.804  |
+|  Công ty TNHH Kinh doanh Thương mại và Dịch vụ VinFast | 169.144 | 201.756  |
+|  Công ty CP Vinschool | 54.277 | 51.853  |
+|  Công ty CP Di chuyển xanh và thông minh GSM | 17.317 | 11.980  |
+|  Chi phí mua hàng hóa và dịch vụ |  |   |
+|  Tập đoàn Vingroup - Công ty CP | 108.746 | 78.012  |
+|  Công ty CP Vinpearl | 94.540 | 45.540  |
+|  Công ty CP Vinhomes | 26.718 | 24.309  |
+|  Công ty CP Đầu tư và Phát triển Sinh Thái | 25.841 | 27.827  |
+|  Công ty CP Đầu tư Phát triển BĐS Trường Thịnh | 17.545 | 16.710  |
+|  Đặt cọc cho mục đích đầu tư |  |   |
+|  Công ty CP Đô thị Du lịch Cần Giờ | - | 500.000  |
+|  Tập đoàn Vingroup - Công ty CP | - | 525.782  |
+|  Công ty CP Phát triển Thành Phố Xanh | - | 262.000  |
+|  Công ty CP Vinhomes | - | 101.127  |
+|  Đặt cọc cho mục đích kinh doanh |  |   |
+|  Công ty CP Đô thị Du lịch Cần Giờ | 6.200 .000 | -  |
+|  Tập đoàn Vingroup - Công ty CP | - | 2.683 .666  |
+|  Công ty CP Vinhomes | - | 356.449  |
+|  Nhận đặt cọc cho mục đích đầu tư |  |   |
+|  Công ty CP Vinpearl | 802.976 | 68.828  |
+|  Chi đầu tư ngắn hạn |  |   |
+|  Công ty Cố phần VinWonders Nha Trang | - | 1.335 .613  |
+
+--- TRANG 38 ---
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHÂT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025
+29. NGHIỆP VỤ VÀ SÔ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Những giao dịch trọng yếu của Công ty và các công ty con với các bên liên quan (tiếp theo)
+
+Đơn vị tính: Triệu VND
+
+|  |   |   |
+| --- | --- | --- |
+|   | Từ ngày | Từ ngày  |
+|   | 01/01/2025 đến | 01/01/2024 đến  |
+|   | ngày 30/09/2025 | ngày 30/09/2024  |
+
+Lãi vay, lãi đặt cọc Tập đoàn Vingroup - Công ty CP 1.244 .858 688.704 Công ty CP Đô thị Du lịch Cần Giờ 326.514 132.398 Công ty CP Vinhomes 144.376 84.385 Công ty CP Trung tâm hội chợ triển lãm Việt Nam 41.631 - Công ty CP Sản xuất và Kinh doanh VinFast - 171.337 Công ty CP Phát triển Thành Phố Xanh - 56.528 Công ty TNHH dịch vụ vận tải sinh thái VinBus - 30.970 Công ty Cổ phần VinWonders Nha Trang - 10.502
+
+Thu nhập khác Công ty CP Vinhomes 110.482 125.776 Tập đoàn Vingroup - Công ty CP 38.958 8.319 Công ty CP Đô thị Du lịch Cần Giờ 13.463 4.685 Công ty CP Sản xuất và Kinh doanh VinFast 11.171 - Công ty TNHH Dịch vụ bảo vệ Vincom 225 - VinFast Trading \& Investment Pte. Ltd - 46.841
+
+Nhận vốn góp bằng tài sản Tập đoàn Vingroup - Công ty CP 125.444
+
+--- TRANG 39 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo) Quý III năm 2025 29. NGHIỆP VỤ VÀ SÓ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư công nợ với các bên liên quan:
+
+Đơn vị tính: Triệu VND
+
+|  Bên liên quan | Tại 30/09/2025 | Tại 31/12/2024  |
+| --- | --- | --- |
+|  Phải thu khách hàng (Thuyết minh số 6.1) |  |   |
+|  Công ty TNHH Kinh doanh Thương mại và Dịch vụ VinFast | 134.267 | 140.344  |
+|  Công ty CP Vinhomes | 115.881 | 243.394  |
+|  Tập đoàn Vingroup - Công ty CP | 3.260 | 3.939  |
+|  Công ty Cổ phần VinWonders Nha Trang | 4.011 | 60.873  |
+|  Các bên liên quan khác | 624 | 34.432  |
+|   | 258.043 | 482.982  |
+|  Trả trước cho người bán ngân hạn (Thuyết minh |  |   |
+|  số 6.2) |  |   |
+|  Tập đoàn Vingroup - Công ty CP | 1.184 .412 | -  |
+|  Các bên liên quan khác | 4.304 | 3.045  |
+|   | 1.188 .716 | 3.045  |
+|  Phải thu ngân hạn khác (Thuyết minh số 7) |  |   |
+|  Tập đoàn Vingroup - Công ty CP | 368.205 | 199.219  |
+|  Công ty CP Vinpearl | 290.452 | 75.023  |
+|  Công ty CP Đô thị Du lịch Cần Giờ | 281.317 | 58.031  |
+|  Công ty CP Vinhomes | 166.657 | 101.984  |
+|  Công ty CP Tư vấn Đầu tư và Đầu tư Việt Nam | 130.203 | 130.340  |
+|  Các bên liên quan khác | 14.984 | 34.614  |
+|   | 1.251 .818 | 599.211  |
+|  Chi phí trả trước dài hạn (Thuyết minh số 9) |  |   |
+|  Công ty CP Đầu tư và Phát triển Sinh Thái | 199.501 | 207.158  |
+|  Công ty CP Vinpearl | 93.588 | 95.217  |
+|   | 293.089 | 302.375  |
+|  Tài sản ngắn hạn khác (Thuyết minh số 10) |  |   |
+|  Tập đoàn Vingroup - Công ty CP | 4.683 .257 | 4.646 .361  |
+|  Công ty CP Vinhomes | 833.338 | 833.337  |
+|   | 5.516 .595 | 5.479 .698  |
+
+--- TRANG 40 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) Quý III năm 2025 29. NGHIỆP VỤ VÀ SÓ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư công nợ với các bên liên quan: (tiếp theo)
+
+|  Bên liên quan | Đơn vị tính: Triệu VND  |
+| --- | --- |
+|  Tài sản dài hạn khác (Thuyết minh số 10) |   |
+|  Tập đoàn Vingroup - Công ty CP | 9.180 .496  |
+|  Công ty CP Đô thị Du lịch Cần Giờ | 8.063 .000  |
+|  Công ty CP Vinhomes | -  |
+|  Công ty CP Trung tâm hội chợ triển lãm Việt Nam | -  |
+|   | 17.243 .496  |
+|  Phải trả người bán ngắn hạn (Thuyết minh số 16) |   |
+|  Tập đoàn Vingroup - Công ty CP | 94.125  |
+|  Công ty CP Vinhomes | 83.031  |
+|  Công ty CP Phát triển Thành Phố Xanh | 71.189  |
+|  Công ty CP Đầu tư Xây dựng Thái Sơn | 57.499  |
+|  Công ty CP Vinpearl | 931  |
+|  Các bên liên quan khác | 5.857  |
+|   | 312.632  |
+
+Chí phí phải trả ngắn hạn (Thuyết minh số 19)
+
+|  Công ty CP Vinpearl | 66.060 | 45.200  |
+| --- | --- | --- |
+|  Các bên liên quan khác | 488 | 10.173  |
+|   | 66.548 | 55.373  |
+
+Phải trả ngắn hạn khác (Thuyết minh số 20)
+
+|  Công ty CP Vinhomes | 21.011 | 21.814  |
+| --- | --- | --- |
+|  Công ty TNHH Kinh doanh Thương mại và Dịch vụ VinFast | 6.568 | 22.680  |
+|  Các bên liên quan khác | 2.039 | 2.738  |
+|   | 29.618 | 47.232  |
+
+Phải trả dài hạn khác (Thuyết minh số 20) Công ty CP Vinpearl Công ty CP Vinschool Công ty TNHH Kinh doanh Thương mại và Dịch vụ VinFast Các bên liên quan khác 6.735 18.985 415.349
+
+Doanh thu chưa thực hiện (Thuyết minh số 21) Tập đoàn Vingroup - Công ty CP 16.269 17.769 Công ty CP Vinpearl 29.565 30.105 Các bên liên quan khác 327 46.161 47.874
+
+--- TRANG 41 ---
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo) Quý III năm 2025
+29. NGHIỆP VỤ VÀ SÓ DƯ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)
+
+Số dư công nợ với các bên liên quan: (tiếp theo)
+Vay và nợ từ bên liên quan: (Thuyết minh số 22.1 và 22.2)
+Nợ thuê tài chính từ một bên liên quan tại ngày 30 tháng 09 năm 2025 được trình bày như sau:
+
+| Bên liên quan | Tại 30/09/2025 | Lãi suất | Ngày đáo hạn |
+| :-- | :--: | :--: | :--: |
+|  | Triệu VND | $\% / n a ̃ m$ |  |
+| Công ty CP Đầu tư và Phát triển | 193.167 | Từ $8,58 \%$ | Tháng 3 năm 2045 |
+| Sinh Thái | $(21.875)$ | đến $14,02 \%$ |  |
+| Trong đó: nợ dài hạn đến hạn trả | 171.292 |  |  |
+| TÔNG CỘNG |  |  |  |
+
+Đây là các khoản nợ thuê tài chính liên quan đến các hợp đồng thuê dài hạn, không hủy ngang đối với TTTM Vincom Plaza Quang Trung và TTTM Vincom Plaza Lê Văn Việt.
+
+Nợ thuê tài chính từ một bên liên quan tại ngày 31 tháng 12 năm 2024 được trình bày như sau:
+
+| Bên liên quan | Tại | Lã̃i suât | Ngày đáo hạn |
+| :--: | :--: | :--: | :--: |
+|  | 31/12/2024 |  |  |
+|  | Triệu VND | \%/năm |  |
+| Công ty CP Đầu tư và Phát triển Sinh Thái | 193.657 | Từ $8,58 \%$ | Tháng 3 năm |
+|  | (21.325) | đến | 2045 |
+| Trong đó: nợ dài hạn đến hạn trả | 172.332 |  |  |
+| TÔNG CỘNG |  |  |  |
+
+# 30. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KÉT THÚC KỲ HOẠT ĐỘNG 
+
+Ngày 28 tháng 10 năm 2025, Hội đồng quản trị Công ty đã phê duyệt việc Công ty chuyển nhượng toàn bộ phần vốn góp tương đương $99,99 \%$ vốn điều lệ trong Công ty TNHH Bắt động sản Vincom NCT. Sau chuyển nhượng phần vốn góp, Công ty TNHH Bắt động sản Vincom NCT không còn là Công ty con của Công ty.
+![img-1.jpeg](img-1.jpeg)
+
+Ngày 28 tháng 10 năm 2025
+
+--- TRANG 42 ---
+# Công ty Cổ phần Vincom Retail
+
+PHỤ LỤC Quý III năm 2025 PHỤ LỤC - GIÁI TRÌNH BIÊN ĐỘNG KÉT QUÁ KINH DOANH SO VỚI QUÝ TRƯỚC (Theo Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020)
+
+|  Mã số | Chỉ tiêu | Quý III năm 2025 | Quý III năm 2024 | Chênh lệch | $\%$  |
+| --- | --- | --- | --- | --- | --- |
+|  10 | Doanh thu thuần về bán hàng và cung cấp dịch vụ | 2.251 .000 | 2.077 .717 | 173.283 | $8 \%$  |
+|  11 | Giá vốn hàng bán và dịch vụ cung cấp | 1.113 .974 | 988.433 | 125.541 | $13 \%$  |
+|  21 | Doanh thu hoạt động tài chính | 802.498 | 383.179 | 419.319 | $109 \%$  |
+|  22 | Chi phí tài chính | 350.332 | 243.840 | 106.492 | $44 \%$  |
+|  25 | Chi phí bán hàng | 47.042 | 77.171 | (30.129) | $-39 \%$  |
+|  26 | Chi phí quản lý doanh nghiệp | 93.927 | 170.379 | (76.452) | $-45 \%$  |
+|  31 | Thu nhập khác | 278.128 | 139.796 | 138.332 | $99 \%$  |
+|  32 | Chi phí khác | 4.903 | 2.123 | 2.780 | $131 \%$  |
+|  50 | Tổng lợi nhuận kế toán trước thuế | 1.721 .448 | 1.118 .746 | 602.702 | $54 \%$  |
+|  51 | Chi phí thuế TNDN hiện hành | 344.960 | 239.107 | 105.853 | $44 \%$  |
+|  60 | Lợi nhuận sau thuế TNDN | 1.376 .430 | 906.400 | 470.030 | $52 \%$  |
+
+Giải trình nguyên nhân biến động trong trường hợp kết quả kinh doanh giữa hai kỳ báo cáo biến động từ 10\% trở lên:
+
+- Giá vốn hàng bán và cung cấp dịch vụ tăng 126 tỷ biến động cùng chiều với doanh thu, trong đó tăng chủ yếu do tăng các chi phí hoạt động trong kỳ của Công ty.
+- Doanh thu hoạt động tài chính tăng 419 tỷ chủ yếu do tăng thu nhập từ lãi hoạt động đầu tư.
+- Chi phí tài chính tăng 106 tỷ chủ yếu do phát sinh các khoản vay mới trong Quý III năm 2025 (160 triệu USD và 2.060 tỷ VND) và chi phí trả cho một đối tác theo hợp đồng hợp tác kinh doanh.
+
+--- TRANG 43 ---
+
+
+# Công ty Cổ phần Vincom Retail
+
+PHỤ LỤC
+Quý III năm 2025
+
+- Chi phí bán hàng giảm 30 tỷ chủ yếu do giảm chi phí tư vấn bán hàng, hoa hồng và chi phí marketing.
+- Chi phí quản lý doanh nghiệp giảm 76 tỷ chủ yếu do giảm chi phí dự phòng (64 tỷ) và giảm các chi phí quản lý doanh nghiệp khác.
+- Thu nhập khác tăng 138 tỷ chủ yếu do tăng thu nhập từ bồi thường hợp đồng.
+- Chi phí khác tăng 3 tỷ chủ yếu từ chi phí sửa chữa.
+- Lợi nhuận trước thuế tăng 603 tỷ, chi phí thuế TNDN hiện hành tăng 106 tỷ và lợi nhuận sau thuế TNDN tăng 470 tỷ do các nguyên nhân nêu trên.

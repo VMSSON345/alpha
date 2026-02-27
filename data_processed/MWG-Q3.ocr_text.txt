@@ -1,0 +1,1860 @@
+--- TRANG 0 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+Báo cáo tài chính hợp nhất giữa niên độ
+Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025
+
+--- TRANG 1 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+## MỤC LỤC
+
+Trang
+Thông tin chung ..... 1
+Báo cáo của Ban Tổng Giám đốc ..... 2
+Bảng cân đối kế toán hợp nhất giữa niên độ ..... $3-4$
+Báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ ..... 5
+Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ ..... $6-7$
+Thuyết minh báo cáo tài chính hợp nhất giữa niên độ ..... $8-40$
+
+--- TRANG 2 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## THÔNG TIN CHUNG
+
+### CÔNG TY
+
+Công ty Cổ phần Đầu tư Thế Giới Di Động ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đảng ký Doanh nghiệp ("GCNĐKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH&ĐT") Tỉnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNĐKDN điều chỉnh gần nhất lần thứ 35 ngày 18 tháng 7 năm 2025.
+
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+
+Hoạt động chủ yếu trong kỳ của Công ty và các công ty con ("Nhóm Công ty") chủ yếu là mua bán, bảo hành, sửa chữa: thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại với thương hiệu Thế Giới Di Động, các mặt hàng điện máy với thương hiệu Điện Máy Xanh và các mặt hàng lương thực, thực phẩm, đồ uống và các hàng hóa khác với thương hiệu Bách Hóa Xanh.
+
+Công ty có trụ sở chính tại Số 222, Đường Yersin, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Thành phố Hồ Chí Minh, Việt Nam.
+
+### HỘI ĐÔNG QUẢN TRỊ
+
+Các thành viên Hội đồng Quản trị trong kỳ và vào ngày lập báo cáo này như sau:
+
+|  Ông Nguyễn Đức Tài | Chủ tịch  |
+| --- | --- |
+|  Ông Phạm Văn Trọng | Thành viên điều hành  |
+|  Ông Vũ Đăng Linh | Thành viên điều hành  |
+|  Ông Đoàn Văn Hiếu Em | Thành viên điều hành  |
+|  Ông Trần Huy Thanh Tùng | Thành viên điều hành  |
+|  Ông Đặng Minh Lượm | Thành viên điều hành  |
+|  Ông Thomas Lanyi | Thành viên không điều hành  |
+|  Ông Robert Willett | Thành viên không điều hành  |
+|  Ông Nguyễn Tiến Trung | Thành viên độc lập  |
+|  Ông Đỗ Tiến Sĩ | Thành viên độc lập  |
+|  Ông Đào Thế Vinh | Thành viên độc lập  |
+
+### ỦY BAN KIỂM TOÁN
+
+Các thành viên Ủy ban kiểm toán trong kỳ và vào ngày lập báo cáo này như sau:
+
+|  Ông Nguyễn Tiến Trung | Chủ tịch  |
+| --- | --- |
+|  Ông Đỗ Tiến Sĩ | Thành viên  |
+|  Ông Đào Thế Vinh | Thành viên  |
+
+bố nhiệm ngày 13 tháng 5 năm 2025
+
+bố nhiệm kỳ ngày 13 tháng 5 năm 2025
+
+### BAN TÔNG GIÁM ĐỐC
+
+Các thành viên Ban Tổng Giám đốc trong kỳ và vào ngày lập báo cáo này như sau:
+
+|  Ông Vũ Đăng Linh | Tổng Giám đốc  |
+| --- | --- |
+|  Bà Lý Trần Kim Ngân | Giám đốc Tài chính  |
+|  Ông Trần Huy Thanh Tùng | Kế toán trưởng  |
+|  Tổng Giám đốc | Tổng Giám đốc  |
+
+bố nhiệm ngày 3 tháng 4 năm 2025
+
+miễn nhiệm ngày 3 tháng 4 năm 2025
+
+### NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật trong kỳ và vào ngày lập báo cáo này như sau:
+
+|  Ông Vũ Đăng Linh | Tổng Giám đốc  |
+| --- | --- |
+|  Ông Trần Huy Thanh Tùng | Bố nhiệm ngày 3 tháng 4 năm 2025  |
+
+bố nhiệm ngày 3 tháng 4 năm 2025
+
+### KIỂM TOÁN VIÊN
+
+Công ty Trách nhiệm Hữu hạn Ernst & Young Việt Nam là công ty kiểm toán cho Công ty.
+
+--- TRANG 3 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## Báo cáo của Ban Tổng Giám đốc
+
+Ban Tổng Giám đốc Công ty Cổ phần Đầu tư Thế Giới Di Động ("Công ty") trân trọng trình bày báo cáo này và báo cáo tài chính hợp nhất giữa niên độ của Công ty và các công ty con ("Nhóm Công ty") cho kỳ kế toán chính tháng kết thúc ngày 30 tháng 9 năm 2025.
+
+## Trách nhiệm của Ban Tổng Giám đốc Đổi với báo cáo tài chính hợp nhất giữa niên độ
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo báo cáo tài chính hợp nhất giữa niên độ cho từng kỳ kế toán phản ánh trung thực và hợp lý tình hình tài chính hợp nhất giữa niên độ, kết quả hoạt động kinh doanh hợp nhất giữa niên độ và tình hình lưu chuyển tiền tệ hợp nhất giữa niên độ của Nhóm Công ty trong kỳ. Trong quá trình lập báo cáo tài chính hợp nhất giữa niên độ này, Ban Tổng Giám đốc cần phải:
+
+- lựa chọn các chính sách kế toán thích hợp và áp dụng các chính sách này một cách nhất quán;
+- thực hiện các đánh giá và ước tính một cách hợp lý và thận trọng;
+- nêu rõ các chuẩn mực kế toán áp dụng cho Nhóm Công ty có được tuân thủ hay không và tất cả những sai lệch trong yếu so với những chuẩn mực này đã được trình bày và giải thích trong báo cáo tài chính hợp nhất giữa niên độ; và
+- lập báo cáo tài chính hợp nhất giữa niên độ trên cơ sở nguyên tắc hoạt động liên tục trừ trường hợp không thể cho rằng Nhóm Công ty sẽ tiếp tục hoạt động.
+
+Ban Tổng Giám đốc chịu trách nhiệm đảm bảo việc các sổ sách kế toán thích hợp được lưu giữ để phản ánh tình hình tài chính hợp nhất giữa niên độ của Nhóm Công ty, với mức độ chính xác hợp lý, tại bất kỳ thời điểm nào và đảm bảo rằng các sổ sách kế toán tuân thủ với chế độ kế toán đã được áp dụng. Ban Tổng Giám đốc cũng chịu trách nhiệm về việc quản lý các tài sản của Nhóm Công ty và do đó phải thực hiện các biện pháp thích hợp để ngăn chặn và phát hiện các hành vi gian lận và những vi phạm khác.
+
+Ban Tổng Giám đốc cam kết đã tuân thủ những yêu cầu nêu trên trong việc lập báo cáo tài chính hợp nhất giữa niên độ kèm theo.
+
+## Công bố của Ban Tổng Giám đốc
+
+Theo ý kiến của Ban Tổng Giám đốc, báo cáo tài chính hợp nhất giữa niên độ kèm theo đã phản ánh trung thực và hợp lý tình hình tài chính hợp nhất giữa niên độ của Nhóm Công ty vào ngày 30 tháng 9 năm 2025, kết quả hoạt động kinh doanh hợp nhất giữa niên độ và tình hình lưu chuyển tiền tệ hợp nhất giữa niên độ cho kỳ kế toán chính tháng kết thúc cùng ngày phù hợp với các Chuẩn mực kế toán Việt Nam. Chế độ kế toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất giữa niên độ.
+
+![img-0.jpeg](img-0.jpeg)
+
+Vũ Đăng Linh
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 22 tháng 10 năm 2025
+
+--- TRANG 4 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## BẢNG CẦN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIỆN ĐỘ vào ngày 30 tháng 9 năm 2025
+
+|  Mă
+số | TÀI SẢN | Thuyết
+minh | Ngày 30 tháng 9
+năm 2025 | Ngày 31 tháng 12
+năm 2024  |
+| --- | --- | --- | --- | --- |
+|  100 | A. TÀI SẢN NGẮN HẠN |  | 75.125.383.121.673 | 65.836.422.620.040  |
+|  110 | I. Tiền và các khoản tương đương tiền | 4 | 5.510.816.169.528 | 4.897.331.540.730  |
+|  111 | 1. Tiền |  | 5.510.816.169.528 | 4.897.331.540.730  |
+|  112 | 2. Các khoản tương đương tiền |  | - | 200.000.000.000  |
+|  120 | II. Đầu tư tài chính ngắn hạn |  | 33.436.260.988.199 | 29.324.441.756.320  |
+|  123 | 1. Đầu tư nắm giữ đến ngày đào hạn | 5.1 | 33.436.260.988.199 | 29.324.441.756.320  |
+|  130 | III. Các khoản phải thu ngắn hạn |  | 11.515.134.739.245 | 8.825.896.224.771  |
+|  131 | 1. Phải thu ngắn hạn của khách hàng | 6 | 203.255.755.385 | 241.405.396.887  |
+|  132 | 2. Trả trước cho người bán ngắn hạn | 7 | 34.907.414.898 | 115.888.383.111  |
+|  135 | 3. Phải thu về cho vay ngắn hạn | 8 | 7.879.500.000.000 | 6.037.714.596.101  |
+|  136 | 4. Phải thu ngắn hạn khác | 9 | 3.397.471.568.962 | 2.430.887.848.672  |
+|  140 | IV. Hàng tồn kho | 10 | 24.101.279.307.428 | 22.244.676.326.705  |
+|  141 | 1. Hàng tồn kho |  | 24.645.125.687.618 | 22.667.774.012.643  |
+|  149 | 2. Dự phòng giảm giá hàng tồn kho |  | (543.846.380.190) | (423.097.685.938)  |
+|  150 | V. Tài sản ngắn hạn khác |  | 561.891.917.273 | 544.076.771.514  |
+|  151 | 1. Chi phí trả trước ngắn hạn | 11 | 424.076.848.924 | 390.391.360.669  |
+|  152 | 2. Thuế GTGT được khấu trừ |  | 124.012.614.096 | 121.055.116.270  |
+|  153 | 3. Thuế và các khoản khác phải thu Nhà nước |  | 13.802.454.253 | 32.630.294.575  |
+|  200 | B. TÀI SẢN DÀI HẠN |  | 5.163.114.770.393 | 4.601.353.101.564  |
+|  210 | I. Phải thu dài hạn |  | 394.958.296.709 | 389.707.802.472  |
+|  216 | 1. Phải thu dài hạn khác | 12 | 394.958.296.709 | 389.707.802.472  |
+|  220 | II. Tài sản cố định |  | 2.606.757.399.459 | 3.586.628.664.045  |
+|  221 | 1. Tài sản cố định hữu hình | 13 | 2.547.304.335.567 | 3.523.161.097.906  |
+|  222 | Nguyên giá |  | 19.496.422.101.808 | 19.174.626.383.752  |
+|  223 | Giá trị khấu hao lũy kế |  | (16.949.117.766.241) | (15.651.465.285.846)  |
+|  227 | 2. Tài sản cố định vô hình | 14 | 59.453.063.892 | 63.467.566.139  |
+|  228 | Nguyên giá |  | 90.297.772.827 | 90.297.772.827  |
+|  229 | Giá trị hao mòn lũy kế |  | (30.844.708.935) | (26.830.206.688)  |
+|  240 | III. Tài sản dở dang dài hạn |  | 76.144.035.146 | 24.526.423.340  |
+|  242 | 1. Chi phí xây dựng cơ bản dở dang | 15 | 76.144.035.146 | 24.526.423.340  |
+|  250 | IV. Đầu tư tài chính dài hạn |  | 1.632.447.385.759 | 242.035.797.830  |
+|  252 | 1. Đầu tư vào công ty liên doanh | 16 | 365.236.091.759 | 242.035.797.830  |
+|  255 | 2. Đầu tư nắm giữ đến ngày đào hạn | 5.2 | 1.267.211.294.000 | -  |
+|  260 | V. Tài sản dài hạn khác |  | 452.807.653.320 | 358.454.413.877  |
+|  261 | 1. Chi phí trả trước dài hạn | 11 | 63.890.927.950 | 68.471.833.530  |
+|  262 | 2. Tài sản thuế thu nhập hoãn lại | 28.3 | 388.916.725.370 | 289.982.580.347  |
+|  270 | TỔNG CỘNG TÀI SẢN |  | 80.288.497.892.066 | 70.437.775.721.604  |
+
+--- TRANG 5 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## BANG CÂN ĐỐI KẾ TOÁN HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)
+
+vào ngày 30 tháng 9 năm 2025
+
+|  Mã số | NGUỒN VÔN | Thuyết minh | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- | --- | --- |
+|  300 | C. NỢ PHÁI TRÁ |  | 48.491.298.270.189 | 42.316.198.897.749  |
+|  310 | I. Nợ ngắn hạn |  | 48.491.298.270.189 | 42.316.198.897.749  |
+|  311 | 1. Phải trả người bán ngắn hạn | 18 | 12.679.647.730.746 | 9.179.636.054.558  |
+|  312 | 2. Người mua trả tiền trước ngắn hạn |  | 178.074.374.031 | 90.966.314.915  |
+|  313 | 3. Thuê và các khoản phải nộp Nhà nước | 17 | 572.138.325.062 | 691.059.561.096  |
+|  314 | 4. Phải trả người lao động |  | 344.304.557.520 | 649.999.685.139  |
+|  315 | 5. Chi phí phải trả ngắn hạn | 19 | 4.670.788.424.370 | 3.357.568.974.136  |
+|  318 | 6. Doanh thu chưa thực hiện ngắn hạn | 20 | 16.157.007.362 | 51.807.612.125  |
+|  319 | 7. Phải trả ngắn hạn khác | 21 | 1.246.432.324.264 | 924.674.307.090  |
+|  320 | 8. Vay ngắn hạn | 22 | 28.705.630.115.739 | 27.300.246.721.779  |
+|  321 | 9. Dự phòng phải trả ngắn hạn |  | 78.125.411.095 | 70.239.666.911  |
+|  400 | D. VÔN CHỦ SỞ HỮU |  | 31.797.199.621.877 | 28.121.576.823.855  |
+|  410 | I. Vốn chủ sở hữu |  | 31.797.199.621.877 | 28.121.576.823.855  |
+|  411 | 1. Vốn cổ phần | 23.1 | 14.796.931.770.000 | 14.622.441.770.000  |
+|  411a | - Cổ phiếu phổ thông có quyền biểu quyết |  | 14.796.931.770.000 | 14.622.441.770.000  |
+|  412 | 2. Thăng dư vốn cổ phần | 23.1 | 558.110.430.986 | 558.110.430.986  |
+|  415 | 3. Cổ phiếu quỹ | 23.1 | (12.364.140.000) | (7.599.680.000)  |
+|  417 | 4. Chênh lệch tỷ giá hồi đoái | 23.1 | - | 2.458.384.629  |
+|  421 | 5. Lợi nhuận sau thuế chưa phân phối đến cuối kỳ trước | 23.1 | 16.068.670.758.791 | 12.582.145.266.842  |
+|  421a | - Lợi nhuận sau thuế chưa phân phối đến cuối kỳ trước |  | 11.103.688.503.842 | 8.860.276.825.181  |
+|  421b | - Lợi nhuận sau thuế chưa phân phối kỳ này |  | 4.964.982.254.949 | 3.721.868.441.661  |
+|  429 | 6. Lợi ích cổ đông không kiểm soát | 23.1 | 385.850.802.190 | 364.020.851.398  |
+|  440 | TÔNG CỘNG NGUỒN VÔN |  | 80.288.497.892.966 | 70.437.775.723.604  |
+
+Võ Thị Phương Thảo
+
+Lý Trần Kim Ngân
+
+Võ Đăng Linh
+
+Người lập
+
+Kế toán trưởng
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 22 tháng 10 năm 2025
+
+--- TRANG 6 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+BÁO CÁO KÉT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT GIỮA NIÊN ĐỌ
+
+cho kỳ kế toán chính thức ngày 30 tháng 9 năm 2025
+
+|  CHÍ TIÊU | Mã
+số | Thuyết
+minh | Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 09 năm 2025 | Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 09 năm 2024  |
+| --- | --- | --- | --- | --- |
+|   |  |  | Số quý này năm nay | Số lũy kế năm nay  |
+|  1 Doanh thu bán hàng và cung cấp dịch vụ | 1 | 24.1 | 40.091.343.632.319 | 114.268.417.790.401  |
+|  2 Các khoản giảm trừ doanh thu | 2 | 24.1 | (238.836.479.673) | (660.983.559.576)  |
+|  3 Doanh thu thuần về bán hàng và cung cấp dịch vụ | 10 | 24.1 | 39.852.507.152.646 | 113.607.434.230.825  |
+|  4 Giá vốn hàng bán và dịch vụ cung cấp | 11 | 27 | (32.374.320.274.746) | (91.360.136.077.564)  |
+|  5 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ | 20 |  | 7.478.186.877.900 | 22.247.298.153.261  |
+|  6 Doanh thu hoạt động tài chính | 21 | 24.2 | 809.068.897.431 | 2.271.194.812.327  |
+|  7 Chi phí tài chính | 22 | 25 | (410.743.275.636) | (1.152.220.906.985)  |
+|  - Trong đó: Chi phí lãi vay | 23 | 25 | (388.038.374.707) | (1.086.009.707.245)  |
+|  8 Phần lỗ trong công ty liên doanh | 24 | 16 | 4.176.701.355 | 18.428.106.429  |
+|  9 Chi phí bán hàng | 25 | 26, 27 | (4.570.833.491.508) | (13.677.123.040.459)  |
+|  10 Chi phí quản lý doanh nghiệp | 26 | 26, 27 | (1.119.414.262.509) | (3.535.680.143.205)  |
+|  11 Lợi nhuận thuần từ hoạt động kinh doanh | 30 |  | 2.190.441.447.033 | 6.171.896.981.368  |
+
+# B02a-DN/HN
+
+B02a-DN/HN
+
+VND
+
+VND
+
+100.431.177.996.843 (663.945.925.373)
+
+34.146.668.687.951 99.767.232.071.470 (78.854.990.896.568)
+
+6.891.911.062.303 20.912.241.174.902 575.388.786.548 1.740.807.020.875 (999.393.646.339) (813.765.642.819)
+
+147.877.008 (47.018.975.017) (4.848.950.073.481) (14.726.729.412.800) (2.649.410.859.462)
+
+1.320.438.170.928 4.230.495.302.159
+
+--- TRANG 7 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B22a-DN/HN
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT GIỮA NIỀN ĐỘ cho kỳ kế toán chính thức ngày 30 tháng 9 năm 2025
+
+|  CHÍ TIÊU | Mã số | Thuyết minh | Cho kỳ kế toán chính thức ngày 30 tháng 09 năm 2025 | Cho kỳ kế toán chính thức ngày 30 tháng 09 năm 2024  |
+| --- | --- | --- | --- | --- |
+|   |  |  | Số quý này năm nay | Số lũy kế năm nay  |
+|  12. Thu nhập khác | 31 |  | 6.915.715.579 | 20.189.641.967  |
+|  13. Chi phí khác | 32 |  | (25.005.996.533) | (56.869.314.660)  |
+|  14. Lỗ khác | 40 |  | (18.090.280.954) | (36.679.672.693)  |
+|  15. Tổng lợi nhuận kế toán trước thuế | 50 |  | 2.172.351.166.079 | 6.135.217.308.675  |
+|  16. Chi phí thuế TNDN hiện hành | 51 | 28.1 | (477.289.656.191) | (1.245.122.930.126)  |
+|  17. Thu nhập thuế TNDN hoàn lại | 52 | 28.3 | 88.604.124.097 | 98.934.145.022  |
+|  18. Lợi nhuận sau thuế TNDN | 60 |  | 1.783.665.633.985 | 4.989.028.523.571  |
+|  19. Lợi nhuận sau thuế của công ty mẹ | 61 |  | 1.770.898.917.304 | 4.964.982.254.949  |
+|  20. Lợi nhuận sau thuế của cổ đông không kiểm soát | 62 |  | 12.766.716.681 | 24.046.268.622  |
+|  21. Lãi cơ bản trên cổ phiếu | 70 | 29 | 1.198 | 3.374  |
+|  22. Lãi suy giảm trên cổ phiếu | 71 | 29 | 1.198 | 3.374  |
+
+Vũ Thị Phương Thảo
+
+Người lập
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 22 tháng 10 năm 2025
+
+Vũ Đăng Linh Tổng Giám đốc
+
+Vũ Đăng Linh
+
+--- TRANG 8 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## BÁO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT GIỮA NIỆN ĐỘ
+
+### Cho kỳ kế toán chính thức ngày 30 tháng 9 năm 2025
+
+|  Mã |  |  |  | VND  |
+| --- | --- | --- | --- | --- |
+|  số | CHÍ TIÊU | Thuyết
+minh | Cho kỳ kế toán
+chính thức
+ngày 30 tháng 9
+năm 2025 | Cho kỳ kế toán
+chính thức
+ngày 30 tháng 9
+năm 2024  |
+|  01 | **LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG KINH DOANH** |  |  |   |
+|   | Lợi nhuận kế toán trước thuế |  | 6.135.217.308.675 | 3.790.291.759.080  |
+|  02 | Điều chỉnh cho các khoản: |  |  |   |
+|   | Khẩu hao và hao mòn tài sản |  |  |   |
+|   | cố định | 13, 14 | 1.457.540.255.305 | 2.107.255.138.896  |
+|  03 | Trích lập dự phòng |  | 128.634.438.436 | 154.033.666.218  |
+|  04 | Lỗ chênh lệch tỷ giá hối đoái |  |  |   |
+|   | do đánh giá lại các khoản mục |  |  |   |
+|   | tiền tệ có gốc ngoại tệ |  | 48.096.118.144 | 166.714.895.683  |
+|  05 | Lãi từ hoạt động đầu tư |  | (2.123.299.379.720) | (1.101.925.501.144)  |
+|  06 | Chi phí lãi vay | 25 | 1.086.009.707.245 | 813.765.642.819  |
+|  08 | Lợi nhuận từ hoạt động kinh doanh |  |  |   |
+|   | doanh thu về thay đổi vốn |  |  |   |
+|   | lưu động |  | 6.732.198.448.085 | 5.930.135.601.552  |
+|  09 | (Tăng) giảm các khoản phải thu |  | (335.575.132.237) | 112.734.547.004  |
+|  10 | Tăng hàng tồn kho |  | (1.976.621.889.773) | (182.606.858.583)  |
+|  11 | Tăng các khoản phải trả |  | 4.674.112.304.697 | 3.907.717.705.471  |
+|  12 | (Tăng) giảm chi phí trả trước |  | (29.104.582.675) | 134.121.515.103  |
+|  14 | Tiền lãi vay đã trả |  | (1.016.348.017.066) | (834.440.972.406)  |
+|  15 | Thuế thu nhập doanh nghiệp |  |  |   |
+|   | đã nộp | 17 | (1.340.648.760.908) | (678.764.338.329)  |
+|  20 | Lưu chuyển tiền thuần từ hoạt động kinh doanh |  | 6.708.012.370.123 | 8.388.897.199.812  |
+|   | **II. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG ĐẦU TƯ** |  |  |   |
+|  21 | Tiền chi để mua sắm, xây dựng tài sản cố định ("TSCĐ") |  | (538.716.464.631) | (240.904.908.788)  |
+|  22 | Tiền thu do thanh lý, |  |  |   |
+|   | nhượng bán TSCĐ |  | 7.264.410.352 | 47.341.139.515  |
+|  23 | Tiền chi cho vay và tiền gửi |  | (39.798.216.753.747) | (32.950.486.294.846)  |
+|  24 | ngân hàng có ký hạn |  |  |   |
+|   | Thu hồi tiền gửi ngân hàng |  | 32.577.400.823.969 | 27.642.066.693.130  |
+|  25 | có ký hạn và trả phí |  |  |   |
+|   | Tiền chi đầu tư góp vốn vào |  | (104.772.187.500) |   |
+|  26 | công ty liên doanh |  |  |   |
+|  27 | Tiền thu lãi từ tiền gửi, cho vay |  | 1.620.547.815.145 | 1.777.389.076.956  |
+|  28 | Tiền chi cho lợi ích cố đông |  |  |   |
+|   | không kiểm soát |  | (2.216.117.920) | (692.536.850)  |
+|  30 | Lưu chuyển tiền thuần sử dụng vào hoạt động đầu tư |  | (6.238.708.474.332) | (3.725.286.830.883)  |
+
+--- TRANG 9 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+B03a-DN/HN
+
+BÁO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo) cho kỳ kế toán chính tháng kết thúc ngày 30 tháng 9 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Cho kỳ kế toán chính tháng kết thúc ngày 30 tháng 9 năm 2025 | Cho kỳ kế toán chính tháng kết thúc ngày 30 tháng 9 năm 2024  |
+| --- | --- | --- | --- | --- |
+|  31 | **LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH** Tiền thu từ phát hành cổ phiếu và vốn góp của cổ đông không kiểm soát | 23.1 | 174.490.000.000 | 1.771.634.338.542  |
+|  32 | Mua lại cổ phiếu của doanh nghiệp đã phát hành | 23.1 | (4.764.460.000) | (4.830.000.000)  |
+|  33 | Tiền thu từ đi vay | 22 | 68.605.917.754.626 | 54.297.038.268.438  |
+|  34 | Tiền chi trả nợ gốc vay | 22 | (67.153.259.360.666) | (55.609.770.631.679)  |
+|  36 | Cổ tức đã trả |  | (1.478.456.763.000) | (730.957.694.000)  |
+|  40 | Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động tài chính |  | 143.927.170.960 | (276.885.718.699)  |
+|  50 | Lưu chuyển tiền thuần trong kỳ |  | 613.231.066.751 | 4.386.724.650.230  |
+|  60 | Tiền và tương đương tiền đầu kỳ |  | 4.897.331.540.730 | 5.365.704.857.172  |
+|  61 | Ảnh hưởng của thay đổi tỷ giá hồi đoái quy đổi ngoại tệ |  | 253.562.047 | (89.895.683)  |
+|  70 | Tiền và tương đương tiền cuối kỳ | 4 | 5.510.816.169.526 | 9.752.339.611.719  |
+
+Võ Thị Phương Thảo
+
+Người lập
+
+Lý Trần Kim Ngân
+
+Kế toán trưởng
+
+Vũ Đăng Linh
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 22 tháng 10 năm 2025
+
+--- TRANG 10 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 1. THÔNG TIN CÔNG TY
+
+Công ty Cổ phần Đầu tư Thế Giới Di Động ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh nghiệp của Việt Nam theo Giấy Chứng nhận Đăng ký Doanh nghiệp ("GCNĐKDN") số 0306731335 do Sở Kế hoạch và Đầu tư ("Sở KH \& ĐT") Tỉnh Bình Dương cấp ngày 16 tháng 1 năm 2009, và theo GCNĐKDN điều chỉnh gắn nhất lần thứ 35 ngày 18 tháng 7 năm 2025.
+Cổ phiếu của Công ty được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh ("SGDCKHCM") với mã chứng khoán "MWG" theo Quyết định niêm yết số 253/QĐ-SGDHCM do SGDCKHCM cấp ngày 7 tháng 7 năm 2014.
+Hoạt động chủ yếu trong kỳ hiện tại của Công ty và các công ty con ("Nhóm Công ty") là mua bán, bảo hành, sửa chữa thiết bị tin học, điện thoại, linh kiện và phụ kiện điện thoại với thương hiệu Thế Giới Di Động, các mặt hàng điện máy với thương hiệu Điện Máy Xanh và các mặt hàng lương thực, thực phẩm, đồ uống và các hàng hóa khác với thương hiệu Bách Hóa Xanh.
+Chu kỳ kinh doanh thông thường của Công ty là 12 tháng.
+Công ty có trụ sở chính tại Sở 222, Đường Yersin, Phường Thủ Dầu Một, Thành phố Hồ Chí Minh, Việt Nam và văn phòng hoạt động tại Tòa nhà MWG, Lô T2-1.2, Đường D1, Khu Công nghệ cao, Thành phố Hồ Chí Minh, Việt Nam.
+Số lượng nhân viên của Nhóm Công ty tại ngày 30 tháng 9 năm 2025 là 61.201 (ngày 31 tháng 12 năm 2024 là 63.132 ).
+
+--- TRANG 11 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thống kết thúc công ngày
+
+## 1. THÔNG TIN CÔNG TY (tiếp theo)
+
+### Cơ cấu tổ chức
+
+Nhóm Công ty có 10 công ty con và 1 công ty liên doanh đã được hợp nhất vào báo cáo tài chính hợp nhất giữa niên độ của Nhóm Công ty:
+
+|  Tên công ty con | Trụ sở | Lĩnh vực kinh doanh | Tình trạng hoạt động | Tỷ lệ sở hữu và tỷ lệ quyền biểu quyết (%) | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Công ty con trực tiếp |  |  |  |  |  |   |
+|  (1) Công ty Cổ phần Thế Giới Di Động | Thành phố Hồ Chí Minh, Việt Nam | Thương mại sản phẩm điện tử | Đang hoạt động | 99,95 |  | 99,95  |
+|  (2) Công ty Cổ phần Công nghệ và Đầu tư Bách Hóa Xanh | Thành phố Hồ Chí Minh, Việt Nam | Quản lý đầu tư | Đang hoạt động | 94,99 |  | 94,99  |
+|  (3) Công ty Cổ phần Thế Giới Số Trần Anh (*) | Thành phố Hà Nội, Việt Nam | Thương mại sản phẩm điện tử | Ngưng hoạt động | 99,33 |  | 99,33  |
+|  (4) Công ty TNHH MTV Công nghệ Thông tin Thế Giới Di Động | Thành phố Hồ Chí Minh, Việt Nam | Công nghệ thông tin | Đang hoạt động | 100,00 |  | 100,00  |
+|  (5) Công ty Cổ phần 4K Farm (*) | Thành phố Hồ Chí Minh, Việt Nam | Trồng và chế biến nông sản | Ngưng hoạt động | 99,99 |  | 99,99  |
+|  (6) Công ty Cổ phần Logistics Toán Tín (*) | Thành phố Hồ Chí Minh, Việt Nam | Kho vận | Ngưng hoạt động | - |  | -  |
+|  (7) Công ty Cổ phần Dịch vụ Lắp đặt – Sửa chữa – Bảo hành Tận Tâm | Thành phố Hồ Chí Minh, Việt Nam | Sửa chữa máy móc, thiết bị | Đang hoạt động | 99,99 |  | 99,99  |
+|  Công ty con gián tiếp |  |  |  |  |  |   |
+|  (8) Công ty Cổ phần Thương mại Bách Hóa Xanh | Thành phố Hồ Chí Minh, Việt Nam | Thương mại thực phẩm | Đang hoạt động | 99,96 |  | 99,95  |
+|  (9) Công ty Cổ phần Dược phẩm An Khang Pharma | Thành phố Hồ Chí Minh, Việt Nam | Bán lẻ dược phẩm | Đang hoạt động | 99,99 |  | 99,99  |
+|  (10) MWG (Cambodia) Co., Ltd (*) | Phnôm Pênh, Campuchia | Thương mại sản phẩm điện tử | Ngưng hoạt động | 99,95 |  | 99,95  |
+|  Công ty liên doanh |  |  |  |  |  |   |
+|  (11) PT Era Blu Elektronik | Indonesia | Thương mại sản phẩm điện tử | Đang hoạt động | 45,00 |  | 45,00  |
+
+(*) Tại ngày lập báo cáo này, các Công ty con này đang trong quá trình thực hiện các thủ tục cần thiết để giải thể.
+
+--- TRANG 12 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 2. CƠ SƠ TRÌNH BÀY
+
+### 2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất giữa niên độ của Nhóm Công ty được trình bày bằng đồng Việt Nam ("VND") phù hợp với Chế độ kế toán doanh nghiệp Việt Nam, Chuẩn mực kế toán Việt Nam số 27 - Báo cáo tài chính giữa niên độ và các Chuẩn mực kế toán Việt Nam do Bộ Tài chính ban hành theo:
+
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+Theo đó, báo cáo tài chính hợp nhất giữa niên độ được trình bày kèm theo và việc sử dụng các báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục và nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+
+### 2.2 Hinh thức sổ kế toán áp dụng
+
+Hình thức sổ kế toán được áp dụng của Nhóm công ty là Nhật ký chung.
+
+### 2.3 Kỳ kế toán năm
+
+Kỳ kế toán năm của Nhóm Công ty áp dụng cho việc lập báo cáo tài chính hợp nhất giữa niên độ bắt đầu từ ngày 1 tháng 1 và kết thúc ngày 31 tháng 12 .
+
+### 2.4 Đơn vị tiền tệ trong kế toán
+
+Báo cáo tài chính hợp nhất giữa niên độ được lập bằng đơn vị tiền tệ trong kế toán của Nhóm Công ty là VND.
+
+### 2.5 Cơ sở hợp nhất
+
+Báo cáo tài chính hợp nhất giữa niên độ bao gồm các báo cáo tài chính của Công ty mẹ và các công ty con cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025.
+Các công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Nhóm Công ty thực sự nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Nhóm Công ty chấm dứt quyền kiểm soát đối với công ty con.
+Báo cáo tài chính của Công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán, và được áp dụng các chính sách kế toán một cách thống nhất.
+Số dư các tài khoản trên bảng cân đối kế toán giữa các đơn vị trong cùng Nhóm Công ty, các khoản thu nhập và chi phí, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+Lợi ích của các cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Nhóm Công ty và được trình bày riêng biệt trên báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ và trong phần vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất giữa niên độ.
+Ảnh hưởng do các thay đổi trong tỷ lệ sở hữu công ty con mà không làm mất quyền kiểm soát được hạch toán vào lợi nhuận sau thuế chưa phân phối.
+
+--- TRANG 13 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo)**
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thống kết thúc cùng ngày
+
+## 3. TỔM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU
+
+### 3.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng và các khoản đầu tư ngắn hạn có thời hạn gốc không quá ba tháng, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+### 3.2 Hàng tồn kho
+
+Hàng tồn kho được ghi nhận theo giá thấp hơn giữa giá thành để đưa mỗi sản phẩm đến vị trí, điều kiện hiện tại và giá trị thuần có thể thực hiện được.
+
+Giá trị thuần có thể thực hiện được là giá bán ước tính của hàng tồn kho trong điều kiện kinh doanh bình thường trừ chi phí ước tính để hoàn thành và chi phí bán hàng ước tính.
+
+Nhóm Công ty áp dụng phương pháp kê khai thường xuyên để hạch toán hàng tồn kho, với giá trị được xác định như sau:
+
+- **Điện thoại di động và máy tính xách tay**: giá vốn thực tế theo phương pháp thực tế đích danh
+- **Thiết bị kỹ thuật số điện tử**: giá vốn thực tế theo phương pháp thực tế đích danh
+- **Phụ kiện**: giá vốn thực tế theo phương pháp bình quân gia quyền
+- **Thiết bị gia dụng**: giá vốn thực tế theo phương pháp bình quân gia quyền
+- **Thực phẩm khô, thực phẩm tươi sống, nước uống và hàng tiêu dùng**: giá vốn thực tế theo phương pháp bình quân gia quyền
+- **Hóa mỹ phẩm**: giá vốn thực tế theo phương pháp bình quân gia quyền
+- **Khác**: giá vốn thực tế theo phương pháp bình quân gia quyền
+
+#### Dự phóng giảm giá hàng tồn kho
+
+Dự phóng giảm giá hàng tồn kho được trích lập cho phần giá trị dự kiến bị tổn thất do các khoản suy giảm trong giá trị (do giảm giá, hư hỏng, kém phẩm chất, lỗi thời v.v.) có thể xảy ra đối với hàng hoá tồn kho thuộc quyền sở hữu của Nhóm Công ty dựa trên bằng chứng hợp lý về sự suy giảm giá trị tại ngày kết thúc kỳ kế toán.
+
+Số tăng hoặc giảm khoản dự phóng giảm giá hàng tồn kho được hạch toán vào giá vốn hàng bán trên báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+### 3.3 Các khoản phải thu
+
+Các khoản phải thu được trình bày trên báo cáo tài chính hợp nhất giữa niên độ theo giá trị ghi sổ các khoản phải thu từ khách hàng và phải thu khác sau khi cần trừ các khoản dự phóng được lập cho các khoản phải thu khó đói.
+
+Dự phóng nợ phải thu khó đói thể hiện phần giá trị của các khoản phải thu mà Nhóm Công ty dự kiến không có khả năng thu hồi tại ngày kết thúc kỳ kế toán. Tăng hoặc giảm sổ dự tài khoản dự phóng được hạch toán vào chi phí quản lý doanh nghiệp trong báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+### 3.4 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị khẩu hao lũy kế.
+
+Nguyên giá tài sản cố định hữu hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.
+
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định hữu hình được ghi tăng nguyên giá của tài sản và chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+--- TRANG 14 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ (tiếp theo)**
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính đáng kết thúc cùng ngày
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+### 3.5 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó tại thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Thỏa thuận thuê tài sản được phân loại là thuê tài chính nếu theo hợp đồng thuê tài sản bên cho thuê chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu tài sản cho bên đi thuê. Tất cả các thỏa thuận thuê tài sản khác được phân loại là thuê hoạt động.
+
+#### Trong trường hợp Nhóm Công ty là bên đi thuê
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ theo phương pháp đường thẳng trong thời hạn của hợp đồng thuê.
+
+### 3.6 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kế.
+
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+
+Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần túi việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+#### Quyền sử dụng đất
+
+Quyền sử dụng đất được ghi nhận như một tài sản cố định vô hình khi Công ty được cấp Giấy chứng nhận quyền sử dụng đất. Nguyên giá quyền sử dụng đất bao gồm tất cả những chi phí có liên quan trực tiếp đến việc đưa đất vào trạng thái sẵn sàng để sử dụng. Quyền sử dụng đất có thời gian sử dụng vô thời hạn thì không tính khấu hao.
+
+### 3.7 Khấu hao và hao mòn
+
+Khấu hao tài sản cố định hữu hình và hao mòn tài sản cố định vô hình được triển khai theo phương pháp khấu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+|  Nhà cửa, vật kiến trúc | 5 năm  |
+| --- | --- |
+|  Phần mềm máy tính | 4 năm  |
+|  Thương hiệu | 10 năm  |
+|  Phương tiện vận tải | 6 năm  |
+|  Thiết bị văn phòng | 3 - 8 năm  |
+
+### 3.8 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của doanh nghiệp. Chi phí đi vay được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ trong kỳ khi phát sinh.
+
+--- TRANG 15 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYÊT MINH BÁO CÁO TÁI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 3. TÓM TÁT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YÊU (tiếp theo)
+
+### 3.9 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên bảng cân đối kế toán hợp nhất giữa niên độ và được phân bổ trong khoảng thời gian trả trước hoặc thời gian các lợi ích kinh tế tương ứng được tạo ra từ các chi phí này.
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dẫn vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ:
+
+- Chi phí tiền thuê trả trước;
+- Chi phí thiết kế cửa hàng;
+- Công cụ dụng cụ xuất dùng; và
+- Khác.
+
+
+### 3.10 Hợp nhất kinh doanh và lợi thế thương mại
+
+Hợp nhất kinh doanh được hạch toán theo phương pháp giá mua. Giá phí hợp nhất kinh doanh bao gồm giá trị hợp lý tại ngày diễn ra trao đổi của các tài sản đem trao đổi, các khoản nợ phải trả đã phát sinh hoặc đã thừa nhận và các công cụ vốn do bên mua phát hành để đổi lấy quyền kiểm soát bên bị mua và các chi phí liên quan trực tiếp đến việc hợp nhất kinh doanh. Tài sản, nợ phải trả có thể xác định được và những khoản nợ tiềm tàng phải gánh chịu trong hợp nhất kinh doanh của bên bị mua đều ghi nhận ban đầu theo giá trị hợp lý vào ngày hợp nhất kinh doanh.
+Lợi thế thương mại phát sinh từ hợp nhất kinh doanh được ghi nhận ban đầu theo giá gốc, là phần chênh lệch giữa giá phí hợp nhất kinh doanh so với với phần sở hữu của bên mua trong giá trị hợp lý thuần của tài sản, nợ phải trả có thể xác định được và các khoản nợ tiềm tàng đã ghi nhận. Nếu giá phí hợp nhất kinh doanh thấp hơn giá trị hợp lý của tài sản thuần của bên bị mua, phần chênh lệch đó sẽ được ghi nhận vào báo cáo kết quả kinh doanh hợp nhất. Sau ghi nhận ban đầu, lợi thế thương mại được xác định giá trị bằng nguyên giá trừ đi giá trị phân bổ lũy kế. Lợi thế thương mại được phân bổ theo phương pháp đường thẳng trong thời gian hữu ích được ước tính là mười (10) năm. Định kỳ công ty mẹ phải đánh giá tổn thất lợi thế thương mại tại công ty con, nếu có bằng chứng cho thấy số lợi thế thương mại bị tổn thất lớn hơn so với số phân bổ hàng kỳ thì phân bổ theo số lợi thế thương mại bị tổn thất ngay trong kỳ phát sinh.
+
+### 3.11 Các khoản đầu tư
+
+## Đầu tư vào liên doanh
+
+Khoản đầu tư của Nhóm Công ty vào cơ sở kinh doanh được đồng kiểm soát được hạch toán theo phương pháp vốn chủ sở hữu. Theo phương pháp này, khoản đầu tư của Nhóm Công ty vào cơ sở kinh doanh đồng kiểm soát được trình bày trên bảng cân đối kế toán hợp nhất theo giá gốc, sau đó được điều chỉnh theo những thay đổi của phần sở hữu của Nhóm Công ty trong tài sản thuần của cơ sở kinh doanh được đồng kiểm soát sau khi liên doanh. Báo cáo kết quả kinh doanh hợp nhất phản ánh phần sở hữu của Nhóm Công ty trong kết quả hoạt động kinh doanh của cơ sở kinh doanh được đồng kiểm soát sau khi liên doanh.
+Phần sở hữu của nhà đầu tư trong lợi nhuận/(lỗ) của cơ sở kinh doanh được đồng kiểm soát được phản ánh trên báo cáo kết quả kinh doanh hợp nhất và phần sở hữu của nhà đầu tư trong thay đổi sau khi liên doanh của các quỹ của cơ sở kinh doanh được đồng kiểm soát được ghi nhận vào quỹ. Thay đổi lũy kế sau khi liên doanh được điều chỉnh vào giá trị còn lại của khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát. Cổ tức nhận được/Lợi nhuận được chia từ cơ sở kinh doanh được đồng kiểm soát được cần trừ vào giá trị khoản đầu tư vào cơ sở kinh doanh được đồng kiểm soát.
+Báo cáo tài chính của cơ sở kinh doanh được đồng kiểm soát được lập cùng kỳ với báo cáo tài chính hợp nhất giữa niên độ của Nhóm Công ty và sử dụng các chính sách kế toán nhất quán với Nhóm Công ty. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Nhóm Công ty trong trường hợp cần thiết.
+
+--- TRANG 16 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỚ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+### 3.11 Các khoản đầu tư (tiếp theo)
+
+Đầu tư nắm giữ đến ngày đào hạn
+Các khoản đầu tư nắm giữ đến ngày đào hạn được ghi nhận theo giá gốc. Sau khi ghi nhận bạn đầu, các khoản đầu tư này được ghi nhận theo giá trị có thể thu hồi. Các khoản suy giảm giá trị khoản đầu tư nếu phát sinh được hạch toán vào chi phí trong kỳ và giảm trừ trực tiếp giá trị đầu tư.
+Dự phòng giảm giá trị các khoản đầu tư
+Dự phòng cho việc giảm giá trị của các khoản đầu tư được lập khi có bằng chứng chắc chắn cho thấy có sự suy giảm giá trị của các khoản đầu tư này vào ngày kết thúc kỳ kế toán.
+Tăng hoặc giảm số dư tài khoản dự phòng được hạch toán vào chi phí tài chính trong báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+### 3.12 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Nhóm công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+### 3.13 Các khoản dự phòng
+
+Nhóm Công ty ghi nhận dự phòng khi có nghĩa vụ nợ hiện tại (nghĩa vụ pháp lý hoặc nghĩa vụ liên đới) là kết quả của một sự kiện đã xảy ra trong quá khứ. Việc thanh toán nghĩa vụ nợ này có thể sẽ dẫn đến sự giảm sút về những lợi ích kinh tế và Nhóm Công ty có thể đưa ra được một ước tính đáng tin cậy về giá trị của nghĩa vụ nợ đó.
+Khi Nhóm Công ty cho rằng một phần hoặc toàn bộ chi phí để thanh toán một khoản dự phòng sẽ được hoàn lại bởi một bên thứ ba, ví dụ như thông qua hợp đồng bảo hiểm, khoản bồi hoàn này chỉ được ghi nhận là một tài sản riêng biệt khi việc nhận được bồi hoàn là gần như chắc chắn. Chi phí liên quan đến các khoản dự phòng được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ sau khi đã trừ đi các khoản bồi hoàn.
+
+### 3.14 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm công ty (VND) được hạch toán theo tỷ giá giao dịch thực tế vào ngày phát sinh nghiệp vụ theo nguyên tắc sau:
+
+- Nghiệp vụ làm phát sinh các khoản phải thu được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty chỉ định khách hàng thanh toán;
+- Nghiệp vụ làm phát sinh các khoản phải trả được hạch toán theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty dự kiến giao dịch; và
+- Giao dịch mua sắm tài sản hoặc các khoản chi phí được thanh toán ngay bằng ngoại tệ (không qua các tài khoản phải trả) được hạch toán theo tỷ giá mua của ngân hàng thương mại nơi doanh nghiệp thực hiện thanh toán.
+Tại ngày kết thúc kỳ kế toán, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại theo tỷ giá giao dịch thực tế tại ngày của bảng cân đối kế toán theo nguyên tắc sau.
+- Các khoản mục tiền tệ được phân loại là tài sản được đánh giá lại theo tỷ giá mua của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch; và
+- Các khoản mục tiền tệ được phân loại là nợ phải trả được đánh giá lại theo tỷ giá bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch.
+Tất cả các khoản chênh lệch tỷ giá phát sinh được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ.
+
+--- TRANG 17 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo)**
+
+**vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày**
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+### 3.14 Các nghiệp vụ bằng ngoại tệ (tiếp theo)
+
+#### Chuyển đổi báo cáo tài chính của cơ sở hoạt động ở nước ngoài
+
+Việc chuyển đổi báo cáo tài chính của công ty con mà việc ghi chép sổ sách được thực hiện bằng đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Nhóm Công ty là VND, cho mục đích hợp nhất báo cáo tài chính, được thực hiện như sau:
+
+- Tài sản và nợ phải trả được quy đổi tương ứng theo tỷ giá mua và bán của ngân hàng thương mại nơi Nhóm Công ty thường xuyên có giao dịch vào ngày kết thúc kỳ kế toán;
+- Doanh thu, thu nhập khác và các khoản chi phí được quy đổi theo tỷ giá tại ngày giao dịch, hoặc tỷ giá bình quân nếu tỷ giá bình quân chênh lệch không quá 2% so với tỷ giá tại thời điểm phát sinh giao dịch.
+- Tất cả các khoản chênh lệch tỷ giá hồi đoái khi chuyển đổi báo cáo tài chính của công ty con cho mục đích hợp nhất được ghi nhận vào khoản mục "Chênh lệch tỷ giá hồi đoái" thuộc nguồn vốn chủ sở hữu trên bảng cân đối kế toán hợp nhất giữa niên độ và được hạch toán vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ khi khoản đầu tư được thanh lý.
+
+### 3.15 Vốn cổ phần
+
+#### Cổ phiếu phổ thông
+
+Cổ phiếu phổ thông được ghi nhận theo giá phát hành trừ đi các chi phí phát sinh liên quan trực tiếp đến việc phát hành cổ phiếu, sau khi trừ đi các ảnh hưởng thuế. Các chi phí này được ghi nhận là một khoản khấu trừ từ thặng dư vốn cổ phần.
+
+#### Thặng dư vốn cổ phần
+
+Thặng dư vốn cổ phần phản ánh khoản chênh lệch giữa mệnh giá và giá phát hành cổ phiếu trừ đi chi phí phát hành cổ phiếu thực tế phát sinh.
+
+#### Cổ phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Nhóm Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Nhóm Công ty không ghi nhận các khoản lãi (lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+### 3.16 Phân phối lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp (không bao gồm các khoản lãi từ giao dịch mua giá rẻ) có thể được chia cho các cổ đông sau khi được Đại hội đồng Cổ đông phê duyệt, và sau khi đã trích lập các quỹ dự phòng theo Điều lệ của Công ty và các quy định của pháp luật Việt Nam.
+
+--- TRANG 18 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+### 3.17 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Nhóm Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng trước khi ghi nhận doanh thu:
+
+## Doanh thu bán hàng
+
+Doanh thu bán hàng được ghi nhận khi các rủi ro trọng yếu và các quyền sở hữu hàng hóa đã được chuyển sang người mua, thường là trùng với thời điểm chuyển giao hàng hóa.
+
+## Doanh thu cung cấp dịch vụ
+
+Doanh thu cung cấp dịch vụ được ghi nhận khi dịch vụ đã được cung cấp và hoàn thành.
+Tiền lãi
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+### 3.18 Thuế
+
+## Thuế thu nhập hiện hành
+
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến phải nộp cho cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán giữa niên độ.
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải nộp khi Nhóm Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Nhóm Công ty dự định thanh toán thuế thu nhập hiện hành phải nộp và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+## Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính hợp nhất.
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán năm giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của các khoản mục này trong báo cáo tài chính hợp nhất giữa niên độ.
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế.
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khấu trừ, giá trị được khấu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khấu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này.
+
+--- TRANG 19 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 3. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU (tiếp theo)
+
+### 3.18 Thuế (tiếp theo)
+
+Thuế thu nhập hoãn lại (tiếp theo)
+Giá trị ghi sổ của tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại vào ngày kết thúc kỳ kế toán năm và phải giảm giá trị ghi sổ của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa ghi nhận trước đây được xem xét lại vào ngày kết thúc kỳ kế toán năm và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán khi tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực vào ngày kết thúc kỳ kế toán.
+Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+Nhóm Công ty chỉ được bù trừ các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả khi doanh nghiệp có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế.
+
+### 3.19 Lãi trên cổ phiếu
+
+Lãi cơ bản trên cổ phiếu được tính bằng cách chia lợi nhuận sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho việc trích lập quỹ khen thưởng, phúc lợi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong kỳ.
+Lãi suy giảm trên cổ phiếu được tính bằng cách chia lợi nhuận hoặc lỗ sau thuế phân bổ cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (sau khi đã điều chỉnh cho cổ tức của cổ phiếu ưu đãi có quyền chuyển đổi) cho số lượng bình quân gia quyền của số cổ phiếu phổ thông đang lưu hành trong kỳ và số lượng bình quân gia quyền của cổ phiếu phổ thông sẽ được phát hành trong trường hợp tất cả các cổ phiếu phổ thông tiềm năng có tác động suy giảm đều được chuyển thành cổ phiếu phổ thông.
+
+### 3.20 Các bên liên quan
+
+Các bên được coi là bên liên quan của Nhóm Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Nhóm Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan có thể là các công ty hoặc các cá nhân, bao gồm các thành viên mật thiết trong gia đình mật thiết của các cá nhân được coi là liên quan.
+
+--- TRANG 20 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức về các nhà máy.
+
+## 4. TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Tiền mặt | 388.083.607.146 | 364.073.735.736  |
+|  Tiền gửi ngân hàng | 5.021.499.082.305 | 4.249.778.041.543  |
+|  Tiền đang chuyển | 101.233.480.077 | 83.479.763.451  |
+|  Tiền gửi có kỳ hạn tại ngân hàng | - | 200.000.000.000  |
+|  **TỔNG CỘNG** | **5.510.816.169.528** | **4.897.331.540.730**  |
+
+## 5. ĐẦU TƯ NĂM GIỮ ĐẾN NGÀY ĐÁO HẠN
+
+### 5.1 Các khoản đầu tư tài chính ngắn hạn
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Tiền gửi có kỳ hạn (i) | 20.303.430.000.000 | 19.072.901.560.936  |
+|  Đầu tư khác (ii) | 13.132.830.988.199 | 10.251.540.195.384  |
+|  **TỔNG CỘNG** | **33.436.260.988.199** | **29.324.441.756.320**  |
+
+- (i) Đây là các khoản tiền gửi bằng VND tại các ngân hàng thương mại có kỳ hạn từ 3 tháng đến dưới 1 năm và hưởng lãi suất áp dụng.
+- (ii) Đầu tư tài chính ngắn hạn thể hiện các khoản trải nghiệm và các khoản đầu tư khác có kỳ hạn dưới 1 năm và hưởng lãi suất áp dụng.
+
+### 5.2 Các khoản đầu tư tài chính dài hạn
+
+Đầu tư tài chính dài hạn thể hiện các khoản đầu tư trải nghiệm bằng VND có kỳ hạn trên 1 năm và hưởng lãi suất áp dụng.
+
+## 6. PHÁI THU NGÂN HẠN CỦA KHÁCH HÀNG
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Công ty Tài chính TNHH MTV Home Credit Việt Nam | 80.416.756.154 | 82.179.250.662  |
+|  Ngân hàng TMCP Việt Nam Thịnh Vượng Khác | 57.715.987.142 | 59.659.077.990  |
+|  **TỔNG CỘNG** | **203.255.755.385** | **241.405.396.887**  |
+
+--- TRANG 21 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức về thức cũng ngày 7.
+
+## 7. TRÁ TRƯỚC CHO NGƯỜI BÁN NGÂN HẠN
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Công ty TNHH Thiết bị SIS | 8.507.014.583 | 315.082.436  |
+|  Công ty TNHH Tin học Viễn Thông |  |   |
+|  Nhật Tiến Chung | 5.313.000.000 | -  |
+|  Công ty TNHH Phát triển Công nghệ Viễn |  |   |
+|  Thông Sun Việt | 4.175.033.280 | -  |
+|  Công ty TNHH Bia và Nước giải khát Heineken Việt Nam |  | 45.128.651.755  |
+|  Khác | 16.912.367.035 | 70.444.648.920  |
+|  **TỔNG CỘNG** | **34.907.414.898** | **115.888.383.111**  |
+
+## 8. PHÁI THU VỀ CHO VAY NGÂN HẠN
+
+Khoản phải thu về cho vay ngắn hạn thể hiện các khoản cho vay ngắn hạn với các công ty đối tác, có kỳ hạn còn lại dưới 12 tháng và hưởng lãi suất áp dụng.
+
+## 9. PHÁI THU NGÂN HẠN KHÁC
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Phải thu từ các nhà cung cấp | 2.146.526.990.216 | 1.678.124.625.158  |
+|  - Công ty TNHH Apple Việt Nam | 764.303.826.901 | 177.001.918.901  |
+|  - Khác | 1.382.223.163.315 | 1.501.122.706.257  |
+|  Phải thu lãi tiền gửi, cho vay | 1.205.478.479.102 | 701.761.964.393  |
+|  Khác | 45.466.099.644 | 51.001.259.121  |
+|  **TỔNG CỘNG** | **3.397.471.568.962** | **2.430.887.848.672**  |
+
+--- TRANG 22 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức kết thúc công ngày
+
+## 10. HÀNG TÔN KHO
+
+|   | Ngày 30 tháng 9
+năm 2025 | Ngày 31 tháng 12
+năm 2024  |
+| --- | --- | --- |
+|  Điện thoại di động | 7.867.458.974.553 | 6.308.558.850.359  |
+|  Thiết bị điện tử | 5.662.567.247.302 | 5.672.524.777.932  |
+|  Thiết bị gia dụng | 2.858.556.120.333 | 3.057.900.016.918  |
+|  Thực phẩm khô, thực phẩm tươi sống, các loại nước uống và hàng tiêu dùng | 2.460.548.841.003 | 2.677.406.135.781  |
+|  Máy tính xách tay | 2.349.603.009.860 | 1.394.857.344.900  |
+|  Hóa mỹ phẩm | 1.318.841.173.576 | 1.568.948.685.864  |
+|  Hàng hóa khác | 2.127.550.320.991 | 1.987.578.200.889  |
+|  **TỔNG CỘNG** | **24.645.125.687.618** | **22.667.774.012.643**  |
+|  Dự phòng giảm giá hàng tồn kho | (543.846.380.190) | (423.097.685.938)  |
+|  **GIÁ TRỊ THUẬN** | **24.101.279.307.428** | **22.244.676.326.705**  |
+
+*Chi tiết tình hình tăng (giảm) dự phòng giảm giá hàng tồn kho trong kỳ như sau:*
+
+|   | Ngày 1 tháng 1 | (423.097.685.938) | (204.448.896.920)  |
+| --- | --- | --- | --- |
+|  **Tổng** | **Dự phòng trích lập trong kỳ** | (543.846.380.190) | (359.351.465.293)  |
+|  **Tổng** | **Trừ:** Sử dụng và hoàn nhập dự phòng trong kỳ | 423.097.685.938 | 204.448.896.920  |
+|  **Tổng** | **Ngày 30 tháng 9** | (543.846.380.190) | (359.351.465.293)  |
+
+## 11. CHI PHÍ TRẢ TRƯỚC
+
+|   | Ngày 30 tháng 9
+năm 2025 | Ngày 31 tháng 12
+năm 2024  |
+| --- | --- | --- |
+|  **Ngân hạn** | 424.076.848.924 | 390.391.360.669  |
+|  Chi phí thuê cửa hàng | 365.281.330.088 | 356.914.777.212  |
+|  Công cụ, dụng cụ | 15.996.356.194 | 17.836.888.633  |
+|  Khác | 42.799.162.642 | 15.639.694.824  |
+|  **Dài hạn** | 63.890.927.950 | 68.471.833.530  |
+|  Công cụ, dụng cụ | 14.790.305.967 | 19.808.945.243  |
+|  Chi phí thiết kế cửa hàng | 14.164.958.762 | 12.510.473.848  |
+|  Chi phí thuê cửa hàng | 3.806.711.076 | 7.677.687.318  |
+|  Khác | 31.128.952.145 | 28.474.727.121  |
+|  **TỔNG CỘNG** | 487.967.776.874 | 458.863.194.199  |
+
+--- TRANG 23 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỢ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 12. PHÁI THU DÁI HẠN KHÁC
+
+Phải thu dái hạn khác thể hiện tiền kỳ quỹ dái hạn của văn phòng, cửa hàng và trung tâm phân phối.
+
+## 13. TÀI SÁN CÓ ĐỊNH HỮU HÍNH
+
+|   | Nhà cửa, vật kiến trúc | Phương tiện vận tải | Thiết bị văn phòng | VND
+Tổng cộng  |
+| --- | --- | --- | --- | --- |
+|  Nguyên giá |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | 15.904.543.765.407 | 574.286.899.828 | 2.695.795.718.517 | 19.174.626.383.752  |
+|  Mua trong kỳ | 234.198.704.717 | - | 227.759.052.715 | 461.957.757.432  |
+|  Đầu tư xây dựng cơ bản hoàn thành | 23.667.856.802 | - | 19.430.628.602 | 43.098.485.404  |
+|  Thanh lý | (130.194.781.577) | (335.620.329) | (51.762.937.688) | (182.293.339.594)  |
+|  Phân loại lại | - | (967.185.186) | - | (967.185.186)  |
+|  Ngày 30 tháng 9 năm 2025 | 16.032.215.545.349 | 572.984.094.313 | 2.891.222.462.146 | 19.496.422.101.808  |
+|  Trong đó:
+- | 8.263.933.246.270 | 216.776.227.615 | 1.792.121.968.777 | 10.272.831.442.662  |
+|  Giá trị khẩu hao lũy kế |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | (12.890.379.511.860) | (450.149.997.570) | (2.310.935.776.416) | (15.651.465.285.846)  |
+|  Khẩu hao trong kỳ | (1.238.964.163.187) | (53.207.818.744) | (161.353.771.127) | (1.453.525.753.058)  |
+|  Thanh lý | 104.730.149.571 | 335.620.329 | 50.570.102.779 | 155.635.872.679  |
+|  Phân loại lại | - | 237.399.984 | - | 237.399.984  |
+|  Ngày 30 tháng 9 năm 2025 | (14.024.613.525.476) | (502.784.796.001) | (2.421.719.444.764) | (16.949.117.766.241)  |
+|  Giá trị còn lại |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | 3.014.164.253.547 | 124.136.902.258 | 384.859.942.101 | 3.523.161.097.906  |
+|  Ngày 30 tháng 9 năm 2025 | 2.007.602.019.873 | 70.199.298.312 | 469.503.017.382 | 2.547.304.335.567  |
+
+--- TRANG 24 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kể toàn chính thức về thức cũng ngày 14.
+
+## 14. TÀI SẢN CÓ ĐỊNH VÔ HÌNH
+
+|   | Quyền sử dụng đất | Phần mềm máy tính | Thương hiệu | VND Tổng cộng  |
+| --- | --- | --- | --- | --- |
+|  **Nguyên giả:** |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 và ngày 30 tháng 9 năm 2025 | 25.998.878.500 | 10.772.197.700 | 53.526.696.627 | 90.297.772.827  |
+|  **Giá trị hao mòn lũy kể:** |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | - | (10.772.197.700) | (16.058.008.988) | (26.830.206.688)  |
+|  Hao mòn trong kỳ | - | - | (4.014.502.247) | (4.014.502.247)  |
+|  Ngày 30 tháng 9 năm 2025 | - | (10.772.197.700) | (20.072.511.235) | (30.844.708.935)  |
+|  **Giá trị còn lại:** |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | 25.998.878.500 | - | 37.468.687.639 | 63.467.566.139  |
+|  Ngày 30 tháng 9 năm 2025 | 25.998.878.500 | - | 33.454.185.392 | 59.453.063.892  |
+
+## 15. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DẠNG
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Chi phí xây dựng cửa hàng | 76.144.035.146 | 24.526.423.340  |
+
+--- TRANG 25 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)**
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức về thức cũng ngày 16. **ĐẦU TƯ TÀI CHÍNH DÀI HẠN VÀO CÔNG TY LIÊN DOANH**
+
+|   | Loại hình
+kinh doanh | Ngày 30 tháng 9
+năm 2025 | Ngày 31 tháng 12
+năm 2024  |
+| --- | --- | --- | --- |
+|   |  | VND | VND  |
+|  PT Era Blu Elektronik
+("Era Blu") | Thương mại sản
+phẩm điện tử | 365.236.091.759 | 242.035.797.830  |
+
+PT Era Blu Elektronik là một công ty được thành lập theo Giấy Chứng nhận Đăng ký Đầu tư ra nước ngoài số 202200996 do Bộ Kế hoạch và Đầu tư cấp ngày 4 tháng 3 năm 2022. Hoạt động chính của PT Era Blu Elektronik là kinh doanh bán lẻ thiết bị di động, thiết bị điện máy, đồ dùng gia đình và các thiết bị, máy móc khác tại Indonesia. Vào ngày 31 tháng 12 năm 2024, Tập đoàn nắm giữ 45% quyền sở hữu và quyền biểu quyết tương ứng trong Era Blu.
+
+Chi tiết giá trị khoản đầu tư vào công ty liên doanh này trong kỳ hiện tại như sau:
+
+|   | VND
+Era Blu  |
+| --- | --- |
+|  **Giá trị đầu tư:** |   |
+|  Ngày 31 tháng 12 năm 2024 | 286.632.252.729  |
+|  Tăng vốn góp | 104.772.187.500  |
+|  Ngày 30 tháng 9 năm 2025 | 391.404.440.229  |
+|  **Phản lũy kế lỗ sau ngày đầu tư vào liên doanh:** |   |
+|  Ngày 31 tháng 12 năm 2024 | (44.596.454.899)  |
+|  Phản lợi nhuận từ công ty liên doanh trong kỳ | 18.428.106.429  |
+|  Ngày 30 tháng 9 năm 2025 | (26.168.348.470)  |
+|  **Giá trị còn lại:** |   |
+|  Ngày 31 tháng 12 năm 2024 | 242.035.797.830  |
+|  Ngày 30 tháng 9 năm 2025 | 365.236.091.759  |
+
+## 17. THUẾ VÀ CÁC KHOẢN PHẢI NỘP NHÀ NƯỚC
+
+|   | Ngày 31 tháng 12
+năm 2024 | Tăng trong kỳ | Giảm trong kỳ | VND
+Ngày 30 tháng 9
+năm 2025  |
+| --- | --- | --- | --- | --- |
+|  Thuế thu nhập doanh nghiệp | 435.176.525.169 | 1.245.122.930.126 | (1.340.648.760.908) | 339.650.694.387  |
+|  Thuế giá trị gia tăng | 243.450.873.735 | 15.463.699.810.511 | (15.507.489.539.169) | 199.661.145.077  |
+|  Thuế thu nhập cá nhân | 11.770.642.727 | 380.104.384.749 | (364.454.867.251) | 27.420.160.225  |
+|  Khác | 661.519.465 | 34.193.906.470 | (29.449.100.562) | 5.406.325.373  |
+|  **TỔNG CỘNG** | 691.059.561.096 | 17.123.121.031.856 | (17.242.042.267.890) | 572.138.325.062  |
+
+--- TRANG 26 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 18. PHÁI TRẢ NGƯỜI BẢN NGẮN HẠN
+
+|   |  |  |  |  | VND  |
+| --- | --- | --- | --- | --- | --- |
+|   | Ngày 30 tháng 9 năm 2025 |  |  | Ngày 31 tháng 12 năm 2024 |   |
+|   | Giá trị | Sổ có khả năng trả nợ |  | Giá trị | Sổ có khả năng trả nợ  |
+|  Công ty TNHH Apple Việt Nam | 3.044.802.889.802 | 3.044.802.889.802 |  | 288.433.656.226 | 288.433.656.226  |
+|  Công ty Cổ phần Kỹ thuật và Khoa học | 561.590.166.642 | 561.590.166.642 |  | 460.712.788.052 | 460.712.788.052  |
+|  Vĩnh Khang | 715.607.985.988 | 715.607.985.988 |  | 494.430.598.816 | 494.430.598.816  |
+|  Công ty Cổ phần Thế Giới Sổ | 344.848.087.657 | 344.848.087.657 |  | 328.278.198.699 | 328.278.198.699  |
+|  Chi nhánh Công ty TNHH Phân phối Synnex | 603.099.805.405 | 603.099.805.405 |  | 131.287.827.660 | 131.287.827.660  |
+|  FPT | 433.490.193.617 | 433.490.193.617 |  | 330.376.839.713 | 330.376.839.713  |
+|  Công ty Samsung Electronics Việt Nam | 553.979.689.093 | 553.979.689.093 |  | 319.793.975.590 | 319.793.975.590  |
+|  Thái Nguyên | 294.953.347.737 | 294.953.347.737 |  | 368.233.274.979 | 368.233.274.979  |
+|  Công ty TNHH LG Electronics Việt Nam | 6.127.275.564.805 | 6.127.275.564.805 |  | 6.458.088.894.823 | 6.458.088.894.823  |
+|  Hải Phòng | 12.679.647.730.746 | 12.679.647.730.746 |  | 9.179.636.054.558 | 9.179.636.054.558  |
+|  Công ty TNHH Sản phẩm Tiêu dùng Toshiba |  |  |  |  |   |
+|  Việt Nam |  |  |  |  |   |
+|  Công ty TNHH Điện Máy AQUA Việt Nam |  |  |  |  |   |
+|  Khác |  |  |  |  |   |
+|  TỔNG CỘNG | 12.679.647.730.746 | 12.679.647.730.746 |  | 9.179.636.054.558 | 9.179.636.054.558  |
+
+--- TRANG 27 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 19. **CHI PHÍ PHÁI TRÁ NGÂN HẠN**
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Thưởng nhân viên | 3.049.022.185.717 | 2.173.298.807.699  |
+|  Chi phí tiếp thị quảng cáo | 410.159.610.448 | 226.847.874.329  |
+|  Chi phí sửa chữa bảo hành | 379.628.906.736 | 20.313.706.363  |
+|  Các khoản phải trả nhân viên | 280.665.279.917 | 284.490.571.133  |
+|  Chi phí tiện ích | 125.625.520.361 | 104.252.519.589  |
+|  Chi phí hỗ trợ lãi suất | 135.880.546.129 | 118.426.634.122  |
+|  Lãi vay phải trả | 143.598.370.231 | 73.936.680.052  |
+|  Chi phí vận chuyển | 68.153.510.053 | 43.072.169.910  |
+|  Khác | 78.054.494.778 | 61.914.691.024  |
+|  Chi phí đảm bảo tỷ giá | - | 251.015.319.915  |
+|  **TỔNG CỘNG** | **4.670.788.424.370** | **3.357.568.974.136**  |
+
+## 20. **DOANH THU CHƯA THỰC HIỆN NGÂN HẠN**
+
+Doanh thu chưa thực hiện thể hiện các khoản thu trước tiền thu cho trước dịch vụ cung cấp nhiều kỳ:
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Dịch vụ cung cấp nhiều kỳ | 16.157.007.362 | 21.723.198.012  |
+|  Lãi tiền gửi ngân hàng | - | 30.084.414.113  |
+|  **TỔNG CỘNG** | **16.157.007.362** | **51.807.612.125**  |
+
+## 21. **PHÁI TRÁ NGÂN HẠN KHÁC**
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Thu hộ cước phí | 519.591.759.277 | 479.922.634.524  |
+|  Phiếu mua hàng | 444.336.583.557 | 194.760.193.063  |
+|  Bảo hiểm y tế, bảo hiểm xã hội, kinh phí công đoàn | 132.028.472.114 | 121.051.754.821  |
+|  Nhận ký quỹ | 69.791.564.736 | 65.985.330.831  |
+|  Khác | 80.683.944.580 | 62.954.393.851  |
+|  **TỔNG CỘNG** | **1.246.432.324.264** | **924.674.307.090**  |
+
+--- TRANG 28 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## 22. VAY NGẮN HẠN
+
+|   | Ngày 31 tháng 12 năm 2024 | Tăng trong kỳ | Giảm trong kỳ | Chênh lệch tỷ giá | VND
+Ngày 30 tháng 9 năm 2025  |
+| --- | --- | --- | --- | --- | --- |
+|  Vay ngân hàng ngắn hạn (Thuyết minh số 22.1) | 20.854.482.476.931 | 67.782.634.026.863 | (61.252.009.360.666) | - | 27.385.107.143.128  |
+|  Vay ngân hàng dài hạn đến hạn trả | 5.948.525.000.000 | - | (5.901.250.000.000) | (47.275.000.000) | -  |
+|  UPAS Letter Credit | 497.239.244.848 | 823.283.727.763 | - | - | 1.320.522.972.611  |
+|  **TỔNG CỘNG** | **27.300.246.721.779** | **68.605.917.754.626** | **(67.153.259.360.666)** | **(47.275.000.000)** | **28.705.630.115.739**  |
+|  **Trong đó:** | **27.300.246.721.779** |  |  |  | **28.705.630.115.739**  |
+
+## 22.1 Vay ngân hạn ngân hàng
+
+Nhóm Công ty thực hiện các khoản vay tín chắp với lãi suất trả nổi này nhằm mục đích bổ sung nhu cầu vốn lưu động. Chi tiết của các khoản vay ngắn hạn ngân hàng như sau:
+
+|  Khoản vay | Ngày 30 tháng 9 năm 2025 | Ngày đào hạn  |
+| --- | --- | --- |
+|  Các khoản vay tín chắp ngân hàng | 27.385.107.143.128 | 1 tháng 10 năm 2025 đến ngày 25 tháng 9 năm 2026  |
+
+--- TRANG 29 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT GIỮA NIÊN ĐỘ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 23. VÔN CHỦ SỞ HỮU
+
+### 23.1 Tình hình tăng (giảm) nguồn vốn chủ sở hữu
+
+|   | Vốn cổ phần | Thăng dự vốn cổ phần | Cổ phiếu quỹ | Chênh lệch tỷ giá | Lợi nhuận sau thuế chưa phân phối | Lợi ích cổ đông không kiểm soát | Tống cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |   |   |   |   |   |   |   |
+
+Cho kỳ kế toán chính tháng kết thúc ngày 30 tháng 9 năm 2024
+
+|  Ngày 31 tháng 12 năm 2023 | 14.633.767.160.000 | 558.110.430.986 | (9.783.280.000) | 3.739.030.306 | 8.160.323.595.574 | 13.401.030.472 | 23.359.557.967.338  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Lợi nhuận thuần trong kỳ | - | - | - | - | 2.874.864.059.456 | 6.280.042.974 | 2.881.144.102.430  |
+|  Mua cổ phiếu quỹ | - | - | (4.830.000.000) | - | - | - | (4.830.000.000)  |
+|  Hủy cổ phiếu quỹ | (11.325.390.000) | - | 11.325.390.000 | - | - | (730.957.694.000) | (692.536.850)  |
+|  Chia cổ tức tiền | - | - | - | - | - | - | 1.771.634.338.542  |
+|  Góp vốn | - | - | - | - | - | - | 1.771.634.338.542  |
+|  Thay đổi tỷ lệ sở hữu trong công ty con | - | - | - | - | 1.430.910.923.607 | (1.430.910.923.607) | -  |
+|  Chênh lệch tỷ giá | - | - | - | (291.446.715) | - | - | (291.446.715)  |
+|  Ngày 30 tháng 9 năm 2024 | 14.622.441.770.000 | 558.110.430.986 | (3.287.890.000) | 3.447.583.591 | 11.735.140.884.637 | 359.711.951.531 | 27.275.564.730.745  |
+
+--- TRANG 30 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## 23. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+### 23.1 Tình hình tăng (giảm) nguồn vốn chủ sở hữu (tiếp theo)
+
+|   | Vốn cổ phần | Thăng dự vốn cổ phần | Cổ phiếu quỹ | Chênh lệch tỷ giá | Lợi nhuận sau thuế chưa phân phối | Lợi ích cổ đông không kiểm soát | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  **Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025** |  |  |  |  |  |  |   |
+|  Ngày 31 tháng 12 năm 2024 | 14.622.441.770.000 | 558.110.430.986 | (7.599.680.000) | 2.458.384.629 | 12.582.145.266.842 | 364.020.651.398 | 28.121.576.823.855  |
+|  Lợi nhuận thuần trong kỳ | - | - | - | - | 4.964.982.254.949 | 24.046.268.622 | 4.989.028.523.571  |
+|  Phát hành cổ phiếu theo chương trình ESOP (i) | 174.490.000.000 | - | - | - | - | - | 174.490.000.000  |
+|  Mua cổ phiếu quỹ (ii) | - | - | (4.764.460.000) | - | - | - | (4.764.460.000)  |
+|  Chia cổ tức tiền (iii) | - | - | - | (1.478.456.763.000) | (2.216.117.920) | (1.480.672.880.920) | (2.458.384.629)  |
+|  Chênh lệch tỷ giá | - | - | - | (2.458.384.629) | - | - | (2.458.384.629)  |
+|  Ngày 30 tháng 9 năm 2025 | 14.796.931.770.000 | 558.110.430.986 | (12.364.140.000) | - | 16.068.670.758.791 | 385.850.802.100 | 31.797.199.621.877  |
+
+- (i) Theo Nghị quyết số 01/NQ/ĐHĐCĐ/2025 ngày 26 tháng 4 năm 2025 và Nghị quyết số 06/NQ/HĐQT/2025 ngày 19 tháng 4 năm 2025, Đại hội đồng Cổ đông và Hội đồng Quản trị Công ty đã thông qua kế hoạch phát hành cổ phiếu theo chương trình lựa chọn cho cán bộ quản lý chủ chốt của Công ty và các công ty con với số lượng 17.449.000 cổ phiếu để tăng vốn cổ phần tương ứng với số tiền 174.490.000.000 VND. Vào ngày 29 tháng 4 năm 2025, Công ty đã nhận Giấy Chứng nhận Đăng ký Doanh nghiệp thay đổi lần thứ 34 được cấp bởi Tài chính Tỉnh Bình Dương phê duyệt tăng vốn cổ phần của Công ty từ 14.622.441.770.000 VND lên 14.796.931.770.000 VND.
+- (ii) Vào ngày 21 tháng 7 năm 2025, Công ty đã hoàn tất giao dịch mua lại 476.446 cổ phiếu quỹ của cán bộ nhân viên nghỉ việc theo chính sách phát hành ESOP với số tiền 4.764.460.000 VND theo Báo cáo kết quả giao dịch mua lại cổ phiếu quỹ và Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết. Qua đó, số lượng cổ phiếu quỹ của Công ty tăng từ 759.968 cổ phiếu lên 1.236.414 cổ phiếu.
+- (iii) Theo Nghị quyết số 01/NQ/ĐHĐCĐ/2025 ngày 26 tháng 4 năm 2025 và theo Nghị quyết số 09/NQ/HĐQT-2025 ngày 25 tháng 6 năm 2025, Đại hội đồng Cổ đông và Hội đồng Quản trị Công ty đã thông qua kế hoạch chi trả cổ tức năm 2024 bằng tiền cho cổ đông hiện hữu của Công ty với tỷ lệ 10% trên mệnh giá mỗi cổ phiếu phổ thông.
+
+--- TRANG 31 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 23. VÔN CHỦ SỞ HỮU (tiếp theo)
+
+### 23.2 Các giao dịch về vốn với các chủ sở hữu
+
+|   | Cho kỳ kế toán
+chính tháng kết thúc
+ngày 30 tháng 9
+năm 2025 | VND
+Cho kỳ kế toán
+chính tháng kết thúc
+ngày 30 tháng 9
+năm 2024  |
+| --- | --- | --- |
+|  Sổ đầu kỳ | 14.622.441.770.000 | 14.633.767.160.000  |
+|  Phát hành cổ phiếu theo chương trình ESOP | 174.490.000.000 | -  |
+|  Hủy cổ phiếu quỹ | - | (11.325.390.000)  |
+|  Sổ cuối kỳ | 14.796.931.770.000 | 14.622.441.770.000  |
+
+**Cổ tức công bố và chi trả trong kỳ**
+
+Cổ tức tiền đã công bố và chi trả: (1.478.456.763.000) (730.957.694.000)
+
+### 23.3 Cổ phiếu - cổ phiếu phổ thông
+
+|   | Sổ cổ phiếu  |
+| --- | --- |
+|   | Ngày 30 tháng 9
+năm 2025  |
+|  Cổ phiếu được phép phát hành | 1.479.693.177  |
+|  Cổ phiếu đã phát hành và được góp vốn đầy đủ | 1.479.693.177  |
+|  Cổ phiếu phổ thông | 1.479.693.177  |
+|  Cổ phiếu quỹ | (1.236.414)  |
+|  Cổ phiếu phổ thông | (759.968)  |
+|  Cổ phiếu đang lưu hành | 1.478.456.763  |
+|  Cổ phiếu phổ thông | 1.461.484.209  |
+
+Các cổ đông nắm giữ cổ phiếu phổ thông của Công ty được quyền hưởng cổ tức do Công ty công bố. Mỗi cổ phiếu phổ thông với mệnh giá 10.000 VND thể hiện một quyền biểu quyết, không hạn chế.
+
+Theo Thông báo mua lại cổ phiếu quỹ ngày 1 tháng 7 năm 2025, Báo cáo kết quả giao dịch mua lại cổ phiếu quỹ và Thông báo thay đổi số lượng cổ phiếu có quyền biểu quyết ngày 21 tháng 7 năm 2025, Công ty đã hoàn tất giao dịch mua lại 152.285 cổ phiếu quỹ của cán bộ nhân viên nghỉ việc theo chính sách phát hành ESOP với số tiền 1.522.850.000 VND. Qua đó, số lượng cổ phiếu quỹ của Công ty tăng từ 1.084.129 cổ phiếu lên 1.236.414 cổ phiếu.
+
+--- TRANG 32 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 24. DOANH THU
+
+### 24.1 Doanh thu bán hàng và cung cấp dịch vụ
+
+|   | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025 | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2024  |
+| --- | --- | --- |
+|  Tổng doanh thu | 114.268.417.790.401 | 100.431.177.996.843  |
+|  Các khoản giảm trừ doanh thu | (660.983.559.576) | (663.945.925.373)  |
+|  Trong đó: |  |   |
+|  Hàng bán bị trả lại | (660.983.559.576) | (663.945.925.373)  |
+|  Doanh thu thuần | 113.607.434.230.825 | 99.767.232.071.470  |
+
+### 24.2 Doanh thu hoạt động tài chính
+
+|   | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025 | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2024  |
+| --- | --- | --- |
+|  Lãi tiền gửi và đầu tư | 1.475.464.348.878 | 1.162.850.522.971  |
+|  Chiết khấu thanh toán | 145.141.004.301 | 166.566.137.942  |
+|  Lãi trải phiếu | 648.799.980.976 | 410.682.137.389  |
+|  Lãi chênh lệch tỷ giá | 1.789.478.172 | 703.735.809  |
+|  Khác | - | 4.486.764  |
+|  **TỔNG CỘNG** | **2.271.194.812.327** | **1.740.807.020.875**  |
+
+## 25. CHI PHÍ TÀI CHÍNH
+
+|   | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2025 | Cho kỳ kế toán chín tháng kết thúc ngày 30 tháng 9 năm 2024  |
+| --- | --- | --- |
+|  Chi phí lãi vay | 1.086.009.707.245 | 813.765.642.819  |
+|  Lỗ chênh lệch tỉ giá | 48.350.246.058 | 166.715.594.351  |
+|  Chi phí thu xếp khoản vay | 14.422.017.692 | 17.168.872.160  |
+|  Chi phí khác | 3.438.935.990 | 1.743.537.009  |
+|  **TỔNG CỘNG** | **1.152.220.906.985** | **999.393.646.339**  |
+
+--- TRANG 33 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)**
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 26. **CHI PHÍ BÁN HÀNG VÀ CHI PHÍ QUẢN LÝ DOANH NGHIỆP**
+
+|   | Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 9
+năm 2025 | VND
+Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 9
+năm 2024  |
+| --- | --- | --- |
+|  **Chỉ phí bán hàng** | 13.677.123.040.459 | 14.726.729.412.800  |
+|  Chi phí dịch vụ mua ngoài | 6.240.315.805.290 | 6.962.426.499.651  |
+|  Chi phí nhân viên | 5.450.754.432.493 | 5.157.797.088.486  |
+|  Chi phí khấu hao và hao mòn | 1.376.482.264.488 | 1.933.899.517.311  |
+|  Khác | 609.570.538.188 | 672.606.307.352  |
+|  **Chỉ phí quản lý doanh nghiệp** | 3.535.680.143.205 | 2.649.410.859.462  |
+|  Chi phí nhân viên | 3.392.267.383.314 | 2.320.296.578.526  |
+|  Chi phí khấu hao và hao mòn | 81.057.990.817 | 205.164.301.159  |
+|  Chi phí dịch vụ mua ngoài | 35.133.161.451 | 42.967.170.532  |
+|  Khác | 27.221.607.623 | 80.982.809.245  |
+|  **TỔNG CỘNG** | 17.212.803.183.664 | 17.376.140.272.262  |
+
+## 27. **CHI PHÍ KINH DOANH THEO YÊU TÔ**
+
+|   | Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 9
+năm 2025 | VND
+Cho kỳ kế toán
+chín tháng kết thúc
+ngày 30 tháng 9
+năm 2024  |
+| --- | --- | --- |
+|  Giá vốn hàng bán và dịch vụ cung cấp | 91.360.136.077.564 | 78.854.990.896.568  |
+|  Chi phí nhân viên | 8.843.021.815.807 | 7.478.093.667.012  |
+|  Chi phí khấu hao và hao mòn | 1.457.540.255.305 | 2.107.255.138.895  |
+|  (Thuyết minh số 13, 14) | 6.912.241.112.519 | 7.790.791.466.355  |
+|  Chi phí khác | 108.572.939.261.228 | 96.231.131.168.830  |
+|  **TỔNG CỘNG** |  |   |
+
+--- TRANG 34 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 28. THUẾ THU NHẬP DOANH NGHIỆP
+
+Thuế suất thuế thu nhập doanh nghiệp ("thuế TNDN") áp dụng cho Công ty và các công ty con như sau:
+
+- Thuế suất thuế TNDN áp dụng cho Công ty và các công ty con là 20% thu nhập chịu thuế; ngoại trừ
+- Thuế suất thuế TNDN áp dụng cho Công ty TNHH MTV Công nghệ Thông tin Thế Giới Di Động ("CNTT TGDD"), công ty con của Công ty là 10% thu nhập chịu thuế trong mười lăm (15) năm áp dụng đối với thu nhập của dự án đầu tư mới tại Khu Công nghệ cao và áp dụng mức thuế suất phổ thông cho những năm tiếp theo. CNTT TGDD được miễn thuế TNDN trong 4 năm tính từ năm có thu nhập chịu thuế (năm 2019) và được giảm 50% đối với thuế suất thuế TNDN áp dụng cho Công ty trong 9 năm tiếp theo (từ năm 2023 đến năm 2031). Đối với hoạt động khác, thuế suất TNDN bằng 20% thu nhập chịu thuế.
+
+Các báo cáo thuế của Nhóm Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính hợp nhất giữa niên độ có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+### 28.1 Chi phí thuế TNDN hiện hành
+
+|   | TỔNG CỘNG | VND  |
+| --- | --- | --- |
+|   | Cho kỳ kế toán | Cho kỳ kế toán  |
+|   | Chín tháng kết thúc | Chín tháng kết thúc  |
+|   | 9 năm 2025 | 9 năm 2024  |
+|  **Chi phí thuế TNDN** | 1.237.695.854.739 | 930.663.857.642  |
+|  Điều chỉnh chi phí thuế TNDN trích thiểu (thừa) trong những năm trước | 7.427.075.387 | (5.081.252.815)  |
+|  Chi phí thuế TNDN hiện hành | 1.245.122.930.126 | 925.582.604.827  |
+|  Thu nhập thuế TNDN hoãn lại | (98.934.145.022) | (16.434.948.177)  |
+|  **TỔNG CỘNG** | 1.146.188.785.104 | 909.147.656.650  |
+
+Dưới đây là đối chiếu chi phí thuế TNDN và kết quả của lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN:
+
+|   | TỔNG CỘNG | VND  |
+| --- | --- | --- |
+|   | Cho kỳ kế toán | Cho kỳ kế toán  |
+|   | Chín tháng kết thúc | Chín tháng kết thúc  |
+|   | 9 năm 2025 | 9 năm 2024  |
+|  **Tổng lợi nhuận kế toán trước thuế** | 6.135.217.308.675 | 3.790.291.759.080  |
+|  Thuế TNDN theo thuế suất 20% | 1.227.043.461.735 | 758.058.351.816  |
+|  Các khoản điều chỉnh: |  |   |
+|  Lỗ từ các công ty con | 5.350.025.716 | 115.538.107.605  |
+|  Chi phí không được khấu trừ thuế | 7.805.406.195 | 5.122.761.894  |
+|  Điều chỉnh chi phí thuế TNDN trích thiểu (thừa) trong những năm trước | 7.427.075.387 | (5.081.252.815)  |
+|  (Lợi nhuận) lỗ từ công ty liên doanh | (3.685.621.286) | 9.403.795.003  |
+|  Thuế TNDN được miễn giảm | (8.511.240.410) | (1.520.449.306)  |
+|  Lỗ thuế chuyển sang từ năm trước | (88.520.968.136) |   |
+|  Phân bổ lợi thế thương mại | (719.354.097) | 27.626.342.453  |
+|  Khác | (719.354.097) |   |
+|  **Chi phí thuế TNDN ước tính** | 1.146.188.785.104 | 909.147.656.650  |
+
+--- TRANG 35 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức công ty.
+
+## 28. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+### 28.2 Thuế TNDN hiện hành
+
+Thuế TNDN hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện hành. Thu nhập chịu thuế của Nhóm Công ty khác với lợi nhuận kế toán được báo cáo trong báo cáo kết quả hoạt động kinh doanh hợp nhất giữa niên độ vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế TNDN hiện hành phải trả của Nhóm Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán.
+
+### 28.3 Thuế thu nhập hoãn lại
+
+Nhóm Công ty đã ghi nhận một số khoản tài sản thuế TNDN hoãn lại và thu nhập thuế TNDN hoãn lại với các biến động trong kỳ báo cáo và kỳ trước như sau:
+
+|   | Bảng cân đối
+kế toán hợp nhất | Báo cáo kết quả hoạt động
+kinh doanh hợp nhất  |
+| --- | --- | --- |
+|   | Ngày 30 tháng 9
+năm 2025 | Ngày 31 tháng 12
+năm 2024  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí phải trả | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng giảm giá hàng tồn kho | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chi phí khấu hao | 8.276.726.690 | 6.175.722.101  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lương và thưởng | 167.320.960.748 | 156.837.132.369  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Chênh lệch tỷ giá hối đoái | (50.712.410) | (20.826.708)  |
+|  Các khoản chi phí giải thảo | 71.271.511.444 | -  |
+|  **Tài sản thuế TNDN hoãn lại** |  |   |
+|  Lợi nhuận chưa thực hiện | 17.703.880.641 | 28.323.082.014  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng chi phí bảo hành | 15.625.082.219 | 14.047.933.383  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+|  Dự phóng đã ghi nhận | 108.769.276.038 | 84.619.537.188  |
+
+
+--- TRANG 36 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỀN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thống kết thúc cùng ngày
+
+## 28. THUẾ THU NHẬP DOANH NGHIỆP (tiếp theo)
+
+### 28.4 Thuế thu nhập hoãn lại chưa được ghi nhận
+
+Nhóm Công ty được phép chuyển các khoản lỗ tính thuế sang năm sau để bù trừ với lợi nhuận thu được trong vòng năm (5) năm tính từ năm phát sinh khoản lỗ đó (31 tháng 12 năm 2024: 8.601.704.015.924 VND). Chi tiết các khoản lỗ tính thuế ước tính còn lại để chuyển lỗ như sau:
+
+|  Năm phát sinh | Có thể chuyển lỗ đến năm | Lỗ thuế | Đã chuyển lỗ ước tính đến ngày 30 tháng 9 năm 2025 | Không được chuyển lỗ | Chưa chuyển lỗ tại ngày 30 tháng 9 năm 2025  |
+| --- | --- | --- | --- | --- | --- |
+|  2020 | 2025 | (i) | 1.733.535.288.693 | - | - 1.733.535.288.693  |
+|  2021 | 2026 | (i) | 966.454.761.213 | - | - 966.454.761.213  |
+|  2022 | 2027 | (ii) | 2.961.477.019.035 | - | - 2.961.477.019.035  |
+|  2023 | 2028 | (ii) | 1.256.523.746.666 | - | - 1.256.523.746.666  |
+|   |  |  | 6.917.990.815.607 | - | - 6.917.990.815.607  |
+
+### MWG (Cambodia) Co., Ltd.
+
+|  Năm phát sinh | Có thể chuyển lỗ đến năm | Lỗ thuế | Đã chuyển lỗ ước tính đến ngày 30 tháng 9 năm 2025 | Không được chuyển lỗ | Chưa chuyển lỗ tại ngày 30 tháng 9 năm 2025  |
+| --- | --- | --- | --- | --- | --- |
+|  2020 | 2025 | (ii) | 65.469.770.143 | - | (65.469.770.143)  |
+|  2021 | 2026 | (ii) | 187.340.353.909 | - | (187.340.353.909)  |
+|  2022 | 2027 | (ii) | 330.623.145.856 | - | (330.623.145.856)  |
+|  2023 | 2028 | (ii) | 97.963.375.603 | - | (97.963.375.603)  |
+|  2024 | 2029 | (ii) | 20.785.604.982 | - | (20.785.604.982)  |
+|   |  |  | 702.182.250.493 | - | (702.182.250.493)  |
+
+### Công ty Cổ phần Dược Phẩm An Khang
+
+|  Năm phát sinh | Có thể chuyển lỗ đến năm | Lỗ thuế | Đã chuyển lỗ ước tính đến ngày 30 tháng 9 năm 2025 | Không được chuyển lỗ | Chưa chuyển lỗ tại ngày 30 tháng 9 năm 2025  |
+| --- | --- | --- | --- | --- | --- |
+|  2020 | 2025 | (ii) | 6.437.846.862 | - | - 6.437.846.862  |
+|  2021 | 2026 | (ii) | 306.214.502.293 | - | - 306.214.502.293  |
+|  2022 | 2027 | (ii) | 342.942.200.944 | - | - 342.942.200.944  |
+|  2023 | 2028 | (ii) | 347.656.048.632 | - | - 347.656.048.632  |
+|  2024 | 2029 | (ii) | 85.157.823.040 | - | - 85.157.823.040  |
+|  2025 | 2030 | (ii) | 1.088.408.421.771 | - | - 1.088.408.421.771  |
+
+### Tổng CỘNG
+
+|  Năm phát sinh | Có thể chuyển lỗ đến năm | Lỗ thuế | Đã chuyển lỗ ước tính đến ngày 30 tháng 9 năm 2025 | Không được chuyển lỗ | Chưa chuyển lỗ  |
+| --- | --- | --- | --- | --- | --- |
+|  2020 | 2025 | (ii) | 8.708.581.487.871 | - | (702.182.250.493)  |
+
+(i) Lỗ thuế theo biên bản quyết toán thuế.
+
+(ii) Lỗ thuế ước tính theo tờ khai thuế của Công ty chưa được cơ quan thuế địa phương quyết toán vào ngày lập báo cáo tài chính này.
+
+--- TRANG 37 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỎ (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chín tháng kết thúc cùng ngày
+
+## 29. LẤI TRÊN CÓ PHIÉU
+
+Nhóm Công ty sử dụng các thông tin sau để tính lãi cơ bản và lãi suy giảm trên cổ phiếu:
+
+|  | Cho kỳ kế toán <br> chín tháng kết thúc <br> ngày 30 tháng 9 <br> năm 2025 | Cho kỳ kế toán <br> chín tháng kết thúc <br> ngày 30 tháng 9 <br> năm 2024 |
+| :-- | :--: | :--: |
+
+Lợi nhuận thuần sau thuế phân bố cho cổ đông sở hữu cổ phiếu phổ thông của Công ty (VND) Sổ lượng cổ phiếu phổ thông lưu hành bình quân
+Lãi cơ bản và suy giảm trên mỗi cổ phiếu (VND/cổ phiếu)
+4.964.982.254.949
+$2.874 .864 .059 .456$
+1.471.756 .586
+1.462.111 .141
+
+Không có các giao dịch cổ phiếu phổ thông hoặc giao dịch cổ phiếu phổ thông tiềm năng nào xảy ra từ ngày kết thúc kỳ kế toán đến ngày hoàn thành báo cáo tài chính hợp nhất giữa niên độ này.
+
+## 30. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN
+
+Danh sách bên liên quan với Nhóm Công ty tại ngày 30 tháng 9 năm 2025 như sau:
+Bên liên quan
+Mối quan hệ
+
+PT Era Blu Elektronik
+Ông Nguyễn Đức Tài
+Ông Vũ Đăng Linh
+Ông Phạm Văn Trọng
+Ông Đoàn Văn Hiếu Em
+Ông Thomas Lanyi
+Ông Robert Willett
+Ông Nguyễn Tiến Trung
+Ông Đỗ Tiến Sĩ
+
+Công ty liên doanh
+Chủ tịch HĐQT
+Thành viên HĐQT và Tổng Giám đốc từ ngày 3 tháng 4 năm 2025
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên HĐQT
+Thành viên
+
+Những giao dịch trọng yếu của Nhóm Công ty với các bên liên quan trong kỳ này như sau:
+
+VND
+Cho kỳ kế toán
+Chín tháng kết thúc
+chín tháng kết thúc
+ngày 30 tháng 9
+ngày 30 tháng 9
+năm 2024
+Ông Robert
+Thành viên
+Chị phí tư vấn
+1.848 .918 .553
+2.208.080.864
+
+Willett
+HĐQT
+
+--- TRANG 38 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ (tiếp theo)** vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức về thức cúng ngày **30. NGHIỆP VỤ VỚI CÁC BÊN LIÊN QUAN (tiếp theo)**
+
+Thu nhập của các thành viên của Hội đồng Quản trị ("HĐQT") và Tổng Giám đốc:
+
+|  Tên | Chức vụ | Cho kỳ kế toán chính thức ngày 30 tháng 9 năm 2025 | Cho kỳ kế toán chính thức ngày 30 tháng 9 năm 2024  |
+| --- | --- | --- | --- |
+|  Ông Robert Willett | Thành viên HĐQT | 1.848.918.553 | 2.208.080.864  |
+|  Vũ Đăng Linh (*) | Thành viên HĐQT và Tổng Giám đốc từ ngày 3 tháng 4 năm 2025 | 930.000.000 | -  |
+|  Đặng Minh Lượm (*) | Thành viên HĐQT | - | 870.808.333  |
+|  Nguyễn Đức Tài | Chủ tịch HĐQT | - | -  |
+|  Phạm Văn Trọng | Thành viên HĐQT | - | -  |
+|  Đoàn Văn Hiếu Em | Thành viên HĐQT | - | -  |
+|  Nguyễn Tiến Trung | Thành viên HĐQT | - | -  |
+|  Đỗ Tiến sĩ | Thành viên HĐQT | - | -  |
+|  **TỔNG CỘNG** |  | **2.778.918.553** | **3.078.889.197**  |
+
+Thu nhập từ tiền lương được trả từ Công ty Cổ phần Thế Giới Di Động (Công ty con).
+
+## **31. CAM KẾT THUẾ HOẠT ĐỘNG**
+
+Nhóm Công ty hiện đang thuê văn phòng và các trung tâm phân phối theo hợp đồng thuê hoạt động. Vào ngày kết thúc kỳ kế toán, các khoản tiền thuê phải trả trong tương lai theo hợp đồng thuê hoạt động được trình bày như sau:
+
+|   | Ngày 30 tháng 9 năm 2025 | Ngày 31 tháng 12 năm 2024  |
+| --- | --- | --- |
+|  Đến 1 năm | 3.606.413.496.262 | 3.357.739.239.234  |
+|  Từ 1 đến 5 năm | 10.706.076.999.787 | 9.669.548.515.548  |
+|  Trên 5 năm | 3.351.346.186.957 | 3.426.517.452.219  |
+|  **TỔNG CỘNG** | **17.663.836.683.006** | **16.453.805.207.001**  |
+
+## **32. THÔNG TIN THEO BỘ PHẬN**
+
+### *Bộ phận theo lĩnh vực kinh doanh*
+
+Nhóm Công ty lựa chọn các bộ phận theo lĩnh vực kinh doanh là bộ phận báo cáo chính yếu vì rủi ro và tỷ suất sinh lời của Nhóm Công ty bị tác động chủ yếu bởi những khác biệt về sản phẩm và dịch vụ do Nhóm Công ty cung cấp. Các bộ phận theo khu vực địa lý là bộ phận báo cáo thứ yếu. Các hoạt động kinh doanh của Nhóm Công ty được tổ chức và quản lý theo tính chất của sản phẩm và dịch vụ do Nhóm Công ty cung cấp với mỗi một bộ phận là một đơn vị kinh doanh chiến lược cung cấp các sản phẩm khác nhau và phục vụ các thị trường khác nhau:
+
+- Điện thoại di động, máy tính và thiết bị điện tử;
+- Thực phẩm và hàng tiêu dùng nhanh;
+- Hoạt động khác.
+
+Thông tin về doanh thu, lợi nhuận và một số tài sản và công nợ của bộ phận theo lĩnh vực kinh doanh của Nhóm Công ty như sau:
+
+--- TRANG 39 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT (tiếp theo) vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính tháng kết thúc cùng ngày
+
+## 32. THÔNG TIN THEO BỘ PHẬN (tiếp theo)
+
+### Bộ phận theo lĩnh vực kinh doanh (tiếp theo)
+
+|   | Điện thoại di động, máy tính và thiết bị điện tử | Thực phẩm và hàng tiêu dùng nhanh | Khác | Loại trừ | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- |
+|  **Cho kỳ kế toán ba tháng kết thúc ngày 30 tháng 9 năm 2025** |  |  |  |  |   |
+|  Doanh thu |  |  |  |  |   |
+|  Tử bán hàng ra bên ngoài | 77.528.843.148.363 | 34.417.600.159.187 | 1.660.990.923.275 |  | 113.607.434.230.825  |
+|  Giữa các bộ phận | 227.871.893.471 | 3.612.581.659 | 2.323.695.908.202 | (2.555.180.383.332.00) |   |
+|  Tổng cộng doanh thu | 77.756.715.041.834 | 34.421.212.740.846 | 3.984.686.831.477 | (2.555.180.383.332.00) | 113.607.434.230.825  |
+|  Lợi nhuận gộp của bộ phận |  |  |  |  |   |
+|  Chi phí không phân bổ | 13.467.414.209.248 | 8.268.581.404.453 | 511.302.539.560 | 13.467.414.209.248 | 22.247.298.153.261  |
+|  Lợi nhuận trước thuế, doanh thu hoạt động tài chính và chi phí tài chính |  |  |  |  | (17.212.803.183.664)  |
+|  Doanh thu hoạt động tài chính |  |  |  |  |   |
+|  Chi phí tài chính |  |  |  |  | 5.034.494.969.597  |
+|  Lỗ từ công ty liên doanh |  |  |  |  | 2.271.194.812.327  |
+|  Lỗ khác |  |  |  |  | (1.152.220.906.985)  |
+|  Lợi nhuận kế toán trước thuế |  |  |  |  | 18.428.106.429  |
+|  Chi phí thuế TNDN hiện hành |  |  |  |  | (36.679.672.693)  |
+|  Thu nhập thuế TNDN hoàn lại |  |  |  |  | 6.135.217.308.675  |
+|  Lợi nhuận sau thuế TNDN trong kỳ |  |  |  |  | 4.989.028.523.571  |
+|  **Vào ngày 30 tháng 9 năm 2025** |  |  |  |  |   |
+|  Tài sản và nợ phải trả |  |  |  |  |   |
+|  Tài sản của bộ phận | 54.102.614.686.661 | 15.850.431.131.249 | 10.367.606.771.422 |  | 80.320.652.589.323  |
+|  Tài sản không phân bổ |  |  |  |  | (32.154.697.257)  |
+|  Tổng tài sản |  |  |  |  | 80.288.497.892.066  |
+|  Nợ phải trả của bộ phận | 35.397.924.119.447 | 8.877.598.354.293 | 4.215.775.796.458 |  | 48.491.298.270.189  |
+|  Tổng nợ phải trả |  |  |  |  | 48.491.298.270.189  |
+
+--- TRANG 40 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+## THUYỆT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán sáu tháng kết thúc công ngày
+
+### 32. THỐNG TIN THEO BỘ PHẬN (tiếp theo)
+
+#### Bộ phận theo lĩnh vực kinh doanh (tiếp theo)
+
+|  Điện thoại di động, máy tính và thiết bị điện tử | Thực phẩm và hàng tiêu dùng nhanh | Khác | Loại trừ | Tổng cộng  |
+| --- | --- | --- | --- | --- |
+|  **Cho kỳ kế toán 12 tháng kết thúc ngày 31 tháng 12 năm 2024** |  |  |  |   |
+|  Doanh thu |  |  |  |   |
+|  Tử bán hàng ra bên ngoài | 90.798.886.168.975 | 41.083.417.042.057 | 2.458.849.637.770 | 134.341.152.848.802  |
+|  Giữa các bộ phận | 301.350.872.801 | 5.075.283.444 | 3.088.188.678.527 | (3.394.614.834.772)  |
+|  Tổng cộng doanh thu | 91.100.237.041.776 | 41.088.492.325.501 | 5.547.038.316.297 | (3.394.614.834.772)  |
+|  Lợi nhuận gộp của bộ phận | 16.634.170.192.351 | 10.274.890.976.236 | 590.148.908.434 | 27.499.210.077.021  |
+|  Chi phí không phân bổ |  |  |  | (23.415.605.192.984)  |
+|  Lợi nhuận trước thuế, doanh thu hoạt động tài chính và chi phí tài chính |  |  |  | 4.083.604.884.037  |
+|  Doanh thu hoạt động tài chính |  |  |  | 2.376.502.605.263  |
+|  Chi phí tài chính |  |  |  | (1.188.465.609.510)  |
+|  Phân lô trong công ty liên doanh |  |  |  | (44.596.454.899)  |
+|  Lỗ khác |  |  |  | (401.282.411.813)  |
+|  Lợi nhuận kế toán trước thuế |  |  |  | 4.825.763.013.078  |
+|  Chi phí thuế TNDN hiện hành |  |  |  | (1.282.537.116.919)  |
+|  Chi phí thuế TNDN hoàn lại |  |  |  | 190.062.332.561  |
+|  Lợi nhuận sau thuế TNDN trong năm |  |  |  | 3.733.288.228.720  |
+|  Vào ngày 31 tháng 12 năm 2024 |  |  |  |   |
+|  Tử bán và nợ phải trả | 47.900.323.904.448 | 11.432.641.286.535 | 10.988.992.202.980 | 70.321.957.393.963  |
+|  Tử bán của bộ phận |  |  |  | 115.818.327.641  |
+|  Tử bán không phân bổ |  |  |  | 70.437.775.721.604  |
+|  Tổng tài sản | 29.478.138.627.853 | 5.325.474.332.011 | 7.512.585.937.885 | 42.316.198.897.749  |
+|  Nợ phải trả của bộ phận |  |  |  | 42.316.198.897.749  |
+|  Tổng nợ phải trả |  |  |  | 39  |
+
+--- TRANG 41 ---
+# Công ty Cổ phần Đầu tư Thế Giới Di Động
+
+**B09a-DN/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT GIỮA NIỆN ĐỘ (tiếp theo)**
+
+vào ngày 30 tháng 9 năm 2025 và cho kỳ kế toán chính thức kết thúc cùng ngày
+
+## 33. CHÍ TIÊU NGOÀI BÁNG CÂN ĐỔI KẾ TOÁN
+
+|   | Ngày 30 tháng 9 năm 2025 |  | Ngày 31 tháng 12 năm 2024 |   |
+| --- | --- | --- | --- | --- |
+|   | Nguyên tệ | Tương đương VND | Nguyên tệ | Tương đương VND  |
+|  **USD** | 446.686,55 | 11.805.925.517 | 51.705,15 | 1.070.555.131  |
+
+## 34. CÁC SỰ KIỆN SAU NGÀY KẾT THÚC KỲ KẾ TOÁN
+
+Không có sự kiện trọng yếu nào phát sinh sau ngày kết thúc kỳ kế toán yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất giữa năm đó của Nhóm Công ty.
+
+**Võ Thị Phương Thảo**
+
+Người lập
+
+**Lý Trần Kim Ngân**
+
+Kế toán trưởng
+
+**Vũ Đăng Linh**
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 22 tháng 10 năm 2025

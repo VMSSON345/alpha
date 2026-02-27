@@ -1,0 +1,1259 @@
+--- TRANG 0 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU
+
+BÁO CÁO TÀI CHÍNH HỢP NHÁT GIỪA NIÊN Độ QUÝ III NĂM 2025
+
+--- TRANG 1 ---
+# NộI DUNG 
+
+Báo cáo tình hình tài chính hợp nhất giữa niên độ (Mẫu B02a/TCTD-HN ban hành theo Thông tư số 49/2014/TT-NHNN ngày 31 tháng 12 năm 2014 và đã được sửa đổi, bổ sung bởi Thông tư số 27/2021/TT-NHNN ngày 31 tháng 12 năm 2021 ("Mẫu B02a/TCTD-HN"))
+Báo cáo kết quả hoạt động hợp nhất giữa niên độ (Mẫu B03a/TCTD-HN ban hành theo Thông tư số 49/2014/TT-NHNN ngày 31 tháng 12 năm 2014 và đã được sửa đổi, bổ sung bởi Thông tư số 27/2021/TT-NHNN ngày 31 tháng 12 năm 2021 ("Mẫu B03a/TCTD-HN"))
+Báo cáo lưu chuyển tiền tệ hợp nhất giữa niên độ (Mẫu B04a/TCTD-HN ban hành theo Thông tư số 49/2014/TT-NHNN ngày 31 tháng 12 năm 2014 và đã được sửa đổi, bổ sung bởi Thông tư số 27/2021/TT-NHNN ngày 31 tháng 12 năm 2021 ("Mẫu B04a/TCTD-HN"))
+Thuyết minh báo cáo tài chính chọn lọc hợp nhất (Mẫu B05a/TCTD-HN ban hành theoThông tư số 49/2014/TT-NHNN ngày 31 tháng 12 năm 2014 và đã được sửa đổi, bổ sung bởi Thông tư số 27/2021/TT-NHNN ngày 31 tháng 12 năm 2021 ("Mẫu B05a/TCTD-HN"))
+
+--- TRANG 2 ---
+# BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ TẠI NGÀY 30 THÁNG 9 NĂM 2025
+
+|   |  | Thuyết minh | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- | --- | --- |
+|   |  |  | Triệu đồng | Triệu đồng  |
+|  A | TÀI SẢN |  |  |   |
+|  I | Tiền mặt, vàng bạc, đá quý |  | 6.785 .568 | 5.696 .449  |
+|  II | Tiền gửi tại Ngân hàng Nhà nước |  | 15.197 .467 | 25.219 .753  |
+|  III | Tiền gửi và cho vay các tổ chức tín dụng khác | V. 1 | 104.925 .948 | 117.882 .259  |
+|  1 | Tiền gửi tại các tổ chức tín dụng khác |  | 104.925 .948 | 117.781 .280  |
+|  2 | Cho vay các tổ chức tín dụng khác |  | - | 150.979  |
+|  3 | Dự phòng rủi ro |  | - | (50.000)  |
+|  IV | Chứng khoán kinh doanh | V. 2 | 5.918 .486 | 3.881 .151  |
+|  1 | Chứng khoán kinh doanh |  | 6.072 .639 | 4.029 .088  |
+|  2 | Dự phòng rủi ro chứng khoán kinh doanh |  | (154.153) | (147.937)  |
+|  V | Các công cụ tài chính phải sinh và các tài sản tài chính khác | V. 3 | - | 55.992  |
+|  VI | Cho vay khách hàng |  | 663.032 .417 | 573.946 .692  |
+|  1 | Cho vay khách hàng | V. 4 | 669.188 .125 | 580.686 .248  |
+|  2 | Dự phòng rủi ro cho vay khách hàng | V. 5 | (6.155.708) | (6.739.556)  |
+|  VIII | Chứng khoán đầu tư | V. 6 | 133.759 .576 | 121.090 .243  |
+|  1 | Chứng khoán đầu tư sã̃n sáng để bán |  | 121.853 .383 | 108.918 .477  |
+|  2 | Chứng khoán đầu tư giư đến ngày đáo hạn |  | 11.906 .193 | 12.171 .766  |
+|  3 | Dự phòng rủi ro chứng khoán đầu tư |  | - | -  |
+|  IX | Góp vốn, đầu tư dài hạn | V. 7 | 126.774 | 124.935  |
+|  4 | Đầu tư dài hạn khác |  | 292.867 | 292.867  |
+|  5 | Dự phòng giảm giá đầu tư dài hạn |  | (166.093) | (167.932)  |
+|  X | Tài sản cố định |  | 5.400 .704 | 5.412 .370  |
+|  1 | Tài sản cố định hữu hình |  | 3.209 .383 | 3.222 .198  |
+|   | a | Nguyên giá tài sản cố định | 6.719 .862 | 6.504 .276  |
+|   | b | Hao mòn tài sản cố định | (3.510.479) | (3.282.078)  |
+|  3 | Tài sản cố định vô hình |  | 2.191 .321 | 2.190 .172  |
+|   | a | Nguyên giá tài sản cố định | 3.040 .154 | 2.950 .265  |
+|   | b | Hao mòn tài sản cố định | (848.833) | (760.093)  |
+|  XI | Bất động sản đầu tư |  | 103.544 | 177.005  |
+|   | a | Nguyên giá bất động sản đầu tư | 103.544 | 177.005  |
+|   | b | Hao mòn bất động sản đầu tư | - | -  |
+|  XII | Tài sản Có khác |  | 13.298 .692 | 10.518 .854  |
+|  1 | Các khoản phải thu |  | 5.907 .466 | 4.299 .649  |
+|  2 | Các khoản lãi, phí phải thu |  | 6.169 .586 | 4.954 .367  |
+|  3 | Tài sản thuế thu nhập doanh nghiệp hoãn lại |  | 36.336 | 17.318  |
+|  4 | Tài sản Có khác |  | 1.374 .696 | 1.425 .899  |
+|  5 | Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác |  | (189.392) | (178.379)  |
+|   | TÔNG TÀI SẢN |  | 948.549 .176 | 864.005 .703  |
+
+--- TRANG 3 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU
+
+**Mẫu B02a/TCTD-HN**
+
+## BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẤT GIỮA NIÊN ĐỘ TẠI NGÀY 30 THÁNG 9 NĂM 2025
+
+|   | Thuyết minh | 30.9.2025 Triệu đồng | 31.12.2024 Triệu đồng  |
+| --- | --- | --- | --- |
+|  **Bộ P HÀI TRẢ VÀ VÔN CHỦ SỞ HỮU** |  |  |   |
+|  **I. Các khoản nợ Chính phủ và Ngân hàng Nhà nước** | V.8 | 20.691.569 | 7.954.853  |
+|  1. Tiền gửi và vay Chính phủ, Ngân hàng Nhà nước |  | 20.691.569 | 7.954.853  |
+|  2. Giao dịch bán và mua lại trái phiếu Chính phủ với Kho bạc Nhà nước |  | - | -  |
+|  **II. Tiền gửi và vay các tổ chức tín dụng khác** | V.9 | 129.176.089 | 111.591.668  |
+|  1. Tiền gửi của các tổ chức tín dụng khác |  | 94.309.452 | 91.573.962  |
+|  2. Vay các tổ chức tín dụng khác |  | 34.866.637 | 20.017.706  |
+|  **III. Tiền gửi của khách hàng** | V.10 | 571.028.953 | 537.304.578  |
+|  **IV. Các công cụ tài chính phải sinh và các khoản nợ tài chính khác** | V.3 | 123.668 | -  |
+|  **V. Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro** |  | 22.456 | 28.008  |
+|  **VI. Phát hành giấy tờ có giá** | V.11 | 113.387.071 | 101.650.446  |
+|  **VII. Các khoản nợ khác** | V.12 | 22.703.870 | 22.014.472  |
+|  1. Các khoản lãi, phí phải trả |  | 8.732.073 | 7.045.361  |
+|  3. Các khoản phải trả và công nợ khác |  | 13.971.797 | 14.969.111  |
+|  4. Dự phòng rủi ro khác |  | - | -  |
+|  **TÔNG NỢ PHẢI TRẢ** |  | 857.133.676 | 780.544.025  |
+|  **VIII. VỐN CHỦ SỞ HỮU** | V.14 | 91.415.500 | 83.461.678  |
+|  1. Vốn của tổ chức tín dụng |  | 51.638.345 | 44.938.358  |
+|  a. Vốn điều lệ |  | 51.366.566 | 44.666.579  |
+|  c. Thặng dư vốn cổ phần |  | 271.779 | 271.779  |
+|  2. Quỹ của tổ chức tín dụng |  | 14.789.568 | 14.789.568  |
+|  3. Chênh lệch tỷ giá hối đoái |  | (319.534) | -  |
+|  5. Lợi nhuận chưa phân phối |  | 25.307.121 | 23.733.752  |
+|  a. Lợi nhuận năm nay |  | 12.840.014 | 13.557.635  |
+|  b. Lợi nhuận lũy kế năm trước |  | 12.467.107 | 10.176.117  |
+|  **TÔNG NỢ PHẢI TRẢ VÀ VÔN CHỦ SỞ HỮU** |  | 948.549.176 | 864.005.703  |
+
+--- TRANG 4 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU
+
+**Mẫu B02a/TCTD-HN**
+
+## BÁO CÁO TÍNH HÍNH TÀI CHÍNH HỢP NHÁT GIỮA NIÊN ĐỘ TẠI NGÀY 30 THÁNG 9 NĂM 2025
+
+### CÁC CHỈ TIÊU NGOÀI BÁO CÁO TÍNH HÍNH TÀI CHÍNH
+
+|   | Thuyết minh | 30.9.2025 Triệu đồng | 31.12.2024 Triệu đồng  |
+| --- | --- | --- | --- |
+|  1 | Bảo lãnh vay vốn | VII.2 | 88.338  |
+|  2 | Cam kết giao dịch hồi đoái | VII.2 | 195.557.974  |
+|   | Cam kết mua ngoại tệ |  | 7.889.917  |
+|   | Cam kết bán ngoại tệ |  | 7.666.047  |
+|   | Cam kết giao dịch hoán đổi |  | 180.002.010  |
+|  4 | Cam kết trong nghiệp vụ L/C | VII.2 | 5.405.302  |
+|  5 | Bảo lãnh khác | VII.2 | 17.090.091  |
+|  6 | Các cam kết khác | VII.2 | 28.703.779  |
+|  7 | Lãi cho vay và phí phải thu chưa thu được |  | 1.710.894  |
+|  8 | Nợ khó đòi đã xử lý |  | 8.128.969  |
+|  9 | Tài sản và chứng từ khác |  | 1.737.492  |
+
+**Lập bảng**
+
+- Cao Hoàng Thủy Tiên: 194
+
+**Kế toán trưởng**
+
+- Dương Thị Nguyệt: 194
+
+**Từ Tiến Phát**
+
+![img-0.jpeg](img-0.jpeg)
+
+![img-1.jpeg](img-1.jpeg)
+
+![img-2.jpeg](img-2.jpeg)
+
+--- TRANG 5 ---
+# NGẮN HÀNG THƯƠNG MẠI CÓ PHẢN Á CHÂU
+
+Mẫu B03a/TCTD-HN
+
+BÁO CÁO KÉT QUÁ HOẠT ĐỘNG HỢP NHÁT GIỮA NIÊN ĐỘ QUỶ III NĂM 2025
+
+|   | Thuyết minh | Quý III |  | Lũy kế từ đầu năm đến cuối Quý III |   |
+| --- | --- | --- | --- | --- | --- |
+|   |  | Năm 2025 | Năm 2024 | Năm 2025 | Năm 2024  |
+|   |  | Triệu đồng | Triệu đồng | Triệu đồng | Triệu đồng  |
+|  1 | Thu nhập lãi và các khoản thu nhập tương tự | VI.1 | 15.049.404 | 12.922.067 | 42.675.405  |
+|  2 | Chi phí lãi và các chi phí tương tự | VI.2 | (8.279.694) | (6.040.680) | (22.862.982)  |
+|  I | Thu nhập lãi thuần |  | 6.769.710 | 6.881.387 | 19.812.423  |
+|  3 | Thu nhập từ hoạt động dịch vụ |  | 1.317.755 | 1.325.822 | 3.814.193  |
+|  4 | Chi phí hoạt động dịch vụ |  | (522.330) | (578.633) | (1.561.724)  |
+|  II | Lãi thuần từ hoạt động dịch vụ |  | 795.425 | 747.189 | 2.252.469  |
+|  III | Lãi/(lỗ) thuần từ hoạt động kinh doanh ngoại hồi |  | 449.150 | 166.635 | 1.594.745  |
+|  IV | Lãi/(lỗ) thuần từ mua bán chứng khoán kinh doanh | VI.3 | 367.366 | 71.287 | 427.755  |
+|  V | Lãi/(lỗ) thuần từ mua bán chứng khoán đầu tư | VI.4 | (30) | 47.199 | 444.566  |
+|  5 | Thu nhập từ hoạt động khác |  | 370.657 | 259.065 | 1.818.538  |
+|  6 | Chi phí hoạt động khác |  | (385.920) | (56.305) | (838.693)  |
+|  VI | Lãi thuần từ hoạt động khác |  | (15.263) | 202.760 | 979.845  |
+|  VII | Thu nhập từ góp vốn, mua cổ phần | VI.5 | 18.307 | 19.544 | 80.034  |
+|  VIII | Chi phí hoạt động | VI.6 | (2.713.933) | (2.933.714) | (8.141.985)  |
+|  IX | Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng |  | 5.670.732 | 5.202.287 | 17.449.852  |
+|  X | Chi phí dự phòng rủi ro tín dụng |  | (288.936) | (358.243) | (1.378.103)  |
+|  XI | Tổng lợi nhuận trước thuế |  | 5.381.796 | 4.844.044 | 16.071.749  |
+|  7 | Chi phí thuế thu nhập doanh nghiệp hiện hành |  | (1.081.502) | (971.306) | (3.250.753)  |
+|  8 | Chi phí thuế thu nhập doanh nghiệp hoãn lại |  | (19.705) | (2.343) | 19.018  |
+|  XII | Chi phí thuế thu nhập doanh nghiệp |  | (1.101.207) | (973.649) | (3.231.735)  |
+|  XIII | Lợi nhuận sau thuế |  | 4.280.589 | 3.870.395 | 12.840.014  |
+|   | XV Lãi cơ bản trên cổ phiếu (đồng/cổ phiếu) |  |  |  |   |
+
+Lập bảng
+
+Cao Hoàng Thủy Tiên
+
+Kế toán trường
+
+Dương Thị Nguyệt
+
+Từ Tiến Phát
+
+Lũy kế từ đầu năm đến cuối Quý III
+
+Năm 2024 Triệu đồng Triệu đồng
+
+--- TRANG 6 ---
+# BÁO CÁO LƯU CHUYÊN TIÊN TỆ HỢP NHẤT GIỮA NIÊN Độ QUÝ III NĂM 2025 
+
+(Theo phương pháp trực tiếp)
+
+## LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG KINH DOANH
+
+01 Thu nhập lãi và các khoản thu nhập tương tự nhận được
+02 Chi phí lãi và các chi phí tương tự đã trả
+03 Thu nhập từ hoạt động dịch vụ nhận được.
+04 Chênh lệch số tiền thực thu/(thực chi) từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)
+05 Thu nhập/(chi phí) khác
+06 Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro
+07 Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ
+08 Tiền thuế thu nhập thực nộp trong kỳ
+Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi của tài sản và công nợ hoạt động
+
+## Những thay đổi về tài sản hoạt động
+
+09 (Tăng)/giảm các khoản tiền gửi và cho vay các tổ chức tín dụng khác
+10 (Tăng)/giảm các khoản về kinh doanh chứng khoán
+11 (Tăng)/giảm các công cụ tài chính phái sinh và các tài sản tài chính khác
+12 (Tăng)/giảm các khoản cho vay khách hàng
+13 Giảm nguồn dự phòng để xử lý rủi ro, xử lý, bù đắp tởn thất các khoản
+14 (Tăng)/giảm khác về tài sản hoạt động
+
+## Những thay đổi về công nợ hoạt động
+
+15 Tăng/(giảm) các khoản nợ Chính phủ và Ngân hàng Nhà nước
+16 Tăng/(giảm) tiền gửi và vay các tổ chức tín dụng khác
+17 Tăng/(giảm) tiền gửi của khách hàng
+18 Tăng/(giảm) phát hành giấy tờ có giá
+19 Tăng/(giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà tổ chức tín dụng chịu rủi ro
+20 Tăng/(giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác
+21 Tăng/(giảm) khác về công nợ hoạt động
+22 Chi từ các quỹ của tổ chức tín dụng
+
+## Lũy kế từ đầu năm đến cuối Quý III
+
+Năm 2025 Năm 2024
+Triệu đồng Triệu đồng
+
+41.460 .186
+$(21.171 .994)$
+1.827 .470
+1.244 .720
+$(85.677)$
+921.236
+$(7.878 .395)$
+$(4.315 .845)$
+13.230 .263
+13.005 .331
+(3.128.166)
+(15.712.885)
+55.992
+$(88.501 .877)$
+(2.004.301)
+(1.584.239)
+12.736.716
+17.584.421
+33.724.374
+11.732.350
+(5.552)
+123.668
+594.208
+(35.882)
+
+Lũy kế từ đầu năm đến cuối Quý III
+Năm 2024
+Triệu đồng
+(267.873)
+(67.306.622)
+(164.512)
+581.967
+19.064
+(15.987.011)
+29.420 .938
+37.950 .642
+(9.893)
+123.668
+(117.126)
+594.208
+(35.882)
+(726)
+
+I LƯU CHUYÊN TIÊN THUẢN TỪ HOẠT ĐỘNG KINH DOANH
+(21.190.910) (29.149.333)
+
+--- TRANG 7 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHẦN Á CHÂU
+
+**Mẫu B04a/TCTD-HN**
+
+## BÁO CÁO LƯU CHUYÊN TIÊN TẸ HỢP NHẤT GIỮA NIỂN Độ QUỶ III NĂM 2025
+
+(Theo phương pháp trực tiếp)
+
+|   | Lũy kế từ đầu năm đến cuối Quý III  |
+| --- | --- |
+|   | Năm 2025  |
+|   | Năm 2024  |
+|  **Tíy Đ命** | Triệu đồng  |
+
+### LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG ĐẦU TƯ
+
+|  **Tỉnh** | **Độ** | **Từ**  |
+| --- | --- | --- |
+|  01 Mua sắm tài sản cố định | (378.759) | (500.790)  |
+|  02 Tiền thu từ thanh lý, nhượng bán tài sản cố định | 72.060 | 80.571  |
+|  04 Mua sắm bất động sản đầu tư | (110.544) | -  |
+|  05 Tiền thu từ bán, thanh lý bất động sản đầu tư | 247.634 | -  |
+|  07 Tiền chi đầu tư, góp vốn vào các đơn vị khác | - | 3.507  |
+|  08 Tiền thu đầu tư, góp vốn vào các đơn vị khác | - | 3.507  |
+|  09 Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn | 79.067 | 21.896  |
+
+### II LƯU CHUYÊN TIÊN THUẢN TỪ HOẠT ĐỘNG ĐẦU TƯ
+
+#### (90.542) (394.816)
+
+### LƯU CHUYÊN TIÊN TỪ HOẠT ĐỘNG TÀI CHÍNH
+
+|  **Tỉnh** | **Độ** | **Từ**  |
+| --- | --- | --- |
+|  02 Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác | - | -  |
+|  03 Tiền chi thanh toán giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác | - | -  |
+|  04 Cổ tức đã trả cho các cổ đông, lợi nhuận đã chia | (4.466.658) | (3.884.051)  |
+
+### III LƯU CHUYÊN TIÊN THUẢN TỪ HOẠT ĐỘNG TÀI CHÍNH
+
+#### (4.466.658) (3.884.051)
+
+### IV LƯU CHUYÊN TIÊN THUẢN TRONG KỲ
+
+#### (25.748.110) (33.428.200)
+
+### V TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIÊN TẠI NGÀY 1 THÁNG 1
+
+|  **Tỉnh** | **Độ** | **Từ**  |
+| --- | --- | --- |
+|  VI Điều chỉnh ảnh hưởng của thay đổi tỷ giá | (319.534) | (62.053)  |
+|  VII TIÊN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIÊN TẠI NGÀY 30 THÁNG 9 | 113.756.964 | 102.581.485  |
+
+### Tiền và các khoản tương đương tiền gồm có:
+
+- Tiền mặt, vàng bạc, đá quý: 6.785.568 (5.870.526)
+- Tiền gửi thanh toán tại Ngân hàng Nhà nước: 15.197.467 (8.392.393)
+- Tiền gửi tại các tổ chức tín dụng khác: 91.773.929 (88.318.566)
+- Chứng khoán đầu tư: - (4.466.658)
+
+### Lập bảng
+
+|  **Tỉnh** | **Độ** | **Từ**  |
+| --- | --- | --- |
+|  Cao Hoàng Thủy Tiên | Kế toán trưởng | Tống Giám đốc  |
+
+### Lập bảng 21 tháng 10 năm 2025
+
+### Tống Giám đốc
+
+### Tống Giám đốc
+
+### Tống Tiến Phát
+
+Cao Hoàng Thủy Tiên Dương Thị Nguyệt
+
+--- TRANG 8 ---
+# THUYÊT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## I. ĐẶC ĐIÊM HOẠT ĐỘNG:
+
+1. Ngân hàng Thương mại Cố phần Á Châu ("Ngân hàng") được thành lập theo Giấy phép Hoạt động số 0032/NH-GP do Ngân hàng Nhà nước Việt Nam ("NHNN") cấp ngày 24 tháng 4 năm 1993 với thời hạn hoạt động 50 năm kể từ ngày cấp giấy phép. Ngày 19 tháng 9 năm 2018, Ngân hàng được NHNN cấp Giấy phép Hoạt động số 91/GP-NHNN thay thế cho Giấy phép Hoạt động số 0032/NH-GP. Thời gian hoạt động của Ngân hàng theo giấy phép mới không thay đổi so với giấy phép được cấp trước đó. Cố phiếu của Ngân hàng được niêm yết tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh với mã giao dịch cố phiếu là ACB.
+2. Hình thức sở hữu vốn: Cố phần.
+3. Thành phần Hội đồng quản trị:
+
+- Ông Trần Hùng Huy
+- Ông Nguyễn Thành Long
+- Bà Đặng Thu Thủy
+- Ông Đàm Văn Tuấn
+- Bà Đinh Thị Hoa
+- Ông Hiep Van Vo
+- Ông Đỗ Minh Toàn
+- Ông Nguyễn Văn Hòa
+- Ông Trịnh Bảo Quốc
+
+Chủ tịch
+Phó Chủ tịch
+Thành viên
+Thành viên
+Thành viên
+Thành viên
+Thành viên
+Thành viên độc lập
+4. Thành phần Ban Tổng Giám đốc:
+
+- Ông Từ Tiến Phát
+- Ông Đàm Văn Tuấn
+- Ông Bùi Tấn Tài
+- Ông Nguyễn Đức Thái Hân
+- Bà Nguyễn Thị Hai
+- Bà Nguyễn Thị Tuyết Văn
+- Ông Nguyễn Văn Hòa
+- Ông Nguyễn Khắc Nguyện
+- Ông Ngô Tấn Long
+
+Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+Phó Tổng Giám đốc
+5. Hội sở chính của Ngân hàng đặt tại số 442 đường Nguyễn Thị Minh Khai, Phường Bàn Cờ, Thành phố Hồ Chí Minh. Ngân hàng có 389 chi nhánh và phòng giao dịch trên cả nước.
+
+--- TRANG 9 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+6. Tại ngày 30 tháng 9 năm 2025, Ngân hàng có các công ty con sau:
+
+## Tên Công ty con
+
+Công ty TNHH Chứng khoán ACB
+Công ty TNHH Quản lý nợ và khai thác tài sản
+Ngân hàng Á Châu
+Công ty TNHH MTV Cho thuê tài chính
+Ngân hàng Á Châu
+Công ty TNHH MTV Quản lý quỹ ACB
+
+Giấy phép hoạt động
+06/GPHĐKD
+0303539425
+06/GP-NHNN
+41/UBCK-GP
+
+Tỷ lệ góp vốn
+$100 \%$
+$100 \%$
+$100 \%$
+7. Tổng số nhân viên chính thức của Ngân hàng và các công ty con tại ngày 30 tháng 9 năm 2025 là 13.022 nhân viên.
+
+## II. KỲ KẾ TOÁN, ĐƠN VỊ TIÊN TẸ SỬ DỤNG TRONG KẾ TOÁN:
+
+1. Kỷ kế toán năm: bắt đầu từ ngày 1 tháng 1 và kết thúc vào ngày 31 tháng 12.
+2. Đơn vị tiền tệ sử dụng trong kế toán: đồng Việt Nam.
+
+## III. CHUẨN MỰC VÀ CHẾ ĐỘ KẾ TOÁN ÁP DỤNG:
+
+Báo cáo tài chính này được soạn lập sử dụng đơn vị tiền tệ là đồng Việt Nam, được làm tròn đến hàng triệu đồng gần nhất, theo quy ước giá gốc và phù hợp với Chuẩn mực Kế toán Việt Nam số 27 - Báo cáo tài chính giữa niên độ cũng như các Chuẩn mực Kế toán Việt Nam khác, Chế độ kế toán Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính áp dụng cho các tổ chức tín dụng ("TCTD") hoạt động tại Việt Nam. Báo cáo tài chính này được soạn lập để hợp nhất báo cáo tài chính của Ngân hàng và các công ty con (gọi chung là "Tập đoàn").
+Tập đoàn sử dụng phần mềm kế toán để ghi sổ các nghiệp vụ phát sinh.
+Các chỉ tiêu trình bày trong báo cáo tài chính được quy định tại Thông tư số 49/2014/TTNHNN ngày 31 tháng 12 năm 2014 và Thông tư số 27/2021/TT-NHNN ngày 31 tháng 12 năm 2021 do NHNN ban hành mà không được thể hiện trong báo cáo tài chính này thì được hiểu là không có sổ dư.
+
+## IV. CHÍNH SÁCH KẾ TOÁN ÁP DỤNG:
+
+Chính sách kế toán được áp dụng trong việc lập báo cáo tài chính này nhất quán với các chính sách kế toán áp dụng trong việc lập báo cáo tài chính năm gần nhất.
+
+## 1. Chuyển đổi tiền tệ:
+
+Các nghiệp vụ phát sinh bằng ngoại tệ được quy đổi theo tỷ giá áp dụng vào ngày phát sinh nghiệp vụ. Tài sản và công nợ bằng tiền gốc ngoại tệ tại thời điểm cuối tháng được quy đổi theo tỷ giá áp dụng vào ngày cuối tháng. Chênh lệch do đánh giá lại hàng tháng được ghi nhận vào tài khoản chênh lệch đánh giá lại ngoại tệ trong báo cáo tình hình tài chính. Sổ dư chênh lệch do đánh giá lại được kết chuyển vào báo cáo kết quả hoạt động vào thời điểm cuối năm.
+
+## 2. Nguyên tắc thực hiện hợp nhất báo cáo tài chính:
+
+(i) Các công ty con
+
+Các công ty con là các công ty chịu sự kiểm soát của Tập đoàn. Sự kiểm soát này tồn tại khi Tập đoàn có quyền chi phối các chính sách tài chính và hoạt động của một doanh nghiệp nhằm thu được lợi ích kinh tế từ các hoạt động của doanh nghiệp đó. Các báo cáo tài chính
+
+--- TRANG 10 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUÝ III NĂM 2025 
+
+của các công ty con được bao gồm trong báo cáo tài chính hợp nhất giữa niên độ kể từ ngày quyền kiểm soát bắt đầu có hiệu lực đến ngày quyền kiểm soát chấm dứt.
+Khi có sự khác biệt giữa chính sách kế toán của các công ty con và của Ngân hàng thì các điều chỉnh cần thiết được thực hiện nhằm đảm bảo tính nhất quán của các chính sách kế toán cho mục đích báo cáo tài chính hợp nhất giữa niên độ.
+(ii) Các giao dịch được loại trừ khi hợp nhất
+
+Các số dư trong nội bộ Tập đoàn và các khoản thu nhập và chi phí chưa thực hiện từ các giao dịch nội bộ được loại trừ khi lập báo cáo tài chính hợp nhất giữa niên độ.
+
+## 3. Công cụ tài chính phái sinh:
+
+Các công cụ tài chính phái sinh được ghi nhận trên báo cáo tình hình tài chính theo giá trị hợp đồng vào ngày giao dịch, và sau đó được đánh giá lại theo giá trị hợp lý. Lợi nhuận hoặc lỗ khi các công cụ tài chính phái sinh được thực hiện được ghi nhận trong báo cáo kết quả hoạt động. Lợi nhuận hoặc lỗ chưa thực hiện không được ghi nhận trong báo cáo kết quả hoạt động mà được ghi nhận vào khoản mục chênh lệch đánh giá lại các công cụ tài chính phái sinh trên báo cáo tình hình tài chính và được kết chuyển vào báo cáo kết quả hoạt động vào thời điểm cuối năm.
+
+## 4. Thu nhập lãi và chi phí lãi:
+
+Tập đoàn ghi nhận thu nhập lãi và chi phí lãi trên cơ sở dồn tích.
+Lãi của các khoản cho vay bị quá hạn hoặc các khoản cho vay không được phân loại là Nợ đủ tiêu chuẩn hoặc các khoản cho vay thuộc đối tượng được áp dụng giữ nguyên nhóm Nợ đủ tiêu chuẩn do thực hiện chính sách của Nhà nước không được dự thu mà được ghi nhận trên cơ sở thực thu. Lãi dự thu của các khoản cho vay này được xuất toán và ghi nhận ngoại bảng, thu nhập lãi chỉ được ghi nhận vào báo cáo kết quả hoạt động khi thu được.
+
+## 5. Thu nhập phí và hoa hồng:
+
+Phí và hoa hồng bao gồm phí nhận được từ dịch vụ thanh toán, dịch vụ ngân quỹ và các dịch vụ khác. Phí và hoa hồng nhận được từ dịch vụ thanh toán, dịch vụ ngân quỹ và các dịch vụ khác được ghi nhận trên cơ sở dồn tích.
+
+## 6. Các khoản cho vay khách hàng:
+
+Các khoản cho vay ngắn hạn là các khoản cho vay có kỳ hạn đến một năm kể từ ngày giải ngân; các khoản cho vay trung hạn có kỳ hạn trên một năm đến năm năm kể từ ngày giải ngân và các khoản cho vay dài hạn có kỳ hạn trên năm năm kể từ ngày giải ngân.
+Các khoản cho vay khách hàng được phân loại theo quy định tại Thông tư số 31/2024/TTNHNN ("Thông tư 31") do NHNN ban hành ngày 30 tháng 6 năm 2024 và trích lập dự phòng rủi ro và sử dụng dự phòng để xử lý rủi ro theo Nghị định số 86/2024/ND-CP ("Nghị định 86") do Chính phủ ban hành ngày 11 tháng 7 năm 2024.
+
+--- TRANG 11 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## Phân loại nợ:
+
+Các khoản cho vay khách hàng được phân thành năm nhóm nợ như sau:
+Nhóm 1: Nợ đủ tiêu chuẩn
+Nhóm 2: Nợ cần chú ý
+Nhóm 3: Nợ dưới tiêu chuẩn
+Nhóm 4: Nợ nghi ngờ
+Nhóm 5: Nợ có khả năng mất vốn
+Trường hợp một khách hàng có nhiều hơn một khoản nợ với Tập đoàn mà có bất kỳ khoản nợ nào bị chuyển sang nhóm nợ rủi ro cao hơn thì Tập đoàn phân loại các khoản nợ còn lại của khách hàng đó vào nhóm nợ rủi ro cao hơn tương ứng với mức độ rủi ro.
+Khi Tập đoàn tham gia cho vay hợp vốn, Tập đoàn thực hiện phân loại các khoản nợ (bao gồm cả khoản vay hợp vốn) của khách hàng đó vào nhóm rủi ro cao nhất theo kết quả phân loại nợ của các thành viên tham gia cấp tín dụng hợp vốn.
+Khoản nợ được phân loại vào nhóm nợ có rủi ro cao hơn trong các trường hợp sau đây:
+
+- Các chỉ tiêu về khả năng sinh lời, khả năng thanh toán, tỷ lệ nợ trên vốn, dòng tiền dẫn đến khả năng trả nợ của khách hàng suy giảm liên tục qua 3 lần đánh giá hoặc phân loại nợ liên tục;
+- Khách hàng không cung cấp đầy đủ, kịp thời và trung thực các thông tin theo yêu cầu của Tập đoàn để đánh giá khả năng trả nợ của khách hàng;
+- Khoản nợ bị phân loại vào nhóm 2, nhóm 3, nhóm 4 từ một năm trở lên nhưng không đủ điều kiện phân loại vào nhóm có rủi ro thấp hơn;
+- Khoản nợ mà hành vi cấp tín dụng bị xử phạt vi phạm hành chính theo quy định của pháp luật.
+
+
+## Dự phòng rủi ro tín dụng:
+
+Dự phòng cụ thể được tính theo số dư các khoản cho vay từng khách hàng tại ngày cuối tháng trừ đi giá trị khẩu trừ của tài sản bảo đảm. Giá trị khẩu trừ của tài sản đảm bảo được xác định theo tỷ lệ do NHNN quy định cho từng loại tài sản đảm bảo.
+Tỷ lệ dự phòng cụ thể được áp dụng cho từng nhóm nợ như sau:
+Tỷ lệ dự phòng
+Nhóm 1 - Nợ đủ tiêu chuẩn $0 \%$
+Nhóm 2 - Nợ cần chú ý $5 \%$
+Nhóm 3 - Nợ dưới tiêu chuẩn $20 \%$
+Nhóm 4 - Nợ nghi ngờ $50 \%$
+Nhóm 5 - Nợ có khả năng mất vốn $100 \%$
+Dự phòng chung được lập với mức bằng $0,75 \%$ tổng số dư tại ngày cuối tháng của các khoản cho vay khách hàng, không bao gồm các khoản cho vay khách hàng được phân loại vào nhóm nợ có khả năng mất vốn.
+
+--- TRANG 12 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## Sử dụng dự phòng để xử lý rủi ro:
+
+Tập đoàn sử dụng dự phòng để xử lý rủi ro đối với các khoản cho vay không có khả năng thu hồi trong các trường hợp sau:
+
+- Khách hàng là tổ chức bị giải thể, phá sản; cá nhân chết, mất tích;
+- Các khoản cho vay được phân loại nhóm 5.
+
+Tập đoàn theo dõi ngoại bằng các khoản cho vay đã sử dụng dự phòng để xử lý và ghi nhận vào báo cáo kết quả hoạt động khi thu hồi được.
+
+Phân loại nợ, trích lập dự phòng đối với khách hàng vay chịu ảnh hưởng bởi dịch Covid-19 và khách hàng gặp khó khăn:
+Các khoản cho vay khách hàng chịu ảnh hưởng bởi dịch Covid-19, gặp khó khăn trong hoạt động sản xuất kinh doanh và trả nợ vay phục vụ nhu cầu đời sống, tiêu dùng và gặp khó khăn do ảnh hưởng, thiệt hại của bão số 3 được phân loại nợ, trích lập dự phòng theo quy định tại Thông tư số 01/2020/TT-NHNN, Thông tư số 03/2021/TT-NHNN, Thông tư số 14/2021/TT-NHNN, Thông tư số 02/2023/TT-NHNN, Thông tư số 06/2024/TT-NHNN, Quyết định số 1510/QĐ-TTg và Thông tư số 53/2024/TT-NHNN do Thủ tướng Chính phủ và NHNN ban hành lần lượt ngày 13 tháng 3 năm 2020, ngày 2 tháng 4 năm 2021, ngày 7 tháng 9 năm 2021, ngày 23 tháng 4 năm 2023, ngày 18 tháng 6 năm 2024 và ngày 4 tháng 12 năm 2024.
+
+## Cho vay giao dịch ký quỹ:
+
+Dự phòng rủi ro tín dụng được trích lập khi có sự suy giảm về giá trị có thể thu hồi của các khoản cho vay giao dịch ký quỹ.
+Mức trích lập dự phòng được xác định khi giá trị tài sản đảm bảo thấp hơn giá trị khoản cho vay.
+
+## 7. Kinh doanh và đầu tư chứng khoán:
+
+(i) Chứng khoán kinh doanh:
+
+Chứng khoán kinh doanh là những chứng khoán nợ hoặc chứng khoán vốn được mua chủ yếu cho mục đích bán lại trong thời gian không quá một năm nhằm thu lợi ngắn hạn.
+Chứng khoán kinh doanh được ghi nhận theo giá vốn trừ dự phòng rủi ro. Dự phòng rủi ro được lập khi giá thị trường của chứng khoán thấp hơn giá trị sổ sách hoặc khi chứng khoán thuộc đối tượng phải trích dự phòng theo Thông tư 31 và Nghị định 86.
+Lãi hoặc lỗ từ kinh doanh chứng khoán được ghi nhận trên báo cáo kết quả hoạt động theo số thuần.
+Thu nhập lãi từ chứng khoán sau ngày mua được ghi nhận trên báo cáo kết quả hoạt động theo số thực thu.
+(ii) Chứng khoán đầu tư giữ đến ngày đáo hạn:
+
+Chứng khoán đầu tư giữ đến ngày đáo hạn là chứng khoán nợ với các khoản thanh toán cố định hoặc có thể xác định được và có ký đáo hạn cố định mà Tập đoàn có ý định và có khả năng nắm giữ đến ngày đáo hạn.
+Chứng khoán đầu tư giữ đến ngày đáo hạn được ghi nhận theo giá vốn trừ dự phòng rủi ro. Dự phòng rủi ro được lập dựa trên đánh giá khả năng thu hồi của các chứng khoán hoặc khi chứng khoán thuộc đối tượng phải trích dự phòng theo Thông tư 31 và Nghị định 86.
+
+--- TRANG 13 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUÝ III NĂM 2025 
+
+Giá trị phụ trội và chiết khẩu phát sinh từ việc mua chứng khoán được phân bổ vào báo cáo kết quả hoạt động theo phương pháp đường thẳng từ ngày mua chứng khoán đến ngày đáo hạn của chứng khoán.
+Thu nhập lãi từ chứng khoán sau ngày mua được ghi nhận trên báo cáo kết quả hoạt động trên cơ sở dồn tích.
+(iii) Chứng khoán đầu tư sã̃n sáng để bán:
+
+Chứng khoán đầu tư sẵn sáng để bán là những chứng khoán nợ hoặc chứng khoán vốn được mua và nắm giữ trong thời hạn không ấn định trước và có thể được bán ra vào bất cứ thời điểm nào.
+Chứng khoán đầu tư sẵn sáng để bán được ghi nhận theo giá vốn trừ dự phòng rủi ro. Dự phòng rủi ro được lập khi giá thị trường của chứng khoán thấp hơn giá trị sổ sách hoặc khi chứng khoán thuộc đối tượng phải trích dự phòng theo Thông tư 31 và Nghị định 86.
+Giá trị phụ trội và chiết khẩu phát sinh từ việc mua chứng khoán nợ được phân bổ vào báo cáo kết quả hoạt động theo phương pháp đường thẳng cho khoảng thời gian đầu tư chứng khoán.
+Thu nhập lãi từ chứng khoán sau ngày mua được ghi nhận trên báo cáo kết quả hoạt động trên cơ sở dồn tích.
+
+## 8. Tiền và các khoản tương đương tiền:
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt, vàng bạc, đá quý, tiền gửi thanh toán tại NHNN, tín phiếu Chính phủ và các giấy tờ có giá ngắn hạn khác đủ điều kiện tái chiết khẩu với NHNN, chứng khoán có thời hạn thu hồi hoặc đáo hạn không quá 3 tháng kể từ ngày mua, tiền gửi không kỳ hạn và có kỳ hạn tại các tổ chức tín dụng khác có thời hạn không quá 3 tháng kể từ ngày gửi.
+
+## 9. Các khoản dự phòng:
+
+Các khoản dự phòng được ghi nhận khi Tập đoàn có một nghĩa vụ hiện tại phát sinh từ các sự kiện đã qua; Có thể đưa đến sự giảm sút những lợi ích kinh tế cần thiết để thanh toán nghĩa vụ nợ; Giá trị của nghĩa vụ nợ đó được ước tính một cách đáng tin cậy. Dự phòng không được ghi nhận cho các khoản lỗ hoạt động trong tương lai.
+
+## 10. Thuế thu nhập doanh nghiệp và chi phí thuế thu nhập doanh nghiệp:
+
+Thuế thu nhập doanh nghiệp bao gồm thuế thu nhập hiện hành và thuế thu nhập hoãn lại. Thuế thu nhập doanh nghiệp được ghi nhận trong báo cáo kết quả hoạt động ngoại trừ trường hợp có các khoản thuế thu nhập liên quan đến các khoản mục được ghi nhận thẳng vào vốn chủ sở hữu, thì khi đó các khoản thuế thu nhập này cũng được ghi nhận thẳng vào vốn chủ sở hữu.
+Thuế thu nhập hiện hành là khoản thuế dự kiến phải nộp dựa trên thu nhập chịu thuế trong kỳ, sử dụng các mức thuế suất có hiệu lực tại ngày kết thúc kỳ kế toán, và các khoản điều chỉnh thuế phải nộp liên quan đến những kỳ trước.
+Thuế thu nhập hoãn lại được tính theo phương pháp báo cáo tình hình tài chính cho các chênh lệch tạm thời giữa giá trị ghi sổ cho mục đích báo cáo tài chính và giá trị sử dụng cho mục đích tính thuế của các khoản mục tài sản và nợ phải trả. Giá trị của thuế thu nhập hoãn lại được ghi nhận dựa trên cách thức dự kiến thu hồi hoặc thanh toán giá trị ghi sổ của các
+
+--- TRANG 14 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+khoản mục tài sản và nợ phải trả sử dụng các mức thuế suất có hiệu lực hoặc cơ bản có hiệu lực tại ngày kết thúc kỳ kế toán.
+Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận trong phạm vi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để tài sản thuế thu nhập này có thể sử dụng được. Tài sản thuế thu nhập hoãn lại được ghi giảm trong phạm vi không còn chắc chắn là các lợi ích về thuế liên quan này sẽ sử dụng được.
+
+## 11. Khoản vốn vay, phát hành giấy tờ có giá:
+
+Chi phí lãi vốn vay, trả lãi giấy tờ có giá do Tập đoàn phát hành được ghi nhận trên cơ sở dồn tích.
+
+## 12. Vốn chủ sở hữu:
+
+Các chi phí phát sinh hoặc thặng dư vốn cổ phần liên quan đến việc phát hành cổ phiếu được ghi giảm hoặc tăng vào vốn chủ sở hữu.
+Cổ tức trả cho cổ phiếu phổ thông được ghi nhận như khoản phải trả trong báo cáo tài chính khi việc chia cổ tức của Ngân hàng được phê duyệt theo quy định trong Điều lệ của Ngân hàng.
+Khi Ngân hàng mua lại cổ phiếu đã phát hành của chính Ngân hàng, sổ cổ phiếu mua lại này sẽ được hủy bỏ và Ngân hàng thực hiện điều chỉnh giảm vốn điều lệ, ngoại trừ một số trường hợp theo quy định. Chênh lệch giữa mệnh giá của cổ phiếu mua lại và giá trị khoản thanh toán bao gồm các chi phí liên quan trực tiếp, trừ đi thuế, được ghi nhận vào thặng dư vốn cổ phần.
+Các quỹ thuộc vốn chủ sở hữu được trích lập từ lợi nhuận sau thuế như sau:
+
+- Quỹ dự trữ bổ sung vốn điều lệ của Ngân hàng được trích 10\% từ lợi nhuận sau thuế và được trích đến khi quỹ này bằng với vốn điều lệ. Quỹ dự trữ bổ sung vốn điều lệ được dùng để bổ sung vốn điều lệ của Ngân hàng;
+- Quỹ dự phòng tài chính của Ngân hàng được trích 10\% từ lợi nhuận sau thuế. Quỹ dự phòng tài chính dùng để bù đắp phần còn lại của những tổn thất, thiệt hại về tài sản xảy ra trong quá trình kinh doanh sau khi đã được bù đắp bằng tiền bồi thường của các tổ chức, cá nhân gây ra tổn thất, của tổ chức bảo hiểm và sử dụng dự phòng trích lập trong chi phí và sử dụng cho các mục đích khác theo quy định của pháp luật;
+- Các quỹ khác của các công ty con được trích lập theo quy định đối với từng loại hình công ty.
+
+--- TRANG 15 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025
+
+## V. THÔNG TIN BỎ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO TÌNH HÌNH TÀI CHÍNH
+
+## 1. TIÊN GỬI VÀ CHO VAY CÁC TÔ CHỨC TÍN DỤNG KHÁC:
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Tiền gửi tại các TCTD khác |  |   |
+|  Tiền gửi không kỳ hạn | 26.591 .453 | 21.411 .418  |
+|  - Bằng đồng Việt Nam | 16.692 .691 | 323.755  |
+|  - Bằng ngoại tệ | 9.898 .762 | 21.087 .663  |
+|  Tiền gửi có kỳ hạn | 78.334 .495 | 96.369 .862  |
+|  - Bằng đồng Việt Nam | 76.700 .919 | 91.589 .774  |
+|  - Bằng ngoại tệ | 1.633 .576 | 4.780 .088  |
+|  - Dự phòng rủi ro | - | -  |
+|   | 104.925 .948 | 117.781 .280  |
+|  Cho vay các TCTD khác |  |   |
+|  - Bằng đồng Việt Nam | - | 150.979  |
+|  - Bằng ngoại tệ | - | -  |
+|  - Dự phòng rủi ro cho vay các TCTD khác | - | $(50.000)$  |
+|   | - | 100.979  |
+|  Tổng tiền gửi và cho vay các TCTD khác | 104.925 .948 | 117.882 .259  |
+
+## 2. CHỨNG KHOÁN KINH DOANH:
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Chứng khoán nợ | 2.830 .764 | 841.743  |
+|  Chứng khoán Chính phủ | 2.060 .468 | 841.743  |
+|  Chứng khoán do các TCTD khác trong nước phát hành | 500.000 | -  |
+|  Chứng khoán do các tổ chức kinh tế ("TCKT") trong |  |   |
+|  nước phát hành | 270.296 | -  |
+|  Chứng khoán vốn | 3.241 .875 | 3.187 .345  |
+|  Chứng khoán vốn do các TCTD khác trong nước |  |   |
+|  phát hành | 1.036 .970 | 1.330 .831  |
+|  Chứng khoán vốn do các TCKT trong nước phát hành | 2.204 .905 | 1.856 .514  |
+|  Dự phòng rủi ro chứng khoán kinh doanh | (154.153) | (147.937)  |
+|   | 5.918 .486 | 3.881 .151  |
+
+--- TRANG 16 ---
+# **3. CÁC CÔNG CỤ TÀI CHÍNH PHÁI SINH VÀ CÁC TÀI SẢN TÀI CHÍNH/ NỢ TÀI CHÍNH KHÁC:**
+
+|  Ngày 30 tháng 9 năm 2025 | Tổng giá trị của hợp đồng (theo tỉ giá ngày hiệu lực hợp đồng) | Tổng giá trị ghi sổ kế toán (theo tỉ giá tại ngày lập báo cáo)  |
+| --- | --- | --- |
+|  T算机 | Tài sản | Công nợ  |
+|  T算机 | Tài sản | Tỉnh đồng  |
+|  T算机 | Tỉnh đồng | Tỉnh đồng  |
+
+## Công cụ tài chính phải sinh tiền tệ
+
+|  - Giao dịch kỳ hạn tiền tệ | 6.490.924 | - | 7.892  |
+| --- | --- | --- | --- |
+|  - Giao dịch hoàn đổi tiền tệ | 89.952.799 | - | 40.276  |
+
+## Công cụ tài chính phải sinh khác
+
+|  - Giao dịch hoàn đổi lãi suất | 3.104.003 | - | 75.500  |
+| --- | --- | --- | --- |
+|  |   |   |   |
+
+|  Ngày 31 tháng 12 năm 2024 | Tổng giá trị của hợp đồng (theo tỉ giá ngày hiệu lực hợp đồng) | Tổng giá trị ghi sổ kế toán (theo tỉ giá tại ngày lập báo cáo)  |
+| --- | --- | --- |
+|  T算机 | Tài sản | Công nợ  |
+|  T算机 | Tỉnh đồng | Tỉnh đồng  |
+
+## Công cụ tài chính phải sinh tiền tệ
+
+|  - Giao dịch kỳ hạn tiền tệ | 2.853.216 | 12.995 | -  |
+| --- | --- | --- | --- |
+|  - Giao dịch hoàn đổi tiền tệ | 95.715.115 | 203.660 | -  |
+
+## Công cụ tài chính phải sinh khác
+
+|  - Giao dịch hoàn đổi lãi suất | 8.086.677 | - | 160.663  |
+| --- | --- | --- | --- |
+|  |   |   |   |
+
+## 4. CHO VAY KHÁCH HÀNG:
+
+|  Tài sản | T算机 | Tỉnh đồng  |
+| --- | --- | --- |
+|  30.9.2025 | 31.12.2024 |   |
+|  T算机 | Tỉnh đồng | Tỉnh đồng  |
+
+Cho vay các tổ chức kinh tế, cá nhân trong nước: - 666.239.636: 577.680.454
+
+Cho vay chiêtt khẩu công cụ chuyển nhượng và các giấy tờ có giá: - 382.462: 269.420
+
+Cho thuê tài chính: - 2.406.844: 2.261.865
+
+Các khoản trả thai khách hàng: - 159.183: 474.509
+
+Cho vay bằng vốn tài trợ, ủy thác đầu tư: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+--- TRANG 17 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+Phân tích chất lượng nợ cho vay (*)
+
+|  | 30.9.2025 | 31.12.2024 |
+| :--: | :--: | :--: |
+|  | Triệu đồng | Triệu đồng |
+| Nợ đủ tiêu chuẩn | 642.447 .762 | 560.567 .462 |
+| Nợ cần chú ý | 3.147 .736 | 2.779 .393 |
+| Nợ dưới tiêu chuẩn | 766.507 | 923.291 |
+| Nợ nghi ngờ | 1.071 .516 | 978.211 |
+| Nợ có khả năng mất vốn | 5.488 .252 | 6.748 .132 |
+|  | 652.921 .773 | 571.996 .489 |
+
+(*) Không bao gồm 16.266.352 triệu đồng (31.12.2024: 8.689.759 triệu đồng) cho vay giao dịch ký quỹ của Công ty TNHH Chứng khoán ACB.
+
+Phân tích dư nợ theo thời gian
+
+|  | 30.9.2025 | 31.12.2024 |
+| :--: | :--: | :--: |
+|  | Triệu đồng | Triệu đồng |
+| Cho vay ngắn hạn | 442.717 .468 | 391.723 .409 |
+| Cho vay trung hạn | 20.139 .766 | 17.286 .255 |
+| Cho vay dài hạn | 206.330 .891 | 171.676 .584 |
+|  | 669.188 .125 | 580.686 .248 |
+
+## 5. DỰ PHÒNG RỦI RO CHO VAY KHÁCH HÀNG:
+
+|  | Dự phòng chung | Dự phòng cụ thể | Dự phòng rủi ro cho vay giao dịch ký quỹ |
+| :--: | :--: | :--: | :--: |
+|  | Triệu đồng | Triệu đồng | Triệu đồng |
+| Tại ngày 1 tháng 1 năm 2025 | 4.239 .076 | 2.383 .004 | 117.476 |
+| Trích lập trong kỳ/(Hoàn nhập trong kỳ) | 616.674 | 753.780 | - |
+| Sử dụng trong kỳ | - | (1.954.302) | - |
+| Tại ngày 30 tháng 9 năm 2025 | 4.855 .750 | 1.182 .482 | 117.476 |
+| Tại ngày 1 tháng 1 năm 2024 | 3.592 .322 | 1.657 .154 | 117.476 |
+| Trích lập trong kỳ/(Hoàn nhập trong kỳ) | 646.754 | 958.730 | - |
+| Sử dụng trong kỳ | - | (232.880) | - |
+| Tại ngày 31 tháng 12 năm 2024 | 4.239 .076 | 2.383 .004 | 117.476 |
+
+--- TRANG 18 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## 6. CHỨNG KHOÁN ĐẦU TU':
+
+Chứng khoán đầu tư sẵn sàng để bán:
+
+Chứng khoán Nơ
+
+- Chứng khoán Chính phủ
+- Chứng khoán nợ do các TCTD khác trong nước phát hành
+- Chứng khoán nợ do các TCKT trong nước phát hành
+
+Chứng khoán Vốn
+
+- Chứng khoán vốn do các TCTD khác trong nước phát hành
+- Chứng khoán vốn do các TCKT trong nước phát hành
+- Chứng khoán vốn nước ngoài
+
+Dự phòng rủi ro chứng khoán sẵn sàng để bán
+
+- Dự phòng giảm giá
+- Dự phòng chung
+- Dự phòng cụ thể
+
+Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt dọ VAMC phát hành):
+
+Chứng khoán Chính phủ
+Chứng khoán nợ do các TCTD khác trong nước phát hành
+Chứng khoán nợ do các TCKT trong nước phát hành
+Dự phòng rủi ro chứng khoán giữ đến ngày đáo hạn
+
+- Dự phòng giảm giá
+- Dự phòng chung
+- Dự phòng cụ thể
+
+Chứng khoán đầu tư giữ đến ngày đáo hạn (không bao gồm trái phiếu đặc biệt dọ VAMC phát hành):
+
+| 30.9 .2025 | 31.12 .2024 |
+| :--: | :--: |
+| Triệu đồng | Triệu đồng |
+| 10.906 .193 | 11.171 .766 |
+| 1.000 .000 | 1.000 .000 |
+| - | - |
+| - | - |
+| - | - |
+| - | - |
+| 11.906 .193 | 12.171 .766 |
+
+## 7. GÓP VÓN, ĐẦU TƯ DÀI HẠN:
+
+Phân tích giá trị đầu tư theo loại hình đầu tư
+
+| 30.9 .2025 | 31.12 .2024 |
+| :--: | :--: |
+| Triệu đồng | Triệu đồng |
+| 292.867 | 292.867 |
+| (166.093) | (167.932) |
+| 126.774 | 124.935 |
+
+--- TRANG 19 ---
+# **8. CÁC KHOÁN NỢ CHÍNH PHỦ VÀ NGÂN HÀNG NHÀ NƯỚC:**
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Vay Ngân hàng Nhà nước | 20.623.391 | 7.948.357  |
+|  Tiền gửi của Kho bạc Nhà nước | 68.178 | 6.496  |
+|  Giao dịch bán và mua lại trái phiếu Chính phủ với Kho bạc Nhà nước | - | -  |
+|  **TOTAL** | **20.691.569** | **7.954.853**  |
+
+# **9. TIỀN GỬI VÀ VAY CÁC TỔ CHỨC TÍN DỤNG KHÁC:**
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  **Tiền gửi của các TCTD khác** |  |   |
+|  Tiền gửi không ký hạn | 102.849 | 95.802  |
+|  - Bằng đồng Việt Nam | 97.691 | 91.762  |
+|  - Bằng ngoại tệ | 5.158 | 4.040  |
+|  Tiền gửi có ký hạn | 94.206.603 | 91.478.160  |
+|  - Bằng đồng Việt Nam | 84.931.687 | 83.772.073  |
+|  - Bằng ngoại tệ | 9.274.916 | 7.706.087  |
+|  **Tiền gửi của TCTD khác** | 94.309.452 | 91.573.962  |
+|  Bằng đồng Việt Nam | 34.454.381 | 19.628.456  |
+|  **Trong đó:** |  |   |
+|  - Vay chiết khấu, tái chiết khấu | 10.201.518 | 2.980.778  |
+|  - Vay cầm cố, thể chấp | 14.201.940 | 12.278.400  |
+|  Bằng ngoại tệ | 412.256 | 389.250  |
+|  **Trong đó:** |  |   |
+|  - Vay chiết khấu, tái chiết khấu | - | -  |
+|  - Vay cầm cố, thể chấp | - | -  |
+|  **Tiền gửi của TCTD khác** | 34.866.637 | 20.017.706  |
+|  **Tổng tiền gửi và vay các TCTD khác** | 129.176.089 | 111.591.668  |
+
+--- TRANG 20 ---
+# **10. TIÊN GỬI CỦA KHÁCH HÀNG:**
+
+|   | Ngày 30 tháng 9 năm 2025 |  |   |
+| --- | --- | --- | --- |
+|   | Bằng tiền đồng | Bằng ngoại tệ | Tổng cộng  |
+|   | Triệu đồng | Triệu đồng | Triệu đồng  |
+|  Tiền gửi không ký hạn | 110.470.748 | 12.229.259 | 122.700.007  |
+|  Tiền gửi có ký hạn | 154.094.493 | 237.252 | 154.331.745  |
+|  Tiền gửi tiết kiệm không ký hạn | 203.456 | 4.736.549 | 4.940.005  |
+|  Tiền gửi tiết kiệm có ký hạn | 285.009.638 | 1.164.312 | 286.173.950  |
+|  Tiền gửi ký quỹ | 2.349.580 | 189.044 | 2.538.624  |
+|  Tiền gửi vốn chuyên dùng | 111.502 | 233.120 | 344.622  |
+|   | 552.239.417 | 18.789.536 | 571.028.953  |
+
+|   | Ngày 31 tháng 12 năm 2024 |  |   |
+| --- | --- | --- | --- |
+|   | Bằng tiền đồng | Bằng ngoại tệ | Tổng cộng  |
+|   | Triệu đồng | Triệu đồng | Triệu đồng  |
+|  Tiền gửi không ký hạn | 109.736.496 | 8.447.796 | 118.184.292  |
+|  Tiền gửi có ký hạn | 124.889.644 | 341.510 | 125.231.154  |
+|  Tiền gửi tiết kiệm không ký hạn | 519.602 | 3.959.500 | 4.479.102  |
+|  Tiền gửi tiết kiệm có ký hạn | 285.702.885 | 934.162 | 286.637.047  |
+|  Tiền gửi ký quỹ | 2.325.735 | 130.680 | 2.456.415  |
+|  Tiền gửi vốn chuyên dùng | 105.727 | 210.841 | 316.568  |
+|   | 523.280.089 | 14.024.489 | 537.304.578  |
+
+# **11. PHÁT HÀNH GIÁY TỜ CÓ GIÁ:**
+
+|   | Ngày 30 tháng 9 năm 2025 |   |
+| --- | --- | --- |
+|   | Giá trị ghi sổ | Mệnh giá  |
+|   | Triệu đồng | Triệu đồng  |
+|  Trái phiếu | 54.053.563 | 54.070.000  |
+|  Ký hạn từ 1 năm đến 2 năm | 43.248.971 | 43.250.000  |
+|  Ký hạn 3 năm | 4.069.753 | 4.070.000  |
+|  Ký hạn 5 năm | 4.315.464 | 4.320.000  |
+|  Ký hạn 10 năm | 2.419.375 | 2.430.000  |
+|  Chứng chỉ tiền gửi | 59.333.508 | 59.333.508  |
+|  Ký hạn dưới 1 năm | 56.433.508 | 56.433.508  |
+|  Ký hạn từ 1 năm đến 2 năm | 900.000 | 900.000  |
+|  Ký hạn 5 năm | 2.000.000 | 2.000.000  |
+|   | 113.387.071 | 113.403.508  |
+
+--- TRANG 21 ---
+# **HGÂN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU**
+
+# **Mẫu B05a/TCTD-HN**
+
+# **THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUỶ III NĂM 2025**
+
+|   | Ngày 31 tháng 12 năm 2024 |   |
+| --- | --- | --- |
+|   | Giá trị ghi sổ | Mệnh giá  |
+|   | Triệu đồng | Triệu đồng  |
+|  Trái phiếu | 45.700.446 | 45.720.000  |
+|  Kỷ hạn từ 1 năm đến 2 năm | 37.399.160 | 37.400.000  |
+|  Kỷ hạn 3 năm | 2.069.789 | 2.070.000  |
+|  Kỷ hạn 5 năm | 3.814.587 | 3.820.000  |
+|  Kỷ hạn 10 năm | 2.416.910 | 2.430.000  |
+|  Chứng chỉ tiền gửi | 55.950.000 | 55.950.000  |
+|  Kỷ hạn dưới 1 năm | 55.950.000 | 55.950.000  |
+|   | 101.650.446 | 101.670.000  |
+
+# **12. CÁC KHOẢN NỢ KHÁC:**
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Các khoản phải trả nội bộ | 1.407.052 | 1.280.584  |
+|  Các khoản phải trả bên ngoài | 13.223.175 | 12.170.561  |
+|  Thu nhập chưa thực hiện | 5.809.230 | 6.235.417  |
+|  Quỹ khen thưởng phúc lợi | 911.417 | 847.298  |
+|  Quỹ phát triển khoa học và công nghệ | 1.352.996 | 1.480.612  |
+|  Dự phóng rủi ro khác | - | -  |
+|   | 22.703.870 | 22.014.472  |
+
+# **13. TÍNH HÌNH THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC VÀ THUẾ THU NHẬP HOẢN LẠI:**
+
+# **Tính hình thức hiện nghĩa vụ với Ngân sách Nhà nước:**
+
+|   | Phát sinh trong kỳ |  |  |   |
+| --- | --- | --- | --- | --- |
+|   | 1.1.2025 | Sổ phải nộp | Sổ đã nộp | 30.9.2025  |
+|   | Triệu đồng | Triệu đồng | Triệu đồng | Triệu đồng  |
+|  Thuế giá trị gia tăng | 53.192 | 335.562 | 359.078 | 29.676  |
+|  Thuế thu nhập doanh nghiệp | 2.385.237 | 3.250.753 | 4.315.845 | 1.320.145  |
+|  Thuế nhà – đất | - | - | - | -  |
+|  Các loại thuế khác | 144.446 | 763.265 | 824.784 | 82.927  |
+|  Tổng cộng | 2.582.875 | 4.349.580 | 5.499.707 | 1.432.748  |
+
+--- TRANG 22 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025
+
+|  Thuế thu nhập hoãn lại: | $\underline{30.9 .2025}$ | $\underline{31.12 .2024}$  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Tài sản thuế thu nhập hoãn lại liên quan đến khoản |  |   |
+|  chênh lệch tạm thời được khấu trừ | 51.199 | 50.912  |
+|  Khoản hoàn nhập tài sản thuế thu nhập hoãn lại đã |  |   |
+|  được ghi nhận từ các kỳ trước | (14.863) | (33.594)  |
+|  Tài sản thuế thu nhập hoãn lại | 36.336 | 17.318  |
+
+## 14. VÔN CHỦ SỞ HỮU:
+
+## Cố phiếu
+
+|   | $\underline{30.9 .2025}$ | $\underline{31.12 .2024}$  |
+| --- | --- | --- |
+|  Số lượng cổ phiếu đãng ký phát hành | 5.136 .656 .599 | 4.466 .657 .912  |
+|  Số lượng cổ phiếu đã bán ra công chúng |  |   |
+|  + Cổ phiếu phổ thông | 5.136 .656 .599 | 4.466 .657 .912  |
+|  + Cổ phiếu ưu đãi | - | -  |
+|  Số lượng cổ phiếu đang lưu hành |  |   |
+|  + Cổ phiếu phổ thông | 5.136 .656 .599 | 4.466 .657 .912  |
+|  + Cổ phiếu ưu đãi | - | -  |
+
+- Mệnh giá cổ phiếu đang lưu hành là 10.000 VND/cổ phiếu.
+
+Tính hình thay đổi vốn chủ sở hữu Đơn vị: Triệu đồng
+
+|  Vốn chủ sở hữu | Sổ dự
+1.1.2025 | Tăng
+trong kỳ | Giảm
+trong kỳ | Sổ dự
+30.9.2025  |
+| --- | --- | --- | --- | --- |
+|  Vốn điều lệ | 44.666 .579 | 6.699 .987 | - | 51.366 .566  |
+|  Thặng dự vốn cổ phần | 271.779 | - | - | 271.779  |
+|  Quỹ dự phòng tài chính | 9.268 .852 | - | - | 9.268 .852  |
+|  Quỹ dự trữ bổ sung vốn điều lệ | 5.067 .603 | - | - | 5.067 .603  |
+|  Quỹ khác (*) | 453.113 | - | - | 453.113  |
+|  Chênh lệch tỷ giá hối đoái | - | - | $(319.534)$ | $(319.534)$  |
+|  Lợi nhuận chưa phân phối | 23.733 .752 | 12.840 .014 | $(11.266 .645)$ | 25.307 .121  |
+|  Tổng | $\mathbf{8 3 . 4 6 1 . 6 7 8}$ | $\mathbf{1 9 . 5 4 0 . 0 0 1}$ | $\mathbf{( 1 1 . 5 8 6 . 1 7 9 )}$ | $\mathbf{9 1 . 4 1 5 . 5 0 0}$  |
+
+(*) Tại ngày 30 tháng 9 năm 2025, Quỹ khác bao gồm:
+
+- Quỹ dự trữ bổ sung vốn điều lệ của các công ty con: 195.269 triệu đồng;
+- Quỹ dự phòng tài chính của các công ty con: 257.723 triệu đồng;
+- Quỹ khác của Ngân hàng: 121 triệu đồng.
+
+--- TRANG 23 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## VI. THÔNG TIN BÓ SUNG CHO CÁC KHOẢN MỤC TRÌNH BÀY TRONG BÁO CÁO KÉT QUÁ HOẠT ĐỘNG
+
+## 1. THU NHẠP LÃI VÀ CÁC KHOÁN THU NHẠP TƯƠNG TỰ:
+
+|  | Đền | Đền |
+| :--: | :--: | :--: |
+|  | 30.9.2025 | 30.9.2024 |
+|  | Triệu đồng | Triệu đồng |
+| Thu lãi tiền gửi | 3.541 .461 | 2.886 .177 |
+| Thu lãi cho vay | 33.957 .821 | 31.433 .655 |
+| Thu lãi từ kinh doanh, đầu tư chứng khoán nợ: | 4.045 .751 | 2.117 .658 |
+| - Thu lãi từ chứng khoán kinh doanh | 5.950 | 19.750 |
+| - Thu lãi từ chứng khoán đầu tư | 4.039 .801 | 2.097 .908 |
+| Thu phí từ nghiệp vụ bảo lãnh | 288.944 | 197.133 |
+| Thu lãi cho thuê tài chính | 160.024 | 136.366 |
+| Thu khác từ hoạt động tín dụng | 681.404 | 613.384 |
+|  | 42.675 .405 | 37.384 .373 |
+
+## 2. CHI PHÍ LÃI VÀ CÁC CHI PHÍ TƯƠNG TỰ:
+
+|  | Đền | Đền |
+| :--: | :--: | :--: |
+|  | 30.9.2025 | 30.9.2024 |
+|  | Triệu đồng | Triệu đồng |
+| Trả lãi tiền gửi | 16.812 .015 | 13.736 .697 |
+| Trả lãi tiền vay | 1.299 .812 | 383.770 |
+| Trả lãi phát hành giấy tờ có giá | 4.170 .833 | 2.517 .996 |
+| Chi phí hoạt động tín dụng khác | 580.322 | 31.499 |
+|  | 22.862 .982 | 16.669 .962 |
+
+## 3. LÃI/(LÔ) THUÂN TỪ MUA BÁN CHỨNG KHOÁN KINH DOANH:
+
+|  | Đền | Đền |
+| :--: | :--: | :--: |
+|  | 30.9.2025 | 30.9.2024 |
+|  | Triệu đồng | Triệu đồng |
+| Thu nhập từ mua bán chứng khoán kinh doanh | 577.403 | 353.111 |
+| Chi phí về mua bán chứng khoán kinh doanh | (143.432) | (179.503) |
+| Hoàn nhập/(Trích lập) dự phòng rủi ro chứng khoán kinh doanh | (6.216) | 52.839 |
+|  | 427.755 | 226.447 |
+
+--- TRANG 24 ---
+# **THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUỶ III NĂM 2025**
+
+## **4. LÃI/(LỜ) THUẦN TỪ MUA BÁN CHỨNG KHOÁN ĐẦU TƯ:**
+
+|   | Đến | Đến  |
+| --- | --- | --- |
+|   | 30.9.2025 | 30.9.2024  |
+|   | Triệu đồng | Triệu đồng  |
+|  Thu nhập từ mua bán chứng khoán đầu tư | 449.484 | 249.867  |
+|  Chi phí về mua bán chứng khoán đầu tư | (4.918) | (5.341)  |
+|  Hoàn nhập/(Trích lập) dự phòng rủi ro chứng khoán đầu tư | - | (7.264)  |
+|   | 444.566 | 237.262  |
+
+## **5. THU NHẬP TỪ GÓP VỚN, MUA CÓ PHÂN:**
+
+|   | Đến | Đến  |
+| --- | --- | --- |
+|   | 30.9.2025 | 30.9.2024  |
+|   | Triệu đồng | Triệu đồng  |
+|  Từ chứng khoán vốn kinh doanh | 41.547 | 18.976  |
+|  Từ chứng khoán vốn đầu tư | 3.937 | -  |
+|  Từ góp vốn, đầu tư dài hạn | 34.550 | 11.775  |
+|   | 80.034 | 30.751  |
+
+## **6. CHI PHÍ HOẠT ĐỘNG:**
+
+|   | Đến | Đến  |
+| --- | --- | --- |
+|   | 30.9.2025 | 30.9.2024  |
+|   | Triệu đồng | Triệu đồng  |
+|  Chi nộp thuế và các khoản phí, lệ phí | 13.616 | 13.298  |
+|  Chi phí cho nhân viên: | 4.876.036 | 4.915.972  |
+|  - Chi lương và phụ cấp | 1.858.387 | 1.788.183  |
+|  - Các khoản chi đóng góp theo lương | 374.931 | 366.629  |
+|  - Chi trợ cấp | 12.237 | 7.255  |
+|  - Chi khác | 2.630.481 | 2.753.905  |
+|  Chi về tài sản: | 1.218.052 | 1.229.957  |
+|  Trong đó: khấu hao tài sản cố định | 317.892 | 330.502  |
+|  Chi cho hoạt động quản lý công vụ: | 1.550.994 | 1.578.231  |
+|  Trong đó: - Công tác phí | 25.511 | 24.327  |
+|  - Chi về các hoạt động đoàn thể của TCTD | 1.829 | 2.354  |
+|  Chi nộp phí bảo hiểm, bảo toàn tiền gửi của khách hàng | 481.763 | 423.430  |
+|  Chi dự phòng giảm giá đầu tư dài hạn và rủi ro tài sản khác | 1.524 | 2.365  |
+|   | 8.141.985 | 8.163.253  |
+
+--- TRANG 25 ---
+# **THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUỶ III NĂM 2025**
+
+## **VII. CÁC THÔNG TIN KHÁC**
+
+### **1. TÍNH HÍNH THU NHẬP CỦA NHÂN VIÊN:**
+
+|   | Đến | Đến  |
+| --- | --- | --- |
+|   | 30.9.2025 | 30.9.2024  |
+|   | Triệu đồng | Triệu đồng  |
+|  Số lượng nhân viên bình quân (người) | 13.253 | 13.503  |
+|  Thu nhập của nhân viên |  |   |
+|  Tổng quỹ lương | 1.703.802 | 1.707.890  |
+|  Thu nhập khác | 2.779.290 | 2.894.712  |
+|  Tổng thu nhập | 4.483.092 | 4.602.602  |
+|  Tiền lương bình quân | 129 | 126  |
+|  Thu nhập bình quân | 338 | 341  |
+
+### **2. NGHĨA VỤ NỢ TIÊM ÂN VÀ CÁC CAM KẾT ĐƯA RA:**
+
+|   | 30.9.2025 | 31.12.2024  |
+| --- | --- | --- |
+|   | Triệu đồng | Triệu đồng  |
+|  Báo lãnh vay vốn | 88.338 | 54.784  |
+|  Cam kết giao dịch hồi đoái | 195.557.974 | 195.824.188  |
+|  Cam kết trong nghiệp vụ L/C | 5.405.302 | 3.311.773  |
+|  Thư tín dụng trả ngay | 2.833.987 | 1.999.681  |
+|  Thư tín dụng trả chậm | 2.934.093 | 1.519.333  |
+|  Trừ: tiền ký quỹ | (362.778) | (207.241)  |
+|  Báo lãnh khác | 17.090.091 | 14.262.824  |
+|  Báo lãnh thanh toán | 4.635.033 | 3.815.908  |
+|  Báo lãnh thực hiện hợp đồng | 3.267.535 | 2.867.362  |
+|  Báo lãnh dự thầu | 673.633 | 895.491  |
+|  Báo lãnh khác | 9.677.025 | 7.752.095  |
+|  Trừ: tiền ký quỹ | (1.163.135) | (1.068.032)  |
+|  Các cam kết khác | 28.703.779 | 28.349.409  |
+|   | 246.845.484 | 241.802.978  |
+
+--- TRANG 26 ---
+# THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## 3. GIAO DỊCH VỚI CÁC BÊN LIÊN QUAN:
+
+|  | 30.9.2025 | 31.12.2024 |
+| :--: | :--: | :--: |
+| Triệu đồng | Triệu đồng |  |
+| Tiền gửi của các bên liên quan khác | 1.358 .725 | 781.589 |
+| Vay từ các bên liên quan khác | - | - |
+| Cho các bên liên quan khác vay | 433.700 | 365.541 |
+| Lãi dự thu từ các khoản cho vay các bên liên quan khác | 3.615 | 2.776 |
+| Lãi dự chi cho tiền gửi của các bên liên quan khác | 27.076 | 8.464 |
+| Lãi dự chi cho khoản vay từ các bên liên quan khác | - | - |
+
+## 4. MỨC ĐỘ TẬP TRUNG CỦA TÀI SÁN, CÔNG NỢ VÀ CÁC KHOẢN MỤC NGOẠI BẢNG THEO KHU VỰC ĐỊA LÝ:
+
+Đơn vị: Triệu đồng
+
+| Ngày <br> 30.9.2025 | Tổng dư nợ cho vay (*) | Tổng tiền gửi và tiền vay (**) | Các cam kết tín dụng | Công cụ tài chính phái sinh | Kinh doanh và đầu tư chứng khoán |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Trong nước | 669.188 .125 | 699.792 .524 | 33.139 .767 | 99.521 .922 | 139.767 .734 |
+| Nước ngoài | - | 412.518 | 5.912 .810 | 25.804 | 64.481 |
+
+(*) Tổng dư nợ cho vay bao gồm dư nợ cho vay khách hàng và dư nợ cho vay tở chức tín dụng khác.
+(**)Tổng tiền gửi và tiền vay bao gồm sổ dư tiền gửi của khách hàng và sổ dư tiền gửi và tiền vay các tở chức tín dụng khác.
+
+--- TRANG 27 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHẤT QUÝ III NĂM 2025 
+
+## VIII. QUẢN LÝ RỦI RO TÀI CHÍNH
+
+Tập đoàn thực hiện quản lý rủi ro trên cơ sở thiết lập khung quản lý rủi ro tổng thể và triển khai các cấu phần phù hợp với quy định của pháp luật, chiến lược kinh doanh theo từng giai đoạn. Các nguyên tắc quản lý rủi ro và khẩu vị rủi ro ban hành bởi Hội đồng quản trị được xây dựng trên cơ sở đánh giá rủi ro trọng yếu và mức độ chấp nhận từng rủi ro trọng yếu. Tại cấp Ban điều hành, công tác quản lý rủi ro được triển khai thành các quy trình, quy định, hạn mức nhằm đảm bảo mọi hoạt động tại các đơn vị kinh doanh, nghiệp vụ hoạt động theo các nguyên tắc và khẩu vị rủi ro đã được ban hành.
+
+Thông qua hệ thống kiểm soát nội bộ theo mô hình ba tuyến bảo vệ độc lập và quy trình quản lý rủi ro đầy đủ các bước (nhận dạng, đo lường, theo dõi và kiểm soát rủi ro), hoạt động quản lý rủi ro được triển khai bởi tất cả các đơn vị và cá nhân trong Tập đoàn nhằm kiểm soát, phòng ngừa, phát hiện, xử lý kịp thời rủi ro và đạt được mục tiêu đã được Hội đồng quản trị đề ra.
+
+Việc thực hiện, theo dõi, đánh giá các công tác quản lý rủi ro và cập nhật các quy định nội bộ được thực hiện định kỳ hoặc khi có thay đổi từ môi trường kinh doanh, yêu cầu từ Ngân hàng Nhà nước hoặc chiến lược kinh doanh của Tập đoàn.
+
+Trong danh mục rủi ro trọng yếu, các loại rủi ro tài chính quan trọng tác động đến danh mục các công cụ tài chính của Tập đoàn bao gồm rủi ro tín dụng, rủi ro thị trường và rủi ro thanh khoản.
+
+## 1. Rủi ro thị trường:
+
+--- TRANG 28 ---
+NGẤN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025
+
+1.1 Rủi ro lãi suất
+
+|  Tại ngày 30 tháng 9 năm 2025 | Quả hạn | Không chịu lãi suất | Dưới 1 tháng | Từ 1 tháng đến 3 tháng | Trên 3 tháng đến 6 tháng | Trên 6 tháng đến 12 tháng | Trên 1 năm đến 5 năm | Đơn vị: Triệu đồng Trên 5 năm Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Tài sản |  |  |  |  |  |  |  |   |
+|  Tiền mặt, vàng bạc, đá quý | - | 6.785.568 | - | - | - | - | - | 6.785.568  |
+|  Tiền gửi tại Ngân hàng Nhà nước | - | 13.315.775 | 1.881.692 | - | - | - | - | 15.197.467  |
+|  Tiền gửi và cho vay các TCTD khác (*) | - | - | 70.257.629 | 21.516.300 | 2.345.163 | 8.762.208 | 2.044.648 | 104.925.948  |
+|  Chứng khoán kinh doanh (*) | - | 6.072.639 | - | - | - | - | - | 6.072.639  |
+|  Cho vay khách hàng (*) | 13.626.864 | - | 26.747.665 | 591.952.431 | 29.250.628 | 6.945.024 | 317.279 | 348.234  |
+|  Chứng khoán đầu tư (*) | - | 64.481 | - | - | 2.500.000 | 55.406.280 | 29.000.000 | 46.788.815  |
+|  Góp vốn, đầu tư dài hạn (*) | - | 292.867 | - | - | - | - | - | 292.867  |
+|  Tài sản cố định và bất động sản đầu tư | - | 5.504.248 | - | - | - | - | - | 5.504.248  |
+|  Tài sản có khác (*) | 180.760 | 13.269.624 | 37.700 | - | - | - | - | 13.488.084  |
+|  Tổng tài sản | 13.807.624 | 45.305.202 | 98.924.686 | 613.468.731 | 34.095.791 | 71.113.512 | 31.361.927 | 47.137.049  |
+|  Nợ phải trả |  |  |  |  |  |  |  |   |
+|  Các khoản nợ Chính phủ và NHNN | - | - | 5.322.895 | 15.368.674 | - | - | - | 20.691.569  |
+|  Tiền gửi và vay các TCTD khác | - | - | 62.554.052 | 54.009.607 | 11.389.494 | 1.222.936 | - | 129.176.089  |
+|  Tiền gửi của khách hàng | - | - | 132.182.120 | 176.517.813 | 134.610.961 | 92.673.188 | 35.044.871 | 571.028.953  |
+|  Các công cụ tài chính phải sinh và các khoản nợ tài chính khác | - | 123.668 | - | - | - | - | - | 123.668  |
+|  Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro | - | - | - | 10.050 | - | - | - | 12.406  |
+|  Phát hành giấy tờ có giá | - | - | - | 4.999.864 | 1.000.000 | 55.933.466 | 49.034.366 | 2.419.375  |
+|  Các khoản nợ khác | - | 22.203.870 | - | 500.000 | - | - | - | 22.703.870  |
+|  Tổng nợ phải trả | - | 22.327.538 | 200.059.067 | 251.406.008 | 147.000.455 | 149.829.590 | 84.079.237 | 2.431.781  |
+|  Mức chênh nhạy cảm với lãi suất nội báng | 13.807.624 | 22.977.664 | (101.134.381) | 362.062.723 | (112.904.664) | (78.716.078) | (52.717.310) | 44.705.268  |
+|  Các cam kết ngoại báng có tác động tới mức độ nhạy cảm với lãi suất của các tài sản và công nợ (ròng) | - | - | - | (924.021) | 38.878 | 204.910 | 604.732 | (75.501)  |
+|  Mức chênh nhạy cảm với lãi suất nội, ngoại báng | 13.807.624 | 22.977.664 | (101.134.381) | 361.138.702 | (112.865.786) | (78.511.168) | (52.112.578) | 44.705.268  |
+
+(*) Khoản mục này không bao gồm số dư dự phòng rủi ro
+
+--- TRANG 29 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU THUYÉT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025
+
+|  1.2 Rủi ro tiền tệ |  |  |  |  |  |  |  | Đơn vị: Triệu đồng  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Tại ngày 30 tháng 9 năm 2025 |  |  |  |  |  |  |  |   |
+|  Tài sản | USD | VÀNG | EUR | JPY | AUD | CAD | Khác | Tổng cộng  |
+|  Tiền mặt, vàng bạc, đã quý | 1.297 .970 | 27.936 | 14.013 | 1.226 | 78.421 | 21.462 | 2.340 | 1.443.368  |
+|  Tiền gửi tại Ngân hàng Nhà nước | 1.542 .054 | - | - | - | - | - | - | 1.542.054  |
+|  Tiền gửi và cho vay các TCTD khác (*) | 10.099 .783 | - | 343.512 | 788.655 | 154.844 | 35.599 | 109.945 | 11.532.338  |
+|  Cho vay khách hàng (*) | 16.670 .319 | - | - | - | - | - | - | 16.670.319  |
+|  Chứng khoán đầu tư (*) | 64.481 | - | - | - | - | - | - | 64.481  |
+|  Tài sản có khác (*) | 345.727 | 8.322 | 101 | - | - | - | - | 354.150  |
+|  Tổng tài sản | 30.020 .334 | 36.258 | 357.626 | 789.881 | 233.265 | 57.061 | 112.285 | 31.606.710  |
+|  Nợ phải trả |  |  |  |  |  |  |  |   |
+|  Tiền gửi và vay các TCTD khác | 9.675 .415 | - | 10.241 | 6.674 | - | - | - | 9.692.330  |
+|  Tiền gửi của khách hàng | 17.479 .305 | - | 321.986 | 730.730 | 187.943 | 24.367 | 45.205 | 18.789.536  |
+|  Các công cụ tài chính phải sinh và các khoản nợ tài chính khác | 2.236 .933 | - | 77.745 | - | 8.750 | 19.032 | - | 2.342.460  |
+|  Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro | - | - | - | 12.406 | - | - | - | 12.406  |
+|  Các khoản nợ khác | 656.282 | - | 12.207 | 10.050 | 28.309 | 11.436 | 23.984 | 742.268  |
+|  Tổng nợ phải trả | 30.047 .935 | - | 422.179 | 759.860 | 225.002 | 54.835 | 69.189 | 31.579.000  |
+|  Trạng thái tiền tệ nội bảng | (27.601) | 36.258 | (64.553) | 30.021 | 8.263 | 2.226 | 43.096 | 27.710  |
+|  Trạng thái tiền tệ ngoại bảng | 248.095 | - | (31.098) | (3.875) | (1.050) | 7.232 | 4.566 | 223.870  |
+|  Trạng thái tiền tệ nội - ngoại bảng | 220.494 | 36.258 | (95.651) | 26.146 | 7.213 | 9.458 | 47.662 | 251.580  |
+
+(*) Khoản mục này không bao gồm số dư dự phòng rủi ro
+
+--- TRANG 30 ---
+NGẦN HÀNG THƯƠNG MẠI CÓ PHÂN Á CHÂU THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025
+
+1. Rủi ro thanh khoản
+
+|   | Quá hạn |  | Trong hạn |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Tại ngày 30 tháng 9 năm 2025 | Trên 3 tháng | Đến 3 tháng | Trên 1 tháng | Trên 1 tháng | Trên 3 tháng | Trên 1 năm | Trên 5 năm | Tổng cộng  |
+|  Tài sản |  |  | đến 3 tháng | đến 12 tháng | đến 5 năm | đến 5 năm |  |   |
+|  Tiền mặt, vàng bạc, đá quý | - | - | 6.785.568 | - | - | - | - | 6.785.568  |
+|  Tiền gửi tại Ngân hàng Nhà nước | - | - | 15.197.467 | - | - | - | - | 15.197.467  |
+|  Tiền gửi và cho vay các TCTD khác (*) | - | - | 79.548.004 | 15.453.900 | 9.924.044 | - | - | 104.925.948  |
+|  Chứng khoán kinh doanh (*) | - | - | 6.072.639 | - | - | - | - | 6.072.639  |
+|  Cho vay khách hàng (*) | 6.496.509 | 7.130.355 | 59.884.823 | 152.007.469 | 227.866.193 | 26.198.893 | 189.603.883 | 669.188.125  |
+|  Chứng khoán đầu tư (*) | - | - | 3.164.481 | 14.802.196 | 38.100.541 | 54.000.639 | 23.691.719 | 133.759.576  |
+|  Góp vốn, đầu tư dài hạn (*) | - | - | - | - | - | - | 292.867 | 292.867  |
+|  Tài sản cố định và bất động sản đầu tư | - | - | - | - | - | - | 5.504.248 | 5.504.248  |
+|  Tài sản có khác (*) | 180.596 | 164 | 8.950.388 | 2.019.175 | 2.328.450 | 9.311 | - | 13.488.084  |
+|  Tổng tài sản | 6.677.105 | 7.130.519 | 179.603.370 | 184.282.740 | 278.219.228 | 80.208.843 | 219.092.717 | 955.214.522  |
+|  Nợ phải trả |  |  |  |  |  |  |  |   |
+|  Các khoản nợ Chính phủ và NHNN | - | - | 6.267.339 | 14.424.230 | - | - | - | 20.691.569  |
+|  Tiền gửi và vay các TCTD khác | - | - | 82.178.140 | 40.416.367 | 6.581.120 | 462 | - | 129.176.089  |
+|  Tiền gửi của khách hàng | - | - | 278.814.918 | 125.481.188 | 162.191.718 | 4.537.195 | 3.934 | 571.028.953  |
+|  Các công cụ tài chính phải sinh và các khoản nợ tài chính khác | - | - | 122.744 | 82.085 | (85.679) | 4.518 | - | 123.668  |
+|  Vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro | - | - | 69 | 2.615 | 5.441 | 11.468 | 2.863 | 22.456  |
+|  Phát hành giấy tờ có giá | - | - | 8.233.503 | 9.700.000 | 44.299.933 | 51.153.635 | - | 113.387.071  |
+|  Các khoản nợ khác | - | - | 15.391.116 | 3.170.565 | 4.073.505 | 68.684 | - | 22.703.870  |
+|  Tổng nợ phải trả | - | - | 391.007.829 | 193.277.050 | 217.066.038 | 55.775.962 | 6.797 | 857.133.676  |
+|  Mức chênh thanh khoản ròng | 6.677.105 | 7.130.519 | (211.404.459) | (8.994.310) | 61.153.190 | 24.432.881 | 219.085.920 | 98.080.846  |
+
+(*) Khoản mục này không bao gồm số dư dự phòng rủi ro
+
+--- TRANG 31 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH CHỌN LỌC HỢP NHÁT QUÝ III NĂM 2025 
+
+## 3. Rủi ro giá cổ phiếu
+
+Rủi ro giá cổ phiếu do biến động bất lợi của giá cổ phiếu trên thị trường đối với giá trị cổ phiếu, giá trị chứng khoán phái sinh trên số kinh doanh của Tập đoàn.
+
+Rủi ro giá cổ phiếu liên quan đến các khoản đầu tư vào chứng khoán vốn kinh doanh được quản lý qua việc phân tích các biến động của giá thị trường và quyết định đầu tư phụ thuộc vào mục tiêu thu lợi nhuận ngắn hạn. Đầu tư vào chứng khoán vốn sã̃n sàng để bán phụ thuộc vào mục tiêu kinh doanh của Tập đoàn có tính đến mục tiêu đa dạng hóa danh mục đầu tư.
+
+## 4. Rủi ro tín dụng
+
+Rủi ro tín dụng là rủi ro do khách hàng, đối tác không thực hiện hoặc không có khả năng thực hiện một phần hoặc toàn bộ nghĩa vụ trả nợ, thanh toán theo hợp đồng, thỏa thuận, giao dịch với Tập đoàn.
+
+Tập đoàn quy định và áp dụng chính sách rủi ro tín dụng cho toàn bộ quá trình cấp tín dụng bao gồm định hướng khách hàng mục tiêu, định hướng tổ chức hoạt động cấp tín dụng, thẩm định cấp tín dụng, phê duyệt quyết định có rủi ro tín dụng, quản lý tín dụng, quản lý khoản cấp tín dụng có vấn đề nhằm đảm bảo quy định của pháp luật và thống nhất chiến lược kinh doanh, chiến lược quản lý rủi ro và khẩu vị rủi ro của Tập đoàn.
+
+Tập đoàn sử dụng nhiều công cụ khác nhau để quản lý rủi ro tín dụng, như: (i) thiết lập hạn mức tín dụng theo ngành, lĩnh vực kinh tế, sản phẩm, hình thức bảo đảm, (ii) xây dựng và áp dụng hệ thống xếp hạng tín dụng nội bộ, (iii) áp dụng hệ thống phần mềm phục vụ công tác quản lý tín dụng để quản lý và phân tích nợ có vấn đề, hệ thống cảnh báo sớm rủi ro tín dụng. Dữ liệu tín dụng và kết quả quản lý tín dụng được thông báo định kỳ cho các đơn vị quản lý có liên quan, và báo cáo cho Hội đồng quản trị, Ủy ban quản lý rủi ro, Tổng giám đốc và Hội đồng rủi ro để giám sát và chỉ đạo kịp thời, nhằm kiểm soát rủi ro tín dụng theo khẩu vị rủi ro và chiến lược kinh doanh.
+
+TP.HCM, ngày 21 tháng 10 năm 2025
+
+Lập bảng
+![img-3.jpeg](img-3.jpeg)
+
+Cao Hoàng Thủy Tiên
+
+Kế toán trường
+![img-4.jpeg](img-4.jpeg)
+
+Dương Thị Nguyệt
+
+Tống Giám đốc
+![img-5.jpeg](img-5.jpeg)
+
+Từ Tiến Phát

@@ -1,0 +1,1396 @@
+--- TRANG 0 ---
+# N GÂN HÀNG TMCP ĐÀU TU VÀ PHÁT TRIỀN VIỆT NAM BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM, JSC. 
+
+Số: 9370/BIDV-TK\&QHCĐ CBTT Báo cáo tài chính riêng và hợp nhất giữa niên độ Quý III năm 2025 Interim Separate and Consolidated Financial Statements Quarter III/2025
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc THE SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness
+
+Hà Nội, ngày 30 tháng 10 năm 2025 Hanoi, October $30^{\text {th }} 2025$
+
+## CÔNG BÓ THÔNG TIN ĐỊNH KỲ PERIODICALLY INFORMATION DISCLOSURE
+
+Kính gửi:
+
+- Úy ban Chứng khoán Nhà nước;
+- Sở Giao dịch chứng khoán Việt Nam;
+- Sở Giao dịch chứng khoán TP HCM;
+- Sở Giao dịch chứng khoán Hà Nội.
+
+To:
+
+- State Securities Commission;
+- Vietnam Stock Exchange;
+- Ho Chi Minh Stock Exchange;
+- Hanoi Stock Exchange.
+
+1. Tên tổ chức/Name of organization: Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam/Bank for Investment and Development of Vietnam, JSC. (BIDV)
+
+- Mã chứng khoán/Stock code: BID
+- Địa chi/Address: Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội/BIDV Tower, 194 Tran Quang Khai road, Hoan Kiem ward, Ha Noi
+- Điện thoại liên hệ/Tel: (84-24) 22205544 Fax: (84-24) 22200399
+- E-mail: nhadautu@bidv.com.vn
+
+2. Nội dung thông tin công bố/Contents of disclosure:
+
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam công bố Báo cáo tài chính riêng và hợp nhất giữa niên độ Quý III năm 2025 theo các Chuẩn mực Kế toán Việt Nam và Hệ thống Kế toán các Tổ chức Tín dụng Việt Nam như đính kèm.
+
+Joint Stock Commercial Bank for Investment and Development of Vietnam announced Interim Separate and Consolidated Financial Statements Quarter III/2025 in accordance with Vietnamese Accounting Standards, Vietnamese Accounting Standards, accounting regime applicable to credit institutions in Vietnam as attached.
+3. Thông tin này đã được công bố trên trang thông tin điện tử của Ngân hàng vào ngày 30/10/2025 tại đường dẫn https://www.bidv.com.vn/vn/quan-he-nha-dau-tu/This
+
+--- TRANG 1 ---
+information was published on the Bank's website on October 30th 2025 as in the links https://www.bidv.com.vn/en/quan-he-nha-dau-tu
+
+Chúng tôi xin cam kết các thông tin công bố trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung các thông tin đã công bố/We hereby certify that the information provided is true and correct and we bear the full responsibility to the law./.
+
+# NGƯỜI ĐƯỢC ỦY QUYÊN CÔNG BỎ THÔNG TIN PHÓ TÔNG GIẢM ĐÓC PERSON AUTHORIZED TO DISCLOSE INFORMATION SENIOR EXECUTIVE VICE PRESIDENT 
+
+## Nơi nhận/Recipent:
+
+- Như trên/As above;
+- Lưu TK\&QHCĐ, VP/Archive:
+
+Secretariat \& Investor Relations, BIDV Office.
+
+--- TRANG 2 ---
+# Ngân hàng TMCP Đầu tư và Phát triển Việt Nam 
+
+Báo cáo tài chính hợp nhất giữa niền độ
+Tại ngày 30/09/2025 và cho giai đoạn từ ngày 01/01/2025 đến ngày $30 / 09 / 2025$
+Theo các Chuẩn mực Kế toán Việt Nam và Hệ thống Kế toán các Tổ chức Tín dụng Việt Nam
+
+--- TRANG 3 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT GIỮA NIÊN Độ tại ngày 30 tháng 09 năm 2025
+
+|  STT | Chỉ tiêu | Thuyết
+minh | 30/09/2025 | Đơn vị: Triệu VND 31/12/2024 (*)  |
+| --- | --- | --- | --- | --- |
+|  A | Tài sản |  |  |   |
+|  I | Tiền mặt, vàng bạc, đá quý |  | 10,523,745 | 10,772,890  |
+|  II | Tiền gửi tại Ngân hàng Trung ương |  | 48,303,371 | 92,341,029  |
+|  III | Tiền, vàng gửi tại và cho vay TCTD khác |  | 453,483,597 | 279,971,515  |
+|  1 | Tiền, vàng gửi tại TCTD khác |  | 439,480,044 | 268,366,137  |
+|  2 | Cho vay các TCTD khác |  | 14,105,355 | 11,686,232  |
+|  3 | Dự phòng rủi ro cho vay các TCTD khác |  | (101,802) | (80,854)  |
+|  IV | Chứng khoán kinh doanh | 1 | 24,553,325 | 12,734,060  |
+|  1 | Chứng khoán kinh doanh |  | 24,608,059 | 12,773,340  |
+|  2 | Dự phòng giảm giá chứng khoán KD |  | (54,734) | (39,280)  |
+|  V | Các công cụ tài chính phải sinh và các tài sản tài chính khác | 2 | - | 663,256  |
+|  VI | Cho vay khách hàng |  | 2,197,470,752 | 2,018,111,939  |
+|  1 | Cho vay khách hàng | 3 | 2,237,119,279 | 2,056,082,420  |
+|  2 | Dự phòng rủi ro cho vay khách hàng | 4 | (39,648,527) | (37,970,481)  |
+|  VII | Chứng khoán đầu tư | 5 | 261,755,305 | 277,838,108  |
+|  1 | Chứng khoán đầu tư sẵn sàng để bán |  | 144,811,922 | 157,918,828  |
+|  2 | Chứng khoán đầu tư giữ đến ngày đáo hạn |  | 118,044,532 | 121,120,044  |
+|  3 | Dự phòng giảm giá chứng khoán đầu tư |  | (1,101,149) | (1,200,764)  |
+|  VIII | Góp vốn, đầu tư dài hạn | 6 | 4,049,117 | 3,423,594  |
+|  1 | Vốn góp liên doanh |  | 3,214,661 | 2,608,671  |
+|  2 | Đầu tư vào công ty liên kết |  | 755,000 | 739,841  |
+|  3 | Đầu tư dài hạn khác |  | 183,050 | 182,914  |
+|  4 | Dự phòng giảm giá đầu tư dài hạn |  | (103,594) | (107,832)  |
+|  IX | Tài sản cố định |  | 12,010,249 | 12,164,849  |
+|  1 | Tài sản cố định hữu hình |  | 6,844,000 | 6,844,237  |
+|  a | Nguyên giá TSCĐ |  | 17,045,564 | 16,745,119  |
+|  b | Hao mòn TSCĐ |  | (10,201,564) | (9,900,882)  |
+|  2 | Tài sản cố định vô hình |  | 5,166,249 | 5,320,612  |
+|  a | Nguyên giá TSCĐ |  | 8,182,041 | 8,103,328  |
+|  b | Hao mòn TSCĐ |  | (3,015,792) | (2,782,716)  |
+|  X | Tài sản có khác |  | 59,820,735 | 52,885,724  |
+|  1 | Các khoản phải thu |  | 31,978,073 | 25,773,422  |
+|  2 | Các khoản lãi, phí phải thu |  | 24,749,433 | 23,146,980  |
+|  3 | Tài sản thuế TNDN hoãn lại |  | 27,915 | 27,056  |
+|  4 | Tài sản Có khác |  | 3,358,656 | 4,242,266  |
+|  5 | Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác |  | (293,342) | (304,000)  |
+|   | TỔNG TÀI SẢN CÓ |  | 3,071,970,196 | 2,760,906,964  |
+
+--- TRANG 4 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN BẢU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHƠICN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+|  STT | Chi tiêu | Thuyết
+minh | 30/09/2025 | 31/12/2024 (*)  |
+| --- | --- | --- | --- | --- |
+|  B | Nợ phải trả và vốn chủ sở hữu |  |  |   |
+|  I | Các khoản nợ Chính phủ và Ngân hàng Trung ương | 7 | 215,823,611 | 168,388,958  |
+|  II | Tiền gửi và vay các TCTD khác | 8 | 329,639,455 | 232,954,067  |
+|  1 | Tiền gửi của các TCTD khác |  | 308,827,529 | 205,610,785  |
+|  2 | Vay các TCTD khác |  | 20,811,926 | 27,343,282  |
+|  III | Tiền gửi của khách hàng | 9 | 2,087,181,421 | 1,953,165,486  |
+|  IV | Các công cụ tài chính phải sinh và các công nợ tài chính khác | 2 | 622,180 | -  |
+|  V | Vốn tài trợ, uỷ thác đầu tư, cho vay mà TCTD chịu rủi ro |  | 12,335,086 | 11,981,467  |
+|  VI | Phát hành giấy tờ có giá | 10 | 204,714,065 | 198,900,165  |
+|  VII | Các khoản nợ khác |  | 53,667,677 | 50,532,627  |
+|  1 | Các khoản lãi, phí phải trả |  | 32,288,251 | 28,670,105  |
+|  2 | Thuế TNDN hoãn lại phải trả |  | 68,079 | 79,819  |
+|  3 | Các khoản phải trả và công nợ khác | 11 | 21,311,347 | 21,782,703  |
+|  VIII | Vốn và các quỹ | 13 | 167,986,701 | 144,984,194  |
+|  1 | Vốn của TCTD |  | 90,089,431 | 84,788,796  |
+|  a | Vốn điều lệ |  | 70,213,619 | 68,975,153  |
+|  b | Thặng dư vốn cổ phần |  | 18,875,728 | 15,361,020  |
+|  c | Vốn khác |  | 1,000,084 | 452,623  |
+|  2 | Quỹ của TCTD |  | 21,878,833 | 19,396,820  |
+|  3 | Chênh lệch tỷ giá hối đoái |  | (234,953) | (701,036)  |
+|  4 | Lợi nhuận chưa phân phối |  | 50,816,786 | 36,264,506  |
+|  5 | Lợi ích của cổ đông không kiểm soát |  | 5,436,604 | 5,235,108  |
+|   | TÔNG NỢ PHÁI TRÀ VÀ VÔN CHỦ SỬ HƯU |  | 3,071,970,196 | 2,760,906,964  |
+
+--- TRANG 5 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẢU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025
+
+## CÁC CHỈ TIÊU NGOÀI BẢNG CẦN ĐỐI KẾ TOÁN GIỮA NIÊN Độ
+
+tại ngày 30 tháng 09 năm 2025
+
+|  STT | Chỉ tiêu | Thuyết minh | 30/09/2025 | Đơn vị: Triệu VND  |
+| --- | --- | --- | --- | --- |
+|  1 | Bảo lãnh vay vốn |  | 6,425,276 | 7,003,205  |
+|  2 | Cam kết giao dịch hối đoái |  | 191,976,376 | 133,387,287  |
+|  a | Cam kết mua ngoại tệ |  | 779,873 | 2,333,456  |
+|  b | Cam kết bán ngoại tệ |  | 3,540,918 | 2,666,274  |
+|  c | Cam kết giao dịch hoán đổi đến |  | 93,790,618 | 64,605,066  |
+|  d | Cam kết giao dịch hoán đổi đi |  | 93,864,967 | 63,782,491  |
+|  3 | Cam kết trong nghiệp vụ I/C |  | 55,410,064 | 62,266,136  |
+|  4 | Bảo lãnh khác |  | 213,073,189 | 199,424,464  |
+|  5 | Các cam kết khác |  | 11,224,143 | 14,564,280  |
+|  6 | Lãi cho vay và phí phải thu chưa thu được |  | 22,441,685 | 21,507,273  |
+|  7 | Nợ khó đòi đã xử lý |  | 275,943,992 | 254,094,151  |
+|  a | Nợ gốc của các khoản nợ khó đòi đã xử lý |  | 139,293,341 | 130,056,395  |
+|  b | Nợ lãi của các khoản nợ khó đòi đã xử lý |  | 136,650,651 | 124,037,756  |
+|  8 | Tài sản và chứng từ khác |  | 62,746,964 | 66,301,195  |
+
+(*) Số đấu kỳ là số trình bày lại sau điều chỉnh Kiểm toán Nhà nước cho năm tài chính kết thúc ngày 31/12/2024
+
+Người lập
+
+Nguyễn Thị Hương Giang
+
+Kế toán trường
+
+Bùi Thị Hòa
+
+Phơ Tống Giám đốc
+
+Hoàng Việt Hùng
+
+--- TRANG 6 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+Thập BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ
+
+Quý III Năm 2025
+
+Đơn vị: Triệu VND
+
+|  STT | Chi tiêu | Thuyết minh | Trong kỳ | Lũy kế đầu năm đến thời điểm báo cáo  |
+| --- | --- | --- | --- | --- |
+|   |  |  | Từ 01/07/2025 đến 30/9/2025 | Từ 01/07/2024 đến 30/9/2024  |
+|  1 | Thu nhập lãi và các khoản thu nhập tương tự | 14 | 38,444,637 | 34,326,293  |
+|  2 | Chi phí lãi và các chi phí tương tự | 15 | (23,272,019) | (20,336,569)  |
+|  3 | Thu nhập lãi thuần |  | 15,172,618 | 13,989,724  |
+|  4 | Thu nhập từ hoạt động dịch vụ |  | 3,152,717 | 3,013,677  |
+|  5 | Chi phí hoạt động dịch vụ |  | (1,419,194) | (1,538,699)  |
+|  II | Lãi/ lỗ thuần từ hoạt động dịch vụ |  | 1,733,523 | 1,474,978  |
+|  III | Lãi/ lỗ thuần từ hoạt động kinh doanh ngoại hối |  | 965,196 | 732,488  |
+|  IV | Lãi/ lỗ thuần từ hoạt động mua bán chứng khoán kinh doanh | 16 | 66,581 | (63,874)  |
+|  V | Lãi/ lỗ thuần từ hoạt động mua bán chứng khoán đầu tư | 17 | 517,199 | (485,528)  |
+|  6 | Thu nhập từ hoạt động khác |  | 3,127,343 | 2,032,606  |
+|  7 | Chi phí hoạt động khác |  | (572,130) | (527,789)  |
+|  VI | Lãi/ lỗ thuần từ hoạt động khác |  | 2,555,213 | 1,504,817  |
+|  VII | Thu nhập từ góp vốn mua cổ phần | 18 | 143,853 | 105,983  |
+|  VIII | Chi phí hoạt động | 19 | (7,374,522) | (6,307,180)  |
+|  IX | Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng |  | 13,779,661 | 10,951,408  |
+|  X | Chi phí/hoàn nhập dự phòng rủi ro tín dụng |  | (6,185,885) | (4,453,129)  |
+|  XI | Tổng lợi nhuận trước thuế |  | 7,593,776 | 6,498,279  |
+|  7 | Chi phí thuế TNDN hiện hành |  | (1,512,842) | (1,286,319)  |
+|  8 | Chi phí thuế TNDN hoàn lại |  | 5,976 | 1,906  |
+|  XII | Chi phí thuế TNDN |  | (1,506,866) | (1,284,413)  |
+|  XIII | Lợi nhuận sau thuế |  | 6,086,910 | 5,213,866  |
+|  XIV | Lợi ích của cổ đông không kiểm soát |  | (133,946) | (62,548)  |
+|  XV | Lợi nhuận còn lại của Ngân hàng |  | 5,952,964 | 5,151,318  |
+|   | Người lập |  | Kế toán trưởng | Phó Tổng Giám đốc  |
+|   | Nguyễn Thị Hương Giang |  | Bùi Thị Hòa | Hoàng Việt Hùng  |
+
+--- TRANG 7 ---
+NGẤN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trấn Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+Đơn vị: Triệu VND Ký trước Từ 01/01/2024 đến 30/09/2024
+
+# BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHÁT GIỮA NIỀN Độ
+
+(Theo phương pháp trực tiếp) Quý III Năm 2025
+
+|  STT | Chi tiêu | Thuyết minh | Ký này Từ 01/01/2025 đến 30/09/2025 | Đơn vị: Triệu VND Ký trước Từ 01/01/2024 đến 30/09/2024  |
+| --- | --- | --- | --- | --- |
+|  Lưu chuyển tiền từ hoạt động kinh doanh |  |  |  |   |
+|  1 | Thu nhập lãi và các khoản thu nhập tương tự nhận được |  | 109,655,584 | 101,350,704  |
+|  2 | Chi phí lãi và các khoản chi phí tương đương |  | (63,529,960) | (65,528,067)  |
+|  3 | Thu nhập từ hoạt động dịch vụ nhận được |  | 5,159,113 | 5,106,906  |
+|  4 | Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán) |  | 4,739,562 | 4,618,383  |
+|  5 | (Chi phí) khác |  | (605,855) | (1,432,578)  |
+|  6 | Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn dự phòng rủi ro |  | 7,271,704 | 4,464,280  |
+|  7 | Tiền chi trả cho nhân viên và hoạt động quản lý công vụ |  | (20,186,334) | (17,962,347)  |
+|  8 | Tiền thuế TNDN thực nộp trong kỳ | 12 | (6,207,176) | (6,554,196)  |
+|  Lưu chuyển tiền thuần từ hoạt động kinh doanh |  |  | 36,296,638 | 24,063,085  |
+|  Những thay đổi về tài sản hoạt động |  |  |  |   |
+|  9 | (Tăng) các khoản tiền, vàng gửi và cho vay các TCTD khác |  | (4,385,445) | (4,159,505)  |
+|  10 | Giảm/ (Tăng) các khoản về kinh doanh, đầu tư chứng khoán |  | 4,347,699 | (41,922,448)  |
+|  11 | Giảm các công cụ tài chính phải sinh và các tài sản tài chính khác |  | 663,256 | (55,744)  |
+|  12 | (Tăng) các khoản cho vay khách hàng |  | (181,036,859) | (175,400,353)  |
+|  13 | Giảm nguồn dự phòng để xử lý rủi ro, xử lý, bù đắp tổn thất các khoản (tín dụng, chứng khoán, đầu tư dài hạn) | 4 | (15,221,802) | (15,918,182)  |
+|  14 | (Tăng) khác về tài sản hoạt động |  | (4,785,864) | (14,419,597)  |
+|  Những thay đổi về công nợ hoạt động |  |  |  |   |
+|  15 | (Giảm)/ Tăng các khoản nợ Chính phủ và NHNN |  | 47,434,653 | 59,519,533  |
+|  16 | Tăng các khoản tiền gửi, tiền vay các TCTD |  | 96,685,387 | 34,420,772  |
+|  17 | Tăng tiền gửi của khách hàng |  | 134,015,935 | 169,034,776  |
+|  18 | Tăng phát hành giấy tờ có giá (ngoại trừ giấy tờ có giá phát hành được tính vào hoạt động tài chính) |  | (3,739,580) | 3,830,348  |
+|  19 | (Giảm)/ Tăng vốn tài trợ, uỷ thác đầu tư, cho vay mà TCTD chịu rủi ro |  | 353,619 | (599,551)  |
+|  20 | Tăng/ (Giảm) các công cụ tài chính phải sinh và các khoản nợ tài chính khác |  | 622,180 | (328,155)  |
+|  21 | Tăng/ (Giảm) công nợ khác |  | 590,645 | 180,961  |
+|  I | Lưu chuyển tiền thuần từ hoạt động KD |  | 111,840,462 | 38,245,940  |
+
+--- TRANG 8 ---
+# NGẮN HÀNG THƯƠNG MẠI CỐ PHẢN ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHƠICN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ
+
+Quý III Năm 2025
+
+|  STT | Chi tiêu | Thuyết minh | Kỳ này Từ 01/01/2025 đến 30/09/2025 | Kỳ trước Từ 01/01/2024 đến 30/09/2024  |
+| --- | --- | --- | --- | --- |
+|  Lưu chuyển tiền từ hoạt động đầu tư |  |  |  |   |
+|  1 | Mua sắm tài sản cố định |  | (1,414,651) | (978,729)  |
+|  2 | Tiền thu từ thanh lý, nhượng bán TSCĐ |  | 5,198 | 10,351  |
+|  3 | Tiền chi từ thanh lý, nhượng bán TSCĐ |  | (1,417) | (4,499)  |
+|  4 | Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn |  | 124,535 | 82,069  |
+|  II | Lưu chuyển tiền thuần từ hoạt động đầu tư |  | (1,286,335) | (890,808)  |
+|  Lưu chuyển tiền từ hoạt động tài chính |  |  |  |   |
+|  1 | Tăng / (Giảm) vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu |  | 4,753,175 |   |
+|  2 | Cổ tức trả cho cổ đông, lợi nhuận đã chia |  |  | (8,637)  |
+|  3 | Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác |  | 22,040,000 |   |
+|  2 | Tiền chi thanh toán giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác |  | (12,486,520) |   |
+|  III | Lưu chuyển tiền thuần từ hoạt động tài chính |  | 14,306,655 | (8,637)  |
+|  IV | Lưu chuyển tiền thuần trong kỳ |  | 124,860,782 | 37,346,495  |
+|  V | Tiền và các khoản tương đương tiền tại thời điểm đầu kỳ |  | 324,724,464 | 224,739,002  |
+|  VI | Tiền và các khoản tương đương tiền tại thời điểm cuối kỳ |  | 449,585,246 | 262,085,497  |
+
+Người lập
+
+Kế toán trưởng
+
+Nguyễn Thị Hương Giang
+
+Bùi Thị Hòa
+
+Hoa Tổng Giám đốc
+
+Hoa Tổng Giám đốc
+
+Hoa Tổng Giám đốc
+
+--- TRANG 9 ---
+# THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT 
+
+## I. Đặc điểm hoạt động của Tổ chức tín dụng
+
+## 1. Giấy phép thành lập và hoạt động, thời hạn có giá trị
+
+Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam (sau đây gọi tắt là "Ngân hàng") được thành lập theo Giấy phép Thành lập và Hoạt động ngân hàng thương mại cổ phần số 84/GP-NHNN ngày 23 tháng 4 năm 2012 do Thống đốc Ngân hàng Nhà nước Việt Nam cấp (đã được sửa đổi theo các Quyết định: (i) Quyết định số 269/QĐNHNN ngày 28 tháng 12 năm 2012, (ii) Quyết định số 2021/QĐ-NHNN ngày 13 tháng 10 năm 2015, (iii) Quyết định số 2266/QĐ-NHNN ngày 27 tháng 10 năm 2017, (iv) Quyết định số 842/QĐ-NHNN ngày 20 tháng 4 năm 2018, (v) Quyết định số 909/QĐ-NHNN ngày 8 tháng 5 năm 2018, (vi) Quyết định số 1166/QĐ-NHNN ngày 30 tháng 3 năm 2018, (vii) Quyết định số 1506/QĐ-NHNN ngày 27 tháng 9 năm 2021; (viii) Quyết định số 466/QĐ-NHNN ngày 29 tháng 3 năm 2022, (ix) Quyết định số 1752/QĐ-NHNN ngày 15 tháng 4 năm 2025; (x) Quyết định số 884/QĐ-QLGS2 ngày 13 tháng 5 năm 2025) (gọi chung là "Giấy phép Thành lập và Hoạt động")
+
+Ngân hàng được thành lập nhằm thực hiện các hoạt động ngân hàng theo Giấy phép Thành lập và Hoạt động và quy định pháp luật liên quan, bao gồm nhận tiền gửi không kỳ hạn, tiền gửi có kỳ hạn, tiền gửi tiết kiệm và các loại tiền gửi khác; phát hành chứng chỉ tiền gửi, ký phiếu, tín phiếu, trái phiếu để huy động vốn trong nước và nước ngoài; cấp tín dụng; mở tài khoản thanh toán cho khách hàng; cung ứng các phương tiện thanh toán; cung ứng các dịch vụ thanh toán; vay vốn của Ngân hàng Nhà nước dưới hình thức tái cấp vốn; vay vốn của tổ chức tín dụng, tổ chức tài chính trong nước và nước ngoài; mở tài khoản; tổ chức và tham gia hệ thống thanh toán; góp vốn, mua cổ phần của doanh nghiệp và tổ chức tín dụng khác; tham gia đấu thầu tín phiếu Kho bạc, mua, bán công cụ chuyển nhượng, trái phiếu Chính phủ, tín phiếu Kho bạc, tín phiếu Ngân hàng Nhà nước Việt Nam và các giấy tờ có giá khác trên thị trường tiền tệ; kinh doanh, cung ứng dịch vụ ngoại hối trên thị trường trong nước và quốc tế trong phạm vi do Ngân hàng Nhà nước Việt Nam quy định; kinh doanh, cung ứng sản phẩm phải sinh lãi suất; ủy thác, nhận ủy thác, đại lý trong lĩnh vực liên quan đến hoạt động ngân hàng, kinh doanh bảo hiểm, quản lý tài sản theo quy định của Ngân hàng Nhà nước Việt Nam; các hoạt động kinh doanh khác của ngân hàng thương mại như dịch vụ quản lý tiền mặt, tư vấn về hoạt động ngân hàng và hoạt động kinh doanh khác quy định trong Giấy phép Thành lập và Hoạt động; các dịch vụ quản lý, bảo quản tài sản, cho thuê tủ, két an toàn; dịch vụ ngân quỹ cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài; mua, bán trái phiếu Chính phủ, trái phiếu doanh nghiệp theo quy định của pháp luật; cung cấp dịch vụ môi giới tiền tệ; lưu ký chứng khoán, kinh doanh vàng; hoạt động mua nợ; đầu tư hợp đồng tương lai trái phiếu Chính phủ; cung ứng sản phẩm phải sinh giá cả hàng hóa; cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán ngân hàng giám sát theo pháp luật chứng khoán của ngân hàng thương mại và các hoạt động kinh doanh khác được Ngân hàng Nhà nước Việt Nam (được gọi là "NHNN") chấp thuận theo quy định của pháp luật.
+
+## 2. Hình thức sở hữu vốn
+
+Tại ngày 30 tháng 09 năm 2025, số vốn điều lệ của Ngân hàng là 70.213 .619 triệu đồng, trong đó phần vốn Nhà nước là 55.861 .541 triệu đồng (chiếm $79,56 \%$ vốn điều lệ), phần vốn của cổ đông chiến lược KEB Hana Bank là 10.346.273 triệu đồng (chiếm $14,74 \%$ vốn điều lệ) và vốn của nhà đầu tư bên ngoài thông qua phát hành cổ phiếu là 4.005 .805 triệu đồng (chiếm $5,70 \%$ vốn điều lệ).
+
+## 3. Thành phần Hội đồng quản trị và Ban Kiểm soát
+
+### 3.1. Thành phần Hội đồng quản trị
+
+Họ tên
+Ống Phan Đức Tử
+Ống Lê Ngọc Lâm
+Ống Ngô Văn Dũng
+Ống Yoo Je Bong
+Ống Phạm Quang Tùng
+Ống Trần Xuân Hoàng
+Ống Lê Kim Hòa
+Ống Đặng Văn Tuyên
+Ống Quách Hùng Hiệp
+Ống Lê Quốc Nghị
+Ống Nguyễn Văn Thạnh
+
+Chức vụ
+Chủ tịch
+Ủy viên HĐQT kiêm Tổng giám đốc
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên
+Ủy viên (bố nhiệm ngày 26/04/2025)
+Ủy viên độc lập
+
+--- TRANG 10 ---
+# 3.2. Thành phần Ban Kiếm soát
+
+|  Họ tên | Chúc vụ  |
+| --- | --- |
+|  Bà Tạ Thị Hạnh | Trường ban Kiếm soát  |
+|  Ông Cao Cự Trí | Thành viên chuyên trách  |
+|  Bà Nguyễn Thị Thu Hà | Thành viên chuyên trách  |
+|  Ông Nguyễn Trung Kiên | Thành viên chuyên trách  |
+|  Ông Huỳnh Phương | Thành viên chuyên trách (bỏ nhiệm ngày 26/04/2025)  |
+
+1. Thành phần Ban Điều hành và Kế toán trường
+
+|  Họ tên | Chúc vụ  |
+| --- | --- |
+|  Ông Lê Ngọc Lâm | Tổng Giám đốc  |
+|  Ông Trần Phương | Phó Tổng Giám đốc  |
+|  Ông Lê Trung Thành | Phó Tổng Giám đốc  |
+|  Ông Nguyễn Thiên Hoàng | Phó Tổng Giám đốc  |
+|  Ông Trần Long | Phó Tổng Giám đốc  |
+|  Ông Hoàng Việt Hùng | Phó Tổng Giám đốc  |
+|  Ông Phan Thanh Hải | Phó Tổng Giám đốc  |
+|  Bà Nguyễn Thị Quỳnh Giao | Phó Tổng Giám đốc  |
+|  Ông Đoàn Việt Nam | Phó Tổng Giám đốc  |
+|  Ông Lại Tiến Quân | Phó Tổng Giám đốc  |
+|  Ông Ham Jin Sik | Thành viên Ban Điều hành  |
+|  Bà Bùi Thị Hòa | Kế toán trường  |
+
+## 5. Trụ sở chính, số lượng chi nhánh
+
+Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam có Trụ sở chính đặt tại Tháp BIDV, 194 Trần Quang Khải, Phường Hoàn Kiếm, Thành phố Hà Nội, Việt Nam. Ngân hàng đã phát triển mạng lưới truyền thống và hiện đại rộng khắp, phủ kín các tỉnh, thành phố trong cả nước, với tổng số điểm mạng lưới của Ngân hàng đến hết ngày 30 tháng 9 năm 2025 là một trăm tám mươi bảy (187) chi nhánh trong nước và một (01) chi nhánh nước ngoài, chín trăm ba mươi ( 930 ) phòng giao dịch, ba (03) đơn vị sự nghiệp trực thuộc, hai (02) văn phòng đại diện tại Việt Nam, bốn (04) văn phòng đại diện tại nước ngoài.
+
+## 6. Công ty con
+
+Ngân hàng có mười (10) công ty con như sau:
+
+|  STT | Tên công ty | ĐKKD/QD thành lập | Ngành nghề hoạt động | Tý lệ \% sở hữu của NH  |
+| --- | --- | --- | --- | --- |
+|  1 | Công ty TNHH MTV Quán lỳ Nơ và Khai thác Tài sản BIDV ("BAMC") | 0101196750 ngày 21 tháng 11 năm 2024 của Sở Kế hoạch và Đầu tư thành phố Hà Nội | Quán lỳ nơ và khai thác tài sản | $100,00 \%$  |
+|  2 | Công ty Cổ phần Chứng khoán BIDV ("BSC") | 111/GP-UBCK ngày 31 tháng 12 năm 2010 của Uỷ ban Chứng khoán Nhà nước và Giấy phép điều chỉnh số 70/GPĐC-UBCK ngày 13 tháng 9 năm 2023 của Úy ban Chứng khoán Nhà nước | Chứng khoán | $51,97 \%$  |
+|  3 | Tổng Công ty Cổ phần Báo hiểm BIDV ("BIC") | 11/GPĐC20/KDBH ngày 26 tháng 7 năm 2022 của Bộ Tài chính | Báo hiểm | $51,00 \%$  |
+|  4 | Công ty Cổ phần Chứng khoán MHB ("MHBS") | 45/UBCK-GPHĐKD ngày 28 tháng 12 năm 2006 của Úy ban Chứng khoán Nhà nước | Chứng khoán | $60,00 \%$  |
+|  5 | Ngân hàng Đầu tư và Phát triển Campuchia ("BIDC") | B7.09.148 ngày 14 tháng 8 năm 2009 của Ngân hàng Quốc gia Campuchia | Ngân hàng | $98,50 \%$  |
+
+--- TRANG 11 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trấn Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ
+
+|  |   |   |   |   |
+| --- | --- | --- | --- | --- |
+|  6 | Công ty Liên doanh Bảo hiểm Lào Việt ("LVI") (*) | 077-08/ĐT ngày 19 tháng 6 năm 2008, giấy phép sửa đổi số 028-2024/BKH.ĐT4 ngày 19/4/2024 do Bộ Kế hoạch Đầu tư của nước CHDCND Lào cấp và Giấy chứng nhận đầu tư ra nước ngoài số 146/BKH/ĐTRNN ngày 19 tháng 6 năm 2008 do Bộ Kế hoạch và Đầu tư cấp | Bảo hiểm | 33,15%  |
+|  7 | Ngân Hàng Liên Doanh Lào Việt ("LVB") | Giấy phép đầu tư nước ngoài số 985-326 ngày 10 tháng 06 năm 1999 và bán sửa đổi bổ sung gần nhất số 003-2021/KH-ĐT4 ngày 04 tháng 01 năm 2021 do Ủy Ban Quản lý Đầu tư Nước ngoài của CHDCND Lào cấp | Ngân hàng | 65,00%  |
+|  8 | Công ty Cho thuê Tài chính TNHH BIDV Sumi-Trust ("BSL") | 0100777569 đăng ký thay đổi lần thứ 15 ngày 07 tháng 4 năm 2023 của Sở Kế hoạch và Đầu tư thành phố Hồ Chí Minh | Cho thuê Tài chính | 50,00%  |
+|  9 | Công ty Chứng khoán Campuchia - Việt Nam (*) | 005.SECC/BLPH ngày 20 tháng 10 năm 2010 của Ủy ban Chứng khoán Campuchia | Chứng khoán | 98,50%  |
+|  10 | Công ty Bảo hiểm Campuchia - Việt Nam (*) | Đăng ký số Co. 6037/09E ngày 06 tháng 08 năm 2009 của Bộ Thương mại Campuchia | Bảo hiểm | 26,01%  |
+
+(*) Sở hữu gián tiếp qua công ty con.
+
+1. Tổng số cán bộ, công nhân viên Tổng số cán bộ công nhân viên của Ngân hàng và công ty con tại ngày 30 tháng 09 năm 2025 là 29.816 người (tại ngày 31 tháng 12 năm 2024 là 28.998)
+
+II. Kỳ kế toán, đơn vị tiền tệ sử dụng trong kế toán
+
+1. Kỳ kế toán năm
+
+Kỳ kế toán năm của Ngân hàng trong các năm tài chính bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 hàng năm.
+
+1. Đơn vị tiền tệ sử dụng trong kế toán
+
+Đơn vị tiền tệ sử dụng trong công tác kế toán của Ngân hàng và các công ty con trong nước là đồng Việt Nam, công ty con tại Campuchia là đồng Đô La Mỹ, công ty con tại Lào là đồng Kíp Lào
+
+III. Chuẩn mực và Chế độ kế toán áp dụng
+
+Các báo cáo tài chính hợp nhất của Ngân hàng được trình bày theo đơn vị đồng Việt Nam ("đồng") được lập theo Hệ thống Kế toán các Tổ chức Tín dụng Việt Nam theo Quyết định số 479/2004/QĐ-NHNN ngày 29 tháng 04 năm 2004 do Thống đốc Ngân hàng Nhà nước Việt Nam ban hành có hiệu lực từ ngày 1 tháng 1 năm 2005 và các quyết định bổ sung, Quyết định số 16/2007/QĐ-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam ngày 18 tháng 4 năm 2007, các văn bản sửa đổi bổ sung và Hệ thống Chuẩn mực Kế toán Việt Nam do Bộ Tài chính ban hành bao gồm:
+
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành và công bố 4 chuẩn mực kế toán Việt Nam (đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành và công bố 6 chuẩn mực kế toán Việt Nam (đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành và công bố 6 chuẩn mực kế toán Việt Nam (đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 02 năm 2005 về việc ban hành và công bố 6 chuẩn mực kế toán Việt Nam (đợt 4); và
+
+--- TRANG 12 ---
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành và công bố 4 chuẩn mực kế toán Việt Nam (đợt 5).
+
+Các báo cáo tài chính hợp nhất kèm theo được lập trên cơ sở tuân thủ các nguyên tắc và thông lệ kế toán được chấp nhận tại Việt Nam. Báo cáo tình hình tài chính hợp nhất, báo cáo kết quả hoạt động hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất và các thuyết minh đi kèm trong báo cáo này không được lập nhằm thể hiện tình hình tài chính, kết quả hoạt động kinh doanh và lưu chuyển tiền tệ của Ngân hàng theo những nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các quốc gia và thể chế bên ngoài Việt Nam.
+
+# Các cơ sở đánh giá và các ước tính kế toán áp dụng 
+
+Việc lập báo cáo tài chính hợp nhất tuân thủ theo chuẩn mực kế toán, chế độ kế toán áp dụng cho các tổ chức tín dụng tại Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính yêu cầu Ban Điều hành phải có những ước tính và giả định ảnh hưởng đến số liệu báo cáo về các khoản công nợ, tài sản và việc trình bày các khoản công nợ và tài sản tiềm tàng tại ngày lập Báo cáo tài chính hợp nhất cũng như các số liệu báo cáo về doanh thu và chi phí trong suốt năm tài chính. Mặc dù các ước tính kế toán được lập bằng tất cả sự hiểu biết của Ban Điều hành, số thực tế phát sinh có thể khác với các ước tính, giả định đặt ra.
+
+## IV. Chính sách kế toán áp dụng
+
+## 1. Chuyển đổi tiền tệ
+
+Theo hệ thống kế toán của Ngân hàng, tất cả các nghiệp vụ phát sinh của Ngân hàng được hạch toán theo nguyên tệ. Tại thời điểm lập báo cáo, tài sản và công nợ có nguồn gốc ngoại tệ được quy đổi sang VNĐ theo tỷ giá bình quân mua và bán ngoại tệ giao ngay của đồng ngoại tệ do Ngân hàng niêm yết tại ngày lập báo cáo tình hình tài chính hợp nhất (xem chi tiết tỷ giá các loại ngoại tệ áp dụng vào ngày 30 tháng 09 năm 2025 tại Thuyết minh số 25).
+
+Các khoản thu nhập và chi phí bằng ngoại tệ của Ngân hàng được quy đổi ra VNĐ theo tỷ giá vào ngày phát sinh giao dịch. Chênh lệch tỷ giá do đánh giá lại các tài sản và công nợ bằng ngoại tệ sang Việt Nam đồng được ghi nhận vào khoản mục "Chênh lệch tỷ giá hối đoái" trên Báo cáo tình hình tài chính hợp nhất và được kết chuyển vào "Lãi/Lỗ thuần từ hoạt động kinh doanh ngoại hối" trên Báo cáo kết quả hoạt động vào cuối năm tài chính.
+
+## 2. Nguyên tắc thực hiện hợp nhất báo cáo tài chính
+
+Các báo cáo tài chính hợp nhất bao gồm các báo cáo tài chính của Ngân hàng và của các công ty con tại 30 tháng 9 năm 2025. Báo cáo tài chính của các công ty con có cùng kỳ lập báo cáo và sử dụng các chính sách kế toán một cách nhất quán với Ngân hàng.
+
+Tất cả các số dư và các giao dịch nội bộ, kể cả các khoản lãi chưa thực hiện phát sinh từ các giao dịch nội bộ đã được loại trừ hoàn toàn.
+
+Báo cáo tài chính hợp nhất được trình bày bằng Đồng Việt Nam (VND), theo nguyên tắc giá gốc, phù hợp với chuẩn mực kế toán, chế độ kế toán áp dụng cho các tổ chức tín dụng tại Việt Nam và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Tuy nhiên, do quy mô hoạt động của Ngân hàng rất lớn, cho mục đích lập báo cáo tài chính hợp nhất này, các số liệu được làm tròn đến hàng triệu và trình bày theo đơn vị triệu VND. Việc trình bày này không ảnh hưởng trọng yếu đến báo cáo tài chính hợp nhất về tình hình tài chính hợp nhất, kết quả hoạt động kinh doanh hợp nhất cũng như tình hình lưu chuyển tiền tệ hợp nhất của Ngân hàng và các công ty con.
+
+Lợi ích của cổ đông không kiểm soát là một phần của kết quả hoạt động thuần và giá trị tài sản thuần của một công ty con được xác định tương ứng cho các phần lợi ích không phải do công ty mẹ sở hữu một cách trực tiếp hay gián tiếp thông qua các công ty con. Lợi ích cổ đông không kiểm soát được trình bày trong Báo cáo tình hình tài chính hợp nhất thành một chi tiêu riêng thuộc phần vốn chủ sở hữu. Phần sở hữu của cổ đông không kiểm soát trong Báo cáo kết quả kinh doanh của tập đoàn cũng phải được trình bày thành chi tiêu riêng biệt trong Báo cáo kết quả hoạt động hợp nhất.
+
+Đồng tiền báo cáo của Cavifood, VALC và BIDC là Đô la Mỹ. Đồng tiền báo cáo của LVI là Kíp Lào ("LAK"). Đồng tiền báo cáo cho mục đích hợp nhất của LVB là VND. Để phục vụ cho mục đích hợp nhất theo phương pháp vốn chủ sở hữu đối với khoản đầu tư vào các công ty liên doanh, liên kết trong báo cáo tài chính hợp nhất của Ngân hàng và các công ty con, tài sản và công nợ được chuyển đổi sang Đồng Việt Nam theo tỷ giá tại ngày lập báo cáo tình hình tài chính hợp nhất, tài khoản vốn được quy đổi sang Đồng Việt Nam theo tỷ giá của ngày phát sinh giao
+
+--- TRANG 13 ---
+dịch, và báo cáo kết quả hoạt động hợp nhất được chuyển đổi theo tỷ giá bình quân của năm tài chính. Chênh lệch tỷ giá phát sinh do chuyển đổi báo cáo sang Đồng Việt Nam được ghi nhận vào khoản mục "Chênh lệch tỷ giá hối đoái" trên báo cáo tình hình tài chính hợp nhất và được kết chuyển vào báo cáo kết quả hoạt động hợp nhất tại thời điểm thanh lý khoản đầu tư.
+
+# 3. Công cụ tài chính phát sinh và kế toán phòng ngừa rủi ro 
+
+### 3.1. Các hợp đồng kỳ hạn và hoán đổi tiền tệ
+
+Đối với các hợp đồng kỳ hạn và hoán đổi tiền tệ, chênh lệch giữa giá trị VND của số lượng ngoại tệ cam kết mua/bán tính theo tỷ giá kỳ hạn và tỷ giá giao ngay tại ngày hiệu lực của hợp đồng được ghi nhận ngay tại ngày hiệu lực của hợp đồng tại khoản mục "Các khoản lãi, phí phải thu" hoặc "Các khoản lãi, phí phải trả" trên báo cáo tình hình tài chính hợp nhất. Chênh lệch này sau đó được phân bổ tuyển tính vào khoản mục "Lãi/(Lỗ) thuần từ hoạt động kinh doanh vàng và ngoại hối" trong suốt kỳ hạn của hợp đồng. Tại thời điểm lập báo cáo tài chính hợp nhất, cam kết theo các hợp đồng kỳ hạn được đánh giá lại theo tỷ giá bình quân mua và bán ngoại tệ giao ngay của đồng ngoại tệ do Ngân hàng niêm yết tại ngày làm việc cuối cùng của tháng, quý, năm. Chênh lệch tỷ giá do đánh giá lại số dư ngoại tệ của các hợp đồng kỳ hạn được ghi vào khoản mục "Chênh lệch tỷ giá hối đoái" trên "Vốn chủ sở hữu" và được kết chuyển vào báo cáo kết quả hoạt động hợp nhất vào cuối giai đoạn tài chính.
+
+### 3.2. Các hợp đồng hoán đổi lãi suất
+
+Giá trị cam kết trong các hợp đồng hoán đổi lãi suất một đồng tiền không được ghi nhận trên báo cáo tình hình tài chính hợp nhất. Đối với các hợp đồng hoán đổi lãi suất hai đồng tiền có hoán đổi gốc đầu kỳ, giá trị các cam kết được ghi nhận trên báo cáo tình hình tài chính hợp nhất. Các khoản thu nhập và chi phí phát sinh từ các ảnh hưởng lãi suất được ghi nhận theo nguyên tắc dự thu, dự chi. Đối với các hợp đồng hoán đổi lãi suất hai đồng tiền không hoán đổi gốc đầu kỳ, giá trị các cam kết chỉ được ghi nhận trên báo cáo tình hình tài chính hợp nhất tại ngày hoán đổi gốc. Các khoản thu nhập/chi phí phát sinh từ các ảnh hưởng lãi suất được ghi nhận theo nguyên tắc dự thu, dự chi.
+
+## 4. Kế toán thu nhập lãi, chi phí lãi và ngừng dự thu lãi
+
+Doanh thu từ lãi cho vay và chi phí trả lãi vay được ghi nhận trong báo cáo kết quả hoạt động trên cơ sở dự thu, dự chi. Theo Thông tư số 31/2024/TT-NHNN ngày 30 tháng 6 năm 2024 Quy định về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài ("Thông tư 31") có hiệu lực ngày 01 tháng 07 năm 2024 của Thống đốc Ngân hàng Nhà nước, lãi phải thu phát sinh từ các khoản cho vay phân loại từ nhóm 2 dến nhóm 5 sẽ không được ghi nhận vào báo cáo kết quả hoạt động. Lãi phải thu của các khoản nợ này được chuyển ra theo dõi ở tài khoản ngoại bảng và được ghi nhận vào báo cáo kết quả hoạt động khi Ngân hàng thực nhận.
+
+Doanh thu lãi và chi phí lãi của các khoản chứng khoán đầu tư được hạch toán theo nguyên tắc dự thu, dự chi. Đối với các khoản lãi dự thu phát sinh từ các khoản chứng khoán đầu tư bị quá hạn sẽ không được hạch toán vào báo cáo kết quả hoạt động trong kỳ và các khoản dự thu này được chuyển ra theo dõi ở tài khoản ngoại bảng và được ghi nhận vào báo cáo kết quả hoạt động khi Ngân hàng thực nhận.
+
+## 5. Kế toán các khoản thu từ phí dịch vụ và hoa hồng
+
+Các khoản phí dịch vụ và hoa hồng được ghi nhận theo nguyên tắc dự thu, dự chi.
+Thu phí từ hoạt động bảo lãnh, hoạt động thư tín dụng, hoạt động đầu tư (trái phiếu,...) được hạch toán trên cơ sở dự thu, phân bổ.
+
+## 6. Kế toán đối với cho vay khách hàng
+
+Các khoản cho vay và ứng trước khách hàng được công bố và trình bày theo số dư nợ gốc tại thời điểm lập báo cáo. Trong đó thư tín dụng trả chậm có điều khoản thỏa thuận bên thụ hưởng được thanh toán trả ngay hoặc trả trước ngày đến hạn thanh toán thư tín dụng từ ngày 1 tháng 7 năm 2024, ngân hàng hạch toán cho vay khách hàng số tiền ngân hàng hoàn trả đã thanh toán cho bên thụ hưởng theo cam kết tại thư tín dụng theo quy định Thông tư số 21/2024/TT-NHNN quy định về nghiệp vụ thư tín dụng và các hoạt động kinh doanh khác liên quan đến thư tín dụng ("Thông tư 21").
+
+Phân loại nợ và trích lập dự phòng rủi ro tín dụng
+
+--- TRANG 14 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ
+Quý III Năm 2025
+
+Việc phân loại nợ và trích lập dự phòng rủi ro tín dụng theo quy định của Thông tư 31/2024/TT-NHNN quy định
+về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân
+hàng nước ngoài (“Thông tư 31”) hiệu lực thi hành từ ngày 1 tháng 7 năm 2024 và Nghị định 86/2024/ND-CP ngày
+11 tháng 07 năm 2024 quy định về mức trích, phương pháp trích lập dự phòng rủi ro, việc sử dụng dự phòng để xử lý
+rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và trường hợp tổ chức tín dụng phân bổ
+lãi phải thu phải thoái (“Nghị định 86”), có hiệu lực ngày 11 tháng 07 năm 2024 của Chính phủ được áp dụng với các
+Tài sản có (sau đây gọi là nợ) phát sinh từ các hoạt động sau:
+
+a) Cho vay;
+
+b) Cho thuê tài chính;
+
+c) Chiết khẩu, tái chiết khẩu công cụ chuyển nhượng và giấy tờ có giá khác;
+
+d) Bao thanh toán;
+
+e) Cấp tín dụng dưới hình thức phát hành thẻ tín dụng;
+
+f) Trả thay theo cam kết ngoại bảng (bao gồm khoản trả thay nghĩa vụ của khách hàng trong hoạt động bảo lãnh,
+nghiệp vụ thư tín dụng (trừ các trường hợp thuộc nghiệp vụ phát hành thư tín dụng trả chậm có điều khoản thỏa thuận
+bên thụ hưởng được thanh toán trả ngay hoặc trả trước ngày đến hạn thanh toán thư tín dụng và nghiệp vụ hoàn trả
+thư tín dụng theo hình thức thỏa thuận với khách hàng thanh toán bằng nguồn tiền của ngân hàng hoàn trả kể từ ngày
+ngân hàng hoàn trả thanh toán cho bên thụ hưởng; nghiệp vụ thương lượng thanh toán thư tín dụng) và các khoản trả
+thay khác theo cam kết ngoại bảng);
+
+g) Mua và ủy thác mua trái phiếu doanh nghiệp (bao gồm cả trái phiếu do tổ chức tín dụng khác phát hành) chưa
+niêm yết trên thị trường chứng khoán hoặc chưa đăng ký giao dịch trên hệ thống giao dịch Upcom (sau đây gọi là trái
+phiếu chưa niêm yết), không bao gồm mua trái phiếu chưa niêm yết bằng nguồn vốn ủy thác mà bên ủy thác chịu rủi
+ro;
+
+h) Ủy thác cấp tín dụng;
+
+i) Gửi tiền (trừ tiền gửi không ký hạn tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tiền gửi tại ngân hàng
+chính sách xã hội theo quy định của Ngân hàng Nhà nước Việt Nam về việc các tổ chức tín dụng Nhà nước duy trì số
+dư tiền gửi tại ngân hàng chính sách xã hội) tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của
+pháp luật và gửi tiền (trừ tiền gửi không ký hạn) tại tổ chức tín dụng ở nước ngoài;
+
+j) Mua, bán nợ theo quy định của Ngân hàng Nhà nước Việt Nam, trừ hoạt động mua nợ xấu của Tổ chức tín
+dụng, chi nhánh ngân hàng nước ngoài với Công ty quản lý tài sản của các Tổ chức tín dụng Việt Nam;
+
+k) Mua bán lại trái phiếu Chính phủ trên thị trường chứng khoán theo quy định của pháp luật về phát hành, đăng
+ký, lưu ký, niêm yết và giao dịch công cụ nợ của Chính phủ trên thị trường chứng khoán;
+
+l) Mua chứng chỉ tiền gửi do tổ chức tín dụng, chi nhánh ngân hàng nước ngoài khác phát hành;
+
+m) Nghiệp vụ phát hành thư tín dụng trả chậm có điều khoản thỏa thuận bên thụ hưởng được thanh toán trả ngay
+hoặc trả trước ngày đến hạn thanh toán thư tín dụng và nghiệp vụ hoàn trả thư tín dụng theo hình thức thỏa thuận với
+khách hàng thanh toán bằng nguồn tiền của ngân hàng hoàn trả kể từ ngày ngân hàng hoàn trả thanh toán cho bên thụ
+hưởng; nghiệp vụ thương lượng thanh toán thư tín dụng;
+
+n) Mua hẳn miễn truy đòi bộ chứng từ xuất trình theo thư tín dụng, trừ trường hợp tổ chức tín dụng, chi nhánh
+ngân hàng nước ngoài mua hẳn miễn truy đòi bộ chứng từ theo thư tín dụng do chính tổ chức tín dụng, chi nhánh ngân
+hàng nước ngoài đó phát hành.
+
+Theo đó, nhóm nợ của khách hàng là nhóm nợ có rủi ro cao hơn khi thực hiện phân loại nợ đồng thời theo Điều
+10, Điều 11 của Thông tư 31 và nhóm nợ của khách hàng do Trung tâm Thông tin tín dụng Quốc gia Việt Nam (“CIC”)
+của Ngân hàng Nhà nước cung cấp.
+
+Ngân hàng thực hiện giữ nguyên nhóm nợ đối với một số khoản vay theo quy định tại:
+
+- Thông tư số 10/2015/TT-NHNN ngày 22 tháng 7 năm 2015 hướng dẫn thực hiện một số nội dung của Nghị định
+số 55/2015/ND-CP ngày 09 tháng 6 năm 2015 của Chính phủ về chính sách tín dụng phục vụ phát triển nông nghiệp,
+nông thôn; Thông tư số 06/2024/TT-NHNN ngày 18 tháng 06 năm 2024 sửa đổi, bổ sung một số điều của Thông tư
+số 02/2023/TT-NHNN (“Thông tư 02”) ngày 23 tháng 4 năm 2023 quy định về việc tổ chức tín dụng, chi nhánh ngân
+hàng nước ngoài cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ nhằm hỗ trợ khách hàng khó khăn; Thông tư
+
+12
+
+--- TRANG 15 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẢU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trấn Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025 53/2024/TT-NHNN ("Thông tư 53") ngày 04 tháng 12 năm 2024 quy định về việc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cơ cấu lại thời hạn trả nợ đối với khách hàng gặp khó khăn do ảnh hưởng, thiệt hại của bão số 3 , ngập lụt, lũ, sạt lở đất sau bão số 3 và các văn bản của Ngân hàng Nhà nước Việt Nam về việc phân loại nợ và trích lập dự phòng rủi ro.
+
+- Thông tư số B7.023.001.S.R.Ch ngày 23 tháng 11 năm 2023 của Ngân hàng Quốc gia Campuchia ("NBC") về việc cơ cấu lại các khoản vay đối với lĩnh vực du lịch tại tỉnh Siem Reap; Thông tư số B7.024.001.Sor.Ror.Chor ngày 29 tháng 8 năm 2024 của NBC về việc Cơ cấu nợ và phân loại nợ để hỗ trợ khách hàng khó khăn và thúc đẩy tăng trưởng kinh tế; Văn bản số B7.024.2720 Chhor.Tor ngày 25 tháng 12 năm 2024 của Tổng Vụ trưởng Vụ Giám sát Ngân hàng Quốc gia Campuchia về việc phân loại nợ đối với một số khách hàng;
+- Quyết định số 238/BOL ngày 26 tháng 3 năm 2020 và Quyết định số 368/BOL ngày 26 tháng 3 năm 2024 của Ngân hàng Nhà nước Lào về việc phân loại nợ đối với các khách hàng bị ảnh hưởng bởi địch Covid-19; Thông báo số 172/BOL ngày 15 tháng 5 năm 2017 của Thống đốc Ngân hàng Nhà nước Lào; Công văn số 89/VQLNHTM ngày 16 tháng 2 năm 2024 của Ngân hàng Nhà nước Lào; Công văn số 98/VQLNHTM ngày 25 tháng 02 năm 2025 của Ngân hàng Nhà nước Lào và các văn bản khác của Ngân hàng Nhà nước Lào về việc phân loại nợ đối với một số khách hàng.
+
+Các khoản nợ được phân loại theo các mức độ rủi ro như sau: Nợ đủ tiêu chuẩn, Nợ cần chú ý, Nợ dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn. Nợ xấu là các khoản nợ được phân loại là Nợ dưới tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn. Các khoản nợ được phân loại và trích lập dự phòng rủi ro tín dụng vào thời điểm cuối mỗi tháng trong năm tài chính.
+
+Rủi ro tín dụng thuần của các khoản nợ được tính bằng giá trị còn lại của khoản nợ trừ giá trị của tài sản bảo đảm đã được khấu trừ theo các tỷ lệ được quy định trong Nghị định 86. Dự phòng cụ thể được trích lập dựa trên rủi ro tín dụng thuần của các khoản nợ theo các tỷ lệ tương ứng với từng nhóm như sau:
+
+|  Nhóm | Loại | Tỷ lệ dự phòng cụ thể  |
+| --- | --- | --- |
+|  1 | Nợ đủ tiêu chuẩn | $0 \%$  |
+|  2 | Nợ cần chú ý | $5 \%$  |
+|  3 | Nợ dưới tiêu chuẩn | $20 \%$  |
+|  4 | Nợ nghi ngờ | $50 \%$  |
+|  5 | Nợ có khả năng mất vốn | $100 \%$  |
+
+Đối với các khách hàng có số dư nợ cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 06, Ngân hàng cần thực hiện trích dự phòng cụ thể như sau
+
+- Đến ngày 31 tháng 12 năm 2023: tối thiểu $50 \%$ số tiền dự phòng cụ thể phải trích bổ sung;
+- Đến ngày 31 tháng 12 năm 2024: $100 \%$ số tiền dự phòng cụ thể phải trích bổ sung
+
+Đối với các khách hàng có số dư nợ được cơ cấu lại thời hạn trả nợ theo quy định tại Thông tư 53, Ngân hàng xác định và ghi nhận số tiền dự phòng cụ thể phải trích bổ sung (không áp dụng quy định giữ nguyên nhóm nợ) đối với toàn bộ dư nợ của khách hàng được cơ cấu lại thời hạn trả nợ và giữ nguyên nhóm nợ và thực hiện trích lập dự phòng cụ thể bổ sung theo hướng dẫn tại Quyết định số 1510/QĐ-Ttg ngày 4 tháng 12 năm 2024 về việc phân loại tài sản có, mức trích lập dự phòng rủi ro, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro đối với khoản nợ của khách hàng gặp khó khăn do ảnh hưởng, thiệt hại của bão số 3 như sau:
+
+- Đến ngày 31 tháng 12 năm 2024: tối thiểu $35 \%$ số tiền dự phòng cụ thể phải trích bổ sung;
+- Đến ngày 31 tháng 12 năm 2025: tối thiểu $70 \%$ số tiền dự phòng cụ thể phải trích bổ sung;
+- Đến ngày 31 tháng 12 năm 2026: $100 \%$ số tiền dự phòng cụ thể phải trích bổ sung.
+
+Theo Nghị định 86, dự phòng chung được trích lập để dự phòng cho những rủi ro có thể xảy ra nhưng chưa xác định được khi trích lập dự phòng cụ thể. Theo đó, Ngân hàng phải thực hiện trích lập và duy trì dự phòng chung bằng $0,75 \%$ tổng giá trị các khoản nợ được phân loại từ nhóm 1 đến nhóm 4 , ngoại trừ các khoản tiền gửi tại tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài tại Việt Nam theo quy định của pháp luật và tiền gửi tại tổ chức tín dụng nước ngoài; các khoản cho vay, mua có kỳ hạn giấy tờ có giá đối với tổ chức tín dụng, chi nhánh ngân hàng
+
+--- TRANG 16 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHƯƠNG Viết Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025
+
+nước ngoài khác tại Việt Nam; các khoản mua ký phiếu, tín phiếu, chứng chỉ tiền gửi, trái phiếu do tổ chức tín dụng, chi nhánh ngân hàng nước ngoài khác phát hành trong nước; và các khoản mua bán lại trái phiếu Chính phủ theo quy định tại Thông tư 31.
+
+Ngoài ra, đối với các khoản cho vay các tổ chức tín dụng khác thuộc dự án Tài chính Nông thôn, Ngân hàng thực hiện trích dự phòng chung là 1,5% đối với dự án từ Nhóm 1 đến Nhóm 4 theo hướng dẫn của Ngân hàng Nhà nước Việt Nam tại Công văn số 3153/NHNN-TTGSNH ngày 22 tháng 6 năm 2012.
+
+## Xử lý rủi ro tín dụng
+
+Dự phòng được ghi nhận như một khoản chi phí trên báo cáo kết quả hoạt động hợp nhất và được sử dụng để xử lý các khoản nợ xấu. Theo quy định tại Nghị định 86 và Thông tư 31, Ngân hàng thành lập Hội đồng Xử lý rủi ro tín dụng để xử lý các khoản nợ xấu được phân loại vào nhóm 5, hoặc nếu khách hàng vay là pháp nhân giải thể, phá sản, hoặc là cá nhân bị chết, mất tích.
+
+## Phân loại nợ cho các cam kết ngoại bảng
+
+Ngân hàng thực hiện phân loại đối với các khoản bảo lãnh, nghiệp vụ thu tín dụng (trừ nghiệp vụ phát hành thu tín dụng trả chậm có điều khoản thỏa thuận bên thu) thường được thanh toán trả ngay hoặc trả trước ngày đến hạn thanh toán thu tín dụng và nghiệp vụ hoàn trả thu tín dụng theo hình thức thỏa thuận với khách hàng thanh toán bằng nguồn tiền của ngân hàng hoàn trả kết từ ngày ngân hàng hoàn trả thanh toán cho bên thu, nghiệp vụ thương lượng thanh toán thu tín dụng, chấp nhận thanh toán, cam kết cho vay không hủy ngang và các cam kết khác phát sinh rủi ro tín dụng (gọi chung là các khoản cam kết ngoại bảng) vào các nhóm quy định tại Điều 9, Điều 10 hoặc Điều 11 của Thông tư 31. Theo đó, các khoản cam kết ngoại bảng được phân loại theo các mức độ rủi ro như sau: Nợ đủ tiêu chuẩn, Nợ cần chú ý, Nợ được tiêu chuẩn, Nợ nghi ngờ và Nợ có khả năng mất vốn.
+
+## 7. Kế toán các nghiệp vụ kinh doanh, đầu tư chứng khoán
+
+### 7.1. Chứng khoán kinh doanh
+
+Chứng khoán kinh doanh là những chứng khoán nợ, chứng khoán vốn, chứng khoán khác được Ngân hàng mua hẳn và dự định bán ra trong thời gian ngắn nhằm mục đích thu lợi từ việc hưởng chênh lệch giá.
+
+Chứng khoán kinh doanh được ghi nhận theo giá gốc vào ngày giao dịch và luôn được phân ánh theo giá gốc trong thời gian nắm giữ tiếp theo.
+
+Tiền lãi và cổ tức bằng tiền thu được trong thời gian nắm giữ chứng khoán kinh doanh được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên cơ sở thực thu.
+
+### 7.2. Chứng khoán đầu tư sẵn sàng để bán
+
+Chứng khoán đầu tư sẵn sàng để bán bao gồm các chứng khoán nợ và chứng khoán vốn mà Ngân hàng nắm giữ dưới 20% quyền biểu quyết với mục đích đầu tư và sẵn sàng để bán, không thuộc loại chứng khoán mua vào bán ra thường xuyên nhưng có thể bán bất cứ lúc nào xét thấy có lợi và Ngân hàng không phải là có dông sáng lập; hoặc không là đối tác chiến lược; hoặc không có khả năng chi phối nhất định vào quá trình lập, quyết định các chính sách tài chính và hoạt động của doanh nghiệp nhận đầu tư thông qua văn bản thỏa thuận cử nhân sự tham gia Hội đồng Quản trị/Ban Điều hành.
+
+Chứng khoán vốn được ghi nhận theo giá gốc vào ngày giao dịch và luôn được phân ánh theo giá gốc trong thời gian nắm giữ tiếp theo.
+
+Chứng khoán nợ được ghi nhận theo mệnh giá vào ngày giao dịch. Lãi dự thu của chứng khoán trước khi mua (đối với chứng khoán nợ trả lãi sau) hoặc lãi nhận trước chờ phân bổ (đối với chứng khoán nợ trả lãi trước) được phân ánh trên một tài khoản riêng. Phần chiết khấu/phụ trội là chênh lệch âm/đương giữa giá gốc với giá trị của khoản tiền gồm mệnh giá cộng (+) lãi dồn tích trước khi mua (nếu có) hoặc trừ (-) lãi nhận trước chờ phân bổ (nếu có), cũng được phân ánh trên một tài khoản riêng.
+
+Trong khoảng thời gian nắm giữ chứng khoán tiếp theo, các chứng khoán này được ghi nhận theo mệnh giá. Chiết khấu/phụ trội (nếu có) của chứng khoán sẵn sàng để bán được phân bổ vào báo cáo kết quả hoạt động riêng theo phương pháp đường thẳng trong suốt thời gian còn lại ước tính của chứng khoán. Số tiền lãi trả sau được ghi nhận theo nguyên tắc: Số tiền lãi dồn tích trước khi mua được ghi giảm giá trị của chính chứng khoán đó, đối ứng với tài khoản riêng.
+
+--- TRANG 17 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIỂN VIỆT NAM 
+
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHƯHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ
+Quý III Năm 2025
+khoản lãi dự thu; và số tiền lãi dồn tích sau thời điểm mua được ghi nhận vào thu nhập của Ngân hàng theo phương pháp cộng dồn. Số tiền lãi nhận trước được hạch toán phân bố vào thu lãi đầu tư chứng khoán theo phương pháp đường thẳng cho quãng thời gian đầu tư chứng khoán.
+
+## 7.3. Chứng khoán đầu tư giữ đến ngày đáo hạn
+
+Chứng khoán đầu tư giữ đến ngày đáo hạn là các chứng khoán nợ được Ngân hàng mua hẳn với mục đích đầu tư để hưởng lãi suất, và Ngân hàng có ý định và có khả năng giữ các chứng khoán này đến ngày đáo hạn. Chứng khoán giữ đến ngày đáo hạn có giá trị được xác định và có ngày đáo hạn cụ thể. Trong trường hợp chứng khoán được bán hẳn trước thời điểm đáo hạn, các chứng khoán này sẽ được phân loại lại sang chứng khoán kinh doanh hay chứng khoán sẵn sàng để bán. Chứng khoán đầu tư giữ đến ngày đáo hạn được ghi nhận tương tự như chứng khoán nợ sẵn sàng để bán.
+
+## 7.4. Dự phòng các khoản kinh doanh, đầu tư chứng khoán
+
+Chứng khoán thuộc đối tượng điều chỉnh của Thông tư 31 được phân loại nợ và trích lập dự phòng rủi ro tương tự chính sách phân loại nợ và trích lập dự phòng rủi ro cho vay khách hàng được trình bày tại mục 5 . Chứng khoán không thuộc đối tượng điều chỉnh của Thông tư 31 được lập dự phòng giảm giá khi giá trị ghi sổ cao hơn giá trị thị trường xác định theo quy định tại Thông tư số 48/2019/TT-BTC ngày 08 tháng 08 năm 2019 do Bộ Tài chính ban hành. Dự phòng rủi ro và dự phòng giảm giá chứng khoán kinh doanh được ghi nhận vào báo cáo kết quả hoạt động trên tài khoản "Lãi/(Lỗ) thuẫn từ mua bán chứng khoán kinh doanh". Dự phòng rủi ro và dự phòng giảm giá chứng khoán đầu tư sẵn sàng để bán và chứng khoán đầu tư giữ đến ngày đáo hạn được ghi nhận vào báo cáo kết quả hoạt động trên khoản mục "Lãi/(Lỗ) thuẫn từ mua bán chứng khoán đầu tư".
+
+## 8. Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt, vàng bạc, đá quý, kim loại quý, tiền gửi thanh toán tại Ngân hàng Nhà nước, tín phiếu Chính phủ và các giấy tờ có giá ngắn hạn khác đủ điều kiện chiết khấu với Ngân hàng Nhà nước, các khoản tiền gửi thanh toán và tiền gửi có thời hạn đáo hạn không quá ba tháng kể từ ngày gởi và các khoản đầu tư chứng khoán có thời hạn thu hồi hoặc đáo hạn không quá ba tháng kể từ ngày mua.
+
+## 9. Nguyên tắc và phương pháp ghi nhận thuế thu nhập doanh nghiệp và chi phí thuế thu nhập hoãn lại
+
+Thuế thu nhập doanh nghiệp thể hiện tổng giá trị của số thuế phải trả hiện tại và số thuế hoãn lại.
+Số thuế phải trả hiện tại được tính dựa trên thu nhập chịu thuế trong năm. Thu nhập chịu thuế khác với lợi nhuận thuần được trình bày trên báo cáo kết quả hoạt động hợp nhất vì thu nhập chịu thuế không bao gồm các khoản thu nhập hay chi phí tính thuế hoặc được khấu trừ trong các năm khác (bao gồm cả lỗ mang sang, nếu có) và ngoài ra không bao gồm các chi tiêu không chịu thuế hoặc không được khấu trừ.
+
+Thuế thu nhập hoãn lại được tính trên các khoản chênh lệch tạm thời giữa giá trị ghi sổ và cơ sở tính thuế thu nhập của các khoản mục tài sản hoặc công nợ trên báo cáo tài chính hợp nhất.
+
+Thuế thu nhập hoãn lại phải trả phải được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, trừ khi nợ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả của một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kể toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch. Tài sản thuế thu nhập hoãn lại chỉ được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế trong tương lai để khấu trừ các khoản chênh lệch tạm thời.
+
+Thuế thu nhập hoãn lại được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ tài sản được thu hồi hay nợ phải trả được thanh toán. Thuế thu nhập hoãn lại được ghi nhận vào báo cáo kết quả hoạt động hợp nhất và chi ghi vào vốn chủ sở hữu khi khoản thuế đó có liên quan đến các khoản mục được ghi thẳng vào vốn chủ sở hữu.
+
+Tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả được bù trừ khi Ngân hàng có quyền hợp pháp để bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và khi các tài sản thuế thu nhập hoãn lại và nợ thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế và Ngân hàng có dự định thanh toán thuế thu nhập hiện hành trên cơ sở thuần.
+
+--- TRANG 18 ---
+# NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẢU TƯ VÀ PHÁT TRIỂN VIỆT NAM
+
+Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025
+
+Việc xác định thuế thu nhập của Ngân hàng căn cứ vào các quy định hiện hành về thuế. Tuy nhiên, những quy định này thay đổi theo từng thời kỳ và việc xác định sau cùng về thuế thu nhập doanh nghiệp tùy thuộc vào kết quả kiểm tra của cơ quan thuế có thẩm quyền.
+
+Các loại thuế khác được áp dụng theo các luật thuế hiện hành tại Việt Nam.
+
+## 10. Kế toán các khoản vốn vay, phát hành chứng khoán nợ, công cụ vốn
+
+- Nguyên tắc ghi nhận chi phí đi vay: thực hiện theo quy định của chuẩn mực kế toán "Chi phí đi vay".
+- Ký phiếu, trái phiếu phát hành (GTCG): được phản ánh trên Báo cáo tình hình tài chính hợp nhất theo giá trị thuần (xác định bằng GTCG theo mệnh giá trừ (-) chiết khấu GTCG cộng (+) phụ trợ GTCG. Lãi dự trà được tính theo phương pháp đường thẳng.
+
+## 11. Vốn chủ sở hữu
+
+### 11.1. Cố phiếu phổ thông
+
+Cố phiếu phổ thông được phân loại là vốn chủ sở hữu.
+
+### 11.2. Thặng dư vốn cổ phần
+
+Khi nhận vốn từ cổ đông, chênh lệch giữa giá phát hành và mệnh giá của cổ phiếu được ghi nhận vào thặng dư vốn cổ phần trong vốn chủ sở hữu. Các chi phí phát sinh trực tiếp liên quan đến việc phát hành cổ phiếu phổ thông được ghi nhận là một khoản giảm trừ vào thặng dư vốn cổ phần.
+
+### 11.3. Cố phiếu quỹ
+
+Khi mua lại cổ phiếu đã phát hành, tổng số tiền thanh toán, bao gồm các chi phí liên quan trực tiếp cho việc mua lại cổ phiếu, sau khi trừ các loại thuế, được ghi nhận là cổ phiếu quỹ và được trình bày là một khoản giảm trừ trong vốn chủ sở hữu.
+
+### 11.4. Trích lập và sử dụng các quỹ từ lợi nhuận sau thuế
+
+|  Đơn vị | Quỹ | Tỷ lệ | Mức tối đa | Căn cứ trích  |
+| --- | --- | --- | --- | --- |
+|  Ngân hàng, BSL, BIDC hoạt động tại Việt Nam | Quỹ dự trữ bổ sung vốn điều lệ | 10% lợi nhuận sau thuế | 100% vốn điều lệ | Luật các Tổ chức tín dụng số 32/2024/QH15 được Quốc hội thông qua ngày 18 tháng 1 năm 2024;  |
+|   | Quỹ dự phòng tài chính | 10% lợi nhuận sau thuế |  |   |
+|   | Quỹ khác | Đại hội đồng cổ đông quyết định | Đại hội đồng cổ đông quyết định |   |
+|  BIDC hoạt động tại Campuchia, BAMC | Các quỹ thuộc vốn chủ sở hữu | Theo phê duyệt của các chủ sở hữu |  |   |
+|  BSC, MHBS | Quỹ dự trữ bổ sung vốn điều lệ | Theo Luật Chứng khoán 2019 và các văn bản hướng dẫn, Điều lệ hoạt động của Công ty | Thông tư 114/2021/TT-BTC |   |
+|   | Quỹ dự phòng tài chính và rủi ro nghiệp vụ | Theo quyết định của đại hội đồng cổ đông, Luật Chứng khoán 2019 và các văn bản hướng dẫn, Điều lệ hoạt động của Công ty |  |   |
+|  BIC | Quỹ dự trữ bắt buộc thuế | 5% lợi nhuận sau thuế | 10% vốn điều lệ | Nghị định số 46/2023/NĐ-CP do Chính phủ ban hành ngày 1 tháng 7 năm 2023  |
+
+--- TRANG 19 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHƠHCN Việt Nam Báo cáo tài chính hợp nhất giữa niên dị Quý III Năm 2023
+
+|  Đơn vị | Quỹ | Tỷ lệ | Mức tối đa | Căn cứ trích  |
+| --- | --- | --- | --- | --- |
+|  LVB | Quỹ dự trữ theo luật định | 5% lợi nhuận sau thuế | 10% vốn điều lệ | Luật Ngân hàng Thương mại Lào (sửa đổi) ban hành ngày 17 tháng 7 năm 2023  |
+|   |  |  |  | Luật Doanh nghiệp ban hành ngày 26 tháng 12 năm 2013  |
+
+V. Thông tin bổ sung cho các khoản mục trình bày trong Báo cáo tình hình tài chính hợp nhất
+
+Đơn vị: Triệu VND
+
+1. CHỨNG KHOÁN KINH DOANH
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Chứng khoán Nợ | 23,235,709 | 11,546,091  |
+|  - Chứng khoán Chính phủ, chính quyền địa phương | 503,310 | 611,340  |
+|  - Chứng khoán do các TCTD khác trong nước phát hành | 22,082,981 | 10,657,351  |
+|  - Chứng khoán do các TCKT trong nước phát hành | 649,418 | 277,400  |
+|  Chứng khoán Vốn | 1,372,350 | 1,227,249  |
+|  - Chứng khoán do các TCTD khác trong nước phát hành | 300,254 | 348,911  |
+|  - Chứng khoán do các TCKT trong nước phát hành | 1,071,702 | 878,119  |
+|  - Chứng khoán nước ngoài | 394 | 219  |
+|  Dự phòng rủi ro chứng khoán kinh doanh | (54,734) | (39,280)  |
+|   | 24,553,325 | 12,734,060  |
+
+1. CÁC CÔNG CỤ TÀI CHÍNH PHÁI SINH VÀ CÁC TÀI SẢN/(CÔNG NỢ) TÀI CHÍNH KHÁC
+
+|   | Tổng giá trị ghi sổ kế toán (theo tỷ giá ngày lập báo cáo tài chính) |  |   |
+| --- | --- | --- | --- |
+|   | Tài sản | Công Nợ | Giá trị thuần  |
+|  Tại 30/09/2025 | 123,665,308 | 124,287,488 | (622,180)  |
+|  Công cụ tài chính phải sinh tiền tệ | 117,839,194 | 118,104,215 | (265,021)  |
+|  -Giao dịch kỳ hạn tiền tệ | 24,048,575 | 24,239,248 | (190,673)  |
+|  -Giao dịch hoán đổi tiền tệ | 93,790,619 | 93,864,967 | (74,348)  |
+|  Công cụ tài chính phải sinh khác | 5,826,114 | 6,183,273 | (357,159)  |
+|  -Giao dịch hoán đổi lãi suất | 5,826,114 | 6,183,273 | (357,159)  |
+|  Tại 31/12/2024 | 81,798,457 | 81,135,201 | 663,256  |
+|  Công cụ tài chính phải sinh tiền tệ | 75,548,664 | 74,729,989 | 818,675  |
+|  -Giao dịch kỳ hạn tiền tệ | 10,943,598 | 10,947,498 | (3,900)  |
+|  -Giao dịch hoán đổi tiền tệ | 64,605,066 | 63,782,491 | 822,575  |
+|  Công cụ tài chính phải sinh khác | 6,249,793 | 6,405,212 | (155,419)  |
+|  -Giao dịch hoán đổi lãi suất | 6,249,793 | 6,405,212 | (155,419)  |
+
+17
+
+--- TRANG 20 ---
+NGẤN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+1. CHO VAY KHÁCH HÀNG
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Cho vay các tổ chức kinh tế, cá nhân trong nước | 2,195,741,189 | 2,015,937,086  |
+|  Cho vay đối với các tổ chức, cá nhân nước ngoài | 34,192,855 | 33,067,208  |
+|  Cho vay chiết khấu thương phiếu và các giấy tờ có giá | 34,646 | 58,860  |
+|  Cho thuê tài chính | 5,980,996 | 5,637,831  |
+|  Các khoản trả thay khách hàng | 1,169,593 | 1,381,435  |
+|   | 2,237,119,279 | 2,056,082,420  |
+|  - Phân tích chất lượng nợ cho vay: |  |   |
+|   | 30/09/2025 | 31/12/2024  |
+|  Nợ đủ tiêu chuẩn | 2,161,602,162 | (Trình bày lại)  |
+|  Nợ cần chú ý | 33,574,681 | 34,428,411  |
+|  Nợ dưới tiêu chuẩn | 5,232,692 | 3,666,965  |
+|  Nợ nghi ngờ | 7,293,695 | 5,577,478  |
+|  Nợ có khả năng mất vốn | 29,416,049 | 19,820,172  |
+|   | 2,237,119,279 | 2,056,082,420  |
+|  - Phân tích dư nợ theo thời gian: |  |   |
+|   | 30/09/2025 | 31/12/2024  |
+|  Nợ ngắn hạn | 1,389,053,260 | 1,332,621,811  |
+|  Nợ trung hạn | 135,586,759 | 104,835,026  |
+|  Nợ dài hạn | 712,479,260 | 618,625,583  |
+|   | 2,237,119,279 | 2,056,082,420  |
+|  - Phân tích dư nợ cho vay theo ngành: |  |   |
+|   | 30/09/2025 | 31/12/2024  |
+|  Nông nghiệp, lâm nghiệp và thuỷ sản | 81,667,652 | 77,787,188  |
+|  Công nghiệp chế biến, chế tạo | 348,167,014 | 319,153,826  |
+|  Sản xuất, phân phối điện, khí đốt và nước | 105,878,803 | 102,611,077  |
+|  Xây dựng | 104,119,919 | 103,618,244  |
+|  Bản buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe | 573,037,563 | 603,013,583  |
+|  có động cơ khác |  |   |
+|  Dịch vụ | 386,490,852 | 308,752,144  |
+|  Ngành khác | 637,757,476 | 541,146,358  |
+|   | 2,237,119,279 | 2,056,082,420  |
+
+--- TRANG 21 ---
+NGẤN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+1. DỰ PHÒNG RỦI RO CHO VAY KHÁCH HÀNG
+
+|   | Dự phòng chung | Dự phòng cụ thể  |
+| --- | --- | --- |
+|  Tại 01/01/2025 (trình bày lại) | 15,257,624 | 22,712,857  |
+|  Số trích lập/hoàn nhập | 1,262,616 | 15,578,893  |
+|  Dự phòng giảm do xử lý các khoản nợ khó thu hồi bằng nguồn dự phòng | - | (15,221,802)  |
+|  Tăng khác | 15,389 | 42,950  |
+|  Tại 30/09/2025 | 16,535,629 | 23,112,898  |
+|  Tại 01/01/2024 | 13,226,095 | 27,242,965  |
+|  Số trích lập/hoàn nhập | 1,273,672 | 12,815,887  |
+|  Dự phòng giảm do xử lý các khoản nợ khó thu hồi bằng nguồn dự phòng | - | (15,918,182)  |
+|  Tăng khác | (707) | (2,068)  |
+|  Tại 30/09/2024 | 14,499,060 | 24,138,602  |
+|  5. CHỨNG KHOÁN ĐẦU TƯ | 30/09/2025 | 31/12/2024  |
+|  Chứng khoán đầu tư sẵn sàng để bán |  |   |
+|  Chứng khoán Nợ | 144,758,996 | 157,827,472  |
+|  - Chứng khoán Chính phủ | 23,842,252 | 25,345,755  |
+|  - Chứng khoán Nợ do các TCTD khác trong nước phát hành | 119,817,744 | 129,376,717  |
+|  - Chứng khoán Nợ do các TCKT trong nước phát hành | 1,099,000 | 3,105,000  |
+|  Chứng khoán Vốn | 52,926 | 91,356  |
+|  - Chứng khoán Vốn do các TCTD khác trong nước phát hành | 23,064 | 23,064  |
+|  - Chứng khoán Vốn do các TCKT trong nước phát hành | 23,491 | 62,188  |
+|  - Chứng khoán Vốn nước ngoài | 6,371 | 6,104  |
+|  Dự phòng rủi ro trái phiếu sẵn sàng để bán | (85,396) | (204,481)  |
+|   | 144,726,526 | 157,714,347  |
+|  Chứng khoán đầu tư giữ đến ngày đào hạn (không bao gồm trái phiếu VAMC) |  |   |
+|  Giá trị chứng khoán | 118,044,532 | 121,120,044  |
+|  - Chứng khoán Chính phủ | 101,922,845 | 105,526,937  |
+|  - Chứng khoán Nợ do các TCTD khác trong nước phát hành | 11,268,929 | 13,526,349  |
+|  - Chứng khoán Nợ do các TCKT trong nước phát hành | 4,852,758 | 2,066,758  |
+|  Dự phòng rủi ro chứng khoán đầu tư giữ đến ngày đào hạn | (1,015,753) | (996,283)  |
+|   | 117,028,779 | 120,123,761  |
+
+--- TRANG 22 ---
+# 6. GÓP VÔN, ĐẢU TƯ ĐẢI HẠN
+
+- Phân tích theo loại hình đầu tư:
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Các khoản đầu tư vào công ty liên doanh | 3,214,661 | 2,608,671  |
+|  Các khoản đầu tư vào công ty liên kết | 755,000 | 739,841  |
+|  Các khoản đầu tư dài hạn khác | 183,050 | 182,914  |
+|  Dự phòng giảm giá đầu tư dài hạn | $(103,594)$ | $(107,832)$  |
+|   | 4,049,117 | 3,423,594  |
+
+- Danh sách các công ty liên kết, liên doanh quan trọng:
+
+|   | 30/09/2025 |  |  | 31/12/2024 |  |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | Giá gôc | Giá trị hiện tại | Tý lệ sớ
+hữu của
+ngân hàng | Giá gôc | Giá trị hiện tại | Tý lệ sớ
+hữu của
+ngân hàng  |
+|  Đầu tư vào TCTD khác | 1,505,054 | 2,503,205 |  | 1,505,054 | 1,946,369 |   |
+|  Ngân hàng liên doanh Việt Nga | 1,505,054 | 2,503,205 | 49.50\% | 1,505,054 | 1,946,369 | 49.50\%  |
+|  Đầu tư vào TCKT | 810,296 | 1,466,456 |  | 810,296 | 1,402,143 |   |
+|  Công ty Liên doanh Tháp BIDV (*) | 115,089 | 270,470 | 55.00\% | 115,089 | 278,925 | 55.00\%  |
+|  Công ty TNHH Báo hiểm nhân thọ | 451,000 | 440,986 | 37.25\% | 451,000 | 383,377 | 37.25\%  |
+|  BIDV Metlife |  |  |  |  |  |   |
+|  Công ty Cổ phần Cho thuê máy | 244,207 | 755,000 | 18.52\% | 244,207 | 739,841 | 18.52\%  |
+|  bay Việt Nam |  |  |  |  |  |   |
+|  Công ty TNHH Lương thực | - | - | 32.51\% | - | - | 32.51\%  |
+|  Campuchia - Việt Nam |  |  |  |  |  |   |
+
+(*) Ngân hàng sớ hữu $55 \%$ vốn góp của công ty liên doanh tháp BIDV. Điều lệ của công ty này yêu cầu phải có sự thống nhất của các thành viên trong Hội đồng thành viên đại diện $100 \%$ vốn điều lệ. Do đó, việc sớ hữu quá $50 \%$ phần vốn góp của công ty không đồng nghĩa với việc Ngân hàng có quyền kiểm soát đối với công ty. Do vậy, khoản đầu tư vào công ty Liên doanh Tháp BIDV được phân loại vào tài khoản "Vốn góp liên doanh".
+
+## 7. CÁC KHOẢN NỢ CHÍNH PHỦ VÀ NGÂN HÀNG TRUNG ƯƠNG
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Vay Ngân hàng Trung ương | 55,471,136 | 16,410,184  |
+|  Tiền gửi không ký hạn của KBNN | 2,050,487 | 1,359,539  |
+|  Tiền gửi có ký hạn của KBNN | 151,500,000 | 143,906,000  |
+|  Tiền gửi của Bộ Tài chính | 6,801,988 | 6,713,235  |
+|   | 215,823,611 | 168,388,958  |
+
+--- TRANG 23 ---
+# 8. TIÊN GỬI VÀ VAY CÁC TCTD KHÁC
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Tiền vàng gửi không kỳ hạn | 219,708,402 | 122,756,955  |
+|  - Bằng VND | 140,098,238 | 100,900,432  |
+|  - Bằng vàng và ngoại tệ | 79,610,164 | 21,856,523  |
+|  Tiền, vàng gửi có kỳ hạn | 89,119,127 | 82,853,830  |
+|  - Bằng VND | 83,014,000 | 71,040,000  |
+|  - Bằng vàng và ngoại tệ | 6,105,127 | 11,813,830  |
+|  Vay các TCTD khác | 20,811,926 | 27,343,282  |
+|  - Bằng VND | 18,601,030 | 13,158,344  |
+|  - Bằng vàng và ngoại tệ | 2,210,896 | 14,184,938  |
+|   | 329,639,455 | 232,954,067  |
+
+# 9. TIÊN GỬI CỦA KHÁCH HÀNG
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Tiền, vàng gửi không kỳ hạn | 415,130,086 | 380,289,200  |
+|  - Tiền gửi không kỳ hạn bằng VND | 354,560,828 | 327,346,243  |
+|  - Tiền gửi không kỳ hạn bằng vàng, ngoại tệ | 60,569,258 | 52,942,957  |
+|  Tiền, vàng gửi có kỳ hạn | 1,657,762,092 | 1,559,609,793  |
+|  - Tiền gửi có kỳ hạn bằng VND | 1,536,342,642 | 1,482,131,442  |
+|  - Tiền gửi có kỳ hạn bằng vàng, ngoại tệ | 121,419,450 | 77,478,351  |
+|  Tiền gửi vốn chuyên dùng | 9,727,032 | 8,397,233  |
+|  - Tiền gửi vốn chuyên dùng bằng VND | 4,732,205 | 5,096,317  |
+|  - Tiền gửi vốn chuyên dùng bằng vàng, ngoại tệ | 4,994,827 | 3,300,916  |
+|  Tiền gửi ký quỹ | 4,562,211 | 4,869,260  |
+|  - Tiền gửi ký quỹ bằng VND | 4,174,521 | 4,493,554  |
+|  - Tiền gửi ký quỹ bằng vàng, ngoại tệ | 387,690 | 375,706  |
+|   | 2,087,181,421 | 1,953,165,486  |
+
+# 10. PHÁT HÀNH GIÁY TỜ CÓ GIÁ
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Chứng chỉ tiền gửi | 144,520,038 | 148,259,629  |
+|  Dưới 12 tháng | 108,402,405 | 123,548,788  |
+|  Từ 12 tháng đến dưới 5 năm | 36,097,611 | 24,690,896  |
+|  Từ 5 năm trở lên | 20,022 | 19,945  |
+|  Ký phiếu | 519 | 513  |
+|  Dưới 12 tháng | 312 | 306  |
+|  Từ 12 tháng đến dưới 5 năm | 207 | 207  |
+|  Trái phiếu | 5,500,381 | 5,500,376  |
+|  Từ 12 tháng đến dưới 5 năm | 61 | 61  |
+|  Từ 5 năm trở lên | 5,500,320 | 5,500,315  |
+|  Trái phiếu tăng vốn BIDV | 54,693,127 | 45,139,647  |
+|   | 204,714,065 | 198,900,165  |
+
+--- TRANG 24 ---
+# 11. CÁC KHOẢN PHẢI TRẢ VÀ CÔNG NỢ KHÁC
+
+|   | 30/09/2025 | 31/12/2024
+(Trình bày lại)  |
+| --- | --- | --- |
+|  Các khoản phải trả nội bộ | 5,089,298 | 5,104,138  |
+|  Các khoản phải trả bên ngoài | 14,489,388 | 13,640,813  |
+|  Quỹ khen thưởng phúc lợi | 1,732,661 | 3,037,752  |
+|   | 21,311,347 | 21,782,703  |
+
+# 12. TÌNH HÌNH THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC VÀ THUẾ THU NHẬP HOẢN LẠI PHẢI TRẢ
+
+- Nghĩa vụ với ngân sách nhà nước
+
+|   | 31/12/2024
+(Trình bày lại) | Phát sinh trong kỳ |  | 30/09/2025  |
+| --- | --- | --- | --- | --- |
+|   |  | Sổ phải nộp | Sổ đã nộp |   |
+|  Thuế GTGT | 2,355 | 1,124,197 | $(1,069,996)$ | 56,556  |
+|  Thuế TNDN | 2,992,028 | 4,714,560 | $(6,207,176)$ | 1,499,412  |
+|  Các loại thuế khác | 194,333 | 2,585,503 | $(2,630,492)$ | 149,344  |
+|  Các khoản phí, lệ phí và các khoản phải nộp khác. | 177,339 | 64,857 | $(66,104)$ | 176,092  |
+|   | 3,366,055 | 8,489,117 | $(9,973,768)$ | 1,881,404  |
+
+- Thuế thu nhập hoãn lại phải trả
+
+|   | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  Thuế TNDN hoãn lại phải trả phát sinh từ các khoản chênh lệch tạm thời chịu thuế | 68,079 | 79,819  |
+|   | 68,079 | 79,819  |
+
+--- TRANG 25 ---
+# 13. VÔN CHỦ SỞ HỮU
+
+13.1. Báo cáo tình hình thay đổi vốn chủ sở hữu:
+
+|   | Vốn điều
+lệ | Thặng dư
+vốn cổ phần | Vốn khác | Chênh lệch
+tỷ giá hối
+đoái | Quỹ đầu tư
+phát triển | Quỹ dư
+phòng tài
+chính | Quỹ dư trũ bổ
+sung VĐL | Quỹ
+khác
+thuộc
+VCSH | Lợi nhuận
+sau thuế | Lợi ích cổ
+đông
+không
+kiểm soát | Tổng cộng  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Số dư đầu kỳ | 68,975,153 | 15,361,020 | 452,623 | (701,036) | 290,836 | 12,595,515 | 6,453,661 | 57,408 | 36,264,506 | 5,235,108 | 144,984,194  |
+|  Lợi nhuận trong kỳ | - | - | - | - | - | - | - | - | 18,548,338 | 392,021 | 18,940,359  |
+|  BIDV tăng vốn từ
+phát hành cổ phiếu
+riêng là | 1,238,466 | 3,514,708 | - | - | - | - | - | - | - | - | 4,753,174  |
+|  Công ty con tăng vốn
+điều lệ | - | - | 547,461 | - | (222,498) | - | - | - | (263,027) | (61,936) | -  |
+|  Trích lập/ (hoàn nhập)
+quỹ của TCTD | - | - | - | - | 429,835 | (5,954) | 2,278,341 | 879 | (2,703,101) | - | -  |
+|  Trích/Tạm trích quỹ
+khen thưởng, phác lợi | - | - | - | - | - | - | - | - | (1,073,052) | (51,972) | (1,125,024)  |
+|  BIC trả cổ tức | - | - | - | - | - | - | - | - | - | (86,198) | (86,198)  |
+|  Chênh lệch tỷ giá hối
+đoái | - | - | - | 466,083 | - | - | 1,812 | (42) | 11,717 | 16,956 | 496,526  |
+|  Tăng/ (Giảm) khác | - | - | - | - | - | (347) | (13) | - | 31,405 | (7,375) | 23,670  |
+|  Số dư cuối kỳ | 70,213,619 | 18,875,728 | 1,000,084 | (234,953) | 497,373 | 12,589,214 | 8,734,001 | 58,245 | 50,816,786 | 5,436,604 | 167,986,701  |
+
+--- TRANG 26 ---
+# 13.2. Chi tiết vốn đầu tư của TCTD: 
+
+| Vốn CP thường | Vốn CP ưu đãi | Tổng số |
+| :--: | :--: | :--: |
+| 30/09/2025 |  |  |
+| Vốn đầu tư của Nhà nước | 55,861,541 | - 55,861,541 |
+| Vốn góp của cố đông khác | 14,352,078 | - 14,352,078 |
+| Thặng dư vốn cố phẫn | 18,875,728 | - 18,875,728 |
+|  | 89,089,347 | - 89,089,347 |
+| 31/12/2024 |  |  |
+| Vốn đầu tư của Nhà nước | 55,861,541 | - 55,861,541 |
+| Vốn góp của cố đông khác | 13,113,612 | - 13,113,612 |
+| Thặng dư vốn cố phẫn | 15,361,020 | - 15,361,020 |
+|  | 84,336,173 | - 84,336,173 |
+
+### 13.3. Cố phiếu:
+
+Số lượng cố phiếu đăng ký phát hành
+Số lượng cố phiếu đã bán ra công chúng
+
+- Cố phiếu:phổ thông
+- Cố phiếu ưu đãi
+Số lượng cố phiếu đang được lưu hành
+- Cố phiếu:phổ thông
+- Cố phiếu ưu đãi
+
+Mệnh giá cố phiếu đang lưu hành
+Đơn vị: Cố phẫn
+
+| 30/09/2025 | 31/12/2024 |
+| :--: | :--: |
+| 7,021,361,917 | 6,897,515,268 |
+| 1,435,207,834 | 1,311,361,185 |
+| 1,435,207,834 | 1,311,361,185 |
+| - | - |
+| 7,021,361,917 | 6,897,515,268 |
+| 7,021,361,917 | 6,897,515,268 |
+| 10.000 đồng/cố phiếu | 10.000 đồng/cố phiếu |
+
+VI. Thông tin bổ sung cho các khoản mục trình bày trong Báo cáo kết quả hoạt động hợp nhất
+
+Đơn vị: Triệu VND
+
+## 14. THU NHẬP LÃI VÀ CÁC KHOẢN THU NHẬP TƯƠNG TỰ
+
+|  | Từ 01/01/2025 đến <br> 30/9/2025 | Từ 01/01/2024 đến <br> 30/9/2024 |
+| :-- | :--: | :--: |
+| Thu nhập lãi tiền gửi | 4,749,213 | 3,495,553 |
+| Thu nhập lãi cho vay khách hàng | 95,946,824 | 88,635,675 |
+| Thu lãi từ kinh doanh, đầu tư chứng khoán Nợ | 7,503,512 | 6,690,038 |
+| - Thu lãi từ chứng khoán kinh doanh | 306,519 | 315,441 |
+| - Thu lãi từ chứng khoán đầu tư | 7,196,993 | 6,374,597 |
+| Thu phí từ nghiệp vụ báo lãnh | 1,663,484 | 1,647,723 |
+| Thu nhập lãi cho thuê tài chính | 332,171 | 278,168 |
+| Thu khác từ hoạt động tín dụng | 1,062,833 | 1,072,011 |
+|  | 111,258,037 | 101,819,168 |
+
+--- TRANG 27 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trấn Quang Khải, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+1. CHI PHÍ LÃI VÀ CÁC CHI PHÍ TƯƠNG TỰ
+
+|   | Từ 01/01/2025 đến 30/9/2025 | Từ 01/01/2024 đến 30/9/2024  |
+| --- | --- | --- |
+|  Trả lãi tiền gửi | 57,166,961 | 49,807,576  |
+|  Trả lãi tiền vay | 1,630,922 | 1,906,319  |
+|  Trả lãi phát hành giấy tờ có giá | 8,232,443 | 7,356,750  |
+|  Chi phí hoạt động tín dụng khác | 117,778 | 379,676  |
+|   | 67,148,104 | 59,450,321  |
+
+1. LÃI/LÔ THUẦN TỪ MUA BẢN CHỨNG KHOÁN KINH DOANH
+
+|   | Từ 01/01/2025 đến 30/9/2025 | Từ 01/01/2024 đến 30/9/2024  |
+| --- | --- | --- |
+|  Thu nhập từ mua bán chứng khoán kinh doanh | 672,112 | 340,751  |
+|  Chi phí về mua bán chứng khoán kinh doanh | (327,976) | (155,968)  |
+|  (Chi phí)/Hoàn nhập dự phòng rủi ro chứng khoán kinh doanh | (16,256) | (3,063)  |
+|   | 327,880 | 181,720  |
+
+1. LÃI/LÔ THUẦN TỪ MUA BẢN CHỨNG KHOÁN ĐẦU TƯ
+
+|   | Từ 01/01/2025 đến 30/9/2025 | Từ 01/01/2024 đến 30/9/2024  |
+| --- | --- | --- |
+|  Thu nhập từ mua bán chứng khoán đầu tư | 1,211,389 | 511,965  |
+|  Chi phí về mua bán chứng khoán đầu tư | (945) | (1,059)  |
+|  Chi phí dự phòng rủi ro chứng khoán đầu tư | 99,579 | (774,998)  |
+|   | 1,310,023 | (264,092)  |
+
+1. THU NHẬP TỪ GÓP VỚN, MUA CÓ PHÂN
+
+|   | Từ 01/01/2025 đến 30/9/2025 | Từ 01/01/2024 đến 30/9/2024  |
+| --- | --- | --- |
+|  Cổ tức nhận được; lãi được chia trong kỳ từ góp vốn, mua cổ phần: | 23,364 | 20,054  |
+|  - Từ chứng khoán Vốn kinh doanh | 20,114 | 18,544  |
+|  - Từ chứng khoán Vốn đầu tư | 1,644 | -  |
+|  - Từ góp vốn, đầu tư dài hạn | 1,606 | 1,510  |
+|  Phân chia lãi/lỗ theo phương pháp vốn CSH của các khoản đầu tư vào các công ty liên doanh, liên kết | 356,026 | 280,996  |
+|   | 379,390 | 301,050  |
+
+--- TRANG 28 ---
+# 19. CHI PHÍ HOẠT ĐỘNG
+
+|   | Từ 01/01/2025 đến 30/9/2025 | Từ 01/01/2024 đến 30/9/2024  |
+| --- | --- | --- |
+|  1. Chi nộp thuế và các khoản phí, lệ phí | 63,677 | 93,854  |
+|  2. Chi phí cho nhân viên: | $11,847,277$ | $10,450,808$  |
+|  - Chi lương và phu cấp | $9,711,884$ | $8,461,519$  |
+|  - Các khoản chi đóng góp theo lương | 904,156 | 853,394  |
+|  - Chi khác cho nhân viên | 843,904 | 826,962  |
+|  3. Chi về tài sản | $3,129,230$ | $2,896,972$  |
+|  Trong đó, khẩu hao Tài sản cố định | 925,427 | 970,470  |
+|  4. Chi cho hoạt động quản lý công vụ: | $4,483,430$ | $4,032,424$  |
+|  - Công tác phí | 233,081 | 234,463  |
+|  - Chi hoạt động đoàn thể của TCTD | 22,629 | 14,891  |
+|  5. Chi nộp phí bảo hiểm, bảo toàn tiền gửi của khách hàng | $1,127,946$ | 962,013  |
+|  6. (Hoàn nhập)/Chi phí dự phòng rủi ro (không tính dự phòng rủi ro tín dụng; chi phí dự phòng chứng khoán) | $(4,628)$ | $(7,693)$  |
+|   | 20,646,932 | 18,408,378  |
+
+VII. Các thông tin khác
+
+Đơn vị: Triệu VND
+
+## 20. GIAO DỊCH CÁC BÊN LIÊN QUAN
+
+Chi tiết số dư lớn với các bên liên quan tại ngày 30 tháng 6 năm 2025 như sau:
+
+|  Bên liên quan | Các giao dịch | Phải thu | Phải trả  |
+| --- | --- | --- | --- |
+|  Đại diện chủ sở hữu (NHNN) | Tiền gửi của BIDV tại đại diện chủ sở hữu Các khoản vay từ đại diện chủ sở hữu | $44,139,308$ | -  |
+|  Bên liên quan của chủ sở hữu (BTC và KBNN) | Tiền gửi của BTC và KBNN tại BIDV | - | $17,833,066$  |
+|  Cố đông chiến lược | Tiền gửi của BIDV tại cố đông chiến lược | 571,023 | -  |
+|   | Tiền gửi của cố đông chiến lược tại BIDV | - | 511,485  |
+|  Các công ty liên doanh | Tiền gửi của công ty liên doanh tại BIDV | - | $5,758,240$  |
+|   | Tiền gửi của BIDV tại công ty liên doanh | $2,074,727$ | -  |
+|  Các công ty liên kết | Tiền gửi tại BIDV của công ty liên kết | - | 516,618  |
+|  Người quản lý, thành viên Ban Kiểm soát | Tiền gửi của người quản lý, thành viên Ban Kiểm soát tại BIDV | - | 85,784  |
+|   | Dư nợ thẻ tín dụng tại BIDV của người quản lý, thành viên Ban Kiểm soát | 1,742 | -  |
+
+--- TRANG 29 ---
+# 21. MỨC ĐỘ TẬP TRUNG THEO KHU VỰC ĐỊA LÝ CỦA CÁC TÀI SẢN, CÔNG NỢ VÀ CÁC KHOẢN MỤC NGOẠI BẰNG
+
+|  Trong nước
+Nước ngoài | Tổng dư nợ cho vay | Tổng tiền gửi | Các cam kết ngoại báng | CCTC phải sinh | Kinh doanh và đầu tư chứng khoán  |
+| --- | --- | --- | --- | --- | --- |
+|   | 2,221,036,196 | 2,521,981,952 | 476,031,826 | 622,180 | 285,117,026  |
+|   | 30,188,438 | 34,379,473 | 2,077,222 | - | 2,347,487  |
+|   | 2,251,224,634 | 2,556,361,425 | 478,109,048 | 622,180 | 287,464,513  |
+
+## 22. CHÍNH SÁCH QUÂN LÝ RÚI RO LIÊN QUAN ĐÊN CÔNG CỤ TÀI CHÍNH
+
+Ngày 29 tháng 11 năm 2019, Thống đốc Ngân hàng Nhà nước Việt Nam đã ký Quyết định số 2505/QĐ-NHNN, theo đó công nhận Ngân hàng TMCP Đầu tư và Phát triển Việt Nam triển khai áp dụng Thông tư số 41/2016/TTNHNN ban hành ngày 30 tháng 12 năm 2016 trước thời hạn, kể từ ngày 01 tháng 12 năm 2019. Bên cạnh việc triển khai đáp ứng các yêu cầu của Ngân hàng Nhà nước về Quản lý rủi ro ("QLRR"), với sự hỗ trợ của các đơn vị tư vấn, Ngân hàng cũng luôn chủ động nghiên cứu, phát triển công tác QLRR đáp ứng yêu cầu quản trị nội bộ và hướng theo các thông lệ tốt trên thế giới.
+
+Công tác QLRR thị trường, lãi suất số ngân hàng, thanh khoản được quản lý tập trung tại trụ sở chính với cơ cấu tổ chức thiết lập theo mô hình 3 tuyến bảo vệ. Ngân hàng đã ban hành đầy đủ hệ thống chính sách, quy định và các cấm nang hướng dẫn nghiệp vụ cần thiết.
+
+Các danh mục phát sinh rủi ro thị trường được định giá hàng ngày theo giá thị trường hoặc định giá theo mô hình. Ngân hàng đã xây dựng các công cụ đo lường rủi ro thị trường bao gồm: trạng thái, lãi lỗ thực tế và dự kiến, các chỉ số độ nhạy (BPV, duration, v.v), VaR, kiểm nghiệm giả thuyết các mô hình VaR, kiểm tra sức chịu đựng đối với rủi ro thị trường và vốn yêu cầu cho rủi ro thị trường. Hệ thống hạn mức được thiết lập, theo dõi để kiểm soát rủi ro thị trường hàng ngày, bao gồm hạn mức định lượng (trạng thái, hạn mức đựng lỗ, hạn mức BPV, hạn mức VaR) và hạn mức định tính (sản phẩm, loại tiền, kỳ hạn, v.v). Vốn yêu cầu tối thiểu cho rủi ro thị trường được xác định theo phương pháp quy định tại Thông tư 41/2016/TT-NHNN ngày 30/12/2016.
+
+Để quản lý rủi ro tín dụng, Ngân hàng đã ban hành và thực hiện các chính sách, quy trình tín dụng nội bộ. Ngân hàng quản lý rủi ro thanh khoản trên nguyên tắc đảm bảo tuân thủ các quy định của Ngân hàng Nhà nước trong hoạt động của các tổ chức tín dụng, duy trì quy mô, chất lượng tài sản có tính thanh khoản cao phù hợp nhằm đảm bảo an toàn thanh toán tại mọi thời điểm. Việc đo lường rủi ro thanh khoản được thực hiện thông qua phương pháp dông tiền (khe hở thanh khoản) và phương pháp chỉ số (bao gồm bộ chi tiêu theo quy định của Ngân hàng Nhà nước và các chi tiêu nội bộ); kiểm tra sức chịu đựng thanh khoản được thực hiện định kỳ 6 tháng. Ngân hàng xây dựng hệ thống hạn mức/ngưỡng cảnh báo tương ứng với các chỉ số.
+
+Rủi ro lãi suất số ngân hàng được đo lường thông qua đánh giá tác động đến thu nhập ròng từ lãi (NII) và giá trị kinh tế vốn (EVE) của ngân hàng. Theo đó, Ngân hàng xác lập các hạn mức trạng thái chênh lệch kỳ định lại lãi suất, thay đổi thu nhập lãi thuần, khe hở thời lượng và hiến động giá trị kinh tế của vốn chủ sở hữu để kiểm soát tác động tiềm ẩn của rủi ro lãi suất số ngân hàng. Đồng thời Ngân hàng thực hiện KTSCĐ về vốn đối với RRLSSNH, phương pháp được xây dựng dựa trên khuyến nghị của tư vấn.
+
+Ngân hàng đã triển khai các chương trình ứng dụng nhằm tự động hóa công tác đo lường, giám sát, báo cáo về rủi ro thị trường, lãi suất số ngân hàng và thanh khoản. Hệ thống báo cáo nội bộ về QLRR thị trường, lãi suất số ngân hàng, thanh khoản được thực hiện hàng ngày, định kỳ quý và đột xuất theo đúng các quy định của Ngân hàng Nhà nước, đáp ứng yêu cầu quản trị nội bộ.
+
+--- TRANG 30 ---
+NGÃN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẢU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+23. RỦI RO THỊ TRƯỜNG 23.1. Rủi ro lãi suất
+
+|   | Quả hạn | Không chịu lãi | Đến 1 tháng | Từ 1 đến 3 tháng | Từ 3 – 6 tháng | Từ 6 -12 tháng | Từ 1 – 5 năm | Trên 5 năm | Tổng  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Tài sản |  |  |  |  |  |  |  |  |   |
+|  Tiền mặt vàng bạc, đá quí | - | 10,523,745 | - | - | - | - | - | - | 10,523,745  |
+|  Tiền gởi tại Ngân hàng Trung ương | - | 13,501,002 | 34,802,369 | - | - | - | - | - | 48,303,371  |
+|  Tiền gởi tại và cho vay các TCTD khác (*) | - | 3,002,592 | 382,199,185 | 19,172,314 | 6,145,695 | 42,859,389 | 206,224 | - | 453,585,399  |
+|  Chứng khoán kinh doanh (*) | - | 1,875,661 | - | - | 4,996,421 | 14,751,244 | 850,440 | 2,134,293 | 24,608,059  |
+|  Cho vay khách hàng và Trái phiếu doanh nghiệp chưa niêm yết (*) | 67,749,621 | - | 348,914,690 | 660,233,011 | 959,790,278 | 136,945,790 | 60,839,283 | 9,641,395 | 2,244,114,068  |
+|  Chứng khoán đầu tư (không bao gồm TPDN chưa niêm yết) (*) | - | 13,325,147 | 16,246,278 | 7,989,075 | 22,929,970 | 48,233,093 | 73,226,577 | 73,911,525 | 255,861,665  |
+|  Góp vốn, đầu tư dài hạn (*) | - | 4,152,711 | - | - | - | - | - | - | 4,152,711  |
+|  Tài sản cố định và bất động sản đầu tư | - | 12,010,249 | - | - | - | - | - | - | 12,010,249  |
+|  Tài sản Cố khác (*) | 293,342 | 59,820,735 | - | - | - | - | - | - | 60,114,077  |
+|  Tổng tài sản | 68,042,963 | 118,211,842 | 782,162,522 | 687,394,400 | 993,862,364 | 242,709,516 | 135,122,524 | 85,687,213 | 3,113,273,344  |
+|  Nợ phải trả |  |  |  |  |  |  |  |  |   |
+|  Tiền gởi của và vay từ Ngân hàng Trung ương, KBNN, BTC và các TCTD khác | - | 2,607,462 | 473,164,646 | 56,283,867 | 7,004,345 | 5,587,257 | 490,503 | 324,986 | 545,463,066  |
+|  Tiền gởi của khách hàng | - | 5,141,567 | 731,136,515 | 364,695,639 | 473,176,897 | 460,771,443 | 52,209,121 | 50,239 | 2,087,181,421  |
+|  Các công cụ tài chính phải sinh và các khoản nợ tài chính khác | - | - | 1,217,494 | 353,411 | 63,939 | 35,707 | (1,048,371) | - | 622,180  |
+|  Vốn tài trợ, uỷ thác đầu tư, cho vay mã TCTD chịu rủi ro | - | - | 5,419,171 | 3,354,747 | 3,376,094 | 52,659 | 78,768 | 53,647 | 12,335,086  |
+|  Phát hành giấy tờ có giá | - | 26 | 21,934,180 | 28,677,335 | 33,577,689 | 109,388,834 | 1,821,001 | 9,315,000 | 204,714,065  |
+|  Các khoản nợ khác | - | 53,667,677 | - | - | - | - | - | - | 53,667,677  |
+|  Tổng nợ phải trả | - | 61,416,732 | 1,232,872,006 | 453,364,999 | 517,198,964 | 575,835,900 | 53,551,022 | 9,743,872 | 2,903,983,495  |
+|  Mức chính nhạy cảm với LS nội băng | 68,042,963 | 56,795,110 | (450,709,484) | 234,029,401 | 476,663,400 | (333,046,384) | 81,571,502 | 75,943,341 | 209,289,849  |
+|  Mức chính nhạy cảm với LS nội, ngoại băng | 68,042,963 | 56,795,110 | (450,709,484) | 234,029,401 | 476,663,400 | (333,046,384) | 81,571,502 | 75,943,341 | 209,289,849  |
+
+(*) không bao gồm dự phòng rủi ro
+
+28
+
+--- TRANG 31 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên dộ Quý III Năm 2025 23.2. Rủi ro tiền tệ
+
+|  Chỉ tiêu | EUR được quy đổi | USD được quy đổi | Các loại ngoại tệ khác đã QD | Tống  |
+| --- | --- | --- | --- | --- |
+|  Tiền mặt vàng bạc, đá quý | 195,603 | 2,084,920 | 491,278 | 2,771,801  |
+|  Tiền gửi tại Ngân hàng Trung ương | 64,927 | 9,869,572 | 1,682,536 | 11,617,035  |
+|  Tiền gửi tại và cho vay các TCTD khác (*) | 2,922,772 | 51,917,491 | 120,036,182 | 174,876,445  |
+|  Cho vay khách hàng (*) | 1,505,112 | 112,120,045 | 7,968,900 | 121,594,057  |
+|  Chứng khoán đầu tư (*) | - | - | 2,347,487 | 2,347,487  |
+|  Góp vốn, đầu tư dài hạn (*) | - | 544,188 | 2,997 | 547,185  |
+|  Tài sản cố định | - | 459,124 | 261,560 | 720,684  |
+|  Các tài sản Cỏ khác (*) | 27,943 | 4,411,129 | 544,863 | 4,983,935  |
+|  Tổng tài sản | 4,716,357 | 181,406,469 | 133,335,803 | 319,458,629  |
+|  Nợ phải trả và vốn chủ sở hữu |  |  |  |   |
+|  Tiền gửi của và vay từ Ngân hàng Trung ương, KBNN, BTC và các TCTD khác | 96,794 | 13,454,537 | 78,549,263 | 92,100,594  |
+|  Tiền gửi của khách hàng | 2,894,734 | 173,101,967 | 11,374,526 | 187,371,227  |
+|  Công cụ tài chính phải sinh và các khoản nợ tài chính khác | 179 | $(8,493,043)$ | 40,612,627 | 32,119,763  |
+|  Vốn tài trợ, uý thác đầu tư, cho vay mà TCTD chịu rủi ro | 1,590,754 | 2,715,342 | - | 4,306,096  |
+|  Phát hành giấy tờ có giá | - | 361 | - | 361  |
+|  Các khoản nợ khác | 36,807 | 1,822,903 | 592,173 | 2,451,883  |
+|  Vốn và các quỹ | $(6,367)$ | 3,197,861 | 1,510,517 | 4,702,011  |
+|  Tổng nợ phải trả và vốn chủ sở hữu | 4,612,901 | 185,799,928 | 132,639,106 | 323,051,935  |
+|  Trạng thái tiền tệ nội bảng | 103,456 | $(4,393,459)$ | 696,697 | $(3,593,306)$  |
+|  Trạng thái tiền tệ ngoại bảng | $(95,985)$ | $(2,320,737)$ | $(344,326)$ | $(2,761,048)$  |
+|  Trạng thái tiền tệ nội, ngoại bảng | 7,471 | $(6,714,196)$ | 352,371 | $(6,354,354)$  |
+
+(*) không bao gồm dự phòng rủi ro
+
+--- TRANG 32 ---
+NGẤN HÀNG THƯƠNG MAI CÓ PHÂN ĐẦU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trần Quang Khải, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, CHXHCN Việt Nam
+
+Báo cáo tài chính hợp nhất giữa niên độ Quý III Năm 2025
+
+23.3. Rủi ro thanh khoản
+
+|  Chỉ tiêu | Quả hạn | Trọng hạn  |
+| --- | --- | --- |
+|   | Trên 3 tháng | Đến 3 tháng  |
+|  Tài sản |  |   |
+|  Tiền mặt vàng bạc, đá quí | - | -  |
+|  Tiền gửi tại Ngân hàng Trung ương | - | -  |
+|  Tiền gửi tại và cho vay các TCTD khác (*) | - | -  |
+|  Chứng khoán kinh doanh (*) | - | -  |
+|  Cho vay khách hàng và Trái phiếu doanh nghiệp chưa niêm yết (*) | 46,031,393 | 21,718,228  |
+|  Chứng khoán đầu tư (không bao gồm TPDN chưa niêm yết) (*) | - | -  |
+|  Góp vốn, đầu tư dài hạn (*) | - | -  |
+|  Tài sản cố định | - | -  |
+|  Tài sản Có khác (*) | 293,342 | -  |
+|  Tổng tài sản | 46,324,735 | 21,718,228  |
+|  Nợ phải trả |  |   |
+|  Tiền gửi của và vay từ Ngân hàng Trung ương, KBNN, BTC và các TCTD khác | - | -  |
+|  Tiền gửi của khách hàng | - | -  |
+|  Các công cụ tài chính phải sinh và các khoản nợ tài chính khác | - | -  |
+|  Vốn tài trợ, nợ thác đầu tư, cho vay mà TCTD chịu rủi ro | - | -  |
+|  Phát hành giấy tờ có giá | - | -  |
+|  Các khoản nợ khác | - | -  |
+|  Tổng nợ phải trả | - | -  |
+|  Mức chênh thanh khoản ròng | 46,324,735 | 21,718,228  |
+
+(*) không bao gồm dự phòng rủi ro
+
+30
+
+--- TRANG 33 ---
+# 24. SÓ LIỆU SO SÁNH
+
+Số liệu so sánh là số liệu của báo cáo tài chính riêng của Ngân hàng đã được kiểm toán cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024 và đã được trình bày lại theo văn bản số 236/KTNN-TH ngày 29 tháng 09 năm 2025 của Kiểm toán nhà nước về việc thực hiện kiểm toán Báo cáo tài chính của Ngân hàng cho năm tài chính kết thúc ngày 31 tháng 12 năm 2024. Chỉ tiết của các số liệu so sánh năm trước được trình bày lại như sau:
+
+|  Khoản mực | Số đã trình bày | Điều chỉnh | Số trình bày lại  |
+| --- | --- | --- | --- |
+|   | Triệu VND | Triệu VND | Triệu VND  |
+|  BẢNG CẦN ĐỐI KẾ TOÁN |  |  |   |
+|  Cho vay khách hàng | 2,018,043,649 | 68,290 | 2,018,111,939  |
+|  Dự phòng rủi ro cho vay khách hàng | (38,038,771) | 68,290 | (37,970,481)  |
+|  Tài sản cố định | 12,119,817 | 45,032 | 12,164,849  |
+|  Tài sản cố định hữu hình | 6,799,205 | 45,032 | 6,844,237  |
+|  Nguyên giá TSCD | 16,745,119 | - | 16,745,119  |
+|  Hao mòn TSCD | (9,945,914) | 45,032 | (9,900,882)  |
+|  Tài sản Cố khác | 52,883,936 | 1,788 | 52,885,724  |
+|  Các khoản phải thu | 25,770,364 | 3,058 | 25,773,422  |
+|  Các khoản lãi, phí phải thu | 23,150,598 | (3,618) | 23,146,980  |
+|  Tài sản Cố khác | 4,239,918 | 2,348 | 4,242,266  |
+|  TÔNG TÀI SẢN | 2,760,791,854 | 115,110 | 2,760,906,964  |
+|  Các khoản nợ khác | 50,490,598 | 42,029 | 50,532,627  |
+|  Các khoản phải trả và công nợ khác | 21,740,674 | 42,029 | 21,782,703  |
+|  Vốn và các quỹ | 144,911,113 | 73,081 | 144,984,194  |
+|  Lợi nhuận sau thuế chưa phân phối | 36,192,494 | 72,012 | 36,264,506  |
+|  Lợi ích của cố đông thiếu số | 5,234,039 | 1,069 | 5,235,108  |
+|  TÔNG NỢ PHÁI TRẢ VÀ VÔN CHỦ SỐ | 2,760,791,854 | 115,110 | 2,760,906,964  |
+|  HỮU |  |  |   |
+|  CÁC CHÍ TIÊU NGOÀI BẢNG CẦN ĐỐI KẾ TOÁN |  |  |   |
+|  Báo lãnh vay vốn | 7,003,470 | (265) | 7,003,205  |
+|  Lãi cho vay và phí phải thu chưa thu được | 21,503,201 | 4,072 | 21,507,273  |
+
+--- TRANG 34 ---
+NGÂN HÀNG THƯƠNG MẠI CÓ PHÂN ĐẢU TƯ VÀ PHÁT TRIÊN VIỆT NAM Tháp BIDV, 194 Trấn Quang Khải, Lý Thái Tổ, Hoàn Kiếm, Hà Nội, CĐXHCN Việt Nam Báo cáo tài chính hợp nhất giữa niên độ Quỳ III Năm 2025
+
+# 25. TỲ GIÁ MỘT SỐ LOẠI NGOẠI TỆ VÀO THỜI ĐIỂM CUỘI KỲ BÁO CÁO
+
+|  Loại tiền tệ | 30/09/2025 | 31/12/2024  |
+| --- | --- | --- |
+|  USD | 26,341 | 25,450  |
+|  EUR | 31,164 | 26,709  |
+|  GBP | 35,572 | 32,086  |
+|  CHF | 33,241 | 28,279  |
+|  JPY | 182.50 | 162.91  |
+|  SGD | 20,484 | 18,761  |
+|  CAD | 18,992 | 17,777  |
+|  AUD | 17,407 | 15,873  |
+
+Hà Nội, ngày 30 tháng 4 năm 2025
+
+Người lập
+
+Nguyễn Thị Hương Giang
+
+Kế toán trưởng
+
+Bùi Thị Hòa
+
+Phó Tổng Giám đốc
+
+Hoàng Việt Hùng
+
+32
+
+--- TRANG 35 ---
+# BIDVQ NGÂN HÀNG TMCP ĐÀU TU VÀ PHÁT TRIỂN VIỆT NAM BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM, JSC. 
+
+Số: 9357 /BDV - TWT
+Biến động LNST tại BCTC Quý 3 năm 2025
+Fluctuations in After-Tax Profit in the Financial Statements for Quarter III
+
+CỌNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc THE SOCIALIST REPUBLIC OF VIETNAM Independence - Freedom - Happiness
+
+Hà Nội, ngày 30 tháng 10 năm 2025
+Hanoi, October 30, 2025
+
+Kính gửi:
+
+- Úy ban Chứng khoán Nhà nước
+- Sở Giao dịch chứng khoán Việt Nam
+- Sở Giao dịch chứng khoán TP Hồ Chí Minh
+- Sở Giao dịch chứng khoán TP Hà Nội
+
+To:
+
+- State Securities Commission
+- Vietnam Stock Exchange
+- Ho Chi Minh Stock Exchange
+- Hanoi Stock Exchange
+
+Theo quy định về việc công bố thông tin của các công ty niêm yết, tại Điều 14, Thông tư 96/2020/TT-BTC, "Khi công bố thông tin các báo cáo tài chính nêu tại khoản 1, 2, 3 Điều này, tổ chức niêm yết, công ty đại chúng quy mô lớn phải đồng thời giải trình nguyên nhân khi Lợi nhuận sau thuế thu nhập doanh nghiệp tại Báo cáo kết quả hoạt động kinh doanh của kỳ công bố thay đổi từ $10 \%$ trở lên so với báo cáo cùng kỳ năm trước...".
+
+According to the regulations on information disclosure for listed companies, Article 14 of Circular 96/2020/TT-BTC states: "When disclosing information about financial statements specified in Clauses 1, 2 and 3 of this Article, the organization that has shares listed or largescale public company shall be required to provide explanation from the occurrence of Aftertax profit shown in the income statement of the reporting period increases/decreases by at least 10 compared to that of the same reporting period in the previous year...".
+
+Kết quả hoạt động kinh doanh, LNST trên BCTC riêng lẻ và hợp nhất Quý 3 năm 2025 của BIDV tăng trưởng trên $10 \%$ so với cùng kỳ năm 2025 , chi tiết theo bảng dưới đây:
+
+The business performance results and after-tax profit reflected in the separate and consolidated financial statements for Quarter III year 2025 demonstrate growth exceeding $10 \%$ compared to the corresponding reporting periods of 2024, as presented in the table below:
+
+--- TRANG 36 ---
+Đơn vị: triệu VND/Unit: Million VND
+
+|  Chỉ tiêu/ | Quý/ | Quý/ | Tăng trưởng/  |
+| --- | --- | --- | --- |
+|  Items | Quarter | Quarter | Growth  |
+|  LNST riêng lẻ/ | 5.701.124 | 4.978.116 | 14.52%  |
+|  Separate after-tax profit |  |  |   |
+|  LNST hợp nhất/ | 6.086.910 | 5.213.866 | 16.74%  |
+|  Consolidated after-tax profit |  |  |   |
+
+Thực hiện theo quy định trên, Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) giải trình biến động lợi nhuận như sau: "Lợi nhuận sau thuế riêng lẻ và Lợi nhuận sau thuế hợp nhất Quý 3 năm 2025 tăng so với năm trước do thu nhập từ hoạt động tín dụng, thu nhập từ đầu tư chứng khoán và thu nợ ngoại bảng".¹
+
+In compliance with the above regulation, Joint Stock Commercial Bank for Investment and Development of Vietnam, JSC. provides the following explanation for the profit fluctuations: "The separate after-tax profit and consolidated after-tax profit for Quarter III year 2025 increased compared to the previous year due to higher income from credit activities, securities investment, and recovery of bad debts written off."¹
+
+BIDV báo cáo để Quý Cơ quan và Quý Nhà đầu tư được rõ.
+
+BIDV respectfully submits this report for the awareness and consideration of the esteemed regulatory authorities and distinguished investors.
+
+Trân trọng.
+
+Sincerely./.
+
+Nơi nhận/Recipients (A.b.): - Như trên/As above; - TKQHCĐ, VP/Secretariat & Investor Relations, BIDV office; - Lưu TCKT/Archive: Finance&Accounting Department.
+
+KT. TÔNG GIẢM ĐỐC PHÓ TỔNG GIẢM ĐỐC ON BEHALF OF THE CEO SENIOR EXECUTIVE VICE PRESIDENT
+
+Hoàng Việt Hùng
+
+¹"Nội dung giải trình này được công bố kèm theo Báo cáo tài chính của BIDV phát hành ngày /10/2025" This explanatory note is disclosed along with the financial statements of BIDV issued on October , 2025"

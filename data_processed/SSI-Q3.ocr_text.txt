@@ -1,0 +1,2426 @@
+--- TRANG 0 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+Báo cáo tài chính hợp nhất Quý 3 năm 2025
+Ngày 30 tháng 09 năm 2025
+
+--- TRANG 1 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025
+
+### tại ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Số cuối kỳ VND | Số đầu năm VND  |
+| --- | --- | --- | --- | --- |
+|  100 | **A. TÀI SẢN NGẤN HẠN** |  | 98.345.421.485.296 | 70.932.391.912.367  |
+|  110 | **I. Tài sản tài chính** |  | 98.043.943.564.098 | 70.813.502.224.578  |
+|  111 | 1. Tiền và các khoản tương đương tiền | 5 | 254.503.105.364 | 239.000.238.200  |
+|  111.1 | 1.1. Tiền |  | 166.321.716.061 | 208.969.991.625  |
+|  111.2 | 1.2. Các khoản tương đương tiền |  | 88.181.389.303 | 30.030.246.575  |
+|  112 | 2. Các tài sản tài chính ghi nhận thông qua tăinô (FVTPL) | 7.1 | 50.404.730.068.217 | 42.438.121.481.401  |
+|  113 | 3. Các khoản đầu tư nắm giữ đến ngày đào hạn (HTM) | 7.3 | 6.105.099.268.934 | 3.893.901.724.895  |
+|  114 | 4. Các khoản cho vay | 7.4 | 39.231.449.450.749 | 21.998.601.885.375  |
+|  115 | 5. Tài sản tài chính sẵn sàng để bán (AFS) | 7.2 | 563.858.233.250 | 562.332.851.822  |
+|  116 | 6. Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp | 8 | (55.101.823.874) | (55.101.823.874)  |
+|  117 | 7. Các khoản phải thu | 9 | 643.580.483.958 | 800.614.271.922  |
+|  117.1 | 7.1. Phải thu bán các tài sản tài chính |  | 237.937.169.580 | 507.766.978.808  |
+|  117.2 | 7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính |  | 405.643.314.378 | 292.847.293.114  |
+|  117.4 | 7.2.1. Dự thu cổ tức, tiền lãi chưa đến ngày nhận |  | 405.643.314.378 | 292.847.293.114  |
+|  118 | 8. Trả trước cho người bán | 9 | 832.433.578.709 | 927.764.853.829  |
+|  119 | 9. Phải thu các dịch vụ công ty chứng khoán cung cấp | 9 | 43.187.802.984 | 30.201.748.046  |
+|  122 | 10. Các khoản phải thu khác | 9 | 210.859.646.964 | 210.104.950.765  |
+|  129 | 11. Dự phòng suy giảm giá trị các khoản phải thu | 9 | (190.656.251.157) | (232.039.957.803)  |
+|  130 | **II. Tài sản ngắn hạn khác** | 10 | 301.477.921.198 | 118.889.687.789  |
+|  131 | 1. Tạm ứng |  | 10.001.354.647 | 20.927.597.892  |
+|  132 | 2. Vật tư vấn phòng, công cụ, dụng cụ |  | 250.989.299 | 595.758.695  |
+|  133 | 3. Chi phí trả trước ngắn hạn |  | 57.153.643.520 | 54.860.667.972  |
+|  134 | 4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn |  | 826.733.780 | 772.112.130  |
+|  136 | 5. Thuế và các khoản phải thu Nhà nước |  | 2.644.605 | 55.944.865  |
+|  137 | 6. Tài sản ngắn hạn khác |  | 233.242.555.347 | 41.677.606.235  |
+
+--- TRANG 2 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B01-CTCK/HN
+
+BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Số cuối kỳ VND | Số đầu năm VND  |
+| --- | --- | --- | --- | --- |
+|  200 | B. TÀI SẢN DÀI HẠN |  | 2.366.425.673.436 | 2.574.910.647.355  |
+|  210 | I. Tài sản tài chính dài hạn |  | 1.390.600.721.032 | 1.625.606.669.387  |
+|  212 | 1. Các khoản đầu tư | 11 | 1.390.600.721.032 | 1.625.606.669.387  |
+|  212.1 | 1.1. Các khoản đầu tư nắm giữ đến ngày đào hạn |  | 605.156.178.029 | 938.116.263.256  |
+|  212.3 | 1.2. Đầu tư vào công ty liên doanh, liên kết |  | 785.444.543.003 | 687.490.406.131  |
+|  220 | II. Tài sản cố định |  | 203.034.504.279 | 231.350.675.694  |
+|  221 | 1. Tài sản cố định hữu hình | 12 | 86.974.083.986 | 118.506.719.899  |
+|  222 | 1.1. Nguyên giá |  | 400.176.871.322 | 408.360.121.790  |
+|  223a | 1.2. Giá trị hao mòn lũy kế |  | (313.202.787.336) | (289.853.401.891)  |
+|  227 | 2. Tài sản cố định vô hình | 13 | 116.060.420.293 | 112.843.955.795  |
+|  228 | 2.1. Nguyên giá |  | 332.163.534.220 | 313.999.554.731  |
+|  229a | 2.2. Giá trị hao mòn lũy kế |  | (216.103.113.927) | (201.155.598.936)  |
+|  230 | III. Bất động sản đầu tư | 14 | 293.395.734.876 | 200.196.436.698  |
+|  231 | 1. Nguyên giá |  | 390.582.904.738 | 287.459.600.028  |
+|  232a | 2. Giá trị hao mòn lũy kế |  | (97.187.169.862) | (87.263.163.330)  |
+|  240 | IV. Chi phí xây dựng cơ bản dở dang | 15 | 379.157.270.829 | 387.623.333.376  |
+|  250 | V. Tài sản dài hạn khác |  | 100.237.442.420 | 130.133.532.200  |
+|  251 | 1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn |  | 29.465.110.526 | 31.205.273.582  |
+|  252 | 2. Chi phí trả trước dài hạn | 16 | 13.804.423.999 | 21.614.788.489  |
+|  253 | 3. Tài sản thuế thu nhập hoãn lại | 17 | 21.967.907.895 | 24.001.105.881  |
+|  254 | 4. Tiền nộp Quỹ hỗ trợ thanh toán | 18 | 20.000.000.000 | 20.000.000.000  |
+|  255 | 5. Tài sản dài hạn khác |  | 15.000.000.000 | 33.312.364.248  |
+|  270 | TỔNG CỘNG TÀI SẢN |  | 100.711.847.158.732 | 73.507.302.559.722  |
+
+--- TRANG 3 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B01-CTCK/HN
+
+BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Số cuối kỳ VND | Số đầu năm VND  |
+| --- | --- | --- | --- | --- |
+|  300 | C. NỢ PHÁI TRẢ |  | 69.456.381.325.815 | 46.680.651.947.954  |
+|  310 | I. Nợ phải trả ngân hạn |  | 69.359.521.615.499 | 46.599.438.522.989  |
+|  311 | 1. Vay và nợ thuê tài sản tài chính ngân hạn | 20 | 65.419.298.547.405 | 45.501.969.699.137  |
+|  312 | 1.1. Vay ngân hạn |  | 65.419.298.547.405 | 45.501.969.699.137  |
+|  318 | 2. Phải trả hoạt động giao dịch chứng khoán | 21 | 647.624.609.001 | 227.883.634.106  |
+|  320 | 3. Phải trả người bán ngân hạn | 22 | 46.469.846.936 | 103.075.387.679  |
+|  321 | 4. Người mua trả tiền trước ngân hạn | 23 | 61.147.683.500 | 26.490.726.300  |
+|  322 | 5. Thuế và các khoản phải nộp Nhà nước | 24 | 495.083.058.807 | 201.293.124.495  |
+|  323 | 6. Phải trả người lao động |  | 18.415.814.727 | 93.761.808.205  |
+|  324 | 7. Các khoản trích nộp phúc lợi nhân viên |  | 741.437.198 | 884.019.653  |
+|  325 | 8. Chi phí phải trả ngân hạn | 25 | 158.613.955.298 | 67.847.177.428  |
+|  327 | 9. Doanh thu chưa thực hiện ngân hạn |  | 516.919.332 | 1.299.798.330  |
+|  328 | 10. Nhân ký quỹ, ký cược ngân hạn |  | 375.004.280 | 362.313.180  |
+|  329 | 11. Các khoản phải trả, phải nộp ngân hạn khác | 27 | 2.102.391.612.430 | 18.037.472.054  |
+|  331 | 12. Quỹ khen thưởng, phúc lợi | 26 | 408.843.126.585 | 356.533.362.422  |
+|  340 | II. Nợ phải trả dài hạn |  | 96.859.710.316 | 81.213.424.965  |
+|  351 | 1. Doanh thu chưa thực hiện dài hạn | 28 | 53.562.883.675 | 54.562.883.675  |
+|  356 | 2. Thuế thu nhập doanh nghiệp hoãn lại phải trả | 18 | 43.296.826.641 | 26.650.541.290  |
+|  400 | D. VÔN CHÚ SỞ HỮU | 29 | 31.255.465.832.917 | 26.826.650.611.768  |
+|  410 | I. Vốn chủ sở hữu |  | 31.255.465.832.917 | 26.826.650.611.768  |
+|  411 | 1. Vốn đầu tư của chủ sở hữu |  | 24.069.363.381.308 | 20.713.065.094.108  |
+|  411.1 | 1.1. Vốn góp của chủ sở hữu |  | 20.779.062.620.000 | 19.638.639.180.000  |
+|  411.1a | a. Cổ phiếu phổ thông |  | 20.779.062.620.000 | 19.638.639.180.000  |
+|  411.2 | 1.2. Thặng dư vốn cổ phần |  | 3.309.415.767.717 | 1.093.540.920.517  |
+|  411.5 | 1.3. Cổ phiếu quỹ |  | (19.115.006.409) | (19.115.006.409)  |
+|  412 | 2. Chênh lệch đánh giá tài sản theo giá trị hợp lý |  | 52.253.090.451 | 31.690.477.740  |
+|  413 | 3. Chênh lệch tỷ giá hồi đoái |  | 87.021.346.401 | 72.177.590.546  |
+|  414 | 4. Quỹ dự trữ bổ sung vốn điều lệ |  | 3.000.000.000 | 3.000.000.000  |
+|  417 | 5. Lợi nhuận chưa phân phối |  | 6.910.344.622.578 | 5.856.098.315.938  |
+|  417.1 | 5.1 Lợi nhuận đã thực hiện | 29.1 | 6.987.078.755.256 | 6.025.186.849.191  |
+|  417.2 | 5.2 Lợi nhuận chưa thực hiện | 29.1 | (76.734.132.678) | (169.088.533.253)  |
+|  418 | 6. Lợi ích cổ đông không kiểm soát |  | 133.483.392.179 | 150.619.133.436  |
+|  440 | TÔNG CÔNG NỢ PHÁI TRẢ VÀ VÔN CHÚ SỞ HỮU |  | 100.711.847.158.732 | 73.507.302.559.722  |
+
+--- TRANG 4 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B01-CTCK/HN
+
+BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẬT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025
+
+## CÁC CHÍ TIÊU NGOÀI BÁO CÁO TÍNH HÌNH TÀI CHÍNH HỢP NHẬT
+
+|  Mã số | CHÍ TIÊU | Thuyết
+minh | Số cuối kỳ | Số đầu năm  |
+| --- | --- | --- | --- | --- |
+|   | A. TÀI SẢN CỦA CÔNG TY CHỨNG KHOÁN (CTCK) VÀ TÀI SẢN QUẢN LÝ THEO CAM KẾT |  |  |   |
+|  004 | Nợ khó đối đã xử lý (VND) |  | 44.493.311.901 | 44.493.312.525  |
+|  005 | Ngoại tệ các loại |  |  |   |
+|   | USD |  | 3.069.553,07 | 336.561,71  |
+|   | EUR |  | 101,97 | 101,80  |
+|   | GBP |  |  | 107,64  |
+|  006 | Cổ phiếu đang lưu hành (số lượng) |  | 2.075.914.794 | 1.961.872.450  |
+|  007 | Cổ phiếu quỹ (số lượng) |  | 1.991.468 | 1.991.468  |
+|  008 | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của CTCK (VND) |  | 7.472.024.680.000 | 7.187.812.570.000  |
+|  009 | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của CTCK (VND) |  | 24.784.180.000 | 525.880.220.000  |
+|  010 | Tài sản tài chính chờ về của CTCK (VND) |  | 58.419.000.000 | 23.542.100.000  |
+|  012 | Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của CTCK (VND) |  | 10.026.094.877.300 | 9.646.573.797.300  |
+|  013 | Tài sản tài chính được hưởng quyền của CTCK (VND) |  | 7.000.000 | 2.768.230.000  |
+|  014 | Chứng quyền (số lượng) |  | 537.560.600 | 1.033.885.200  |
+|   | B. TÀI SẢN VÀ CÁC KHOÁN PHÁI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG |  |  |   |
+|  021 | Tài sản tài chính niêm yết/đăng ký giao dịch tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư (VND) |  | 134.291.865.355.900 | 119.604.922.696.400  |
+|  021.1 | Tài sản tài chính giao dịch tự do chuyển nhượng |  | 117.359.576.336.700 | 102.694.055.926.400  |
+|  021.2 | Tài sản tài chính hạn chế chuyển nhượng |  | 5.089.964.640.000 | 4.982.805.830.000  |
+|  021.3 | Tài sản tài chính giao dịch cấm cỏ |  | 11.014.307.570.000 | 11.310.605.310.000  |
+|  021.4 | Tài sản tài chính phong tỏa, tạm giữ |  | 16.919.850.000 | 20.725.970.000  |
+|  021.5 | Tài sản tài chính chờ thanh toán |  | 811.096.959.200 | 596.729.660.000  |
+
+--- TRANG 5 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025
+
+## CÁC CHÍ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+|  Mã số | CHÍ TIÊU | Thuyết
+minh | Số cuối kỳ
+VND | Số đầu năm
+VND  |
+| --- | --- | --- | --- | --- |
+|   | B. TÀI SẢN VÀ CÁC KHOÁN PHÁI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG (tiếp theo) |  |  |   |
+|  022 | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch của Nhà đầu tư |  | 1.665.403.060.000 | 1.174.396.560.000  |
+|  022.1 | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, tự do chuyển nhượng |  | 1.641.021.070.000 | 1.150.014.570.000  |
+|  022.2 | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch, hạn chế chuyển nhượng |  | 24.381.000.000 | 24.381.000.000  |
+|  022.4 | Tài sản tài chính đã lưu ký tại Trung tâm Lưu ký Chứng khoán và chưa giao dịch phong toả, tạm giữ |  | 990.000 | 990.000  |
+|  023 | Tài sản tài chính chờ về của Nhà đầu tư |  | 1.775.978.805.000 | 598.838.030.000  |
+|  024b | Tài sản tài chính chưa lưu ký tại Trung tâm Lưu ký Chứng khoán của Nhà đầu tư |  | 9.388.640.000 | 10.760.540.000  |
+|  025 | Tài sản tài chính được hưởng quyền của Nhà đầu tư |  | 1.897.310.410.000 | 455.522.080.000  |
+|  026 | Tiền gửi của khách hàng |  | 12.128.972.850.870 | 4.941.400.793.936  |
+|  027 | Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |  | 11.765.126.249.714 | 4.636.518.614.794  |
+|  027.1 | Tiền gửi ký quỹ của Nhà đầu tư tại VSD |  | 308.519.327.031 | 282.505.300.828  |
+|  028 | Tiền gửi tổng hợp giao dịch chứng khoán của khách hàng |  | 35.890.951.860 | 11.079.681.180  |
+|  030 | Tiền gửi của Tổ chức phát hành chứng khoán |  | 19.436.322.265 | 11.297.197.134  |
+|  031 | Phải trả Nhà đầu tư về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý |  | 12.073.645.576.745 | 4.919.023.915.622  |
+|  031.1 | Phải trả Nhà đầu tư trong nước về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý |  | 11.885.195.063.710 | 4.712.758.821.651  |
+|  031.2 | Phải trả Nhà đầu tư nước ngoài về tiền gửi giao dịch chứng khoán theo phương thức CTCK quản lý |  | 188.450.513.035 | 206.265.093.971  |
+
+--- TRANG 6 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B01-CTCK/HN
+
+BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025
+
+## CÁC CHÍ TIÊU NGOÀI BÁO CÁO TÌNH HÌNH TÀI CHÍNH HỢP NHẤT (tiếp theo)
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Số cuối kỳ VND | Số đầu năm VND  |
+| --- | --- | --- | --- | --- |
+|  032 | B. TÀI SẢN VÀ CÁC KHOÁN PHÁI TRẢ VỀ TÀI SẢN QUẢN LÝ CAM KẾT VỚI KHÁCH HÀNG (tiếp theo) |  |  |   |
+|   | Phải trả 100% chức phát hành chứng khoán |  | 67.425.000 | 122.465.000  |
+|   | Phải trả cổ tức, gốc và lãi trái phiếu |  | 19.368.897.265 | 11.174.732.134  |
+
+Bà Nguyễn Thị An Vi Người lập biểu
+
+Bà Nguyễn Thị Hải Anh Kế toán Trưởng
+
+Công ty Cổ Phần Chứng Khoán SSI
+
+Công Ty Cổ Phần Chứng Khoán SSI
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 24 tháng 10 năm 2025
+
+--- TRANG 7 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+BÁO CÁO KÉT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 3 NĂM 2025 cho kỳ kể toàn kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết
+minh | Quý 3 |  | Lũy kể từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Năm nay VND | Năm trước VND | Năm nay VND | Năm trước VND  |
+|  01 | I. DOANH THU HOẠT ĐỘNG |  |  |  |  |   |
+|  01 | 1. Lãi từ các tài sản tài chính ghi nhận thông qua lãi/ổ (FVTPL) |  | 2.065.597.768.695 | 997.349.622.528 | 4.546.754.048.255 | 2.952.234.661.038  |
+|  01.1 | 1.1. Lãi bán các tài sản tài chính FVTPL | 30.1 | 1.298.665.098.704 | 242.684.900.237 | 2.223.635.574.757 | 884.950.854.924  |
+|  01.2 | 1.2. Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL | 30.2 | 77.838.970.827 | 210.867.945.474 | 368.460.712.902 | 340.881.685.411  |
+|  01.3 | 1.3. Cố túc, tiền lãi phát sinh từ tài sản tài chính FVTPL | 30.4 | 590.043.552.889 | 499.150.297.040 | 1.716.927.478.599 | 1.608.141.111.922  |
+|  01.4 | 1.4. Chênh lệch giảm do đánh giá lại phải trả chứng quyền đang lưu hành | 30.3 | 99.050.146.275 | 44.646.479.777 | 237.730.281.997 | 118.261.008.781  |
+|  02 | 2. Lãi từ các khoản đầu tư nắm giữ đến ngày đào hạn (HTM) | 30.4 | 98.063.530.633 | 61.342.558.560 | 286.513.798.129 | 257.576.137.296  |
+|  03 | 3. Lãi từ các khoản cho vay và phải thu | 30.4 | 1.005.982.654.334 | 548.969.323.318 | 2.463.587.621.963 | 1.508.637.952.238  |
+|  04 | 4. Lãi từ tài sản tài chính sẵn sàng để bán (AFS) | 30.4 | 725.917.808 | 4.434.928.662 | 30.609.050.323 | 7.775.987.973  |
+|  06 | 5. Doanh thu nghiệp vụ môi giới chứng khoán |  | 921.757.004.957 | 339.706.853.242 | 1.716.270.674.659 | 1.348.349.524.821  |
+|  07 | 6. Doanh thu nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán |  | - | 258.904.110 | 2.100.000.000 | 523.561.644  |
+|  08 | 7. Doanh thu nghiệp vụ tư vấn đầu tư chứng khoán |  | 4.194.312.376 | 6.272.954.479 | 28.023.424.502 | 32.227.727.788  |
+|  09 | 8. Doanh thu nghiệp vụ lưu ký chứng khoán |  | 14.062.831.722 | 9.095.660.686 | 42.234.272.073 | 27.274.463.511  |
+|  10 | 9. Doanh thu hoạt động tư vấn tài chính |  | 5.679.144.335 | 2.645.980.831 | 38.173.013.609 | 14.833.804.905  |
+|  11 | 10. Thu nhập hoạt động khác | 32 | 60.604.887.039 | 58.059.961.576 | 174.711.184.190 | 158.570.766.576  |
+|  20 | Cộng doanh thu hoạt động |  | 4.176.668.051.899 | 2.028.136.747.992 | 9.328.977.087.703 | 6.308.004.587.790  |
+
+--- TRANG 8 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mă sô | CHI TIÊU | Thuyết minh | Quý 3 |  | Lũy kế từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Năm nay VND | Năm trước VND | Năm nay VND | Năm trước VND  |
+|  II. | CHI PHÍ HOẠT ĐỘNG |  |  |  |  |   |
+|  21 | 1. Lỗ từ các tài sản tài chính FVTPL |  | 1.022.171.629.528 | 242.458.504.515 | 1.987.226.196.060 | 797.254.561.718  |
+|  21.1 | 1.1 Lỗ bán các tài sản tài chính FVTPL | 30.1 | 757.362.280.835 | 193.335.966.722 | 1.486.945.707.270 | 503.448.030.058  |
+|  21.2 | 1.2 Chênh lệch giảm đánh giá lại các tài sản tài chính FVTPL | 30.2 | 179.865.116.052 | 5.044.992.076 | 280.729.568.934 | 174.723.779.994  |
+|  21.3 | 1.3 Chi phí giao dịch mua các tài sản tài chính FVTPL |  | 5.006.120.514 | 2.219.631.739 | 10.427.178.676 | 5.858.135.978  |
+|  21.4 | 1.4 Chênh lệch tăng do đánh giá lại phải trả chứng quyền đang lưu hành | 30.3 | 79.938.112.127 | 41.857.913.978 | 209.123.741.180 | 113.224.615.688  |
+|  23 | 2. Lỗ và ghi nhận chênh lệch đánh giá theo giá trị hợp lý tài sản tài chính AFS khi phân loại lại |  | - | - | 4.741.291.390 | -  |
+|  24 | 3. Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khô đôi, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay | 31 | (41.430.209.228) | (10.000.000) | (41.430.209.228) | (10.000.000)  |
+|  26 | 4. Chi phí hoạt động tự doanh |  | 27.002.796.166 | 34.750.253.896 | 76.191.280.960 | 102.058.732.810  |
+|  27 | 5. Chi phí nghiệp vụ môi giới chứng khoán | 33 | 533.517.383.485 | 294.407.264.711 | 1.133.600.005.178 | 999.002.723.824  |
+|  28 | 6. Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán | 33 | - | 353.931.347 | 592.856.170 | 476.687.076  |
+|  29 | 7. Chi phí nghiệp vụ tư vấn đầu tư chứng khoán | 33 | 3.409.180.234 | 4.522.241.334 | 11.832.278.441 | 15.375.374.147  |
+|  30 | 8. Chi phí nghiệp vụ lưu ký chứng khoán | 33 | 15.788.913.491 | 10.763.556.593 | 39.185.634.814 | 30.886.621.082  |
+|  31 | 9. Chi phí hoạt động tư vấn tài chính | 33 | 7.128.016.317 | 3.967.049.368 | 17.371.268.323 | 16.761.162.578  |
+|  32 | 10. Chi phí hoạt động khác | 33,34 | 47.194.796.213 | 44.624.825.844 | 127.605.849.727 | 120.712.055.118  |
+|  40 | Cộng chi phí hoạt động |  | 1.614.782.506.206 | 635.837.627.608 | 3.356.916.451.835 | 2.082.517.918.353  |
+
+--- TRANG 9 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B01-CTCK/HN BÁO CÁO KÉT QUÁ HOẠT ĐỘNG HỢP NHÁT QUÝ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mă sô | CHI TIÊU | Thuyết
+minh | Quý 3 |  | Lũy kế từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Năm nay VND | Năm trước VND | Năm nay VND | Năm trước VND  |
+|   | III. DOANH THU HOẠT ĐỘNG TÀI CHÍNH |  |  |  |  |   |
+|  41 | 1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện |  | 5.395.070.656 | 4.484.001.206 | 21.384.997.886 | 20.329.864.232  |
+|  42 | 2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định |  | 16.213.877.211 | 14.244.024.622 | 29.713.659.331 | 29.663.408.749  |
+|  44 | 3. Doanh thu khác về đầu tư (phân lãi trong công ty liên kết...) |  | 13.492.485.777 | 21.632.438.045 | 53.058.661.197 | 85.337.908.242  |
+|  50 | Cộng doanh thu hoạt động tài chính | 35 | 35.101.433.644 | 40.360 .463 .873 | 104.157.318.414 | 135.331.181.223  |
+|   | IV. CHI PHÍ TÀI CHÍNH |  |  |  |  |   |
+|  51 | 1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện |  | 6.394.554.263 | 19.015.268.218 | 20.138.784.184 | 25.519.801.761  |
+|  52 | 2. Chi phí lãi vay |  | 686.978.549.811 | 365.511.351.331 | 1.771.546.909.592 | 1.100.011.951.274  |
+|  53 | 3. Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh |  | 4.640.076.688 | 840.878.104 | 5.441.360.438 | -  |
+|  55 | 4. Chi phí tài chính khác |  | 4.640.076.688 | 840.878.104 | 11.997.006.344 | 38.455.820.458  |
+|  60 | Cộng chi phí tài chính | 36 | 698.013.180.762 | 385.367.497.653 | 1.809.124.060.558 | 1.163.987.573.493  |
+|  62 | V. CHI PHÍ QUẢN LÝ | 37 | 63.565.395.575 | 61.147.529.764 | 188.753.387.985 | 209.000.425.621  |
+|  70 | VI. KÉT QUÁ HOẠT ĐỘNG |  | 1.835.408.403.000 | 986.144.556.840 | 4.078.340.505.739 | 2.987.829.851.546  |
+
+--- TRANG 10 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+BÁO CÁO KÉT QUÁ HOẠT ĐỘNG HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mă sô | CHI TIÊU | Thuyết minh | Quý 3 |  | Lũy kế từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Năm nay VND | Năm trước VND | Năm nay VND | Năm trước VND  |
+|   | VII. THU NHẠP KHÁC VÀ CHI PHÍ KHÁC |  |  |  |  |   |
+|  71 | Thu nhập khác |  | 347.981 .023 | 641.613 .577 | 3.525 .138 .949 | 1.757 .598 .070  |
+|  72 | Chi phí khác |  | 838.324 .901 | 169.355 .027 | 2.087 .409 .013 | 829.728 .755  |
+|  80 | Cộng kết quả hoạt động khác | 38 | (490.343.878) | 472.258 .550 | 1.437 .729 .936 | 927.869 .315  |
+|  90 | VIII. TÔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUÉ |  | 1.834.918.059.122 | 986.616.815.390 | 4.079.778.235.675 | 2.988.757.720.861  |
+|  91 | Lợi nhuận đã thực hiện |  | 1.917.531.033.658 | 773.583.187.516 | 3.973.789.970.714 | 2.814.723.551.771  |
+|  92 | Lợi nhuận chưa thực hiện |  | (82.612.974.536) | 213.033.627.874 | 105.988.264.961 | 174.034.169.090  |
+|  100 | IX. CHI PHÍ THUÉ THU NHẠP DOANH NGHIỆP (TNDN) |  | 359.319.389.506 | 192.620.637.974 | 792.586.691.870 | 582.012.473.644  |
+|  100.1 | Chi phí thuế TNDN hiện hành |  | 352.165.041.119 | 171.668.807.710 | 779.477.073.179 | 561.695.907.078  |
+|  100.2 | Chi phí/ (thu nhập) thuế TNDN hoãn lại |  | 7.154.348.387 | 20.951.830.264 | 13.109.618.691 | 20.316.566.566  |
+|  200 | X. LỢI NHUẬN KẾ TOÁN SAU THUÉ TNDN |  | 1.475.598.669.616 | 793.996.177.416 | 3.287.191.543.805 | 2.406.745.247.217  |
+|  201 | 1. Lợi nhuận sau thuế phân bố cho chủ sở hữu |  | 1.475.127.883.911 | 794.515.584.118 | 3.288.629.106.949 | 2.407.284.953.932  |
+|  203 | 2. Lợi nhuận thuần phân bố cho lợi ích của cổ đông không kiểm soát |  | 470.785.705 | (519.406.702) | (1.437.563.144) | (539.706.715)  |
+
+--- TRANG 11 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## BÁO CÁO KẾT QUẢ HOẠT ĐỘNG HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)
+
+cho kỳ kể toàn kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mã số | Chỉ Tiểu | Thuyết minh | Quý 3 |  | Lũy kể từ đầu năm đến cuối quý này |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  |  | Năm nay VND | Năm trước VND | Năm nay VND | Năm trước VND  |
+|  300 | XI. THU NHẬP TOÀN DIỆN KHÁC SAU THUẾ TNDN |  |  |  |  |   |
+|  301 | Lãi từ đánh giá lại các tài sản tài chính AFS |  | 12.880.490.480 | 2.588.709.760 | 20.562.612.712 | 26.238.118.846  |
+|  400 | Tổng thu nhập toàn diện khác |  | 12.880.490.480 | 2.588.709.760 | 20.562.612.712 | 26.238.118.846  |
+
+Bà Nguyễn Thị An Vi, Người lập biểu
+
+Bà Nguyễn Thị Hải Anh, Kể toán trưởng
+
+![img-0.jpeg](img-0.jpeg)
+
+Ông Nguyễn Đức Thông, Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 24 tháng 10 năm 2025
+
+--- TRANG 12 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## B03b-CTCK/HN
+
+### BÁO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT QUỶ 3 NĂM 2025
+
+cho kỳ kể toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Lũy kể từ đầu năm đến cuối quý này  |
+| --- | --- | --- | --- |
+|   |  |  | Năm nay VND  |
+|   | **I. LƯU CHUYỂN TIỀN TỬ HOẠT ĐỘNG KINH DOANH** |  |   |
+|  01 | 1. Lợi nhuận trước Thuế TNDN |  | 4.079.778.235.675  |
+|  02 | 2. Điều chỉnh cho các khoản: |  | (2.429.490.765.532)  |
+|  03 | Khẩu hao TSCĐ |  | 72.814.849.231  |
+|  04 | Các khoản dự phòng |  | (41.383.706.646)  |
+|  05 | (- Lãi) hoặc (+ lỗ) chênh lệch tỷ giá hồi đoái chưa thực hiện |  | 10.363.045.289  |
+|  06 | Chi phí lãi vay |  | 1.771.546.909.592  |
+|  07 | Lãi từ hoạt động đầu tư (đầu tư công ty con, liên kết, liên doanh, HTM dài hạn) |  | (60.407.783.836)  |
+|  08 | Dự thu tiền lãi |  | (4.182.973.978.325)  |
+|  09 | Các khoản điều chỉnh khác |  | 549.899.163  |
+|  10 | 3. Tăng các chi phí phí tiền tệ |  | 495.502.961.147  |
+|  11 | Lỗ đánh giá lại giá trị các tài sản tài chính FVTPL, lỗ đánh giá lại phải trả chứng quyền |  | 489.853.310.114  |
+|  14 | Lỗ về ghi nhận chênh lệch đánh giá theo giá trị hợp lý các tài sản tài chính AFS khi phân loại lại |  | 4.741.291.390  |
+|  17 | Lỗ khác |  | 908.359.643  |
+|  18 | 4. Giảm các doanh thu phí tiền tệ |  | (663.977.278.099)  |
+|  19 | Lãi đánh giá lại giá trị các tài sản tài chính FVTPL, lãi đánh giá lại phải trả chứng quyền |  | (606.190.994.899)  |
+|  20 | Lãi về ghi nhận chênh lệch đánh giá theo giá trị hợp lý TSTC sẵn sàng để bán AFS khi phân loại lại |  | (28.156.283.200)  |
+|  21 | Lãi khác |  | (29.630.000.000)  |
+|  30 | Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động |  | 1.481.813.153.191  |
+|  31 | (Tăng)/giảm tài sản tài chính FVTPL |  | (7.696.242.170.209)  |
+|  32 | (Tăng)/giảm các khoản đầu tư HTM |  | (1.360.644.337.277)  |
+|  33 | (Tăng)/giảm các khoản cho vay |  | (17.232.847.565.374)  |
+|  34 | (Tăng)/giảm tài sản tài chính AFS |  | (158.616.700.001)  |
+|  35 | (Tăng)/giảm phải thu bán các tài sản tài chính |  | 269.829.809.228  |
+|  37 | (Tăng)/giảm phải thu các dịch vụ CTCK cung cấp |  | (6.916.288.656)  |
+|  39 | (Tăng)/giảm các khoản phải thu khác |  | (153.576.149.774)  |
+|  40 | (Tăng)/giảm các tài sản khác |  | (182.049.346.043)  |
+|  41 | Tăng/(giảm) chi phí phải trả (không bao gồm chi phí lãi vay) |  | 36.524.217.732  |
+|  42 | (Tăng)/giảm chi phí trả trước |  | 5.518.490.079  |
+|  43 | Thuế TNDN đã nộp |  | (560.360.518.320)  |
+|  44 | Lãi vay đã trả |  | (1.722.496.025.051)  |
+|  45 | Tăng/(giảm) phải trả cho người bán |  | (18.696.348.458)  |
+|  46 | Tăng/(giảm) các khoản trích nộp phúc lợi nhân viên |  | (119.042.455)  |
+|  47 | Tăng/(giảm) thuế và các khoản phải nộp Nhà nước |  | 75.170.740.715  |
+|  48 | Tăng/(giảm) phải trả người lao động |  | (75.344.228.039)  |
+|  50 | Tăng/(giảm) phải trả, phải nộp khác, phải trả chứng quyền |  | 468.824.086.296  |
+|  51 | Tiền thu khác từ hoạt động kinh doanh |  | 4.099.509.954.455  |
+|   | - Tiền lãi đã thu |  | 4.098.483.203.002  |
+|   | - Tiền thu khác |  | 1.026.751.453  |
+|  52 | Tiền chi khác cho hoạt động kinh doanh |  | (81.344.792.968)  |
+|  60 | Lưu chuyển tiền thuần túr (sử dụng vào) hoạt động kinh doanh |  | (22.812.063.060.929)  |
+
+Lũy kể từ đầu năm đến cuối quý này
+
+Năm nay VND
+
+2.988.757.720.861
+
+(2.078.398.012.990)
+
+84.265.978.055
+
+138.356.612
+
+(2.839.870.580)
+
+1.100.011.951.274
+
+(137.111.851.739)
+
+(3.123.366.717.643)
+
+504.141.031
+
+287.982.178.082
+
+287.948.395.682
+
+33.782.400
+
+(476.239.474.192)
+
+(459.142.694.192)
+
+(17.096.780.000)
+
+722.102.411.761
+
+6.923.672.317.914
+
+(301.141.211.153)
+
+(4.364.566.999.939)
+
+(145.911.368.246)
+
+36.376.308.000
+
+1.463.854.492
+
+(406.463.446.586)
+
+(130.115.462.663)
+
+19.671.737.918
+
+23.047.477.687
+
+(675.778.015.609)
+
+(1.112.692.461.165)
+
+(737.731.139.375)
+
+32.248.194
+
+(21.162.020.194)
+
+(59.854.061.075)
+
+(712.767.638.895)
+
+3.141.610.555.528
+
+3.141.592.430.528
+
+18.125.000
+
+(94.383.824.767)
+
+2.105.409.261.827
+
+--- TRANG 13 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B03b-CTCK/HN
+
+BÁO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này  |
+| --- | --- | --- | --- |
+|   |  |  | Năm nay VND  |
+|   | **II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ** |  |   |
+|  61 | Tiền chi để mua sắm, xây dựng tài sản cố định, bất động sản đầu tư và các tài sản khác |  | (83.445.106.695)  |
+|  62 | Tiền thu từ thanh lý, nhượng bán tài sản cố định, bất động sản đầu tư và các tài sản khác |  | 938.425.999  |
+|  63 | Tiền chi đầu tư vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác |  | (500.000.000.000)  |
+|  64 | Tiền thu hồi các khoản đầu tư vào công ty con, công ty liên doanh, liên kết và đầu tư khác |  | 69.117.205.321  |
+|  65 | Tiền thu về cổ tức và lợi nhuận được chia từ các khoản đầu tư tài chính dài hạn |  | 37.680.000.000  |
+|  70 | Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động đầu tư |  | (475.709.475.375)  |
+|   | **III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH** |  |   |
+|  71 | Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu |  | 3.356.525.367.200  |
+|  73 | Tiền vay gốc |  | 297.605.204.626.377  |
+|  73.2 | - Tiền vay khác |  | 297.605.204.626.377  |
+|  74 | Tiền chi trả nợ gốc vay |  | (277.658.245.778.109)  |
+|  74.3 | - Tiền chi trả gốc vay khác |  | (277.658.245.778.109)  |
+|  76 | Cổ tức, lợi nhuận đã trả cho chủ sở hữu |  | (208.812.000)  |
+|  80 | Lưu chuyển tiền thuần từ (sử dụng vào) hoạt động tài chính |  | 23.303.275.403.468  |
+
+--- TRANG 14 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B03b-CTCK/HN
+
+BÁO CÁO LƯU CHUYỂN TIỀN TẾ HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Lũy kế từ đầu năm đến cuối quý này  |
+| --- | --- | --- | --- |
+|   |  |  | Năm nay VND  |
+|  90 | TĂNGI (GIẢM) TIỀN THUẢN TRONG KỲ |  | 15.502.867.164  |
+|  101 | TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN ĐẦU NĂM | 5 | 239.000.238.200  |
+|  101.1 | Tiền |  | 206.795.644.109  |
+|  101.2 | Các khoản tương đương tiền |  | 30.030.246.575  |
+|  102 | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đối ngoại tệ |  | 2.174.347.516  |
+|  103 | TIỀN VÀ CÁC KHOẢN TƯƠNG ĐƯƠNG TIỀN CUỐI KỲ | 5 | 254.503.105.364  |
+|  103.1 | Tiền |  | 165.739.357.805  |
+|  103.2 | Các khoản tương đương tiền |  | 88.181.389.303  |
+|  104 | Ảnh hưởng của thay đổi tỷ giá hối đoái quy đối ngoại tệ |  | 582.358.256  |
+
+--- TRANG 15 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B03b-CTCK/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TẸ HỢP NHÁT QUỶ 3 NĂM 2025 (tiếp theo) cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025
+
+## PHẦN LƯU CHUYÊN TIỀN TẸ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Lộp kế từ đầu năm đến cuối quý này  |
+| --- | --- | --- | --- |
+|   |  |  | Năm nay VND  |
+|  01 | I. Lưu chuyển tiền hoạt động môi giới, ủy thác của khách hàng |  |   |
+|  02 | 1. Tiền thu bán chứng khoán môi giới cho khách hàng |  | 498.898.059.182.517  |
+|  03 | 2. Tiền chi mua chứng khoán môi giới cho khách hàng |  | (521.656.084.600.127)  |
+|  04 | 3. Nhận tiền gửi để thanh toán giao dịch chứng khoán của khách hàng |  | 1.149.035.577.684.156  |
+|  05 | 4. Tiền gửi ký quỹ của Nhà đầu tư tại VSD (giám/đăng) |  | 26.014.026.203  |
+|  06 | 5. Chi trả thanh toán giao dịch chứng khoán của khách hàng |  | (1.111.186.615.893.911)  |
+|  07 | 6. Chi trả phí lưu ký chứng khoán của khách hàng |  | (35.028.730.501)  |
+|  08 | 7. Tiền thu của Tổ chức phát hành chứng khoán |  | 728.380.466.500  |
+|  09 | 8. Tiền chi trả Tổ chức phát hành chứng khoán |  | (8.622.730.077.903)  |
+|  10 | (Giám) tăng tiền thuần trong kỳ |  | 7.187.572.056.934  |
+|  11 | II. Tiền và các khoản tường đường tiền đầu năm của khách hàng |  | 4.941.400.793.936  |
+|  12 | Tiền gửi ngân hàng đầu năm: |  | 4.941.400.793.936  |
+|  13 | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |  | 4.919.023.915.622  |
+|  14 | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng |  | 11.079.681.180  |
+|  15 | - Tiền gửi của Tổ chức phát hành |  | 11.297.197.134  |
+
+--- TRANG 16 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B03b-CTCK/HN
+
+BÁO CÁO LƯU CHUYÊN TIỀN TẾ HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) cho kỳ kể toán kết thúc ngày 30 tháng 09 năm 2025
+
+## PHẦN LƯU CHUYÊN TIỀN TẾ HOẠT ĐỘNG MÔI GIỚI, ỦY THÁC CỦA KHÁCH HÀNG (tiếp theo)
+
+|  Mã số | CHÍ TIÊU | Thuyết minh | Lũy kể từ đầu năm đến cuối quý này  |
+| --- | --- | --- | --- |
+|   |  |  | Năm nay VND  |
+|  40 | III. Tiền và các khoản tương đương tiền cuối kỳ của khách hàng (40 = 20 + 30) |  | 12.128.972.850.870  |
+|  41 | Tiền gửi ngân hàng cuối kỳ: |  | 12.128.972.850.870  |
+|  42 | - Tiền gửi của Nhà đầu tư về giao dịch chứng khoán theo phương thức CTCK quản lý |  | 12.073.645.576.745  |
+|  43 | - Tiền gửi tổng hợp giao dịch chứng khoán cho khách hàng |  | 35.890.951.860  |
+|  45 | - Tiền gửi của Tổ chức phát hành |  | 19.436.322.265  |
+
+Bà Nguyễn Thị An Vi, Nguyễn Thị Hải Anh, Lê Tiến Tiến, Nguyễn Thị Hải Anh, Lê Tiến Tiến, Nguyễn Thị Hải Anh, Lê Tiến Tiến
+
+Bà Nguyễn Thị Hải Anh, Lê Tiến Tiến, Nguyễn Thị Hải Anh, Lê Tiến Tiến, Nguyễn Thị Hải Anh, Lê Tiến Tiến
+
+Ông Nguyễn Đức Thông, Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 24 tháng 10 năm 2025
+
+--- TRANG 17 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+B04-CTCK/HN
+
+BÁO CÁO TÍNH HÌNH BIẾN ĐỘNG VÔN CHỦ SỞ HỮU HỢP NHÁT QUỶ 3 NĂM 2025 cho kỳ kể toàn kết thúc ngày 30 tháng 09 năm 2025
+
+|  CHÍ TIỂU | Thuyết minh | Sổ đầu năm |  | Sổ tăng/giảm |  |  | Sổ cuối kỳ |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  | Ngày 01/01/2024 | Ngày 01/01/2025 | Kỳ trước |  | Kỳ này |  | Ngày 30/09/2024  |
+|   |  |  |  | Tăng | Giảm | Tăng | Giảm | Tăng  |
+|   |  | VND | VND | VND | VND | VND | VND | VND  |
+|  A | B | 1 | 2 | 3 | 4 | 5 | 6 | 7  |
+|  I. BIẾN ĐỘNG VÔN CHỦ SỞ HỮU |  |  |  |  |  |  |  |   |
+|  1. Vốn đầu tư của chủ sở hữu |  | 18.291.394.836.235 | 20.713.065.094.108 | 3.118.199.140.000 | (2.960.117.847.853) | 3.356.525.367.200 | (227.080.000) | 18.449.476.128.382  |
+|  1.1. Cổ phiếu phổ thông | 29.2 | 15.011.301.370.000 | 19.638.639.180.000 | 3.118.199.140.000 | - | 1.140.423.440.000 | - | 18.129.500.510.000  |
+|  1.2. Thăng dự vốn cổ phần |  | 3.299.208.472.644 | 1.093.540.920.517 | - | (2.960.117.847.853) | 2.216.101.927.200 | (227.080.000) | 339.090.624.791  |
+|  1.3. Cổ phiếu quỹ |  | (19.115.006.409) | (19.115.006.409) | - | - | - | - | (19.115.006.409)  |
+|  2. Quỹ dự trữ bổ sung vốn điều lệ |  | 61.252.419.507 | 3.000.000.000 | - | (58.252.419.507) | - | - | 3.000.000.000  |
+|  3. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý |  | (3.793.033.106) | 31.690.477.740 | 26.238.118.846 | - | 20.562.612.711 | - | 22.445.085.740  |
+|  4. Chênh lệch tỷ giá hối đoái |  | 55.243.155.795 | 72.177.590.546 | 4.775.964.162 | - | 14.843.755.855 | - | 60.019.119.957  |
+|  5. Lợi nhuận chưa phân phối |  | 4.696.261.511.253 | 5.856.098.315.938 | 2.731.554.621.277 | (1.987.942.919.123) | 3.823.519.137.225 | (2.769.272.830.585) | 5.439.873.213.407  |
+|  5.1. Lợi nhuận đã thực hiện | 29.1 | 4.764.972.942.283 | 6.025.186.849.191 | 2.252.479.886.680 | (1.663.673.251.777) | 3.196.274.706.374 | (2.234.382.800.309) | 5.353.779.577.186  |
+|  5.2. Lợi nhuận chưa thực hiện | 29.1 | (68.711.431.030) | (169.088.533.253) | 479.074.734.597 | (324.269.667.346) | 627.244.430.851 | (534.890.030.276) | 86.093.636.221  |
+|  6. Lợi ích cổ đông không kiểm soát |  | 140.533.221.129 | 150.619.133.436 | - | (539.706.716) | - | (17.135.741.257) | 139.993.514.413  |
+|  TÔNG CỘNG |  | 23.240.892.110.813 | 26.826.650.611.768 | 5.880.767.844.285 | (5.006.852.893.199) | 7.215.450.872.991 | (2.786.635.651.842) | 24.114.807.061.899  |
+
+--- TRANG 18 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## BÁO CÁO TÍNH HÌNH BIẾN ĐỘNG VÔN CHỦ SỞ HỮU HỢP NHÁT QUỶ 3 NĂM 2025 (tiếp theo)
+
+cho kỳ kể toàn kết thúc ngày 30 tháng 09 năm 2025
+
+|  CHÍ TIÊU | Thuyết minh | Sổ đầu năm |  | Sổ tăng/giảm |  | Sổ cuối kỳ |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  | Ngày 01/01/2024 | Ngày 01/01/2025 | Ký trước |  | Ký này |   |
+|   |  |  |  | Tăng | Giảm | Tăng | Giảm  |
+|   |  | VND | VND | VND | VND | VND | VND  |
+|  A | B | 1 | 2 | 3 | 4 | 5 | 6  |
+|  II. THU NHẬP TOÀN DIỆN KHÁC
+1. Lã̉i (tổ) từ đánh giá lại các tài sản tài chính AFS | 40 | (3.793.033.106) | 31.690.477.740 | 26.238.118.846 | - | 20.562.612.711 | -  |
+|  TỔNG CỘNG |  | (3.793.033.106) | 31.690.477.740 | 26.238.118.846 | - | 20.562.612.711 | 63  |
+
+Bà Nguyễn Thị An Vi
+
+Người lập biểu
+
+Bà Nguyễn Thị Hải Anh
+
+Kể toán Trưởng
+
+Ông Nguyễn Đức Thông
+
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 24 tháng 10 năm 2025
+
+--- TRANG 19 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+## 1. THÔNG TIN DOANH NGHIỆP
+
+Công ty Cổ phần chứng khoán SSI ("Công ty") là một công ty cổ phần được thành lập theo Luật Doanh Nghiệp Việt Nam, Giấy phép Thành lập công ty cổ phần số 3041/GP-UB do Uỷ ban Nhân dân Thành phố Hồ Chí Minh cấp ngày 27 tháng 12 năm 1999 và Giấy Chứng nhận Đăng ký Kinh doanh số 0301955155 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp đăng ký lần đầu vào ngày 05 tháng 04 năm 2000. Công ty hoạt động theo Giấy phép Hoạt động Kinh doanh Chứng khoán số 03/GPHĐKD do Chủ tịch Ủy ban Chứng khoán Nhà nước cấp ngày 5 tháng 4 năm 2000 và các giấy phép điều chỉnh.
+
+Vốn điều lệ ban đầu của Công ty là 6.000 .000 .000 VND và đã được bổ sung trong từng thời kỳ theo các giấy phép điều chỉnh, gần nhất là giấy phép điều chỉnh số 95/GPĐC-UBCK do Chủ tịch Ủy ban Chứng khoán Nhà nước cấp, có hiệu lực kể từ ngày 26 tháng 09 năm 2025. Tại ngày 30 tháng 09 năm 2025, tổng vốn điều lệ của Công ty là 20.779.062.620.000 VND.
+
+Hoạt động chính của Công ty là môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, lưu ký chứng khoán, tư vấn tài chính và tư vấn đầu tư chứng khoán, giao dịch ký quỹ chứng khoán và hoạt động kinh doanh chứng khoán phái sinh. Công ty có trụ sở chính tại số 72 đường Nguyễn Huệ, phường Sài Gòn, Thành phố Hồ Chí Minh. Tại ngày 30 tháng 09 năm 2025, Công ty có chi nhánh tại Thành phố Hồ Chí Minh, Hà Nội, Hải Phòng và các phòng giao dịch tại Thành phố Hồ Chí Minh và Hà Nội.
+
+Số lượng nhân viên của Công ty tại ngày 30 tháng 09 năm 2025 là: 1.435 người (31 tháng 12 năm 2024: 1.553 người).
+
+## NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
+
+Người đại diện theo pháp luật của Công ty trong kỳ và cho đến thời điểm lập báo cáo tài chính hợp nhất Quý 3 năm 2025 này là Ông Nguyễn Duy Hưng, chức danh Chủ tịch Hội đồng Quản trị.
+
+Ông Nguyễn Đức Thông - Tổng Giám đốc được ông Nguyễn Duy Hưng ủy quyền ký Báo cáo Vốn đầu tư của chủ sở hữu kèm theo theo Giấy Ủy quyền số 10/2025/UQ-SSI của Chủ tịch HĐQT ngày 01 tháng 08 năm 2025.
+
+## Những đặc điểm chính về hoạt động của Công ty
+
+Quy mô vốn
+Tại ngày 30 tháng 09 năm 2025, tổng vốn điều lệ của Công ty là 20.779.062.620.000 VND, vốn chủ sở hữu bao gồm cả lợi ích cổ đông không kiểm soát là 31.255 .465 .832 .917 VND , tổng tài sản là 100.711.847.158.732 VND.
+
+## Mục tiêu đầu tư
+
+Là công ty chứng khoán niêm yết có quy mô lớn nhất trên thị trường chứng khoán Việt Nam với hoạt động chính bao gồm môi giới chứng khoán, tự doanh chứng khoán, bảo lãnh phát hành chứng khoán, lưu ký chứng khoán, tư vấn tài chính, tư vấn đầu tư chứng khoán, giao dịch ký quỹ chứng khoán và hoạt động kinh doanh chứng khoán phái sinh. Công ty hoạt động với mục tiêu là trở thành đối tác của khách hàng cùng thành công, tập trung mọi nguồn lực và sáng kiến của Công ty để đem thành công đến cho khách hàng, đội ngũ nhân viên và cộng đồng nơi Công ty hoạt động.
+
+--- TRANG 20 ---
+# CHƯYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 
+
+## Hạn chế đầu tư
+
+Công ty tuân thủ quy định tại Điều 28, Thông tư số 121/2020/TT-BTC ngày 31 tháng 12 năm 2020 quy định về hoạt động công ty chứng khoán. Một số khoản mục hạn chế đầu tư theo các quy định hiện hành như sau:
+
+1. Công ty chứng khoán không được mua, góp vốn mua bất động sản trừ trường hợp để sử dụng làm trụ sở chính, chi nhánh, phòng giao dịch phục vụ trực tiếp cho các hoạt động nghiệp vụ của công ty chứng khoán.
+2. Công ty chứng khoán mua, đầu tư vào bất động sản theo quy định tại khoản 1 trên và tài sản cố định theo nguyên tắc giá trị còn lại của tài sản cố định và bất động sản không được vượt quá năm mươi phần trăm ( $50 \%$ ) giá trị tổng tài sản của công ty chứng khoán.
+3. Tổng giá trị đầu tư vào các trái phiếu doanh nghiệp của công ty chứng khoán không được vượt quá bảy mươi phần trăm ( $70 \%$ ) vốn chủ sở hữu. Công ty chứng khoán được cấp phép thực hiện nghiệp vụ tự doanh chứng khoán được phép mua bán lại trái phiếu niêm yết theo quy định có liên quan về mua bán lại trái phiếu.
+4. Công ty chứng khoán không được trực tiếp hoặc ủy thác thực hiện các nghiệp vụ sau:
+a. Đầu tư vào cổ phiếu hoặc phần vốn góp của công ty có sở hữu trên năm mươi phần trăm ( $50 \%$ ) vốn điều lệ của công ty chứng khoán, trừ trường hợp mua cổ phiếu lô lẻ theo yêu cầu của khách hàng;
+b. Cùng với người có liên quan đầu tư từ năm phần trăm (5\%) trở lên vốn điều lệ của công ty chứng khoán khác;
+c. Đầu tư quá hai mươi phần trăm (20\%) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức niêm yết;
+d. Đầu tư quá mười lăm phần trăm ( $15 \%$ ) tổng số cổ phiếu, chứng chỉ quỹ đang lưu hành của một tổ chức chưa niêm yết, quy định này không áp dụng đối với chứng chỉ quỹ thành viên, quỹ hoán đổi danh mục và quỹ mở;
+e. Đầu tư hoặc góp vốn quá mười phần trăm ( $10 \%$ ) trên tổng số vốn góp của một công ty trách nhiệm hữu hạn hoặc dự án kinh doanh;
+f. Đầu tư hoặc góp vốn quá mười lăm phần trăm ( $15 \%$ ) vốn chủ sở hữu vào một tổ chức hoặc dự án kinh doanh;
+g. Đầu tư quá bảy mươi phần trăm ( $70 \%$ ) vốn chủ sở hữu vào cổ phiếu, phần vốn góp và dự án kinh doanh, trong đó không được đầu tư quá hai mươi phần trăm (20\%) vốn chủ sở hữu vào cổ phiếu chưa niêm yết, phần vốn góp và dự án kinh doanh.
+Công ty chứng khoán được thành lập, mua lại công ty quản lý quỹ làm công ty con. Trong trường hợp này, công ty chứng khoán không phải tuân thủ các quy định tại điểm c, d, và e Khoản 4 trên.
+
+--- TRANG 21 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+# Công ty con 
+
+Tại ngày 30 tháng 09 năm 2025, Công ty có hai (02) công ty con sở hữu trực tiếp như sau:
+
+| Tên công ty | Được thành lập theo | Ngành hoạt động | Vốn điều lệ | \% sở hữu |
+| :--: | :--: | :--: | :--: | :--: |
+| Công ty TNHH <br> Quản lý Quỹ <br> SSI (SSIAM) | Giấy phép Thành lập và <br> Hoạt động số 19/UBCK-GP <br> ngày 03 tháng 08 năm 2007 <br> và giấy phép điều chỉnh gắn <br> nhất số 122/GPĐC-UBCK <br> ngày 19 tháng 12 năm 2022 | Quản lý quỹ đầu tư <br> chứng khoán và <br> quản lý danh mục <br> đầu tư chứng khoán | 75 tỷ VND | $100 \%$ |
+| Quỹ Đầu tư <br> Thành viên <br> SSI (SSI IMF) | Thông báo về việc xác nhận <br> thành lập quỹ thành viên số <br> 130/TB-UBCK ngày 27 <br> tháng 07 năm 2010 và giấy <br> phép điều chỉnh gắn nhất số <br> 12/GCN_UBCK ngày 15 <br> tháng 04 năm 2022 | Đầu tư vào chứng <br> khoán hoặc các dạng <br> tài sản đầu tư khác, <br> kể cả bất động sản | 530,5 tỷ <br> VND | $76,15 \%$ |
+
+Ngoài ra, tại ngày 30 tháng 09 năm 2025, Công ty có một (01) công ty con là sở hữu gián tiếp qua Quỹ Đầu tư Thành viên SSI như sau:
+
+| Tên công ty | Được thành lập theo | Ngành hoạt động | Vốn điều lệ | \% sở hữu |
+| :--: | :--: | :--: | :--: | :--: |
+| Công ty <br> Quốc tế SSI | Thành lập tại Hoa Kỳ theo <br> Đăng ký Kinh doanh số <br> 090813396 - 4724807 <br> ngày 27 tháng 08 năm <br> 2009 | Kinh doanh bắt <br> động sản | 18.499.870,31 USD | 76,15\% |
+
+--- TRANG 22 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+## Công ty liên kết
+
+Tại ngày 30 tháng 09 năm 2025, Công ty có hai (02) công ty liên kết do SSI trực tiếp sở hữu cổ phần được phản ánh trên Báo cáo tài chính hợp nhất Quý 3 năm 2025 như sau:
+
+|  Tên công ty | Được thành lập theo | Ngành hoạt động | Vốn điều lệ (VND)  |
+| --- | --- | --- | --- |
+|  Công ty Cổ phần Tập đoàn PAN (PAN) | Giấy Chứng nhận Đăng ký Doanh nghiệp Công ty cổ phần số 0301472704 ngày 19 tháng 10 năm 2022 do Sở Kế hoạch và Đầu tư tỉnh Long An cấp (đăng ký thay đổi lần thứ 23). Ban đầu, Công ty hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh số 4103003790 ngày 31 tháng 08 năm 2005.
+Là doanh nghiệp niêm yết trên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh. | Trồng trọt, chăn nuôi hỗn hợp; Hoạt động dịch vụ chăn nuôi; Dịch vụ sau thu hoạch; và hoạt động dịch vụ trồng trọt; Dịch vụ vệ sinh nhà cửa; Tư vấn đầu tư (trừ tư vấn tài chính); Dịch vụ tư vấn quản lý (trừ tư vấn Tài chính, kinh tế, pháp luật); Dịch vụ nghiên cứu thị trường. | $2.162 .945 .800 .000$  |
+|  Quỹ Đầu tư công nghệ số và Y tế Việt Nam | Giấy Chứng nhận Đăng ký lập quỹ thành viên số 38/GCN-UBCK do Chủ tịch Ủy ban chứng khoán nhà nước cấp ngày 29 tháng 09 năm 2021 và giấy phép điều chỉnh số 53/GCNUBCK ngày 15 tháng 05 năm 2023. | Đầu tư vào chứng khoán hoặc các dạng tài sản đầu tư khác. | $50.000 .000 .000$  |
+
+Ngoài ra, tại ngày 30 tháng 09 năm 2025, Công ty có một (01) công ty liên kết là sở hữu gián tiếp qua Quỹ Đầu tư Thành viên SSI như sau:
+
+|  Tên công ty | Được thành lập theo | Ngành hoạt động | Vốn điều lệ (VND)  |
+| --- | --- | --- | --- |
+|  Công ty Cổ phần Công nghệ số SSI (*) | Giấy chứng nhận Đăng ký Doanh nghiệp Công ty Cổ phần do Sở Kế hoạch và Đầu tư Hà Nội cấp. Ban đầu, Công ty hoạt động theo Giấy Chứng nhận Đăng ký Kinh doanh số 0109944126 ngày 25 tháng 03 năm 2022 | Nghiên cứu khoa học và phát triển công nghệ Tư vấn quản lý, lập trình... | 200.000.000.000  |
+
+(*) Công ty Cổ phần Công nghệ số SSI được sở hữu gián tiếp qua Quỹ Đầu tư Thành viên SSI và trở thành Công ty liên kết của SSI qua hình thức gián tiếp từ ngày 04 tháng 06 năm 2025.
+
+--- TRANG 23 ---
+# CÔng ty Cỗ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+## 2. CƠ SỞ TRÌNH BÀY
+
+### 2.1 Chuẩn mực và Chế độ kế toán áp dụng
+
+Báo cáo tài chính hợp nhất của Công ty được lập và trình bày phù hợp với Chế độ kế toán Doanh nghiệp Việt Nam, các quy định và hướng dẫn kế toán áp dụng cho công ty chứng khoán được quy định tại Thông tư số 210/2014/TT-BTC ngày 30 tháng 12 năm 2014 của Bộ Tài chính, Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 của Bộ Tài chính sửa đổi, bổ sung và thay thế Phụ lục 02 và 04 của Thông tư số 210/2014/TT-BTC, và các Chuẩn mực Kế toán Việt Nam khác do Bộ Tài chính ban hành theo:
+
+- Quyết định số 149/2001/QĐ-BTC ngày 31 tháng 12 năm 2001 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 1);
+- Quyết định số 165/2002/QĐ-BTC ngày 31 tháng 12 năm 2002 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 2);
+- Quyết định số 234/2003/QĐ-BTC ngày 30 tháng 12 năm 2003 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 3);
+- Quyết định số 12/2005/QĐ-BTC ngày 15 tháng 2 năm 2005 về việc ban hành sáu Chuẩn mực kế toán Việt Nam (Đợt 4); và
+- Quyết định số 100/2005/QĐ-BTC ngày 28 tháng 12 năm 2005 về việc ban hành bốn Chuẩn mực kế toán Việt Nam (Đợt 5).
+
+
+### 2.2 Cơ sở hợp nhất
+
+Báo cáo tài chính hợp nhất bao gồm báo cáo tài chính của Công ty Cỗ phần Chứng khoán SSI (công ty mẹ) và các công ty con tại ngày 30 tháng 09 năm 2025.
+
+Công ty con được hợp nhất toàn bộ kể từ ngày mua, là ngày Công ty mẹ thực sự nắm quyền kiểm soát công ty con, và tiếp tục được hợp nhất cho đến ngày Công ty mẹ thực sự chấm dứt quyền kiểm soát đối với công ty con.
+
+Các báo cáo tài chính của công ty mẹ và các công ty con sử dụng để hợp nhất được lập cho cùng một kỳ kế toán, và được áp dụng các chính sách kế toán một cách thống nhất cho các giao dịch tương tự.
+
+Số dư các tài khoản trên báo cáo tình hình tài chính giữa công ty mẹ và công ty con hoặc giữa các công ty con, các giao dịch nội bộ, các khoản lãi hoặc lỗ nội bộ chưa thực hiện phát sinh từ các giao dịch này được loại trừ hoàn toàn.
+
+Lợi ích cổ đông không kiểm soát là phần lợi ích trong lãi, hoặc lỗ, và trong tài sản thuần của công ty con không được nắm giữ bởi Công ty mẹ được trình bày riêng biệt trên báo cáo kết quả hoạt động hợp nhất và được trình bày riêng biệt với phần vốn chủ sở hữu của các cổ đông của công ty mẹ trong phần vốn chủ sở hữu trên báo cáo tình hình tài chính hợp nhất.
+
+### 2.3 Hình thức số kế toán áp dụng
+
+Hình thức số kế toán áp dụng được đăng ký của Công ty là Nhật ký chung.
+
+### 2.4 Kỳ kế toán năm
+
+Kỳ kế toán năm của Công ty bắt đầu từ ngày 01 tháng 01 và kết thúc ngày 31 tháng 12.
+Công ty cũng lập báo cáo tài chính giữa niên độ cho kỳ kế toán sáu tháng kết thúc ngày 30 tháng 6 hàng năm và báo cáo tài chính quý cho kỳ kế toán ba tháng kết thúc lần lượt tại ngày 31 tháng 03,30 tháng 06,30 tháng 09 và 31 tháng 12 hàng năm.
+
+--- TRANG 24 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+### 2.5 Đơn vị tiền tệ sử dụng trong kế toán
+
+Báo cáo tài chính hợp nhất được lập bằng đơn vị tiền tệ sử dụng trong kế toán của Công ty là đồng Việt Nam ("VND").
+
+## 3. TUYỂN BỎ VỀ VIỆC TUẦN THỦ CHUẨN MỰC KẾ TOÁN VÀ CHẾ ĐỘ KẾ TOÁN VIỆT NAM
+
+Ban Tổng giám đốc Công ty cam kết đã lập báo cáo tài chính hợp nhất Quý 3 năm 2025 tuân thủ theo Chuẩn mực Kế toán và Chế độ Kế toán doanh nghiệp Việt Nam, các hướng dẫn kế toán áp dụng cho công ty chứng khoán và các quy định pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính hợp nhất.
+
+Theo đó, báo cáo tình hình tài chính hợp nhất, báo cáo kết quả hoạt động hợp nhất, báo cáo lưu chuyển tiền tệ hợp nhất, báo cáo tình hình biến động vốn chủ sở hữu hợp nhất và các thuyết minh báo cáo tài chính hợp nhất Quý 3 năm 2025 được trình bày kèm theo và việc sử dụng báo cáo này không dành cho các đối tượng không được cung cấp các thông tin về các thủ tục, nguyên tắc và thông lệ kế toán tại Việt Nam và hơn nữa không được chủ định trình bày tình hình tài chính hợp nhất, kết quả hoạt động hợp nhất, lưu chuyển tiền tệ hợp nhất và biến động vốn chủ sở hữu hợp nhất theo các nguyên tắc và thông lệ kế toán được chấp nhận rộng rãi ở các nước và lãnh thổ khác ngoài Việt Nam.
+
+## 4. TÓM TẮT CÁC CHÍNH SÁCH KẾ TOÁN CHỦ YẾU
+
+### 4.1 Tiền và các khoản tương đương tiền
+
+Tiền và các khoản tương đương tiền bao gồm tiền mặt tại quỹ, tiền gửi ngân hàng của công ty chứng khoán, các khoản đầu tư ngắn hạn có thời hạn thu hồi không quá ba tháng kể từ ngày mua, có tính thanh khoản cao, có khả năng chuyển đổi dễ dàng thành các lượng tiền xác định và không có nhiều rủi ro trong chuyển đổi thành tiền.
+
+Tiền gửi của nhà đầu tư về giao dịch chứng khoán và tiền gửi của tổ chức phát hành được phản ánh tại các chỉ tiêu ngoài báo cáo tình hình tài chính hợp nhất.
+
+### 4.2 Tài sản tài chính ghi nhận thông qua lãi/ĩ (FVTPL)
+
+Các tài sản tài chính FVTPL là tài sản tài chính thỏa mãn một trong các điều kiện sau:
+a) Tài sản tài chính được phân loại vào nhóm nắm giữ để kinh doanh. Tài sản tài chính được phân loại vào nhóm chứng khoán nắm giữ để kinh doanh, nếu:
+
+- Được mua hoặc tạo ra chủ yếu cho mục đích bán lại/mua lại trong thời gian ngắn;
+- Có bằng chứng về việc kinh doanh công cụ đó nhằm mục đích thu lợi ngắn hạn; hoặc
+- Công cụ tài chính phái sinh (ngoại trừ các công cụ tài chính phái sinh được xác định là một hợp đồng bảo lãnh tài chính hoặc một công cụ phòng ngừa rủi ro hiệu quả)
+b) Tại thời điểm ghi nhận ban đầu, các tài sản tài chính xác định sẽ được trình bày hợp lý hơn nếu phân loại vào tài sản tài chính FVTPL vì một trong các lý do sau đây:
+- Việc phân loại vào tài sản tài chính FVTPL loại trừ hoặc làm giảm đáng kể sự không thống nhất trong ghi nhận hoặc xác định giá trị tài sản tài chính theo các cơ sở khác nhau.
+- Tài sản tài chính thuộc một nhóm các tài sản tài chính được quản lý và kết quả quản lý được đánh giá dựa trên cơ sở giá trị đồng thời phù hợp với chính sách quản lý rủi ro hoặc chiến lược đầu tư của Công ty.
+Các tài sản tài chính FVTPL được ghi nhận ban đầu theo giá gốc (giá mua của tài sản không bao gồm chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này) và được tiếp tục ghi nhận sau ghi nhận ban đầu theo giá trị hợp lý.
+
+--- TRANG 25 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYÉT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Khoản chênh lệch giảm do đánh giá lại tài sản tài chính FVTPL theo giá trị hợp lý /giá thị trường so với kỳ trước được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chênh lệch giảm về đánh giá lại các tài sản tài chính FVTPL". Khoản chênh lệch tăng do đánh giá lại tài sản tài chính FVTPL theo giá trị hợp lý/giá thị trường so với kỳ trước được ghi nhận vào báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL".
+
+Chi phí mua các tài sản tài chính FVTPL được ghi nhận vào chi phí giao dịch mua các tài sản tài chính của báo cáo kết quả hoạt động ngay khi phát sinh.
+
+### 4.3 Tài sản tài chính giữ đến ngày đáo hạn (HTM)
+
+Các tài sản tài chính HTM là các tài sản tài chính phi phái sinh với các khoản thanh toán cố định hoặc có thể xác định và có kỳ đáo hạn cố định mà Công ty có ý định và có khả năng giữ đến ngày đáo hạn, ngoại trừ:
+a) Các tài sản tài chính mà tại thời điểm ghi nhận ban đầu đã được xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/iố;
+b) Các tài sản tài chính đã được xếp vào nhóm sã̃n sàng để bán;
+c) Các tài sản tài chính thỏa mãn định nghĩa về các khoản cho vay và phải thu.
+
+Các tài sản tài chính HTM được ghi nhận ban đầu theo giá gốc (giá mua của tài sản cộng (+) các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này như phí môi giới, phí giao dịch, phí đại lý phát hành và phí ngân hàng). Sau ghi nhận ban đầu, tài sản tài chính HTM được ghi nhận theo giá trị phân bố sử dụng phương pháp lãi suất thực.
+
+Giá trị phân bố của các khoản đầu tư HTM được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bố lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+
+Phương pháp lãi suất thực là một phương pháp tính toán chi phí phân bố về thu nhập lãi hoặc chi phí lãi trong kỳ liên quan của một tài sản tài chính hoặc một nhóm các khoản đầu tư HTM.
+
+Lãi suất thực là lãi suất chiết khẩu chính xác các luồng tiền ước tính sẽ chi trả hoặc nhận được trong tương lai trong suốt vòng đời dự kiến của công cụ tài chính hoặc trong kỳ hạn ngắn hơn, nếu cần thiết, trở về giá trị ghi sổ hiện tại ròng của tài sản hoặc nợ tài chính.
+
+Các khoản đầu tư được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính hợp nhất. Dự phòng được trích lập cho các khoản đầu tư HTM khi có bằng chứng khách quan cho thấy có khả năng không thu hồi được hoặc không chắc chắn thu hồi được của khoản đầu tư xuất phát từ một hoặc nhiều sự kiện tổn thất xảy ra ảnh hưởng xấu lên luồng tiền tương lai dự kiến của các khoản đầu tư nắm giữ đến ngày đáo hạn. Bằng chứng khách quan của việc suy giảm giá trị có thể bao gồm giá trị thị trường/giá trị hợp lý (nếu có) của khoản nợ bị suy giảm, các dấu hiệu về bên nợ hoặc nhóm các bên nợ đang gặp khó khăn về tài chính đáng kể, vỡ nợ hoặc trả nợ không đúng kỳ hạn các khoản lãi hoặc gốc, khả năng bên nợ bị phá sản hoặc có sự tái cơ cấu tài chính và các dữ liệu có thể quan sát cho thấy rằng có sự suy giảm có thể lượng hóa được các luồng tiền dự kiến trong tương lai, chẳng hạn như sự thay đổi về điều kiện trả nợ, tình hình tài chính gắn liền với khả năng vỡ nợ. Khi có bằng chứng về việc giảm giá trị hoặc sổ dư dự phòng được trích lập được xác định trên sự khác biệt giữa giá trị phân bố và giá trị hợp lý tại thời điểm đánh giá. Tăng hoặc giảm sổ dư tài khoản dự phòng được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đói, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
+
+--- TRANG 26 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho ký kể toán kết thúc cùng ngày
+
+### 4.4 Các khoản cho vay
+
+Các khoản cho vay là các tài sản tài chính phi phái sinh có các khoản thanh toán cố định hoặc có thể xác định và không được niêm yết trên thị trường hoàn hảo, ngoại trừ:
+a) Các khoản mà Công ty có ý định bán ngay hoặc sẽ bán trong tương lai gắn được phân loại là tài sản nắm giữ vì mục đích kinh doanh, và các khoản mà tại thời điểm ghi nhận ban đầu được Công ty xếp vào nhóm ghi nhận theo giá trị hợp lý thông qua lãi/ĩ̃;
+b) Các khoản được Công ty xếp vào nhóm sã̃n sáng để bán tại thời điểm ghi nhận ban đầu; hoặc
+c) Các khoản mà người nắm giữ có thể không thu hồi được phần lớn giá trị đầu tư ban đầu, không phải do suy giảm chất lượng tín dụng, và được phân loại vào nhóm sẵn sáng để bán. Các khoản cho vay được ghi nhận ban đầu theo giá gốc (giá trị giải ngân của khoản cho vay). Sau ghi nhận ban đầu, các khoản cho vay được ghi nhận theo giá trị phân bố sử dụng phương pháp lãi suất thực.
+
+Giá trị phân bố của các khoản cho vay được xác định bằng giá trị ghi nhận ban đầu của tài sản tài chính trừ đi các khoản hoàn trả gốc cộng hoặc trừ các khoản phân bố lũy kế tính theo phương pháp lãi suất thực của phần chênh lệch giữa giá trị ghi nhận ban đầu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+
+Các khoản cho vay được xem xét khả năng suy giảm giá trị tại ngày lập báo cáo tình hình tài chính hợp nhất. Dự phòng cho các khoản cho vay được trích lập dựa trên mức tổn thất ước tính, được tính bằng phần chênh lệch giữa giá trị thị trường của chứng khoán được dùng làm tài sản đảm bảo cho khoản cho vay và sổ dư của khoản cho vay đó. Tăng hoặc giảm sổ dư tài khoản dự phòng được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đói, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
+
+### 4.5 Tài sản tài chính sẵn sàng để bán (AFS)
+
+Tài sản tài chính sẵn sàng để bán là các tài sản tài chính phi phái sinh được xác định là sẵn sàng để bán hoặc không được phân loại là:
+a) Các khoản cho vay và phải thu;
+b) Các khoản đầu tư nắm giữ đến ngày đáo hạn;
+c) Các tài sản tài chính ghi nhận theo giá trị hợp lý thông qua lãi/ĩ̃.
+
+Các tài sản tài chính AFS được ghi nhận ban đầu theo giá gốc (giá mua cộng các chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính này). Sau ghi nhận ban đầu, tài sản tài chính AFS được ghi nhận theo giá trị hợp lý.
+
+Khoản chênh lệch do đánh giá lại tài sản tài chính AFS theo giá trị hợp lý/giá thị trường (tăng hoặc giảm) so với kỳ trước được thể hiện trên khoản mục " Lãl/(lỗ) từ đánh giá lại tài sản tài chính AFS" thuộc phần Thu nhập toàn diện khác trên báo cáo kết quả hoạt động hợp nhất.
+
+Tại ngày lập báo cáo tình hình tài chính hợp nhất, Công ty cũng đánh giá liệu có hay không bằng chứng khách quan rằng tài sản tài chính AFS bị suy giảm giá trị. Tăng hoặc giảm sổ dư tài khoản dự phòng được ghi nhận vào Báo cáo kết quả hoạt động hợp nhất trên khoản mục "Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đói, lỗ suy giảm tài sản tài chính và chi phí đi vay của các khoản cho vay".
+
+- Trong trường hợp các công cụ vốn được phân loại là sẵn sàng để bán, bằng chứng khách quan bao gồm sự giảm giá trị hợp lý đáng kể hoặc kéo dài của khoản đầu tư dưới giá trị ghi sổ. "Đáng kể" dùng để đánh giá so với giá gốc của khoản đầu tư và "kéo dài" được dùng để chỉ giai đoạn mà giá trị hợp lý thấp hơn giá gốc. Khi có bằng chứng về việc giảm giá trị, sổ dư dự phòng được trích lập được xác định trên sự khác biệt giữa giá gốc và giá trị hợp lý tại thời điểm đánh giá.
+- Trong trường hợp các công cụ nợ được phân loại sẵn sàng để bán, việc đánh giá suy giảm giá trị được thực hiện dựa trên các tiêu chí giống với các tiêu chí đánh giá các khoản đầu tư HTM. Khi có bằng chứng về việc giảm giá trị, sổ dư dự phòng được trích lập được xác định trên sự khác biệt giữa giá trị phân bố và giá trị hợp lý tại thời điểm đánh giá.
+
+--- TRANG 27 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho ký kể toán kết thúc cùng ngày
+
+### 4.6 Giá trị hợp lý/giá trị thị trường của tài sản tài chính
+
+Giá trị hợp lý/giá trị thị trường của tài sản tài chính được xác định như sau:
+
+- Giá trị thị trường của chứng khoán niêm yết trên Sở Giao dịch Chứng khoán Hà Nội và Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh là giá đóng cửa tại ngày gần nhất có giao dịch tính đến ngày đánh giá giá trị chứng khoán.
+- Đối với các chứng khoán của các công ty chưa niêm yết trên thị trường chứng khoán nhưng đã đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết (UPCom) thì giá trị thị trường được xác định là giá đóng cửa tại ngày gần nhất có giao dịch tính đến ngày đánh giá giá trị chứng khoán.
+- Đối với chứng khoán niêm yết bị hủy hoặc bị đình chỉ giao dịch hoặc bị ngừng giao dịch kể từ ngày giao dịch thứ sáu trở đi, giá chứng khoán thực tế là giá trị sổ sách tại ngày lập Báo cáo tình hình tài chính gần nhất.
+- Đối với chứng khoán chưa niêm yết và chưa đăng ký giao dịch trên thị trường giao dịch của các công ty đại chúng chưa niêm yết ("UPCom") thì giá chứng khoán thực tế là mức giá giao dịch thực tế trên thị trường phi tập trung ("OTC") tại thời điểm gần nhất với thời điểm đánh giá giá trị chứng khoán.
+
+Các chứng khoán không có giá tham khảo từ các nguồn trên sẽ được đánh giá giá trị hợp lý dựa trên việc xem xét tình hình tài chính và giá trị sổ sách của tổ chức phát hành tại ngày đánh giá giá trị chứng khoán.
+
+Cho mục đích xác định thu nhập chịu thuế TNDN, cơ sở tính thuế của các tài sản tài chính của Công ty được xác định bằng giá gốc trừ đi giá trị dự phòng giảm giá. Theo đó, giá trị thị trường của chứng khoán cho mục đích trích lập dự phòng được xác định theo quy định của Thông tư 48/2019/TT- BTC do Bộ Tài chính ban hành ngày 08 tháng 08 năm 2019 ("Thông tư 48") và Thông tư số 24/2022/TT-BTC sửa đổi, bổ sung một số nội dung của Thông tư 48/2019/TT-BTC. (sau đây gọi chung là "Thông tư 48").
+
+### 4.7 Ngừng ghi nhận tài sản tài chính
+
+Tài sản tài chính (hoặc một phần của một nhóm tài sản tài chính tương tự) được ngừng ghi nhận khi:
+
+- Công ty không còn quyền thu tiền phát sinh từ các tài sản tài chính; hoặc
+- Công ty chuyển giao quyền thu tiền phát sinh từ tài sản tài chính hoặc đồng thời phát sinh nghĩa vụ thanh toán gần như lập tức toàn bộ số tiền thu được cho bên thứ ba thông qua hợp đồng chuyển giao; và:
+- Công ty chuyển giao phần lớn rủi ro và lợi ích gần với tài sản, hoặc
+- Công ty không chuyển giao hay giữ lại toàn bộ rủi ro và lợi ích gần với tài sản đó nhưng đã chuyển giao quyền kiểm soát tài sản.
+
+Khi Công ty chuyển giao quyền thu tiền phát sinh từ tài sản hoặc đã ký hợp đồng chuyển giao với bên thứ ba nhưng vẫn chưa chuyển giao phần lớn mọi rủi ro và lợi ích gắn liền với tài sản hoặc chuyển giao quyền kiểm soát đối với tài sản, tài sản vẫn được ghi nhận là tài sản của Công ty. Trong trường hợp đó, Công ty cũng ghi nhận một khoản nợ phải trả tương ứng. Tài sản được chuyển giao và nợ phải trả tương ứng được ghi nhận trên cơ sở phản ánh quyền và nghĩa vụ mà Công ty giữ lại.
+
+Trường hợp khoản nợ ghi nhận có hình thức bảo lãnh các tài sản chuyển nhượng sẽ được ghi nhận theo giá trị nhỏ hơn giữa giá trị ghi sổ ban đầu của tài sản và số tiền tối đa mà Công ty được yêu cầu phải thanh toán.
+
+--- TRANG 28 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kể toán kết thúc cùng ngày
+
+### 4.8 Phân loại lại tài sản tài chính
+
+Phân loại lại khi bán tài sản tài chính không thuộc nhóm FVTPL
+Công ty chứng khoán khi bán các tài sản tài chính không thuộc loại tài sản tài chính FVTPL phải thực hiện phân loại lại các tài sản tài chính từ các loại tài sản khác có liên quan về tài sản tài chính FVTPL. Các chênh lệch đánh giá lại tài sản tài chính AFS hiện đang theo dõi trên khoản mục "Chênh lệch đánh giá tài sản theo giá trị hợp lý" sẽ được ghi nhận vào tài khoản doanh thu hoặc chi phí tương ứng tại ngày phân loại lại các tài sản tài chính AFS khi bán.
+
+Phân loại lại do thay đổi dự định hoặc khả năng nắm giữ
+Công ty chứng khoán được phân loại lại các tài sản tài chính vào nhóm tài sản tài chính khác phù hợp do thay đổi dự định hoặc khả năng nắm giữ, theo đó:
+
+- Tài sản tài chính FVTPL phi phái sinh và không bị yêu cầu phân loại vào nhóm tài sản tài chính FVTPL vào lúc ghi nhận ban đầu có thể được phân loại lại vào nhóm cho vay và phải thu trong một số trường hợp đặc biệt hoặc vào nhóm tiền và tương đương tiền nêu thỏa mãn các điều kiện được phân loại vào nhóm này. Các khoản lãi, lỗ đã ghi nhận do đánh giá lại tài sản tài chính FVTPL trước thời điểm phân loại lại sẽ không được hoàn nhập.
+- Nếu do thay đổi dự định hoặc khả năng nắm giữ, việc phân loại một khoản đầu tư vào nhóm nắm giữ đến khi đáo hạn không còn phù hợp thì khoản đầu tư đó phải được chuyển sang nhóm tài sản tài chính AFS và phải định giá lại theo giá trị hợp lý. Chênh lệch giữa giá trị ghi sổ và giá trị hợp lý sẽ được ghi nhận khoản mục "Chênh lệch đánh giá tài sản theo giá trị hợp lý" thuộc Vốn chủ sở hữu.
+
+
+### 4.9 Các khoản đầu tư vào công ty liên kết
+
+Công ty liên kết là các công ty mà trong đó nhà đầu tư có ảnh hưởng đáng kể nhưng không phải là công ty con hay công ty liên doanh của nhà đầu tư. Thông thường, Công ty được coi là có ảnh hưởng đáng kể nếu sở hữu từ $20 \%$ quyền bỏ phiếu ở đơn vị nhận đầu tư.
+
+Các khoản đầu tư vào công ty liên kết được ghi nhận theo phương pháp vốn chủ sở hữu.
+Theo phương pháp vốn chủ sở hữu, khoản đầu tư được ghi nhận ban đầu trên báo cáo tình hình tài chính hợp nhất theo giá gốc. Trường hợp khi mua khoản đầu tư, phần chênh lệch giữa giá mua khoản đầu tư và giá trị hợp lý của tài sản thuần có thể xác định được tương ứng với phần sở hữu của Công ty trong công ty liên kết tại ngày mua được gọi là lợi thế thương mại. Lợi thế thương mại âm được kết chuyển ngay vào khoản mục "Doanh thu khác về đầu tư (phần lãi/(lỗ) trong công ty liên kết)" trên báo cáo kết quả hoạt động hợp nhất. Lợi thế thương mại dương được phản ánh vào giá trị khoản đầu tư vào công ty liên kết thuộc báo cáo tình hình tài chính hợp nhất.
+
+Trong quá trình xác định giá trị hợp lý của tài sản thuần có thể xác định được của công ty liên kết, Công ty áp dụng các nguyên tắc và giả định sau:
+
+- Giá trị hợp lý của tiền mặt và tiền gửi ngắn hạn, các khoản phải trả người bán và nợ phải trả ngắn hạn khác tương đương với giá trị ghi sổ của các khoản mục này do những công cụ này có kỳ hạn ngắn;
+- Giá trị hợp lý của các khoản phải thu được xác định dựa trên đánh giá về khả năng thu hồi, theo đó, Công ty ước tính giá trị hợp lý xấp xỉ giá trị ghi sổ trừ đi sổ dư các khoản dự phòng đã trích lập;
+- Giá trị hợp lý của các khoản đầu tư tài chính được xác định theo giá thị trường;
+- Giá trị hợp lý của tài sản cố định được xác định bằng nguyên giá trừ khẩu hao lũy kể;
+- Giá trị hợp lý các khoản mục bị ngoại trừ trên báo cáo kiểm toán các báo cáo tài chính của công ty liên kết được xác định bằng không (0);
+- Giá trị hợp lý của các khoản mục tài sản và nợ khác không trọng yếu được xác định xấp xỉ bằng giá trị ghi sổ.
+
+--- TRANG 29 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Sau ngày ghi nhận ban đầu, khoản đầu tư được điều chỉnh theo những thay đổi của phần sở hữu của Công ty trong tài sản thuần của công ty liên kết sau khi mua. Báo cáo kết quả hoạt động hợp nhất phần ánh phần sở hữu của Công ty trong kết quả hoạt động kinh doanh của công ty liên kết sau khi mua. Các thay đổi trong tài sản thuần của công ty liên kết, bao gồm thay đổi phát sinh từ việc đánh giá lại tài sản cố định và các khoản đầu tư, chênh lệch tỷ giá quy đổi ngoại tệ và các chênh lệch phát sinh khi hợp nhất kinh doanh của công ty liên kết không được phần ánh trên báo cáo kết quả hoạt động hợp nhất của Công ty mà được ghi nhận trực tiếp vào khoản mục "Lợi nhuận chưa phân phối" thuộc báo cáo tình hình tài chính hợp nhất.
+
+Thay đổi lũy kế sau khi mua được điều chỉnh vào giá trị còn lại của khoản đầu tư vào công ty liên kết. Cố tức được nhận từ công ty liên kết được cần trừ vào khoản đầu tư vào công ty liên kết.
+
+Các báo cáo tài chính của công ty liên kết được lập cùng kỳ với báo cáo của Công ty và sử dụng các chính sách kế toán nhất quán. Các điều chỉnh hợp nhất thích hợp đã được ghi nhận để bảo đảm các chính sách kế toán được áp dụng nhất quán với Công ty trong trường hợp cần thiết.
+
+### 4.10 Nguyên tắc kế toán ghi nhận các khoản đầu tư đem đi thể chấp
+
+Trong kỳ, Công ty có các khoản đầu tư được đem đi thể chấp/cấm cố để thực hiện các nghĩa vụ tài chính của Công ty.
+
+Theo các điều kiện và điều khoản của hợp đồng thể chấp/cấm cố, trong thời gian hiệu lực của hợp đồng, Công ty không được sử dụng các tài sản thể chấp/cấm cố để bán, chuyển nhượng, tham gia vào các hợp đồng bán và cam kết mua lại, hợp đồng hoán đổi với bất kỳ bên thứ ba nào khác.
+
+Trong trường hợp Công ty không thực hiện nghĩa vụ phải trả, bên nhận thể chấp/cấm cố sẽ được sử dụng tài sản thể chấp/cấm cố để thanh toán các nghĩa vụ của Công ty sau khoảng thời gian xác định trong hợp đồng thể chấp/cấm cố kể từ ngày nghĩa vụ thanh toán của Công ty bắt đầu quá hạn.
+
+Các tài sản được đem đi thể chấp/cấm cố được theo dõi trên báo cáo tình hình tài chính theo nguyên tắc phù hợp với loại tài sản mà tài sản đó được phân loại.
+
+### 4.11 Các khoản phải thu
+
+Các khoản phải thu được ghi nhận ban đầu theo giá gốc và luôn được phần ánh theo giá gốc trong thời gian tiếp theo.
+
+Các khoản phải thu được xem xét trích lập dự phòng rủi ro theo tuổi nợ quá hạn của khoản nợ hoặc theo tổn thất dự kiến có thể xảy ra trong trường hợp khoản nợ chưa đến hạn thanh toán nhưng tổ chức kinh tế lâm vào tình trạng phá sản hoặc đang làm thủ tục giải thể; người nợ mất tích, bỏ trốn, đang bị các cơ quan pháp luật truy tố, giam giữ, xét xử, đang thi hành án hoặc đã chết. Chi phí dự phòng phát sinh được hạch toán vào báo cáo kết quả hoạt động trên khoản mục "Chi phí dự phòng tài sản tài chính, xử lý tổn thất các khoản phải thu khó đói, lỗ suy giảm giá trị tài sản tài chính và chi phí đi vay của các khoản cho vay" và khoản mục" Chi phí hoạt động khác " trong kỳ.
+
+Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán được thực hiện theo quy định hiện hành.
+
+Đối với các khoản nợ phải thu chưa đến hạn thanh toán nhưng không có khả năng thu hồi thì Công ty dự kiến mức tổn thất không thu hồi được (tối đa bằng giá trị khoản nợ đang theo dõi trên số kế toán) để trích lập dự phòng.
+
+--- TRANG 30 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kể toán kết thúc cùng ngày
+
+### 4.12 Tài sản cố định hữu hình
+
+Tài sản cố định hữu hình được thể hiện theo nguyên giá trừ đi giá trị hao mòn lũy kể.
+Nguyên giá tài sản cố định bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào hoạt động như dự kiến.
+
+Các chi phí mua sắm, nâng cấp và đổi mới tài sản cố định được ghi tăng nguyên giá của tài sản. Các chi phí bảo trì, sửa chữa được hạch toán vào báo cáo kết quả hoạt động khi phát sinh.
+
+Khi tài sản cố định hữu hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động.
+
+### 4.13 Tài sản cố định vô hình
+
+Tài sản cố định vô hình được ghi nhận theo nguyên giá trừ đi giá trị hao mòn lũy kể.
+Nguyên giá tài sản cố định vô hình bao gồm giá mua và những chi phí có liên quan trực tiếp đến việc đưa tài sản vào sử dụng như dự kiến.
+
+Các chi phí nâng cấp và đổi mới tài sản cố định vô hình được ghi tăng nguyên giá của tài sản và các chi phí khác được hạch toán vào báo cáo kết quả hoạt động khi phát sinh.
+
+Khi tài sản cố định vô hình được bán hay thanh lý, các khoản lãi hoặc lỗ phát sinh do thanh lý tài sản (là phần chênh lệch giữa tiền thu thuần từ việc bán tài sản với giá trị còn lại của tài sản) được hạch toán vào báo cáo kết quả hoạt động.
+
+### 4.14 Khẩu hao và hao mòn
+
+Khẩu hao và hao mòn tài sản cố định hữu hình và tài sản cố định vô hình được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các tài sản như sau:
+
+Máy móc thiết bị
+Phương tiện vận chuyển
+Thiết bị vận phòng
+Phần mềm
+Tài sản cố định vô hình khác
+
+3 - 5 năm
+6 - 10 năm
+3 - 5 năm
+3 - 10 năm
+2 - 5 năm
+
+### 4.15 Bất động sản đầu tư
+
+Bất động sản đầu tư được thể hiện theo nguyên giá bao gồm cả các chi phí giao dịch liên quan trừ đi giá trị hao mòn lũy kể.
+
+Các khoản chi phí liên quan đến bất động sản đầu tư phát sinh sau ghi nhận ban đầu được hạch toán giá trị còn lại của bất động sản đầu tư khi Công ty có khả năng thu được các lợi ích kinh tế trong tương lai nhiều hơn mức hoạt động được đánh giá ban đầu của bất động sản đầu tư đó.
+
+Khẩu hao và khẩu trừ bất động sản đầu tư được trích theo phương pháp khẩu hao đường thẳng trong suốt thời gian hữu dụng ước tính của các bất động sản. Thời gian khẩu hao là 27,5 năm.
+
+--- TRANG 31 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho ký kể toán kết thúc cùng ngày
+
+### 4.16 Thuê tài sản
+
+Việc xác định một thỏa thuận có phải là thỏa thuận thuê tài sản hay không dựa trên bản chất của thỏa thuận đó vào thời điểm khởi đầu: liệu việc thực hiện thỏa thuận này có phụ thuộc vào việc sử dụng một tài sản nhất định và thỏa thuận có bao gồm điều khoản về quyền sử dụng tài sản hay không.
+
+Các khoản tiền thuê theo hợp đồng thuê hoạt động được hạch toán vào báo cáo kết quả hoạt động theo phương pháp đường thẳng dựa theo thời hạn của hợp đồng thuê.
+
+### 4.17 Chi phí trả trước
+
+Chi phí trả trước bao gồm các chi phí trả trước ngắn hạn hoặc chi phí trả trước dài hạn trên báo cáo tình hình tài chính và được phân bổ trong khoảng thời gian trả trước của chi phí tương ứng với các lợi ích kinh tế được tạo ra từ các chi phí này.
+
+Các loại chi phí sau đây được hạch toán vào chi phí trả trước dài hạn để phân bổ dần từ một (1) đến ba (3) năm vào báo cáo kết quả hoạt động:
+
+- Chi phí cải tạo văn phòng;
+- Chi phí thuê văn phòng;
+- Chi phí vật dụng văn phòng; và
+- Chi phí gia hạn dịch vụ, bảo trì, bảo hành các phần mềm.
+
+
+### 4.18 Các hợp đồng mua lại
+
+Những tài sản được bán đồng thời cam kết sẽ mua lại vào một thời điểm nhất định trong tương lai (các hợp đồng mua lại) không được ghi giảm trên báo cáo tình hình tài chính. Khoản tiền nhận được theo các hợp đồng mua lại này được ghi nhận là khoản nợ phải trả trên báo cáo tình hình tài chính. Phần chênh lệch giữa giá bán và giá cam kết mua lại trong tương lai được xem như là chi phí lãi và được phân bổ theo phương pháp đường thẳng vào báo cáo kết quả hoạt động hợp nhất trong suốt thời gian hiệu lực của hợp đồng mua lại.
+
+### 4.19 Các khoản vay
+
+Các khoản vay của Công ty được công bố và trình bày theo số dư gốc tại thời điểm kết thúc ký kể toán.
+
+### 4.20 Các khoản phải trả và chi phí trích trước
+
+Các khoản phải trả và chi phí trích trước được ghi nhận cho số tiền phải trả trong tương lai liên quan đến lãi trái phiếu, hàng hóa và dịch vụ đã nhận được không phụ thuộc vào việc Công ty đã nhận được hóa đơn của nhà cung cấp hay chưa.
+
+### 4.21 Chứng quyền mua có bảo đảm
+
+Chứng quyền mua có bảo đảm là chứng khoán có tài sản đảm bảo do Công ty phát hành, cho phép người sở hữu được quyền mua một số lượng chứng khoán cơ sở theo một mức giá thực hiện, hoặc nhận khoản tiền chênh lệch khi giá (chỉ số) của chứng khoán cơ sở cao hơn giá thực hiện (chỉ số thực hiện) tại thời điểm thực hiện.
+
+Khi phân phối chứng quyền, Công ty ghi tăng phải trả chứng quyền đồng thời theo dõi ngoại bằng số chứng quyền còn được phép phát hành. Chi phí ban đầu liên quan đến phát hành chứng quyền như xin cấp giấy chứng nhận chào bán, thực hiện phân phối chứng quyền trên thị trường sơ cấp, niêm yết, lưu ký chứng quyền được ghi vào khoản mục "Chi phí giao dịch mua các tài sản tài chính FVTPL" trên báo cáo kết quả hoạt động. Lãilỗ khi mua lại chứng quyền, khi đáo hạn chứng quyền hoặc khi chứng quyền bị thu hồi được ghi vào khoản mục "Lãi bán các tài sản tài chính FVTPL" hoặc "Lỗ bán các tài sản tài chính FVTPL" tương ứng trên báo cáo kết quả hoạt động.
+
+--- TRANG 32 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Cuối kỳ, Công ty thực hiện đánh giá lại chứng quyền theo giá trị hợp lý. Trường hợp giá của chứng quyền đang lưu hành giảm xuống, phần chênh lệch ghi nhận vào Lã từ các các tài sản tài chính FVTPL (chi tiết Chênh lệch giảm do đánh giá lại phải trả chứng quyền đang lưu hành). Trường hợp giá của chứng quyền đang lưu hành tăng, phần chênh lệch được ghi nhận vào Lỗ từ các tài sản tài chính FVTPL (chi tiết Chênh lệch tăng do đánh giá lại phải trả chứng quyền đang lưu hành).
+
+Công ty theo dõi chi tiết chứng khoán phòng ngừa rủi ro cho chứng quyền có bảo đảm. Cuối kỳ, giá trị của chứng khoán cơ sở để phòng ngừa rủi ro được đánh giá lại và ghi nhận việc đánh giá lại tương tự như đánh giá lại tài sản tài chính ghi nhận thông qua lãi/ĩ̃ FVTPL.
+
+### 4.22 Lợi ích của nhân viên
+
+### 4.22.1 Trợ cấp nghỉ hưu
+
+Nhân viên Công ty khi nghỉ hưu sẽ được nhận trợ cấp về hưu từ Bảo hiểm Xã hội thuộc Bộ Lao động và Thương binh Xã hội. Công ty đóng góp vào trợ cấp hưu trí này bằng việc đóng bảo hiểm xã hội cho mỗi nhân viên bằng $17,5 \%$ lương cơ bản hàng tháng, phụ cấp lương và các khoản bổ sung khác. Ngoài ra, Công ty không phải có một nghĩa vụ nào khác.
+
+### 4.22.2 Trợ cấp thôi việc
+
+Theo Bộ Luật Lao động số 45/2019/QH14 có hiệu lực từ ngày 01 tháng 01 năm 2021 và Nghị định số 145/2020/NĐ-CP của Chính phủ - Quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động, Công ty có trách nhiệm chi trả trợ cấp thôi việc bằng một nửa tháng lương cho mỗi năm làm việc cho người lao động tự nguyện thôi việc và đáp ứng đầy đủ các yếu tố theo quy định của pháp luật. Thời gian làm việc để tính trợ cấp thôi việc là tống thời gian người lao động đã làm việc thực tế cho Công ty trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc. Mức lương bình quân tháng được tính để thanh toán trợ cấp thôi việc sẽ căn cứ theo mức lương bình quân của sáu tháng gần nhất tính đến thời điểm người lao động thôi việc.
+
+### 4.22.3 Bảo hiểm thất nghiệp
+
+Theo Điều 57 Luật Việc làm số 38/2013/QH13 có hiệu lực từ ngày 01 tháng 01 năm 2015 và Nghị định số 28/2015/NĐ-CP ngày 12 tháng 03 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Việc làm về bảo hiểm thất nghiệp, Công ty có nghĩa vụ đóng bảo hiểm thất nghiệp với mức bằng $1 \%$ quỹ tiền lương, tiền công đóng bảo hiểm thất nghiệp của những người tham gia bảo hiểm thất nghiệp và trích $1 \%$ tiền lương, tiền công tháng đóng bảo hiểm thất nghiệp của từng người lao động để đóng cùng lúc vào Quỹ Bảo hiểm thất nghiệp.
+
+### 4.23 Các nghiệp vụ bằng ngoại tệ
+
+Các nghiệp vụ phát sinh bằng các đơn vị tiền tệ khác với đơn vị tiền tệ kế toán của Công ty (VND) được hạch toán theo tỷ giá giao dịch của ngân hàng thương mại tại ngày phát sinh nghiệp vụ. Tại ngày kết thúc kỳ kế toán, các khoản mục tiền tệ có gốc ngoại tệ được đánh giá lại như sau:
+
+- Các khoản mục tài sản được đánh giá lại sử dụng tỷ giá mua ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+- Các khoản mục nợ phải trả được đánh giá lại sử dụng tỷ giá bán ngoại tệ của ngân hàng thương mại nơi Công ty thường xuyên có giao dịch.
+Tất cả các khoản chênh lệch tỷ giá thực tế phát sinh trong kỳ và chênh lệch do đánh giá lại số dư tiền tệ có gốc ngoại tệ cuối kỳ được hạch toán vào báo cáo kết quả hoạt động hợp nhất.
+
+--- TRANG 33 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+### 4.24 Hợp đồng phái sinh tiền tệ
+
+Công ty tham gia vào các giao dịch tiền tệ với các Ngân hàng cung cấp dịch vụ (giao dịch mua bán ngoại tệ kỳ hạn, giao dịch hoán đổi ngoại tệ) cho mục đích phòng ngừa và giảm thiểu các rủi ro về tỷ giá và dòng tiền trong tương lai. Lãi/lỗ phát sinh từ giao dịch trong kỳ được ghi nhận vào báo cáo kết quả hoạt động hợp nhất giữa niên độ.
+
+### 4.25 Cổ phiếu quỹ
+
+Các công cụ vốn chủ sở hữu được Công ty mua lại (cổ phiếu quỹ) được ghi nhận theo nguyên giá và trừ vào vốn chủ sở hữu. Công ty không ghi nhận các khoản lãi/(lỗ) khi mua, bán, phát hành hoặc hủy các công cụ vốn chủ sở hữu của mình.
+
+### 4.26 Chuyển đổi báo cáo tài chính của công ty con sang đồng tiền báo cáo của công ty mẹ
+
+Báo cáo tài chính của công ty con được lập bằng đồng tiền khác với đồng tiền kế toán của công ty mẹ được chuyển đổi sang đồng tiền kế toán của công ty mẹ cho mục đích hợp nhất báo cáo tài chính. Tỷ giá giao dịch thực tế sử dụng khi chuyển đổi báo cáo tài chính của công ty con được xác định như sau:
+
+Đối với các khoản mục tài sản, tỷ giá giao dịch thực tế sử dụng để chuyển đổi báo tài chính là tỷ giá mua của ngân hàng tại thời điểm báo cáo;
+Đối với các khoản mục nợ phải trả, tỷ giá giao dịch thực tế sử dụng để chuyển đổi báo tài chính là tỷ giá bán của ngân hàng tại thời điểm báo cáo;
+Trường hợp tỷ giá bán và tỷ giá mua của ngân hàng tại thời điểm báo cáo chênh lệch không quá $0,2 \%$ thì được áp dụng tỷ giá mua - bán bình quân.
+Các khoản mục thuộc báo cáo kết quả hoạt động hợp nhất và báo cáo lưu chuyển tiền tệ được quy đổi theo tỷ giá giao dịch thực tế tại thời điểm phát sinh giao dịch. Trường hợp tỷ giá bình quân kỳ báo cáo xấp xỉ tỷ giá giao dịch thực tế tại thời điểm phát sinh giao dịch (chênh lệch không quá $1 \%$ ) thì được áp dụng tỷ giá bình quân. Trường hợp biên độ dao động của tỷ giá giữa thời điểm đầu kỳ và cuối kỳ trên $20 \%$ thì áp dụng theo tỷ giá cuối kỳ.
+Chênh lệch tỷ giá hồi đoái phát sinh khi chuyển đổi báo cáo tài chính của công ty con được phản ánh luỹ kế tại chỉ tiêu "Chênh lệch tỷ giá hồi đoái" trong phần vốn chủ sở hữu của Báo cáo tình hình tài chính hợp nhất
+
+### 4.27 Ghi nhận doanh thu
+
+Doanh thu được ghi nhận khi Công ty có khả năng nhận được các lợi ích kinh tế có thể xác định được một cách chắc chắn. Doanh thu được xác định theo giá trị hợp lý của các khoản đã thu hoặc sẽ thu được sau khi trừ đi các khoản chiết khấu thương mại, giảm giá hàng bán và hàng bán bị trả lại. Các điều kiện ghi nhận cụ thể sau đây cũng phải được đáp ứng khi ghi nhận doanh thu:
+
+Doanh thu hoạt động môi giới chứng khoán
+Khi có thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ được ghi nhận dựa vào mức độ hoàn thành công việc. Trong trường hợp không thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ chỉ được ghi nhận ở mức có thể thu hồi được của các chi phí đã được ghi nhận.
+
+Thu nhập từ kinh doanh chứng khoán
+Thu nhập từ kinh doanh chứng khoán được xác định dựa trên mức chênh lệch giá bán và giá vốn bình quân của chứng khoán.
+
+--- TRANG 34 ---
+# Thuyêt Minh Bảo Cáo Tài Chính Hợp Nhất Quý 3 NǎM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 
+
+## Thu nhập khác
+
+Các khoản thu nhập khác bao gồm các khoản thu từ các hoạt động xảy ra không thường xuyên, ngoài các hoạt động tạo ra doanh thu, gồm: các khoản thu về thanh lý tài sản cố định ("TSCĐ"), nhượng bán TSCĐ; thu tiền phạt khách hàng do vi phạm hợp đồng; thu tiền bảo hiểm được bồi thường; thu được các khoản nợ phải thu đã xóa sổ tính vào chi phí năm trước; khoản nợ phải trả nay mất chủ được ghi tăng thu nhập; thu các khoản thuế được giảm, được hoàn lại; và các khoản thu khác được ghi nhận là thu nhập khác theo quy định tại Chuẩn mực Kế toán Việt Nam số 14 Doanh thu và thu nhập khác.
+
+## Thu nhập lãi
+
+Doanh thu được ghi nhận khi tiền lãi phát sinh trên cơ sở dồn tích (có tính đến lợi tức mà tài sản đem lại) trừ khi khả năng thu hồi tiền lãi không chắc chắn.
+
+## Cố tức
+
+Doanh thu được ghi nhận khi quyền được nhận khoản thanh toán cố tức của Công ty được xác lập, ngoại trừ cổ tức nhận bằng cổ phiếu chỉ được cập nhật và theo dõi số lượng cổ phiếu nắm giữ mà không được ghi nhận là doanh thu.
+
+Doanh thu từ bán/ cho thuê bất động sản
+
++ Doanh thu từ bán bất động sản được ghi nhận khi đáp ứng đầy đủ các điều kiện theo quy định chế độ kế toán hiện hành.
++ Doanh thu từ hoạt động cho thuê bất động sản được ghi nhận vào kết quả hoạt động hợp nhất theo phương pháp đường thẳng trong suốt thời gian cho thuê.
+
+Doanh thu cung cấp dịch vụ khác
+Khi có thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ được ghi nhận dựa vào mức độ hoàn thành công việc.
+
+Nếu không thể xác định được kết quả hợp đồng một cách chắc chắn, doanh thu sẽ chỉ được ghi nhận ở mức có thể thu hồi được của các chi phí đã được ghi nhận.
+
+### 4.28 Chi phí đi vay
+
+Chi phí đi vay bao gồm lãi tiền vay và các chi phí khác phát sinh liên quan trực tiếp đến các khoản vay của Công ty.
+
+### 4.29 Phương pháp tính giá vốn chứng khoán tự doanh bán ra
+
+Công ty áp dụng phương pháp bình quân gia quyền di động để tính giá vốn chứng khoán tự doanh.
+
+### 4.30 Thuế thu nhập doanh nghiệp
+
+Thuế thu nhập hiện hành
+Tài sản thuế thu nhập và thuế thu nhập phải nộp cho kỳ hiện hành và các kỳ trước được xác định bằng số tiền dự kiến phải nộp cho/hoặc được thu hồi từ cơ quan thuế, dựa trên các mức thuế suất và các luật thuế có hiệu lực đến ngày kết thúc kỳ kế toán.
+
+--- TRANG 35 ---
+# CHUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 
+
+Thuế thu nhập hiện hành được ghi nhận vào báo cáo kết quả hoạt động hợp nhất ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hiện hành cũng được ghi nhận trực tiếp vào vốn chủ sở hữu.
+
+Công ty chỉ được bù trừ các tài sản thuế thu nhập hiện hành và thuế thu nhập hiện hành phải trả khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+## Thuế thu nhập hoãn lại
+
+Thuế thu nhập hoãn lại được xác định cho các khoản chênh lệch tạm thời tại ngày kết thúc kỳ kế toán giữa cơ sở tính thuế thu nhập của các tài sản và nợ phải trả và giá trị ghi sổ của chúng cho mục đích lập báo cáo tài chính.
+
+Thuế thu nhập hoãn lại phải trả được ghi nhận cho tất cả các khoản chênh lệch tạm thời chịu thuế, ngoại trừ thuế thu nhập hoãn lại phải trả phát sinh từ ghi nhận ban đầu của một tài sản hay nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Tài sản thuế thu nhập hoãn lại cần được ghi nhận cho tất cả các chênh lệch tạm thời được khẩu trừ, giá trị được khẩu trừ chuyển sang các năm sau của các khoản lỗ tính thuế và các khoản ưu đãi thuế chưa sử dụng, khi chắc chắn trong tương lai sẽ có lợi nhuận tính thuế để sử dụng những chênh lệch tạm thời được khẩu trừ, các khoản lỗ tính thuế và các ưu đãi thuế chưa sử dụng này, ngoại trừ tài sản thuế hoãn lại phát sinh từ ghi nhận ban đầu của một tài sản hoặc nợ phải trả từ một giao dịch mà giao dịch này không có ảnh hưởng đến lợi nhuận kế toán hoặc lợi nhuận tính thuế thu nhập (hoặc lỗ tính thuế) tại thời điểm phát sinh giao dịch.
+
+Giá trị ghi sổ của tài sản thuế thu nhập doanh nghiệp hoãn lại phải được xem xét lại tại ngày kết thúc kỳ kế toán và phải giảm giá trị ghi sổ của tài sản thuế thu nhập hoãn lại đến mức bảo đảm chắc chắn có đủ lợi nhuận tính thuế cho phép lợi ích của một phần hoặc toàn bộ tài sản thuế thu nhập hoãn lại được sử dụng. Các tài sản thuế thu nhập doanh nghiệp hoãn lại chưa ghi nhận trước đây được xem xét lại tại ngày kết thúc kỳ kế toán và được ghi nhận khi chắc chắn có đủ lợi nhuận tính thuế để có thể sử dụng các tài sản thuế thu nhập hoãn lại chưa ghi nhận này.
+
+Tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được xác định theo thuế suất dự tính sẽ áp dụng cho kỳ kế toán mà tài sản được thu hồi hay nợ phải trả được thanh toán, dựa trên các mức thuế suất và luật thuế có hiệu lực tại ngày kết thúc kỳ kế toán. Thuế thu nhập hoãn lại được ghi nhận vào kết quả hoạt động ngoại trừ trường hợp thuế thu nhập phát sinh liên quan đến một khoản mục được ghi thẳng vào vốn chủ sở hữu, trong trường hợp này, thuế thu nhập hoãn lại cũng được ghi nhận trực tiếp vào vốn chủ sở hữu. Các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả được bù trừ khi Công ty có quyền hợp pháp được bù trừ giữa tài sản thuế thu nhập hiện hành với thuế thu nhập hiện hành phải nộp và các tài sản thuế thu nhập hoãn lại và thuế thu nhập hoãn lại phải trả liên quan tới thuế thu nhập doanh nghiệp được quản lý bởi cùng một cơ quan thuế đối với cùng một đơn vị chịu thuế và Công ty dự định thanh toán thuế thu nhập hiện hành phải trả và tài sản thuế thu nhập hiện hành trên cơ sở thuần.
+
+### 4.31 Vốn chủ sở hữu
+
+Vốn góp của chủ sở hữu
+Vốn góp từ phát hành cổ phiếu được ghi vào tài khoản vốn điều lệ theo mệnh giá.
+
+--- TRANG 36 ---
+# Công ty Cổ phần Chứng khoán SSI 
+
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+## Lợi nhuận chưa phân phối
+
+Lợi nhuận chưa phân phối bao gồm lợi nhuận đã thực hiện và chưa thực hiện.
+Lợi nhuận chưa thực hiện của kỳ kế toán là số chênh lệch giữa tổng giá trị lãi, lỗ đánh giá lại của các tài sản tài chính ghi nhận thông qua lãi/ỗ hoặc khác tính vào báo cáo lãi lỗ của Báo cáo kết quả hoạt động hợp nhất thuộc danh mục tài sản tài chính của Công ty và khoản thuế thu nhập doanh nghiệp hoãn lại phải trả liên quan đến phấn đánh giá tăng so với giá gốc của tài sản tài chính FVTPL và khác của Công ty.
+
+Lợi nhuận đã thực hiện của kỳ kế toán là số chênh lệch giữa tổng doanh thu, thu nhập với tổng các khoản chi phí tính vào Báo cáo kết quả hoạt động hợp nhất của Công ty ngoài các khoản đã được ghi nhận vào lợi nhuận chưa thực hiện.
+
+Các quỹ
+Các quỹ được trích lập theo Nghị quyết của Đại hội đồng Cổ đông tại cuộc họp thường niên của Đại hội đồng Cổ đông.
+
+### 4.32 Phân chia lợi nhuận
+
+Lợi nhuận thuần sau thuế thu nhập doanh nghiệp có thể được chia cho các nhà đầu tư sau khi được phê duyệt tại Cuộc họp thường niên của Đại hội đồng Cổ đông và sau khi đã trích lập các quỹ dự phòng theo Điều lệ Công ty và các quy định của pháp luật Việt Nam.
+
+### 4.33 Thông tin bộ phận
+
+Một bộ phận là một cấu phần có thể xác định riêng biệt của Công ty tham gia vào việc cung cấp các sản phẩm hoặc dịch vụ liên quan (bộ phận được chia theo hoạt động kinh doanh) hoặc cung cấp sản phẩm hoặc dịch vụ trong một môi trường kinh tế cụ thể (bộ phận được chia theo khu vực địa lý). Mỗi một bộ phận này chịu rủi ro và thu được lợi ích khác biệt so với các bộ phận khác.
+
+Bộ phận theo hoạt động kinh doanh của Công ty chủ yếu được xác định dựa trên các dịch vụ được cung cấp cho nhà đầu tư. Ban Giám đốc xác định bộ phận theo khu vực địa lý của Công ty dựa theo địa điểm của tài sản.
+
+### 4.34 Các bên liên quan
+
+Các bên được coi là bên liên quan của Công ty nếu một bên có khả năng, trực tiếp hoặc gián tiếp, kiểm soát bên kia hoặc gây ảnh hưởng đáng kể tới bên kia trong việc ra các quyết định tài chính và hoạt động, hoặc khi Công ty và bên kia cùng chịu sự kiểm soát chung hoặc ảnh hưởng đáng kể chung. Các bên liên quan nêu trên có thể là các công ty hoặc các cá nhân, bao gồm cả các thành viên mật thiết trong gia đình của họ.
+
+### 4.35 Các khoản mục không có số dư
+
+Các khoản mục không được trình bày trên báo cáo tài chính này theo Thông tư số 210/2014/TTBTC ngày 30 tháng 12 năm 2014, Thông tư số 334/2016/TT-BTC ngày 27 tháng 12 năm 2016 do Bộ Tài chính ban hành là các khoản mục không có số dư.
+
+--- TRANG 37 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+5. TIÊN VÀ CÁC KHOÁN TƯƠNG ĐƯƠNG TIÊN
+
+|  | Sơ cuô̂i kỳ VND | Sở đầu năm VND |
+| :--: | :--: | :--: |
+| Tiền | 166.321 .716 .061 | 208.969 .991 .625 |
+| Tiền mặt tại quỹ | 862.741 .887 | 1.056 .282 .771 |
+| Tiền gửi ngân hàng | 165.458 .974 .174 | 207.913 .708 .854 |
+| Các khoản tương đương tiền | 88.181 .389 .303 | 30.030 .246 .575 |
+| Tiền gửi ngân hàng có kỳ hạn gốc không quá 3 tháng | 88.181 .389 .303 | 30.030 .246 .575 |
+| Tổng cộng | 254.503 .105 .364 | 239.000 .238 .200 |
+
+6. GIÁ TRỊ KHÓI LƯỢNG GIAO DỊCH THỰC HIỆN TRONG KỲ
+
+|  | Khối lương giao dịch thực hiện trong kỳ (đơn vi) | Giá trị giao dịch thực hiện trong kỳ (VND) |
+| :--: | :--: | :--: |
+| a. Của Công ty | 1.048 .613 .665 | 140.433 .494 .309 .993 |
+| - Cở phiếu | 563.423 .156 | 21.146 .552 .503 .204 |
+| - Trái phiếu | 484.451 .060 | 84.514 .845 .962 .990 |
+| - Chứng khoán khác | 739.449 | 34.772 .095 .843 .799 |
+| b. Của nhà đầu tư | 23.753 .332 .050 | 953.894 .278 .189 .897 |
+| - Cở phiếu | 22.859 .015 .597 | 626.155 .937 .708 .682 |
+| - Trái phiếu | 217.203 .794 | 26.613 .227 .289 .575 |
+| - Chứng khoán khác | 677.112 .659 | 301.125 .113 .191 .640 |
+| Tổng cộng | 24.801 .945 .715 | 1.094 .327 .772 .499 .890 |
+
+--- TRANG 38 ---
+# 7. CÁC LOẠI TÀI SẢN TÀI CHÍNH 
+
+## Một số khái niệm về tài sản tài chính
+
+## Giá gốc
+
+Giá gốc của tài sản tài chính là số tiền hoặc tương đương tiền đã trả, đã giải ngân hoặc phải trả của tài sản tài chính đó vào thời điểm tài sản tài chính được ghi nhận ban đảu. Tùy thuộc vào từng loại tài sản tài chính, chi phí giao dịch phát sinh trực tiếp từ việc mua các tài sản tài chính có thể được tính vào giá gốc của tài sản tài chính hoặc không.
+
+## Giá trị hợp lý/giá trị thị trường
+
+Giá trị hợp lý hay còn gọi là giá trị thị trường của tài sản tài chính là giá trị tài sản tài chính có thể trao đổi một cách tự nguyện giữa các bên có đầy đủ hiểu biết trong trao đổi ngang giá.
+
+Giá trị hợp lý/thị trường của chứng khoán được xác định theo phương pháp trình bày tại Thuyết minh 4.6 .
+
+## Giá trị phân bố
+
+Giá trị phân bố của tài sản tài chính (là công cụ nợ) được xác định bằng giá trị ghi nhận ban đảu của tài sản tài chính trừ đi (-) các khoản hoàn trả gốc cộng (+) hoặc trừ (-) các khoản phân bố lũy kể tính theo phương pháp lãi suất thực của phân chênh lệch giữa giá trị ghi nhận ban đảu và giá trị đáo hạn, trừ đi các khoản giảm trừ dự phòng do suy giảm giá trị hoặc do không thể thu hồi (nếu có).
+
+Cho mục đích trình bày báo cáo tài chính, dự phòng do suy giảm giá trị hoặc do không thể thu hồi được trình bày tại khoản mục "Dự phòng suy giảm giá trị các tài sản tài chính và tài sản nhận thể chấp" trên báo cáo tình hình tài chính hợp nhất.
+
+## Giá trị ghi số
+
+Giá trị ghi số của tài sản tài chính là giá trị mà tài sản tài chính được ghi nhận trên báo cáo tình hình tài chính hợp nhất. Tùy thuộc vào từng loại tài sản tài chính, giá trị ghi số có thể là giá trị hợp lý/ giá thị trường (tài sản tài chính FVTPL, tài sản tài chính AFS) hoặc giá trị phân bố (các khoản đảu tư HTM, các khoản cho vay).
+
+--- TRANG 39 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+# 7.1 Tài sản tài chính FVTPL
+
+|   | Sổ cuối kỳ |  | Sổ đầu năm |   |
+| --- | --- | --- | --- | --- |
+|   | Giá gốc | Giá trị hợp lý | Giá gốc | Giá trị hợp lý  |
+|   | VND | VND | VND | VND  |
+|  Cổ phiếu và chứng khoán niêm yết khác | 672.523.426.110 | 691.574.011.482 | 1.613.732.331.633 | 1.623.995.879.664  |
+|  HPG | 67.232.154.130 | 65.673.950.000 | 49.303.194.457 | 48.783.651.150  |
+|  MBB | 44.138.637.056 | 43.520.086.400 | 37.850.680.370 | 38.751.212.300  |
+|  VRE | 34.440.269.754 | 36.915.000.000 | 6.862.578.079 | 6.731.375.000  |
+|  ACB | 21.655.401.725 | 21.004.350.000 | 47.931.693.545 | 49.126.373.400  |
+|  MWG | 20.947.019.303 | 21.383.040.000 | 53.845.954.822 | 53.905.700.000  |
+|  Cổ phiếu và chứng khoán khác | 484.109.944.142 | 503.077.585.082 | 1.417.938.230.360 | 1.426.697.567.814  |
+|  Cổ phiếu niêm yết cho hoạt động phòng ngừa rủi ro của chứng quyền | 2.664.287.155.167 | 2.655.988.559.300 | 968.809.795.708 | 994.496.681.450  |
+|  HPG | 387.506.194.423 | 378.525.168.000 | 119.676.905.690 | 118.415.783.850  |
+|  VNM | 367.620.809.868 | 357.438.000.000 | 4.395.970.575 | 4.317.540.000  |
+|  VHM | 231.997.780.113 | 250.604.150.000 | 11.346.232.870 | 11.054.000.000  |
+|  MWG | 230.714.063.262 | 235.516.470.000 | 187.397.571.637 | 187.605.500.000  |
+|  VRE | 206.018.698.861 | 220.822.320.000 | 21.176.954.317 | 20.772.080.000  |
+|  Cổ phiếu niêm yết khác | 1.240.429.608.640 | 1.213.082.451.300 | 624.816.160.619 | 652.331.777.600  |
+|  Cổ phiếu và Chứng chỉ quỹ chưa niêm yết | 102.948.677.924 | 82.654.848.004 | 70.306.080.610 | 49.487.282.681  |
+|  Trái phiếu (1) | 15.431.783.583.913 | 15.347.566.426.819 | 15.230.051.187.866 | 15.033.429.410.558  |
+|  Chứng chỉ tiền gửi (2) | 31.626.946.222.612 | 31.626.946.222.612 | 24.736.712.227.048 | 24.736.712.227.048  |
+|  Tổng cộng | 50.498.489.065.726 | 50.404.730.068.217 | 42.619.611.622.865 | 42.438.121.481.401  |
+
+(1) Trong số trái phiếu thuộc nhóm tài sản tài chính FVTPL tại ngày 30 tháng 09 năm 2025 có 79.571 .674 trái phiếu, có giá trị mệnh giá là 10.621.635.400.000 VND được sử dụng làm tài sản đảm bảo cho khoản vay ngắn hạn của Công ty. (2) Trong số chứng chỉ tiền gửi thuộc nhóm tài sản tài chính FVTPL tại ngày 30 tháng 09 năm 2025 có giá trị mệnh giá là 30.099.000.000.000 VND được sử dụng làm tài sản đảm bảo cho khoản vay ngắn hạn của Công ty và giá trị đảm bảo thanh toán cho chứng quyền của công ty phát hành là 1.500.000.000.000 VND.
+
+--- TRANG 40 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**B05-CTCK/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 7.2 Tài sản tài chính AFS
+
+|   | Sổ cuối kỳ |  | Sổ đầu năm |   |
+| --- | --- | --- | --- | --- |
+|   | Giá gốc | Giá trị hợp lý | Giá gốc | Giá trị hợp lý  |
+|   | VND | VND | VND | VND  |
+|  Cổ phiếu niêm yết | 119.822.281.043 | 182.253.824.100 | 71.675.281.043 | 116.029.669.600  |
+|  Cổ phiếu chưa niêm yết | 293.440.071.933 | 296.324.891.933 | 342.764.891.142 | 338.023.599.756  |
+|  Công ty Cổ phần Pan Farm | 32.000.014.000 | 32.000.014.000 | 32.000.014.000 | 32.000.014.000  |
+|  Công ty Cổ phần ConCung | - | - | 40.007.139.216 | 40.007.139.216  |
+|  Cổ phiếu chưa niêm yết khác | 261.440.057.933 | 264.324.877.933 | 270.757.737.926 | 266.016.446.540  |
+|  Trái phiếu | 85.279.517.217 | 85.279.517.217 | 108.279.582.466 | 108.279.582.466  |
+|  Tổng cộng | 498.541.870.193 | 563.858.233.250 | 522.719.754.651 | 562.332.851.822  |
+
+![img-1.jpeg](img-1.jpeg)
+
+--- TRANG 41 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**Tiền gửi có ký hạn còn lại dưới 1 năm:** 6.105.099.268.934 - 3.893.901.724.895
+
+**Tiền gửi** có ký hạn còn lại dưới 1 năm tại ngày 30 tháng 09 năm 2025, có 5.960.000.000.000 VND được dùng để đảm bảo cho các khoản vay ngắn hạn của Công ty.
+
+### 7.4 Các khoản cho vay
+
+|   | Sổ cuối kỳ | Sổ đầu năm  |
+| --- | --- | --- |
+|   | Giá trị ghi sổ VND | Giá trị hợp lý (3) VND  |
+|  Cho vay hoạt động ký quỹ (1) | 38.780.671.465.006 | 38.780.558.420.198  |
+|  Cho vay hoạt động ứng trước tiền bán của khách hàng (2) | 450.777.985.743 | 450.777.985.743  |
+|  Tổng cộng | 39.231.449.450.749 | 39.231.336.405.941  |
+
+### 7.4.1 Các khoản cho vay
+
+(1) Chứng khoán của nhà đầu tư tham gia vào giao dịch vay ký quỹ được Công ty giữ như tài sản cấm cỗ cho khoản vay này của nhà đầu tư với Công ty. Tại ngày 30 tháng 09 năm 2025 và 31 tháng 12 năm 2024, giá trị mệnh giá của chứng khoán là tài sản cấm cỗ cho các khoản cho vay giao dịch ký quỹ lần lượt là 34.937.257.560.000 VND và 28.181.410.340.000 VND (giá trị trưởng của chứng khoán làm tài sản cấm cỗ cho các khoản vay giao dịch ký quỹ lần lượt là 124.751.517.343.455 VND và 64.158.037.566.075 VND).
+
+(2) Đây là khoản phải thu liên quan đến hoạt động ứng trước tiền bán cổ phiếu cho nhà đầu tư trong thời gian chờ nhận tiền bán cổ phiếu.
+
+(3) Giá trị hợp lý của các khoản cho vay được xác định bằng giá trị ghi sổ của khoản vay trừ đi dự phòng suy giảm giá trị các khoản cho vay.
+
+--- TRANG 42 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## 7.5 Tình hình biến động giá trị thị trường của các tài sản tài chính
+
+### *Các loại tài sản tài chính*
+
+|  Các loại tài sản tài chính | Sổ cuối kỳ (VND) | Sổ đầu năm (VND)  |
+| --- | --- | --- |
+|   | Chênh lệch đánh giá | Chênh lệch đánh giá  |
+|   | Chênh lệch dán giá | Chênh lệch dán giá  |
+|  **FVTPL** | 50.498.489.065.726 | 77.312.812.959 (171.071.810.468)  |
+|  Cổ phiếu và chứng khoán niêm yết khác | 672.523.426.110 | 25.247.302.246 (6.196.716.874)  |
+|  Cổ phiếu niêm yết cho hoạt động phòng ngừa rủi ro của chứng quyền | 2.664.287.155.167 | 51.531.805.748 (59.830.401.615)  |
+|  Cổ phiếu và chứng chỉ quỹ chưa niêm yết | 102.948.677.924 | 478.773.226 (20.772.603.146)  |
+|  Trái phiếu | 15.431.783.583.913 | 54.931.739 (84.272.088.833)  |
+|  Chứng chỉ tiền gửi | 31.626.946.222.612 | -  |
+|  **AFS** | 498.541.870.193 | 65.316.363.057 (563.858.233.250)  |
+|  Cổ phiếu niêm yết | 119.822.281.043 | 62.431.543.057 (182.253.824.100)  |
+|  Cổ phiếu chưa niêm yết | 293.440.071.933 | 2.884.820.000 (296.324.891.933)  |
+|  Trái phiếu | 85.279.517.217 | -  |
+|  Tổng cộng | 50.997.030.935.919 | 142.629.176.016 (171.071.810.468)  |
+
+--- TRANG 43 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+8. DỰ PHÒNG SUY GIẢM GIÁ TRỊ CÁC TÀI SẢN TÀI CHÍNH VÀ TÀI SẢN NHẬN THÉ CHÁP
+
+Dự phòng suy giảm giá trị các khoản cho vay
+Dự phòng suy giảm giá trị tài sản tài chính AFS Tổng cộng
+
+| Sở cuối kỳ | Sở đầu năm |
+| :--: | :--: |
+| VND | VND |
+
+113.044 .808
+113.044 .808
+54.988 .779 .066
+55.101 .823 .874
+113.044 .808
+54.988 .779 .066
+55.101 .823 .874
+9. CÁC TÀI SẢN TÀI CHÍNH KHÁC
+
+1. Các khoản phải thu bán tài sản tài chính Trong đó các khoản phải thu về bán các tài sản tài chính khó có khả năng thu hồi
+2. Các khoản phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính
+3. Trả trước cho người bán
+
+- Ứng trước tiền mua chứng khoán
+- Ứng trước mua BĐS của Công ty con
+- Khác
+
+4. Phải thu các dịch vụ CTCK cung cấp
+
+Trong đó phải thu khó đòi các dịch vụ CTCK cung cấp
+5. Phải thu khác
+6. Dự phòng phải thu khó đòi
+
+Tổng cộng
+
+| Sở cuối kỳ | Sở đầu năm |
+| :--: | :--: |
+| VND | VND |
+
+237.937.169.580 507.766.978.808
+190.191.227.580 231.621.436.808
+405.643.314.378 292.847.293.114
+832.433.578.709 927.764.853.829
+752.000.000.000 795.000.000.000
+80.433.578.709 44.386.353.829
+43.187.802.984 30.201.748.046
+566.622 .498
+210.859.646.964 210.104.950.765
+(190.656.251.157) (232.039.957.803)
+1.539.405.261.458 1.736.645.866.759
+
+--- TRANG 44 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**B05-CTCK/HN**
+
+**THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## *Chi tiết dự phòng suy giảm giá trị các khoản phải thu*
+
+|   | Giá trị
+phải thu khô đôi
+cuối kỳ
+VND | Sổ dự phòng
+đầu năm
+VND | Sổ trích lập/ Phân
+loại lại nợ
+trong kỳ
+VND | Sổ hoàn nhập/ xử
+lý nợ trong kỳ
+VND | Sổ dự phòng cuối kỳ
+VND | Giá trị
+phải thu khô đôi
+đầu năm
+VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Dự phòng phải thu bán các tài sản tài chính khô đôi | 190.191.227.580 | 231.621.436.808 | - | (41.430.209.228) | 190.191.227.580 | 231.621.436.808  |
+|  - Công ty TNHH TMXD Phúc Bảo Minh Phải thu các dịch vụ công ty chứng khoán cung cấp khô đôi | 190.191.227.580 | 231.621.436.808 | - | (41.430.209.228) | 190.191.227.580 | 231.621.436.808  |
+|  - Phải thu hoạt động quản lý danh mục khách hàng cá nhân | 566.622.498 | 418.520.995 | 46.502.582 | - | 465.023.577 | 566.622.498  |
+|  - Công ty cổ phần tập đoàn Dabaco Việt Nam (DBC) | 316.622.498 | 168.520.995 | 46.502.582 | - | 215.023.577 | 316.622.498  |
+|  - Công ty cổ phần bệnh viện Hữu Nghị Đa Khoa Nghệ An | 10.000.000 | 240.000.000 | - | - | 240.000.000 | 240.000.000  |
+|  Tổng cộng | 190.757.850.078 | 232.039.957.803 | 46.502.582 | (41.430.209.228) | 190.656.251.157 | 232.188.059.306  |
+
+--- TRANG 45 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+10. TÀI SẢN NGẮN HẠN KHÁC
+
+Tạm ứng
+Chi phí trả trước ngắn hạn
+
+- Chi phí trả trước dịch vụ
+- Chi phí trả trước mua công cụ, vật liệu văn phòng
+Cắm cổ, ký cược, ký quỹ ngắn hạn
+Vật tư văn phòng, công cụ, dụng cụ
+Thuế và các khoản phải thu Nhà nước
+Tài sản ngắn hạn khác
+- Tiền gửi ký quý phái sinh của Công ty
+- Khác
+
+Tổng cộng
+10.001.354.647
+57.153.643.520
+57.147.098.523
+6.544 .997
+826.733 .780
+250.989 .299
+2.644 .605
+233.242 .555 .347
+232.267 .584 .447
+974.970 .900
+301.477 .921 .198
+118.889 .687 .789
+
+# 11. CÁC KHOẢN ĐẦU TƯ DẢI HẠN 
+
+![img-2.jpeg](img-2.jpeg)
+(1) Tại ngày 30 tháng 09 năm 2025, trong số các khoản đầu tư trái phiếu nắm giữ đến ngày đáo hạn có 600 trái phiếu với giá trị mệnh giá là 600.000 .000 .000 VND được sử dụng là tài sản đảm bảo cho khoản vay ngắn hạn của Công ty.
+(2) Tại ngày 30 tháng 09 năm 2025, trong số cổ phiếu đầu tư vào công ty liên kết, có 26.580 .120 cổ phiếu với giá trị mệnh giá là 265.801 .200 .000 VND được sử dụng là tài sản đảm bảo cho khoản vay ngắn hạn của Công ty.
+(3) Công ty Cổ phần Công nghệ số SSI (SSID) trở thành công ty liên kết sở hữu gián tiếp thông qua Quỹ đầu tư Thành Viên SSI từ ngày 04 tháng 06 năm 2025.
+
+--- TRANG 46 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Tình hình biến động khoản đầu tư vào công ty liên kết của Công ty trong kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025 và 30 tháng 09 năm 2024:
+
+|   | 9 tháng năm 2025 | 9 tháng năm 2024  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Số đầu năm | 687.490 .406 .131 | 649.680 .042 .038  |
+|  Tăng đầu tư vào công ty liên kết | 100.000 .000 .000 | -  |
+|  Lợi nhuận từ công ty liên kết ghi nhận vào báo cáo |  |   |
+|  kết quả hoạt động hợp nhất trong kỳ | 31.675 .032 .060 | 39.361 .429 .609  |
+|  - Phân chia sẻ lãi/(lỗ) trong kỳ | 31.675 .032 .060 | 39.361 .429 .609  |
+|  Cố tức thực nhận | (27.403.396.500) | (13.291.396.500)  |
+|  Điều chỉnh khác | (6.317.498.688) | -  |
+|  Sổ cuối kỳ | 785.444 .543 .003 | 675.750 .075 .147  |
+
+# 12. TÀI SÁN CÓ ĐỊNH HỮU HÌNH
+
+|   | Máy móc thiết bị VND | Phương tiện vận tải VND | Thiết bị văn phòng VND | Tổng cộng VND  |
+| --- | --- | --- | --- | --- |
+|  |   |   |   |   |
+|  Nguyên giá |  |  |  |   |
+|  Số đầu năm | 366.015 .281 .325 | 38.329 .798 .127 | 4.015 .042 .338 | 408.360 .121 .790  |
+|  Tăng trong kỳ | 4.454 .645 .780 | 1.614 .450 .000 | - | 6.069 .095 .780  |
+|  Mua trong kỳ | 1.593 .236 .000 | 1.614 .450 .000 | - | 3.207 .686 .000  |
+|  Khác | 2.861 .409 .780 | - | - | 2.861 .409 .780  |
+|  Giảm trong kỳ | (10.841.819.772) | (3.264.375.636) | (146.150.840) | (14.252.346.248)  |
+|  Thanh lý, nhượng bán | (10.841.819.772) | (3.264.375.636) | (146.150.840) | (14.252.346.248)  |
+|  Sổ cuối kỳ | 359.628 .107 .333 | 36.679 .872 .491 | 3.868 .891 .498 | 400.176 .871 .322  |
+|  Hao mòn lũy kế |  |  |  |   |
+|  Số đầu năm | 267.409.712.967 | 18.826 .408 .336 | 3.617 .280 .588 | 289.853 .401 .891  |
+|  Tăng trong kỳ | 33.656 .433 .239 | 2.782 .759 .794 | 289.294 .052 | 36.728 .487 .085  |
+|  Hao mòn trong kỳ | 32.941 .080 .802 | 2.782 .759 .794 | 289.294 .052 | 36.013 .134 .648  |
+|  Khác | 715.352 .437 | - | - | 715.352 .437  |
+|  Giảm trong kỳ | (10.649.897.387) | (2.583.053.413) | (146.150.840) | (13.379.101.640)  |
+|  Thanh lý, nhượng bán | (10.649.897.387) | (2.583.053.413) | (146.150.840) | (13.379.101.640)  |
+|  Sổ cuối kỳ | 290.416 .248 .819 | 19.026 .114 .717 | 3.760 .423 .800 | 313.202 .787 .336  |
+|  Giả trị còn lại |  |  |  |   |
+|  Số đầu năm | 98.605 .568 .358 | 19.503 .389 .791 | 397.761 .750 | 118.506 .719 .899  |
+|  Sổ cuối kỳ | 69.211 .858 .514 | 17.653 .757 .774 | 108.467 .698 | 86.974 .083 .986  |
+
+Các thông tin khác về tài sản cố định hữu hình:
+
+|   | Sổ cuối kỳ VND | Sổ đầu năm VND  |
+| --- | --- | --- |
+|  Nguyên giá TSCĐ đã hao mòn hết nhưng vẫn còn sử dụng | 164.639 .482 .967 | 159.146 .044 .345  |
+
+--- TRANG 47 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**B05-CTCK/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 13. TÀI SẢN CỔ ĐỊNH VÔ HÌNH
+
+|   | Phần mềm  |
+| --- | --- |
+|   | VND  |
+|  **Nguyên giả** |   |
+|  Số đầu năm | 313.999.554.731  |
+|  Tăng trong kỳ | 33.645.362.434  |
+|  Mua mới | 33.645.362.434  |
+|  Giảm trong kỳ | (15.481.382.945)  |
+|  Thanh lý, nhượng bán | (15.240.382.945)  |
+|  Khác | (241.000.000)  |
+|  Số cuối kỳ | 332.163.534.220  |
+|  **Hao mòn lũy kế** |   |
+|  Số đầu năm | 201.155.598.936  |
+|  Tăng trong kỳ | 30.262.364.610  |
+|  Hao mòn trong kỳ | 30.262.364.610  |
+|  Giảm trong kỳ | (15.314.849.619)  |
+|  Thanh lý, nhượng bán | (15.222.466.278)  |
+|  Khác | (92.383.341)  |
+|  Số cuối kỳ | 216.103.113.927  |
+|  **Giá trị còn lại** |   |
+|  Số đầu năm | 112.843.955.795  |
+|  Số cuối kỳ | 116.060.420.293  |
+|  Các thông tin khác về tài sản cố định vô hình: |   |
+|   | Số cuối kỳ  |
+|   | VND  |
+|  Nguyên giả TSCĐ đã hao mòn hết nhưng vẫn còn sử dụng | 107.589.886.121  |
+
+*Nguyên giả TSCĐ đã hao mòn hết nhưng vẫn còn sử dụng*
+
+--- TRANG 48 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+14. BÁT ĐỘNG SẢN ĐẦU TƯ
+
+Nhà và đất VND
+
+# Nguyên giá 
+
+Số đầu năm
+Tăng trong kỳ
+
+- Tăng giá trị BĐS Đầu tư
+- Đánh giá lại tỷ giá khi chuyển đổi báo cáo công ty con
+
+Số cuối kỳ
+Hao mòn lũy kế
+Số đầu năm
+Tăng trong kỳ
+
+- Hao mòn trong kỳ
+- Đánh giá lại tỷ giá khi chuyển đổi báo cáo công ty con
+
+Số cuối kỳ
+Giá trị còn lại
+Số đầu năm
+Số cuối kỳ
+
+287.459 .600 .028
+103.123 .304 .710
+89.840 .240 .981
+13.283 .063 .729
+390.582 .904 .738
+
+87.263 .163 .330
+9.924 .006 .532
+6.527 .299 .972
+3.396 .706 .560
+97.187.169.862
+
+200.196.436.698
+293.395.734.876
+
+Bất động sản đầu tư bao gồm các tòa nhà tại Mỹ mà Công ty Quốc tế SSI (SSIIC) đã mua với mục đích cho thuê. Tại ngày 30 tháng 09 năm 2025, nguyên giá của các toà nhà được ghi nhận bằng đô la Mỹ và được quy đổi trong báo cáo tài chính của SSIIC sang đồng Việt Nam theo tỷ giá giao dịch tại ngân hàng nơi Quỹ Đầu tư Thành viên SSI (SSI-IMF) mở tài khoản. Khoản chênh lệch do đánh giá lại tỷ giá khi chuyển đổi báo cáo tài chính của SSIIC từ USD sang VND được ghi nhận vào mục chênh lệch tỷ giá thuộc vốn chủ sở hữu.
+
+Doanh thu bất động sản đầu tư từ hoạt động cho thuê tòa nhà trong kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025 là 5.527 .463 .000 VND.
+15. CHI PHÍ XÂY DỰNG CƠ BẢN DỞ DANG
+
+Số cuối kỳ VND
+
+Chi phí phát triển phần mềm
+Chi phí mua tòa nhà văn phòng
+Chi phí xây dựng cơ bản khác
+Tổng cộng
+16. CHI PHÍ TRẢ TRƯỚC DÀI HẠN
+
+Số cuối kỳ VND
+
+Chi phí trả trước dịch vụ và công cụ dụng cụ dài hạn
+13.804.423.999
+21.614.788.489
+
+Chi phí trả trước dài hạn chủ yếu bao gồm các chi phí trang trí nội thất, trang thiết bị văn phòng, chi phí gia hạn dịch vụ, bảo trì, bảo hành các phần mềm, chi phí thi công sửa chữa và trang trí ngoại thất của Công ty. Các chi phí này được phân bố vào báo cáo kết quả hoạt động trong thời gian tối đa ba mươi sáu (36) tháng.
+
+--- TRANG 49 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+17. TÀI SẢN THUẾ THU NHẬP HOÃN LẠI VÀ THUẾ THU NHẬP HOÃN LẠI PHẢI TRẢ
+
+|  | Sơ cuối kỳ VND | Sở đầu năm VND |
+| :--: | :--: | :--: |
+| Tài sản thuế thu nhập hoãn lại |  |  |
+| Dự phòng suy giảm chứng khoán chưa niêm yết tạm thời không được khấu trừ thuế | 8.800 .089 .572 | 9.055 .817 .812 |
+| Thuế TNDN hoãn lại phát sinh do phần đánh giá giảm tài sản tài chính FVTPL \& AFS tạm thời không được khẩu trừ thuế | 3.491 .314 .298 | 4.439 .572 .576 |
+| Dự phòng giảm giá trị các khoản cho vay tạm thời không được khẩu trừ thuế | 7.897 .516 | 7.897 .516 |
+| Doanh thu chưa thực hiện do hợp nhất báo cáo tài chính | 9.668 .606 .509 | 10.097 .817 .977 400.000 .000 |
+| Chi phí tạm thời chịu thuế phát sinh | - | 400.000 .000 |
+| Tổng cộng | 21.967 .907 .895 | 24.001 .105 .881 |
+
+# Thuế thu nhập hoãn lại phải trả 
+
+Thuế TNDN hoãn lại phát sinh do đánh giá tăng
+tài sản tài chính FVTPL \& AFS
+Thuế TNDN hoãn lại phát sinh do đánh giá giảm
+phải trả chứng quyền đang lưu hành
+Thuế TNDN hoãn lãi phải trả từ thu nhập của
+công ty con tạm thời không chịu thuế
+Tổng cộng
+28.177.536.625
+17.180.265.336
+(2.060.975.320)
+43.296.826.641
+20.093.971.586
+7.437.571.090
+(881.001.386)
+43.296.826.641
+26.650.541.290
+18. TIẾN NỘP QUỶ HỒ TRỢ THANH TOÁN
+
+Tiền nộp quỹ hỗ trợ thanh toán phản ánh các khoản tiền kỳ quỹ tại Tổng công ty lưu kỳ và bù trừ chứng khoán Việt Nam.
+
+Theo quy định hiện hành của Tổng công ty lưu kỳ và bù trừ chứng khoán Việt Nam, Công ty phải ký quỹ một khoản tiền ban đầu là 120 triệu VND tại Tổng công ty lưu kỳ và bù trừ chứng khoán và hàng năm phải đóng bổ sung $0,01 \%$ tổng giá trị chứng khoán môi giới của năm trước nhưng không quá 2,5 tỷ VND/năm. Giới hạn tối đa về mức đóng góp của mỗi thành viên lưu kỳ vào Quỹ Hỗ trợ thanh toán là 20 tỷ VND đối với thành viên lưu kỳ là Công ty chứng khoán có nghiệp vụ tự doanh, môi giới.
+
+Chi tiết tiền nộp Quỹ hỗ trợ thanh toán như sau:
+
+Tiền nộp ban đầu
+Tiền nộp bổ sung
+Tiền lãi phân bổ
+Tổng cộng
+
+| Sở cuối kỳ <br> VND | Sở đầu năm <br> VND |
+| :--: | :--: |
+| 6.087 .814 .535 | 6.087 .814 .535 |
+| 7.872 .720 .527 | 7.872 .720 .527 |
+| 6.039 .464 .938 | 6.039 .464 .938 |
+| 20.000 .000 .000 | 20.000 .000 .000 |
+
+--- TRANG 50 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**THUYẾT MINH BẢO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 19. CÁC TÀI SẢN ĐÃ CẢM CÓ, THẾ CHÁP
+
+Tại thời điểm lập báo cáo, các tài sản sau đã được Công ty sử dụng làm tài sản cầm cố cho các khoản vay và đảm bảo thanh toán cho chứng quyền của Công ty phát hành:
+
+|  Tài sản | Số cuối kỳ | Số đầu năm | Mục đích đảm bảo  |
+| --- | --- | --- | --- |
+|  **Ngân hạn** |  |  |   |
+|  - Tài sản tài chính FVTPL (tính theo mệnh giá) | 40.720.635.400.000 | 33.062.000.000.000 | Các khoản vay ngắn hạn  |
+|  - Tiền gửi có kỳ hạn còn lại dưới 1 năm | 5.960.000.000.000 | 3.320.000.000.000 | Các khoản vay ngắn hạn  |
+|  - Tiền gửi có kỳ hạn còn lại dưới 1 năm | - | 9.587.622.128 | Hợp đồng cấp bảo lãnh  |
+|  - Chứng chỉ tiền gửi FVTPL | 1.500.000.000.000 | 850.000.000.000 | Chứng quyền  |
+|  **Dài hạn** |  |  |   |
+|  - Trái phiếu có kỳ hạn còn lại trên 1 năm (tính theo mệnh giá) | 600.000.000.000 | 600.000.000.000 | Các khoản vay ngắn hạn  |
+|  - Tiền gửi có kỳ hạn còn lại trên 1 năm | - | 320.000.000.000 | Các khoản vay ngắn hạn  |
+|  - Đầu tư vào công ty liên kết (tính theo mệnh giá) | 265.801.200.000 | 265.801.200.000 | Các khoản vay ngắn hạn  |
+|  **Tổng cộng** | 49.046.436.600.000 | 38.427.388.822.128 |   |
+
+--- TRANG 51 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 20. VAY VÀ NỢ THUÊ TÀI SÁN TÀI CHÍNH NGÂN HẠN
+
+|   | Lãi suất vay \%/năm | Sổ đầu năm VND | Sổ vay trong kỳ VND | Sổ đã trả trong kỳ VND | Sổ cuối kỳ VND  |
+| --- | --- | --- | --- | --- | --- |
+|  Vay thầu chi | Dưới 5,7 | 2.490.984.699.137 | 112.521.284.626.377 | 105.200.100.778.109 | 9.812.168.547.405  |
+|  Vay ngắn hạn | Dưới 7 | 43.010.985.000.000 | 185.083.920.000.000 | 172.487.775.000.000 | 55.607.130.000.000  |
+|  - Ngân hàng TMCP Ngoại Thương Việt Nam |  | 10.521.000.000.000 | 23.552.600.000.000 | 22.073.600.000.000 | 12.000.000.000.000  |
+|  - Ngân hàng TMCP Đầu tư và Phát triển Việt Nam |  | 8.934.500.000.000 | 16.778.500.000.000 | 17.082.000.000.000 | 8.631.000.000.000  |
+|  - Ngân hàng TMCP Công Thương Việt Nam |  | 9.582.000.000.000 | 30.651.500.000.000 | 32.191.500.000.000 | 8.042.000.000.000  |
+|  - Các ngân hàng và tổ chức khác |  | 13.973.485.000.000 | 114.211.320.000.000 | 101.250.675.000.000 | 26.934.130.000.000  |
+|  Tổng cộng |  | 45.501.969.699.137 | 297.605.204.626.377 | 277.687.875.778.109 | 65.419.298.547.405  |
+
+--- TRANG 52 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+21. PHÁI TRÁ HOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN
+
+|  | Sơ cuô̂i kỳ VND | Sở đầu năm VND |
+| :--: | :--: | :--: |
+| Phải trả Sở Giao dịch chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam | 58.070 .146 .001 | 26.172 .361 .106 |
+| Phải trả chứng quyền (đang lưu hành) | 589.554 .463 .000 | 201.711 .273 .000 |
+| Tổng cộng | 647.624 .609 .001 | 227.883 .634 .106 |
+
+Công ty được phát hành sản phẩm chứng quyền có bảo đảm theo các giấy chứng nhận chào bán chứng quyền cấp bởi Uỷ ban Chứng khoán Nhà nước. Chi tiết số lượng chứng quyền do Công ty phát hành như sau:
+
+|  | Sở cuô̂i kỳ |  | Sở đầu năm |  |
+| :--: | :--: | :--: | :--: | :--: |
+|  | Sở lương chứng quyền được phép phát hành (chứng quyền) | Sở lương chứng quyền đang lưu hành (chứng quyền) | Sở lương chứng quyền được phép phát hành (chứng quyền) | Sở lương chứng quyền đang lưu hành (chứng quyền) |
+| HPG/12M/SSI/C/EU/Cash-17 | 25.000 .000 | 15.113 .200 | 25.000 .000 | 920.600 |
+| HPG/7M/SSI/C/EU/Cash-19 | 15.000 .000 | 9.367 .800 | - | - |
+| MWG/7M/SSI/C/EU/Cash-19 | 16.000 .000 | 8.710 .100 | - | - |
+| TCB/7M/SSI/C/EU/Cash-19 | 15.000 .000 | 7.133 .400 | - | - |
+| VHM/7M/SSI/C/EU/Cash-19 | 24.000 .000 | 9.825 .000 | - | - |
+| Chứng quyền khác | 728.000 .000 | 235.289 .900 | 1.256 .000 .000 | 246.194 .200 |
+| Tổng cộng | 823.000 .000 | 285.439 .400 | 1.281 .000 .000 | 247.114 .800 |
+
+22. PHÁI TRÁ NGƯỜI BÁN NGÁN HẠN
+
+|  | Sở cuô̂i kỳ VND | Sở đầu năm VND |
+| :--: | :--: | :--: |
+| Công Ty Cở Phần Bắt Động Sản Dầu Khí Việt Nam - SSG | 37.213 .000 .000 | 74.426 .000 .000 |
+| Phải trả tiền mua chứng khoán | - | 1.423 .129 .000 |
+| Phải trả người bán khác | 9.256 .846 .936 | 27.226 .258 .679 |
+| Tổng cộng | 46.469 .846 .936 | 103.075 .387 .679 |
+
+23. NGƯỜI MUA TRÁ TIỀN TRƯỚC NGÁN HẠN
+
+| Sở cuô̂i kỳ VND | Sở đầu năm VND |
+| :--: | :--: |
+| 59.000 .000 .000 | 20.313 .042 .800 |
+| 2.147 .683 .500 | 6.177 .683 .500 |
+| 61.147 .683 .500 | 26.490 .726 .300 |
+
+--- TRANG 53 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 24. THUẾ VÀ CÁC KHOÁN PHÁI NỘP NHÀ NƯỚC
+
+|   | Sổ cuô̂i kỳ | Sổ đấu năm  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Thuế giá trị gia tăng | 506.487 .183 | 997.499 .145  |
+|  Thuế thu nhập doanh nghiệp | 353.569 .688 .288 | 134.844 .586 .449  |
+|  Thuế thu nhập cá nhân | 111.326 .102 .036 | 57.509 .447 .511  |
+|  Thuế khác (bao gồm thuế nhà thầu) | 29.680 .781 .300 | 7.941 .591 .390  |
+|  Tổng cộng | 495.083 .058 .807 | 201.293 .124 .495  |
+
+1. CHI PHÍ PHÁI TRÁ NGÂN HẠN
+
+|   | Sổ cuô̂i kỳ | Sổ đấu năm  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Chi phí lãi vay phải trả | 104.659 .037 .235 | 55.602 .410 .419  |
+|  Chi phí lương | 26.313 .167 .916 | -  |
+|  Phí hoa hồng phải trả cho đối tác | 13.219 .717 .099 | 7.904 .462 .846  |
+|  Phí dịch vụ | 435.480 .000 | 875.070 .000  |
+|  Các khoản khác | 13.986 .553 .048 | 3.465 .234 .163  |
+|  Tổng cộng | 158.613 .955 .298 | 67.847 .177 .428  |
+
+1. QUỶ KHEN THƯỞNG, PHÚC LỢI
+
+|   | Sổ cuô̂i kỳ | Sổ đấu năm  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Quỹ khen thưởng và phúc lợi cho nhân viên | 282.385 .387 .882 | 229.575 .623 .719  |
+|  Quỹ từ thiện | 126.457 .738 .703 | 126.957 .738 .703  |
+|  Tổng cộng | 408.843 .126 .585 | 356.533 .362 .422  |
+
+1. CÁC KHOÁN PHÁI TRÁ, PHÁI NỘP NGÂN HẠN KHÁC
+
+|   | Sổ cuô̂i kỳ | Sổ đấu năm  |
+| --- | --- | --- |
+|   | VND | VND  |
+|  Phải trả cổ tức, lãi trái phiếu | 2.083 .883 .820 .086 | 8.183 .580 .361  |
+|  - Phải trả cổ tức cho cổ đông Công ty (*) | 2.083 .365 .476 .900 | 7.659 .494 .900  |
+|  - Phải trả trái tức cho trái chủ của Công ty | 518.343 .186 | 524.085 .461  |
+|  Phải trả khác | 18.507 .792 .344 | 9.853 .891 .693  |
+|  Tổng cộng | 2.102 .391 .612 .430 | 18.037 .472 .054  |
+
+(*) Theo Nghị quyết Đại Hội đồng Cổ đông số 01/2025/NQ-ĐHĐCĐ ngày 18 tháng 04 năm 2025 và Nghị quyết Hội đồng Quản trị số 31/2025/NQ-HĐQT ngày 11 tháng 09 năm 2025, mức chia cổ tức của năm 2024 là $10 \%$ mệnh giá bằng tiền mặt, tương đương 1.000 đồng/cổ phiếu và đã trích dựa trên danh sách cổ đông chốt ngày 26 tháng 09 năm 2025. Cổ tức này sẽ được thanh toán vào ngày 15 tháng 10 năm 2025.
+
+--- TRANG 54 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+28. DOANH THU CHƯA THỰC HIỆN DÀI HẠN
+
+|  | Sơ cuối kỳ | Sở đầu năm |
+| :--: | :--: | :--: |
+|  | VND | VND |
+| Thanh lý cổ phiếu công ty liên kết (BBC) | 8.144.100.724 | 8.144.100.724 |
+| Thanh lý cổ phiếu công ty liên kết (SSC) | 19.186.831.881 | 19.186.831.881 |
+| Thanh lý cổ phiếu công ty liên kết (LAF) | 1.688.248.597 | 1.688.248.597 |
+| Thanh lý cổ phiếu công ty liên kết (VFG) | 12.890.045.591 | 12.890.045.591 |
+| Bán cổ phiếu khác cho công ty liên kết | 11.653.656.882 | 11.653.656.882 |
+| Doanh thu chưa thực hiện khác | - | 1.000 .000 .000 |
+| Tổng cộng | 53.562 .883 .675 | 54.562 .883 .675 |
+
+Đây chủ yếu là các khoản thu nhập chưa thực hiện phát sinh do Công ty bán cổ phiếu cho công ty liên kết, số liệu trình bày ở trên tương ứng với tỷ lệ sở hữu của Công ty trong công ty liên kết thực hiện mua cổ phiếu và phần doanh thu chưa thực hiện khác.
+29. VÔN CHỦ SỚ HỮU
+29.1. Lợi nhuận chưa phân phổi
+
+Lợi nhuận đã thực hiện chưa phân phổi
+Lợi nhuận chưa thực hiện
+Lợi nhuận chưa thực hiện và thuế hoãn lại trên đánh giá lại TSTC FVTPL và phải trả chứng quyền đang lưu hành
+Lợi nhuận chưa thực hiện từ chênh lệch tỷ giá
+Tổng cộng
+
+Sở đầu năm VND
+
+6.987.078.755.256
+$(76.734 .132 .678)$
+$(169.088 .533 .253)$
+(183.491.473.947)
+14.402.940.694
+6.910.344.622.578 5.856.098.315.938
+
+--- TRANG 55 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## 29.2. Tình hình tăng giảm nguồn vốn chủ sở hữu
+
+|   | Vốn góp của chủ sở hữu VND | Thặng dư vốn cổ phần VND | Cổ phiếu quý VND | Chênh lệch đánh giá lại tài sản theo giá trị hợp lý VND | Chênh lệch tỷ giá chuyển đổi báo cáo tài chính VND | Quỹ dự trữ bổ sung vốn điều lệ VND | Lợi nhuận chưa phân phối VND | Lợi ích cổ đông không kiểm soát VND | Tổng cộng VND  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Số đầu năm
+Phát hành cổ phiếu tăng vốn -
+ESOP 2024 theo Nghị quyết số 01/2024/NQ-ĐHĐCĐ ngày 25/04/2024 của ĐHĐCĐ
+Phát hành cổ phiếu chào bán riêng lẻ theo Nghị quyết số 02/2022/NQ-ĐHĐCĐ ngày 07/05/2022, Nghị quyết số 01/2023/NQ-ĐHĐCĐ ngày 25/4/2023, Nghị quyết số 01/2024/NQ-ĐHĐCĐ ngày 25/4/2024 và Nghị quyết số 01/2025/NQ-ĐHĐCĐ ngày 18/4/2025
+Chỉ phí phát hành
+Lợi nhuận sau thuế
+Đánh giá lại tài sản tài chính AFS
+Chênh lệch phát sinh do công ty liên kết thay đổi tỷ lệ sở hữu công ty con của công ty liên kết
+Chênh lệch tỷ giá chuyển đổi báo cáo tài chính công ty con phát sinh trong kỳ
+Trích cổ tức SSI 2024 cho CĐ
+SSI (ngày DKCC 26.09.2025) theo NQ số 31/2025/NQ-HĐQT ngày 11/09/2025
+Trích lập quỹ phúc lợi (1\% LNST), quỹ khen thưởng (4\% LNST) theo NQ số 01/2025/ NQĐHĐCĐ ngày 18/04/2025
+Giảm khác
+Lợi ích cổ đông không kiểm soát | 100.000.000.000 | - | - | - | - | - | - | - | 100.000.000.000  |
+|  Sổ cuối kỳ | 20.779.062.620.000 | 3.309.415.767.717 | (19.115.006.409) | 52.253.090.451 | 87.021.346.401 | 3.000.000.000 | 6.910.344.622.578 | 133.483.392.179 | 31.255.465.832.917 |   |
+
+--- TRANG 56 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+29.3. Cố phiếu
+
+Số lượng cổ phiếu được phép phát hành
+Số lượng cổ phiếu đã phát hành
+Số lượng cổ phiếu đã phát hành và được góp vốn đầy đủ
+
+- Cố phiếu phổ thông
+- Cố phiếu ưu đãi
+
+Số lượng cổ phiếu quỹ
+Cô phiếu quỹ do Công ty nắm giữ
+
+- Cố phiếu phổ thông
+- Cố phiếu ưu đãi
+
+Số lượng cổ phiếu đang lưu hành
+
+- Cố phiếu phổ thông
+- Cố phiếu ưu đãi
+
+Đơn vị: cổ phiếu
+
+| Số cuối kỳ | Số đầu năm |
+| :--: | :--: |
+| 2.077.906.262 | 1.963.863.918 |
+| 2.077.906.262 | 1.963.863.918 |
+| 2.077.906.262 | 1.963.863.918 |
+| 2.077.906.262 | 1.963.863.918 |
+| 2.077.906.262 | 1.963.863.918 |
+|  |  |
+| (1.991.468) | (1.991.468) |
+| (1.991.468) | (1.991.468) |
+| (1.991.468) | (1.991.468) |
+|  |  |
+| 2.075.914.794 | 1.961.872.450 |
+| 2.075.914.794 | 1.961.872.450 |
+
+--- TRANG 57 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày 30. LÃI/(LÔ) TỪ CÁC TÀI SÁN TÀI CHÍNH 30.1 Lãi/(lỗ) bán các tài sản tài chính FVTPL
+
+|  STT | Danh mục các khoản đầu tư | Số lượng bán Đơn vị | Tổng giá trị bán VND | Giá vốn bình quân gia quyển tính đến cuối ngày giao dịch VND | Lãi bán chứng khoán Quý 3/2025 VND | Lãi bán chứng khoán Quý 3/2024 VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  I | LÃI BÁN
+Cổ phiếu và chứng khoán niêm yết (bao gồm cổ phiếu phòng ngừa rủi ro cho chứng quyền) | 241.600 .112 | 8.791 .566 .908 .666 | 8.031 .255 .063 .515 | 760.311 .845 .151 | 57.239 .088 .164  |
+|  2 | Cổ phiếu và chứng khoán chưa niêm yết khác | 138.199 | 177.027.252.841 | 40.007.139.216 | 137.020.113.625 | -  |
+|  3 | Trái phiếu và CCTG | 171.077 .738 | 37.229.600.071.730 | 37.132.742.339.573 | 96.857.732.157 | 54.998.671.939  |
+|  4 | Lãi vị thế của hợp đồng chứng khoán phải sinh | - | - | - | 250.435.138.000 | 52.906.260.000  |
+|  5 | Chứng quyền do Công ty phát hành | 210.620 .800 | 371.974.904.771 | 317.934.635.000 | 54.040.269.771 | 77.540.880.134  |
+|   | Tổng cộng | 623.436 .849 | 46.570.169.138.008 | 45.521.939.177.304 | 1.298 .665 .098 .704 | 242.684.900.237  |
+
+--- TRANG 58 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**B05-CTCK/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## Lãi/(lỗ) bán các tài sản tài chính FVTPL (tiếp theo)
+
+|  STT | Danh mục các khoản đầu tư | Sổ lượng bán | Tổng giá trị bán | Giá vốn bình quân gia quyển tính đến cuối ngày giao dịch | Lỗ bán chứng khoán | Lỗ bán chứng khoán  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  | Đơn vị | VND | VND | VND | VND  |
+|  1 | LÔ BÁN |  |  |  |  |   |
+|   | Cổ phiếu và chứng khoán niêm yết (bao gồm cổ phiếu phòng ngừa rủi ro cho chứng quyền) | 43.324.900 | 1.831.275.135.000 | 1.874.747.495.963 | (43.472.360.963) | (82.718.651.181)  |
+|  2 | Trái phiếu và CCTG | 32.767.805 | 4.866.140.985.965 | 4.873.405.915.518 | (7.264.929.553) | (23.765.554.808)  |
+|   | Lỗ vị thế của hợp đồng chứng khoán phải sinh | - | - | - | (327.451.564.000) | (55.962.746.000)  |
+|  3 | Chứng phán do Công ty phát hành | 666.420.900 | 1.345.902.043.081 | 1.725.075.469.400 | (379.173.426.319) | (30.889.014.733)  |
+|   | Tổng cộng | 742.513.605 | 8.043.318.164.046 | 8.473.228.880.881 | (757.362.280.835) | (193.335.966.722)  |
+
+--- TRANG 59 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+### 30.2 Chênh lệch về đánh giá lại các tài sản tài chính
+
+|  STT | Danh mục các loại tài sản tài chính | Giá trị mua theo số kế toán VND | Giá trị ghi sổ VND | Sổ dư chênh lệch đánh giá lại cuối kỳ [2] VND | Sổ dư chênh lệch đánh giá lại đầu quý [1] VND | Chênh lệch thuần điểu chỉnh số kế toán ([2]-[1]) Quý 3/2025 VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  I | Loại FVTPL | 50.498.489.065.726 | 50.404.730.068.217 | (93.758.997.509) | 8.267.147.716 | (102.026.145.225)  |
+|   | Cổ phiếu và chứng khoán |  |  |  |  |   |
+|  1 | niêm yết khác | 672.523.426.110 | 691.574.011.482 | 19.050.585.372 | 25.521.232.055 | (6.470.646.683)  |
+|   | HPG | 67.232.154.130 | 65.673.950.000 | (1.558.204.130) | 1.660.025.866 | (3.218.229.996)  |
+|   | MBB | 44.138.637.056 | 43.520.086.400 | (618.550.656) | 450.175.265 | (1.068.725.921)  |
+|   | MWG | 20.947.019.303 | 21.383.040.000 | 436.020.697 | 875.857.327 | (439.836.630)  |
+|   | FPT | 19.455.471.308 | 17.656.050.000 | (1.799.421.308) | 149.135.982 | (1.948.557.290)  |
+|   | VPB | 5.044.183.206 | 5.013.320.000 | (30.863.206) | (7.833.152.911) | 7.802.289.705  |
+|   | Cổ phiếu và chứng khoán khác | 515.705.961.107 | 538.327.565.082 | 22.621.603.975 | 30.219.190.526 | (7.597.586.551)  |
+|   | Cổ phiếu niêm yết cho hoạt động |  |  |  |  |   |
+|  2 | phòng ngừa rủi ro của chứng quyền | 2.664.287.155.167 | 2.655.988.559.300 | (8.298.595.867) | 47.524.056.276 | (55.822.652.143)  |
+|   | HPG | 387.506.194.423 | 378.525.168.000 | (8.981.026.423) | 6.141.577.019 | (15.122.603.442)  |
+|   | VNM | 367.620.809.868 | 357.438.000.000 | (10.182.809.868) | 1.500.268.296 | (11.683.078.164)  |
+|   | VHM | 231.997.780.113 | 250.604.150.000 | 18.606.369.887 | 11.797.542.455 | 6.808.827.432  |
+|   | MWG | 230.714.063.262 | 235.516.470.000 | 4.802.406.738 | 5.985.959.051 | (1.183.552.313)  |
+|   | VRE | 206.018.698.861 | 220.822.320.000 | 14.803.621.139 | 729.824.902 | 14.073.796.237  |
+|   | Cổ phiếu khác | 1.240.429.608.640 | 1.213.082.451.300 | (27.347.157.340) | 21.368.884.553 | (48.716.041.893)  |
+|   | Cổ phiếu và Chứng chỉ quỹ chưa |  |  |  |  |   |
+|  3 | niêm yết | 102.948.677.924 | 82.654.848.004 | (20.293.829.920) | (20.510.219.164) | 216.389.244  |
+|  4 | Trái phiếu | 15.431.783.583.913 | 15.347.566.426.819 | (84.217.157.094) | (44.267.921.451) | (39.949.235.643)  |
+|  5 | Chứng chỉ tiền gửi | 31.626.946.222.612 | 31.626.946.222.612 | - | - | -  |
+|  II | Loại AFS | 498.541.870.193 | 563.858.233.250 | 65.316.363.057 | 49.215.749.957 | 16.100.613.100  |
+|  1 | Cổ phiếu niêm yết | 119.822.281.043 | 182.253.824.100 | 62.431.543.057 | 48.272.619.957 | 14.158.923.100  |
+|  2 | Cổ phiếu chưa niêm yết | 293.440.071.933 | 296.324.891.933 | 2.884.820.000 | 943.130.000 | 1.941.690.000  |
+|  3 | Trái phiếu | 85.279.517.217 | 85.279.517.217 | - | - | -  |
+|   | Tổng cộng | 50.997.030.935.919 | 50.968.588.301.467 | (28.442.634.452) | 57.482.897.673 | (85.925.532.125)  |
+
+--- TRANG 60 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## 30.3 Chênh lệch về đánh giá lại phải trả chứng quyền
+
+|  STT | Danh mục các loại chứng quyền Công ty phát hành | Giá trị phát hành theo số kế toán VND | Giá trị thị trường VND | Số dư chênh lệch đánh giá lại cuối kỳ [2] VND | Số dư chênh lệch đánh giá lại đầu quý [1] VND | Chênh lệch thuần điểu chỉnh số kế toán ([2]-[1]) Quý 3/2025 VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  1 | HPG/12M/SSI/C/EU/Cash-17 | 23.918.046.162 | 24.181.120.000 | (263.073.838) | 688.693.562 | (951.767.400)  |
+|  2 | HPG/7M/SSI/C/EU/Cash-19 | 34.411.992.927 | 31.663.164.000 | 2.748.828.927 | (130.265) | 2.748.959.192  |
+|  3 | MWG/7M/SSI/C/EU/Cash-19 | 23.552.732.778 | 24.649.583.000 | (1.096.850.222) | 606.396 | (1.097.456.618)  |
+|  4 | TCB/7M/SSI/C/EU/Cash-19 | 21.633.517.970 | 20.900.862.000 | 732.655.970 | (4.549.094) | 737.205.064  |
+|  5 | VHM/7M/SSI/C/EU/Cash-19 | 54.215.857.779 | 63.862.500.000 | (9.646.642.221) | (290.119.983) | (9.356.522.238)  |
+|  6 | Chứng quyền khác | 477.088.188.682 | 424.297.234.000 | 52.790.954.682 | 25.759.338.534 | 27.031.616.148  |
+|   | Tổng cộng | 634.820.336.298 | 589.554.463.000 | 45.265.873.298 | 26.153.839.150 | 19.112.034.148  |
+
+## 30.4 Cổ tức, tiền lãi phát sinh từ tài sản tài chính FVTPL, HTM, AFS, các khoản cho vay và phải thu
+
+|   | Quý 3 năm 2025 VND | Quý 3 năm 2024 VND | Lũy kế năm 2025 VND | Lũy kế năm 2024 VND  |
+| --- | --- | --- | --- | --- |
+|  Từ tài sản tài chính FVTPL | 590.043.552.889 | 499.150.297.040 | 1.716.927.478.599 | 1.608.141.111.922  |
+|  Từ tài sản tài chính HTM | 98.063.530.633 | 61.342.558.560 | 286.513.798.129 | 257.576.137.296  |
+|  Từ các khoản cho vay và phải thu | 1.005.982.654.334 | 548.969.323.318 | 2.463.587.621.963 | 1.508.637.952.238  |
+|  Từ tài sản tài chính AFS | 725.917.808 | 4.434.928.662 | 30.609.050.323 | 7.775.987.973  |
+|  Cổ tức, trái tức phát sinh từ tài sản tài chính AFS | 725.917.808 | 4.434.928.662 | 2.452.767.123 | 7.775.987.973  |
+|  Chênh lệch đánh giá lại theo giá trị hợp lý tài sản tài chính AFS khi phân loại lại | - | - | 28.156.283.200 | -  |
+|  Tổng cộng | 1.694.815.655.664 | 1.113.897.107.580 | 4.497.637.949.014 | 3.382.131.189.429  |
+
+--- TRANG 61 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 31. HOÀN NHẬP DỰ PHÒNG SUY GIẢM GIÁ TRỊ TÀI SẢN TÀI CHÍNH, XỬ LỶ TÔN THẤT CÁC KHOÁN PHẢI THU KHÓ ĐỔI
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Hoán nhập dự phòng phải thu khó đói | (41.430.209.228) | - | (41.430.209.228) | -  |
+|  Hoán nhập dự phòng suy giảm giá trị TSTC AFS | - | (10.000.000) | - | (10.000.000)  |
+|  Tổng cộng | (41.430.209.228) | (10.000.000) | (41.430.209.228) | (10.000.000)  |
+
+## 32. THU NHẬP HOẠT ĐỘNG KHÁC
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Doanh thu cho thuê tài sản | 2.204.209.200 | 2.038.669.319 | 5.527.463.000 | 6.071.096.874  |
+|  Doanh thu từ hoạt động quản lý quỹ và quản lý danh mục của công ty con | 37.925.138.676 | 32.149.415.106 | 105.769.293.854 | 90.070.518.398  |
+|  Doanh thu lãi cọc và khác | 20.475.539.163 | 23.871.877.151 | 63.414.427.336 | 62.429.151.304  |
+|  Tổng cộng | 60.604.887.039 | 58.059.961.576 | 174.711.184.190 | 158.570.766.576  |
+
+## 33. CHI PHÍ HOẠT ĐỘNG CUNG CẤP DỊCH VỤ
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Chi phí nghiệp vụ môi giới chứng khoán (chi phí giao dịch phải trả cho Sở, chi phí lương, chi phí theo lương, chi phí khác) | 533.517.383.485 | 294.407.264.711 | 1.133.600.005.178 | 999.002.723.824  |
+|  Chi phí nghiệp vụ bảo lãnh, đại lý phát hành chứng khoán | - | 353.931.347 | 592.856.170 | 476.687.076  |
+|  Chi phí hoạt động tư vấn tài chính | 7.128.016.317 | 3.967.049.368 | 17.371.268.323 | 16.761.162.578  |
+|  Chi phí nghiệp vụ tư vấn đầu tư chứng khoán | 3.409.180.234 | 4.522.241.334 | 11.832.278.441 | 15.375.374.147  |
+|  Chi phí nghiệp vụ lưu ký chứng khoán | 15.788.913.491 | 10.763.556.593 | 39.185.634.814 | 30.886.621.082  |
+|  Chi phí hoạt động khác (Thuyết minh số 34) | 47.194.796.213 | 44.624.825.844 | 127.605.849.727 | 120.712.055.118  |
+|  Tổng cộng | 607.038.289.740 | 358.638.869.197 | 1.330.187.892.653 | 1.183.214.623.825  |
+
+--- TRANG 62 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+CHI TIẾT CHI PHÍ HOẠT ĐỘNG CUNG CÁP DỊCH VỤ THEO KHOÁN MỤC CHI PHÍ
+
+|   | Quý 3 năm 2025 VND | Quý 3 năm 2024 VND | Lũy kế năm 2025 VND | Lũy kế năm 2024 VND  |
+| --- | --- | --- | --- | --- |
+|  Chi phí môi giới chứng khoán | 206.877.116.799 | 70.691.486.431 | 388.405.020.566 | 252.262.576.688  |
+|  Chi phí hoạt động lưu ký | 15.788.913.491 | 10.763.556.593 | 39.185.634.814 | 30.886.621.082  |
+|  Chi phí lương và các khoản khác theo lương | 271.492.445.257 | 152.963.805.143 | 575.794.342.858 | 523.396.983.153  |
+|  Chi phí BHXH, BHYT, KPCĐ, BHTN | 11.762.873.010 | 11.964.618.569 | 31.314.991.906 | 34.677.111.712  |
+|  Chi phí vật tư văn phòng | 146.368 .096 | 246.725.577 | 500.116 .047 | 910.651 .820  |
+|  Chi phí công cụ, dụng cụ | 61.131 .806 | 261.198.393 | 255.206 .810 | 1.659 .992 .912  |
+|  Chi phí khấu hao TSCĐ, BĐSĐT | 14.734.546.253 | 17.040.457.257 | 40.778 .012 .690 | 49.761 .215 .872  |
+|  Chi phí dự phòng | 20.109 .589 | 26.603 .189 | 46.502 .582 | 148.356 .612  |
+|  Chi phí dịch vụ mua ngoài | 73.926 .452 .164 | 80.215 .521 .851 | 215.289 .889 .184 | 250.890 .119 .829  |
+|  Chi phí về vốn | 6.593.123.973 | 1.765 .031 .058 | 11.485 .652 .764 | 7.748 .479 .428  |
+|  Chi phí khác | 5.635 .209 .302 | 12.699 .865 .136 | 27.132 .522 .432 | 30.872 .514 .717  |
+|  Tổng cộng | 607.038 .289 .740 | 358.638 .869 .197 | 1.330 .187 .892 .653 | 1.183 .214 .623 .825  |
+
+# 34. CHI PHÍ HOẠT ĐỘNG KHÁC
+
+|   | Quý 3 năm 2025 VND | Quý 3 năm 2024 VND | Lũy kế năm 2025 VND | Lũy kế năm 2024 VND  |
+| --- | --- | --- | --- | --- |
+|  Chi phí hoạt động quản lý quỹ và quản lý danh mục của công ty con | 24.563 .488 .897 | 22.488 .510 .974 | 65.873 .034 .714 | 61.613 .817 .054  |
+|  Chi phí lãi hợp đồng quản lý tiền gửi | - | - | - | 2.233 .296 .617  |
+|  Chi phí hoạt động cho thuê BĐS đầu tư | 5.048 .014 .109 | 5.444 .019 .046 | 14.086 .409 .235 | 15.806 .118 .848  |
+|  Chi phí dự phòng phải thu khô đôi | 20.109 .589 | 26.603 .189 | 46.502 .582 | 148.356 .612  |
+|  Chi phí dự phòng phải thu các dịch vụ công ty chứng khoán cung cấp | 20.109 .589 | 26.603 .189 | 46.502 .582 | 148.356 .612  |
+|  Chi phí khác | 17.563 .183 .618 | 16.665 .692 .635 | 47.599 .903 .196 | 40.910 .465 .987  |
+|  Tổng cộng | 47.194 .796 .213 | 44.624 .825 .844 | 127.605 .849 .727 | 120.712 .055 .118  |
+
+--- TRANG 63 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+## 35. DOANH THU HOẠT ĐỘNG TÀI CHÍNH
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Chênh lệch tỷ giá hồi đoán đã và chưa thực hiện | 5.395.070.656 | 4.484.001.206 | 21.384.997.886 | 20.329.864.232  |
+|  Doanh thu lãi tiền gửi không ký hạn và dưới ba (03) tháng | 16.213.877.211 | 14.244.024.622 | 29.713.659.331 | 29.663.408.749  |
+|  Phân lãi nhận chia sẻ từ công ty liên kết (Thuyết minh 11) | 13.492.485.777 | 21.632.438.045 | 31.675.032.059 | 39.361.429.611  |
+|  Doanh thu hoạt động tài chính khác | - | - | 21.383.629.138 | 45.976.478.631  |
+|  Tổng cộng | 35.101.433.644 | 40.360.463.873 | 104.157.318.414 | 135.331.181.223  |
+
+## 36. CHI PHÍ TÀI CHÍNH
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Chênh lệch lỗ tỷ giá hồi đoán đã và chưa thực hiện | 6.394.554.263 | 19.015.268.218 | 20.138.784.184 | 25.519.801.761  |
+|  Chi phí lãi vay ngắn hạn | 686.978.549.811 | 365.511.351.331 | 1.771.546.909.592 | 1.100.011.951.274  |
+|  Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh | - | - | 5.441.360.438 | -  |
+|  Chi phí tài chính khác | 4.640.076.688 | 840.878.104 | 11.997.006.344 | 38.455.820.458  |
+|  Tổng cộng | 698.013.180.762 | 385.367.497.653 | 1.809.124.060.558 | 1.163.987.573.493  |
+
+--- TRANG 64 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 37. CHI PHÍ QUÁN LÝ CÔNG TY CHỨNG KHOÁN
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Chi phí lương và các khoản phúc lợi | 25.721.913.411 | 21.094.030.693 | 68.002.042.549 | 74.790.693.131  |
+|  Chi phí BHXH, BHYT, KPCĐ, BHTN | 3.810.409.946 | 2.391.784.850 | 11.367.496.165 | 7.490.070.550  |
+|  Chi phí văn phòng phẩm | 532.678.318 | 337.254.304 | 1.164.771.750 | 906.739.638  |
+|  Chi phí công cụ, dụng cụ | 262.296.576 | 481.453.054 | 1.132.049.358 | 2.278.325.661  |
+|  Chi phí khấu hao tài sản cố định | 10.194.840.001 | 11.300.265.191 | 31.863.548.341 | 33.894.526.572  |
+|  Chi phí dịch vụ mua ngoài | 21.457.755.791 | 23.426.324.044 | 69.434.581.605 | 82.733.088.043  |
+|  Chi phí khác | 1.585.501.532 | 2.116.417.628 | 5.788.898.217 | 6.906.982.026  |
+|  Tổng cộng | 63.565.395.575 | 61.147.529.764 | 188.753.387.985 | 209.000.425.621  |
+
+## 38. THU NHẬP VÀ CHI PHÍ KHÁC
+
+|   | Quý 3 năm 2025
+VND | Quý 3 năm 2024
+VND | Lũy kế năm 2025
+VND | Lũy kế năm 2024
+VND  |
+| --- | --- | --- | --- | --- |
+|  Thu nhập khác |  |  |  |   |
+|  Lãi nhượng bán, thanh lý tài sản | - | 454.545 | 323.183.883 | 17.886.741  |
+|  Thu nhập khác | 347.981.023 | 641.159.032 | 3.201.955.066 | 1.739.711.329  |
+|  Tổng thu nhập khác | 347.981.023 | 641.613.577 | 3.525.138.949 | 1.757.598.070  |
+|  Chi phí khác |  |  |  |   |
+|  Lỗ nhượng bán, thanh lý tài sản | - | - | (195.388.287) | (501.043.738)  |
+|  Chi phí khác | (838.324.901) | (169.355.027) | (1.892.020.726) | (328.685.017)  |
+|  Tổng chi phí khác | (838.324.901) | (169.355.027) | (2.087.409.013) | (829.728.755)  |
+|  Tổng cộng | (490.343.878) | 472.258.550 | 1.437.729.936 | 927.869.315  |
+
+## 39. THUẾ THU NHẬP DOANH NGHIỆP
+
+### 39.1. Thuế thu nhập doanh nghiệp
+
+Các báo cáo thuế của Công ty sẽ chịu sự kiểm tra của cơ quan thuế. Do việc áp dụng luật và các quy định về thuế đối với các loại nghiệp vụ khác nhau có thể được giải thích theo nhiều cách khác nhau, số thuế được trình bày trên báo cáo tài chính có thể sẽ bị thay đổi theo quyết định cuối cùng của cơ quan thuế.
+
+Thuế thu nhập doanh nghiệp hiện hành phải trả được xác định dựa trên thu nhập chịu thuế của năm hiện tại. Thu nhập chịu thuế khác với thu nhập được báo cáo trong báo cáo kết quả hoạt động vì thu nhập chịu thuế không bao gồm các khoản mục thu nhập chịu thuế hay chi phí được khấu trừ cho mục đích tính thuế trong các năm khác và cũng không bao gồm các khoản mục không phải chịu thuế hay không được khấu trừ cho mục đích tính thuế. Thuế thu nhập doanh nghiệp hiện hành phải trả của Công ty được tính theo thuế suất đã ban hành đến ngày kết thúc kỳ kế toán. Công ty có nghĩa vụ nộp thuế TNDN với mức thuế suất 20% trên tổng lợi nhuận chịu thuế theo Thông tư số 78/2014/TT-BTC có hiệu lực ngày 02 tháng 08 năm 2014.
+
+--- TRANG 65 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Bảng ước tính mức thuế thu nhập doanh nghiệp hiện hành của Công ty được trình bày dưới đây:
+
+|   | 9 tháng năm 2025 VND | 9 tháng năm 2024 VND  |
+| --- | --- | --- |
+|  Lợi nhuận thuần trước thuế | 4.079.778.235.675 | 2.988.757.720.861  |
+|  Các điều chỉnh tăng/(giảm) lợi nhuận theo kế toán Các khoản điều chỉnh tăng |  |   |
+|  - Chênh lệch giảm đánh giá lại các tài sản tài chính FVTPL | 280.729.568.934 | 174.723.779.994  |
+|  - Chênh lệch tăng đánh giá lại phải trả chứng quyền đang lưu hành | 209.123.741.180 | 113.224.615.688  |
+|  - Hoàn nhập dự phòng chứng khoán trong kỳ Các khoản điều chỉnh giảm | 30.021.985.311 | 74.835.474.129  |
+|  - Thu nhập từ hoạt động không thuộc diện nộp thuế TNDN - Cổ tức | (58.140.341.200) | (60.663.109.260)  |
+|  - Hoàn nhập dự phòng giảm giá chứng khoán chưa niêm yết trong kỳ | - | (11.013.850.000)  |
+|  - Chênh lệch tăng về đánh giá lại các tài sản tài chính FVTPL | (368.460.712.902) | (340.881.685.411)  |
+|  - Chênh lệch giảm do đánh giá lại phải trả chứng quyền đang lưu hành | (237.730.281.997) | (118.261.008.781)  |
+|  - Các khoản điều chỉnh giảm khác | (27.873.377.432) | (58.127.823.257)  |
+|  - Lợi nhuận trước thuế từ công ty con | (115.793.022.931) | (80.577.264.681)  |
+|  - Lợi nhuận chia sẻ từ công ty liên kết | (18.383.635.560) | (39.361.429.611)  |
+|  Thu nhập chịu thuế ước tính kỳ hiện hành Thuế suất thuế TNDN | 3.773.272.159.078 | 2.642.655.419.671  |
+|  Thuế TNDN phải trả ước tính kỳ hiện hành Thuế TNDN phải trả ước tính tại công ty con | 20\% | 20\%  |
+|  Thuế TNDN phải trả đầu năm | 754.654.431.815 | 528.531.083.935  |
+|  Điều chỉnh tăng thuế TNDN theo Quyết toán thuế Thuế TNDN đã trả trong kỳ | 23.341.012.820 | 17.106.996.620  |
+|  Thuế TNDN phải trả cuối kỳ | 134.844.586.449 | 289.075.048.638  |
+|   | 1.090 .175 .524 | 16.057 .826 .523  |
+|   | (560.360.518.320) | (675.778.015.609)  |
+|   | 353.569.688.288 | 174.992.940.107  |
+
+# 39.2. Thuế thu nhập doanh nghiệp hoán lại
+
+Biến động của thuế thu nhập doanh nghiệp hoãn lại trong kỳ như sau:
+
+|   | 9 tháng năm 2025 VND | 9 tháng năm 2024 VND  |
+| --- | --- | --- |
+|  Tài sản thuế thu nhập hoán lại |  |   |
+|  Số đầu năm | 24.001.105.881 | 19.049.102.491  |
+|  Thuế TNDN hoãn lại phát sinh do tăng/(giảm) chi phí dự phòng chứng khoán chưa niêm yết không được khấu trừ thuế trong kỳ | (255.728.240) | (2.320.371.117)  |
+|  Thuế TNDN hoãn lại phát sinh từ đánh giá giảm tài sản tài chính FVTPL \& AFS chưa được khấu trừ thuế | (948.258.277) | -  |
+|  Thuế TNDN hoãn lại phát sinh do khoản thu nhập/chi phí tạm thời chịu thuế | (829.211.469) | -  |
+|  Số cuối kỳ | 21.967.907.895 | 16.728.731.374  |
+
+--- TRANG 66 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+|  Phải trả thuế thu nhập hoãn lại | 9 tháng năm 2025 VND | 9 tháng năm 2024 VND  |
+| --- | --- | --- |
+|  Số đầu năm | 26.650 .541 .290 | 8.930 .544 .340  |
+|  Thuế TNDN hoãn lại phát sinh từ chênh lệch tăng khi đánh giá tài sản tài chính FVTPL | 3.891 .170 .139 | 16.407 .841 .067  |
+|  Thuế TNDN hoãn lại phát sinh từ chênh lệch khi đánh giá tài sản tài chính AFS | 4.192 .394 .900 | 6.559 .529 .711  |
+|  Thuế TNDN hoãn lại phát sinh do đánh giá giảm phải trả chứng quyền đang lưu hành | 9.742 .694 .246 | 2.821 .260 .771  |
+|  Thuế TNDN hoãn lại phát sinh từ lợi nhuận của công ty con tạm thời không chịu thuế TNDN | (1.179.973.934) | (1.232.906.389)  |
+|  Số cuối kỳ | 43.296 .826 .641 | 33.486 .269 .500  |
+
+Công ty đã ghi nhận chi phí thuế thu nhập hoãn lại vào báo cáo kết quả hoạt động hợp nhất cho kỳ kế toán kết thúc ngày 30 tháng 09 năm 2025 và ngày 30 tháng 09 năm 2024 như sau:
+
+|  Chi phí/ (thu nhập) thuế TNDN hoãn lại | 9 tháng năm 2025 VND | 9 tháng năm 2024 VND  |
+| --- | --- | --- |
+|  Thuế TNDN hoãn lại phát sinh do thay đổi chi phí dự phòng chứng khoán chưa niêm yết không được khấu trừ thuế trong kỳ | 255.728 .240 | 2.320 .371 .117  |
+|  Thuế TNDN hoãn lại phát sinh do khoản (thu nhập)/ chi phí tạm thời chịu thuế | 400.000 .000 | -  |
+|  Thuế TNDN hoãn lại phát sinh do đánh giá tăng/ giảm TSTC FVTPL và đánh giá giảm phải trả chứng quyền | 13.633 .864 .385 | 19.229 .101 .838  |
+|  Thuế TNDN hoãn lại phát sinh do lợi nhuận của công ty con tạm thời không chịu thuế TNDN | (1.179.973.934) | (1.232.906.389)  |
+|  Chi phí thuế TNDN hoãn lại | 13.109 .618 .691 | 20.316 .566 .566  |
+
+1. LŨY KẾ THU NHẬP TOÀN DIỆN KHÁC
+
+|  Chỉ tiêu | Số đầu năm (VND) | Số phát sinh (VND) | Thay đổi từ vốn chủ sở hữu và ghi nhận vào kết quả kinh doanh (VND) | Số cuối kỳ (VND)  |
+| --- | --- | --- | --- | --- |
+|  Lãi/ (lỗ) từ đánh giá lại các tài sản tài chính sã̃n sáng | 31.690 .477 .740 | 43.977 .604 .521 | (23.414.991.810) | 52.253 .090 .451  |
+
+--- TRANG 67 ---
+THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHÁT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+# 41. THÔNG TIN BÓ SUNG CHO BÁO CÁO TÍNH HÍNH BIÊN ĐỘNG VÓN CHỦ SỞ HỮU 
+
+Thu nhập và chi phí, lãi hoặc lỗ hạch toán trực tiếp vào nguồn vốn chủ sở hữu như sau:
+
+Thu nhập hạch toán trực tiếp vào nguồn vốn chủ sở hữu
+
+Lãi từ đánh giá lại tài sản tài chính AFS
+Chi phí hạch toán trực tiếp vào nguồn vốn chủ sở hữu
+Lỗ phát sinh do công ty liên kết thay đổi tỷ lệ đầu tư vào công ty con của công ty liên kết
+Lỗ khác hạch toán trực tiếp vào nguồn vốn chủ sở hữu
+Tổng cộng
+
+9 tháng năm 2025
+VND
+
+20.562 .612 .712
+20.562 .612 .712
+(27.893.334.996)
+(21.353.949.236)
+(6.539.385.760)
+(7.330.722.284)
+
+9 tháng năm 2024
+VND
+
+26.238.118.846
+26.238.118.846
+(2.042.905.139)
+-
+(2.042.905.139)
+24.195.213.707
+42. NHỮNG THÔNG TIN KHÁC
+42.1. Nghiệp vụ với các bên liên quan
+
+Danh sách các bên liên quan và mối quan hệ giữa Công ty với các bên liên quan như sau:
+
+Danh sách bên liên quan
+Công ty TNHH Đầu tư NDH và công ty con
+
+Daiwa Securities Group Inc và các công ty con
+Công ty Cổ Phần tập đoàn PAN và các công ty con
+Quỹ Đầu tư Công nghệ số và Y tế Việt Nam
+Công ty TNHH Bất Động Sản Sài Gòn Đan Linh
+
+Công ty Cổ phần Công nghệ số SSI
+Công ty TNHH Một Thành Viên Nguyễn Sài Gòn
+
+Mối quan hệ
+Chủ sở hữu và Chủ tịch của Công ty TNHH Đầu tư NDH là Chủ tịch Hội đồng Quản trị SSI
+Thành viên Hội đồng Quản trị SSI Nguyễn Duy Khánh đồng thời là Tổng Giám đốc NDHI
+Cổ đông chiến lược nắm giữ tỷ lệ khoảng $15,34 \%$ vốn có quyền biểu quyết của SSI
+Chủ tịch Hội đồng quản trị SSI cũng là chủ tịch Hội đồng quản trị của PAN, công ty liên kết
+
+Công ty liên kết
+Thành viên Hội đồng Quản trị kiêm Tổng Giám đốc SSI là Chủ tịch Hội đồng thành viên Công ty TNHH Bất Động Sản Sài Gòn Đan Linh
+Công ty liên kết được sở hữu gián tiếp qua Quỹ Đầu tư Thành viên SSI.
+Chủ tịch Công ty TNHH Một thành viên Nguyễn Sài Gòn là em chủ tịch Hội đồng quản trị SSI
+
+--- TRANG 68 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+Số dư và các giao dịch trọng yếu của Công ty với các bên liên quan tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày như sau:
+
+|  Công ty liên quan | Giao dịch | Phải thu/ (phải trả) |  |  |  | Doanh thu/
+(chi phí)
+VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  | Sổ đầu kỳ VND | Tăng trong kỳ VND | Giảm trong kỳ VND | Sổ cuối kỳ VND |   |
+|  Quỹ Đầu tư công nghệ số Việt Nam và Y tế Việt Nam | Góp vốn đầu tư theo phương pháp vốn chủ | 11.172.318.380 | - | (80.919.501) | 11.091.398.879 | (80.919.501)  |
+|   | Phí quản lý quỹ | 278.179.736 | 280.521.648 | (278.179.736) | 280.521.648 | 280.521.648  |
+|  Công ty cổ phần Công nghệ số SSI | Góp vốn đầu tư theo phương pháp vốn chủ | 98.608.947.785 | - | (5.729.112.763) | 92.879.835.023 | (5.729.112.763)  |
+|  Công ty TNHH Sài Gòn Đan Linh | Đặt cọc thuê văn phòng | 691.524.000 | - | - | 691.524.000 | -  |
+|   | Chi phí thuê văn phòng và các dịch vụ khác | - | (860.421.032) | 827.714.678 | (32.706.354) | (860.421.032)  |
+|   | Cổ tức SSI | - | (76.571.387.000) | - | (76.571.387.000) | -  |
+|  Công ty cổ phần Tập đoàn PAN và các công ty con | Giao dịch mua chứng khoán, CCTG | - | (3.399.718.717.213) | 3.399.718.717.213 | - | -  |
+|   | Lãi trái phiếu dự thu | 4.900.821.918 | 5.242.739.726 | (569.863.014) | 9.573.698.630 | 5.242.739.726  |
+|   | Góp vốn đầu tư theo phương pháp vốn chủ | 663.761.334.726 | 6.011.121.544 | (22.771.264.335) | 647.001.191.935 | 6.011.121.544  |
+|  Công ty TNHH MTV Nguyễn Sài Gòn | Cổ tức SSI | - | (3.250.001.000) | - | (3.250.001.000) | -  |
+
+--- TRANG 69 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+|  Công ty liên quan | Giao dịch | Phải thu/ (phải trả) |  |  |  | Doanh thu/
+(chi phí)
+VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|   |  | Sổ đầu kỳ VND | Tăng trong kỳ VND | Giảm trong kỳ VND | Sổ cuối kỳ VND |   |
+|  Daiwa Securities Group Inc và các công ty con | Doanh thu giao dịch và dịch vụ chứng khoán khác | - | 1.105.362.139 | (1.105.362.139) | - | VND  |
+|   | Phí hoa hồng phải trả | (1.630.672.273) | (3.825.035.334) | 3.419.252.548 | (2.036.455.059) | (3.825.035.334)  |
+|   | Doanh thu hợp đồng tư vấn | 1.324.590.700 | 506.593.604 | (1.697.372.487) | 133.811.817 | 506.593.604  |
+|   | Cổ tức SSI | - | (317.154.673.000) | - | (317.154.673.000) | -  |
+|   | Doanh thu tư vấn đầu tư quỹ | 1.159.740.565 | 1.222.587.208 | (1.159.740.565) | 1.222.587.208 | 1.222.587.208  |
+|  Công ty TNHH Đầu tư NDH và công ty con | Phí Quản lý danh mục | 7.475.132 | 22.425.396 | (22.425.396) | 7.475.132 | 22.425.396  |
+|   | Doanh thu giao dịch và dịch vụ chứng khoán khác | - | 503.964.955 | (503.964.955) | - | 503.964.955  |
+|   | Giao dịch bán chứng khoán | - | 3.434.298.710.000 | (3.434.298.710.000) | - | 593.850.000  |
+|   | Giao dịch mua chứng khoán | - | (3.432.644.880.000) | 3.432.644.880.000 | - | -  |
+|   | Cổ tức SSI | - | (164.263.488.000) | - | (164.263.488.000) | -  |
+|  Thành viên Hội đồng Quản trị, Ban Tổng Giám đốc và các cá nhân liên quan | Doanh thu giao dịch và dịch vụ chứng khoán khác | - | 267.739.824 | (267.739.824) | - | 267.691.824  |
+|   | Cổ tức SSI | - | (47.701.386.000) | - | (47.701.386.000) | -  |
+|   | Phí quản lý danh mục | 6.708.533 | 20.125.599 | (20.125.599) | 6.708.533 | 20.125.599  |
+
+Các giao dịch với các bên liên quan khác Thu nhập của các thành viên của Hội đồng Quản trị và Ban Tổng Giám đốc
+
+|   | Quý 3 năm 2025 | Quý 3 Năm 2024  |
+| --- | --- | --- |
+|  Lương, thưởng và phúc lợi | VND | VND  |
+|  Thủ lao HĐQT | 3.715.228.000 | 4.480.400.000  |
+|  Tổng CỘNG | 436.666 .667 | 432.666 .667  |
+|   | 4.151.894.667 | 4.913.066.667  |
+
+--- TRANG 70 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÉT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUÝ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+### 42.2. Thông tin báo cáo bộ phận
+
+Thông tin báo cáo bộ phận theo lĩnh vực kinh doanh
+
+|   | Môi giới và dịch vụ khách hàng (1) VND | Tự doanh VND | Kinh doanh nguồn vốn VND | Quản lý danh mục VND | Ngân hàng đầu tư và các bộ phận khác VND | Tổng cộng VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Quý 3 năm 2025 |  |  |  |  |  |   |
+|  1. Doanh thu thuần hoạt động kinh doanh chứng khoán (1) | 1.949.286.546.163 | 2.079.816.172.280 | 132.443.814.785 | 42.456.805.313 | 8.114.128.025 | 4.212.117.466.566  |
+|  2. Các chi phí trực tiếp | 877.468.956.236 | 1.340.196.340.130 | 61.689.314.424 | 20.945.558.714 | 13.333.842.365 | 2.313.634.011.869  |
+|  3. Khẩu hao và các chi phí phân bổ | 51.297.274.229 | 2.224.788.845 | 5.085.231.646 | 2.924.008.196 | 2.034.092.658 | 63.565.395.575  |
+|  Lợi nhuận từ hoạt động kinh doanh trước thuế | 1.020.520.315.698 | 737.395.043.305 | 65.669.268.715 | 18.587.238.402 | (7.253.806.998) | 1.834.918.059.122  |
+|  Số dư tại 30 tháng 09 năm 2025 |  |  |  |  |  |   |
+|  1. Tài sản bộ phận | 39.273.097.405.966 | 53.431.852.932.698 | 6.914.957.692.864 | 72.310.138.177 | 26.936.654.123 | 99.719.154.823.828  |
+|  2. Tài sản phân bổ | 557.924.306.267 | 24.197.460.619 | 55.308.481.414 | 31.802.376.813 | 22.123.392.566 | 691.356.017.679  |
+|  3. Tài sản không phân bổ |  |  |  |  |  | 301.336.317.225  |
+|  Tổng tài sản | 39.831.021.712.233 | 53.456.050.393.317 | 6.970.266.174.278 | 104.112.514.990 | 49.060.046.689 | 100.711.847.158.732  |
+|  4. Nợ phải trả bộ phận | 23.016.582.034.212 | 40.726.677.655.005 | 2.539.171.990.394 | 8.156.653.225 | 7.705.329.440 | 66.298.293.662.276  |
+|  5. Nợ phân bổ | 372.906.532.616 | 16.173.145.776 | 36.967.190.346 | 21.256.134.449 | 14.786.876.138 | 462.089.879.326  |
+|  6. Nợ không phân bổ |  |  |  |  |  | 2.695.997.784.213  |
+|  Tổng công nợ | 23.389.488.566.828 | 40.742.850.800.781 | 2.576.139.180.740 | 29.412.787.674 | 22.492.205.578 | 69.456.381.325.815  |
+
+(1): Doanh thu chủ yếu gồm doanh thu nghiệp vụ môi giới, doanh thu cho vay ký quỹ, doanh thu tư vấn đầu tư và doanh thu lưu ký
+
+--- TRANG 71 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+THUYÊT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo) tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày
+
+|   | Môi giới và dịch vụ khách hàng VND | Tự doanh VND | Kinh doanh nguồn vốn VND | Quản lý danh mục VND | Ngân hàng đầu tư và các bộ phận khác VND | Tổng cộng VND  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Quý 3 Năm 2024 |  |  |  |  |  |   |
+|  1. Doanh thu thuần hoạt động kinh doanh chứng khoán (1) | 904.282 .366 .559 | 1.023 .416 .989 .235 | 95.584 .834 .212 | 37.069 .909 .005 | 8.784 .726 .431 | 2.069 .138 .825 .442  |
+|  2. Các chi phí trực tiếp | 486.440 .978 .863 | 455.459 .663 .155 | 49.357 .409 .650 | 19.188 .193 .232 | 10.928 .235 .388 | 1.021 .374 .480 .288  |
+|  3. Khẩu hao và các chi phí phân bổ | 49.346 .056 .520 | 2.568 .196 .250 | 3.913 .441 .905 | 3.301 .966 .607 | 2.017 .868 .482 | 61.147 .529 .764  |
+|  Lợi nhuận từ hoạt động kinh doanh trước thuế | 368.495 .331 .176 | 565.389 .129 .830 | 42.313 .982 .657 | 14.579 .749 .166 | (4.161.377.439) | 986.616 .815 .390  |
+|  Số dư tại 30 tháng 09 năm 2024 |  |  |  |  |  |   |
+|  1. Tài sản bộ phận | 19.533 .921 .617 .733 | 39.606 .690 .229 .481 | 5.588 .589 .614 .203 | 29.032 .588 .921 | 209.565 .570 .081 | 64.967 .799 .620 .419  |
+|  2. Tài sản phân bổ | 311.701 .292 .668 | 16.222 .372 .109 | 24.719 .805 .119 | 20.857 .335 .569 | 12.746 .149 .514 | 386.246 .954 .979  |
+|  3. Tài sản không phân bổ |  |  |  |  |  | 827.170 .881 .527  |
+|  Tổng tài sản | 19.845 .622 .910 .401 | 39.622 .912 .601 .590 | 5.613 .309 .419 .322 | 49.889 .924 .490 | 222.311 .719 .595 | 66.181 .217 .456 .925  |
+|  4. Nợ phải trả bộ phận | 11.834 .294 .730 .060 | 24.318 .567 .568 .709 | 3.674 .162 .754 .971 | 6.073 .900 .903 | 8.587 .801 .864 | 39.841 .686 .756 .507  |
+|  5. Nợ phân bổ | 355.900 .675 .321 | 18.522 .711 .727 | 28.225 .084 .536 | 23.814 .915 .077 | 14.553 .559 .214 | 441.016 .945 .875  |
+|  6. Nợ không phân bổ |  |  |  |  |  | 1.783 .706 .692 .644  |
+|  Tổng công nợ | 12.190 .195 .405 .381 | 24.337 .090 .280 .436 | 3.702 .387 .839 .507 | 29.888 .815 .980 | 23.141 .361 .078 | 42.066 .410 .395 .026  |
+
+## Thông tin báo cáo bộ phận theo lĩnh vực địa lý
+
+Hoạt động của Công ty diễn ra chủ yếu trên lãnh thổ Việt Nam. Công ty có một công ty con hoạt động tại Mỹ là Công ty Quốc tế SSI ("SSIIC") hoạt động trong lĩnh vực đầu tư vào kinh doanh bất động sản, văn phòng tại Mỹ. Tuy nhiên, doanh thu, chi phí từ hoạt động kinh doanh cũng như tổng tài sản của SSIIC chiếm tỷ trọng rất thấp so với tổng doanh thu, chi phí và tổng tài sản của toàn Công ty (dưới 5\%). Do đó, Công ty không trình bày Báo cáo bộ phận theo khu vực địa lý trên Thuyết minh báo cáo tài chính hợp nhất.
+
+--- TRANG 72 ---
+# Công ty Cổ phần Chứng khoán SSI
+
+**B05-CTCK/HN**
+
+**THUYẾT MINH BÁO CÁO TÀI CHÍNH HỢP NHẤT QUỶ 3 NĂM 2025 (tiếp theo)**
+
+**tại ngày 30 tháng 09 năm 2025 và cho kỳ kế toán kết thúc cùng ngày**
+
+## 43. ĐẶC ĐIỂM HOẠT ĐỘNG CỦA CÔNG TY TRONG KỲ ÁNH HƯỚNG ĐẾN BÁO CÁO TÀI CHÍNH HỢP NHẤT
+
+Tổng lợi nhuận kế toán sau thuế thu nhập doanh nghiệp hợp nhất Quý 3 năm 2025 của Công ty là 1.475.598.669.616 VND, tăng 681.602.492.200 VND (tương ứng mức tăng 86%) so với Quý 3 Năm 2024 do nguyên nhân sau:
+
+- Lợi nhuận gộp từ các tài sản tài chính ghi nhận thông qua lãi/ổ FVTPL Quý 3 năm 2025 tăng 38% so với cùng kỳ tương ứng giá trị là 288.535.021.154 VND nhờ tăng trưởng trong hoạt động đầu tư giấy tờ có giá và kinh doanh chứng khoán, lãi từ các khoản cho vay và phải thu tăng 83% so với cùng kỳ năm 2024 tương ứng giá trị là 457.013.331.016 VND, chi phí lãi vay tăng tương ứng 88% với giá trị là 321.467.198.480 VND so với cùng kỳ.
+- Quy mô giao dịch của thị trường tăng mạnh so với cùng kỳ dẫn đến doanh thu môi giới tăng 171%, tương ứng với giá trị 582.050.151.715 VND, chi phí môi giới tăng 81% tương ứng với giá trị là 239.110.118.774 VND so với Quý 3 năm 2024.
+
+## 44. CÁC SỰ KIỆN PHÁT SINH SAU NGÀY KẾT THÚC KỲ KẾ TOÁN
+
+Không có sự kiện nào phát sinh sau ngày kết thúc kỳ kế toán Quý 3 năm 2025 có ảnh hưởng trọng yếu hoặc có thể gây ảnh hưởng trọng yếu đến hoạt động của Công ty và kết quả hoạt động hợp nhất Quý 3 năm 2025 của Công ty yêu cầu phải được điều chỉnh hay trình bày trong báo cáo tài chính hợp nhất Quý 3 năm 2025.
+
+**Bà Nguyễn Thị An Vi**
+Người lập biểu
+
+**Bà Nguyễn Thị Hải Anh**
+Kế toán Trưởng
+
+**Ông Nguyễn Đức Thông**
+Tổng Giám đốc
+
+Thành phố Hồ Chí Minh, Việt Nam
+
+Ngày 24 tháng 10 năm 2025
