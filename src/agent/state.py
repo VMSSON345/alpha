@@ -29,3 +29,5 @@ class State:
     # Historical data for iterations
     hypothesis_history: List[Dict[str, Any]] = field(default_factory=list)
     alpha_history: List[Dict[str, Any]] = field(default_factory=list)
+
+    backtest_results: List[Dict[str, Any]] = field(default_factory=list)

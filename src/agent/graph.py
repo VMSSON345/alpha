@@ -9,6 +9,8 @@ from agent.agents.hypothesis_agent import hypothesis_agent
 # Nếu bạn chưa có file alpha_generator_agent thì comment dòng dưới lại
 from agent.agents.alpha_generator_agent import alpha_generator_agent 
 from agent.agents.alpha_coder_agent import alpha_coder_agent
+from agent.agents.backtest import alpha_backtester
+
 
 def create_graph():
     """Create and configure the LangGraph workflow."""
@@ -21,6 +23,7 @@ def create_graph():
     workflow.add_node("hypothesis_generator", hypothesis_agent)
     workflow.add_node("alpha_generator", alpha_generator_agent)
     workflow.add_node("alpha_coder", alpha_coder_agent)
+    workflow.add_node("alpha_backtester", alpha_backtester)
 
     # Connect the agents
     # Luồng đi: Start -> User Input -> Hypothesis -> Alpha Generator -> Alpha Coder -> End
@@ -28,7 +31,8 @@ def create_graph():
     workflow.add_edge("user_input", "hypothesis_generator")
     workflow.add_edge("hypothesis_generator", "alpha_generator")
     workflow.add_edge("alpha_generator", "alpha_coder")
-    workflow.add_edge("alpha_coder", "__end__")
+    workflow.add_edge("alpha_coder", "alpha_backtester")
+    workflow.add_edge("alpha_backtester", "__end__")
 
     # --- SỬA ĐỔI: BỎ CHECKPOINTER ĐỂ CHẠY STUDIO ---
     # LangGraph Studio sẽ tự động bơm checkpointer vào, mình không cần khai báo
